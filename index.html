@@ -15,7 +15,8 @@
     <!--[if gt IE 8]><!-->
         <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/grids-responsive-min.css"/>
     <!--<![endif]-->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/regular.min.css" integrity="sha512-d2x1oQUT6HACW9UlXxWI6XrIBDrEE5z2tit/+kWEdXdVYuift7sm+Q6ucfGWQr1F0+GD9/6eYoYDegw2nm05Vw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/regular.min.css" 
+        integrity="sha512-d2x1oQUT6HACW9UlXxWI6XrIBDrEE5z2tit/+kWEdXdVYuift7sm+Q6ucfGWQr1F0+GD9/6eYoYDegw2nm05Vw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!--[if lte IE 8]>
         <link rel="stylesheet" href="assets/css/layouts/marketing-old-ie.css"/>
     <![endif]-->
@@ -52,9 +53,8 @@
         </ul>
     </div>
 </div>
-<app-root>
 
-<div class="content-wrapper">
+<div class="content-flow" style="background-color: bisque;"">
 
     <div class="content" style="width:44%;margin:0 auto;">
         <p>
@@ -81,8 +81,18 @@
             I did discover I was a Southern Slav -- relatively late in life.
             It just feels true.
         </p>
+
+        <div class="content">
+            <h4 class="content-subhead metaSerifWeb-bold" style="margin-top: 0;margin-bottom: 3px;">Some Topics and Resources</h4>
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item formata-18-lite"><a href="/about/">about</a></li>
+                <li class="pure-menu-item formata-18-lite"><a href="/ersa/">Ersa</a></li>
+                <li class="pure-menu-item formata-18-lite"><a href="/oldrite/">Russian Old Rite Faith</a></li>
+                <li class="pure-menu-item formata-18-lite"><a href="/ruscath/">Russian Catholicism</a></li>
+            </ul>
+        </div>
+
         <p class="content-head is-center" style="margin-top: 1px;margin-bottom: 1px">Local Resources</p>
-                    
         <div class="content" style="float:left;margin-right:5%">
             <h4 class="content-subhead metaSerifWeb-bold" style="margin-top: 0;margin-bottom: 3px;">WebFont Demos</h4>
             <ul class="pure-menu-list">
@@ -91,7 +101,7 @@
                 <li class="pure-menu-item formata-18-lite"><a href="assets/webfonts/Formata/demo.html">Formata</a></li>
                 <li class="pure-menu-item formata-18-lite"><a href="assets/webfonts/Lora/demo.html">Lora</a></li>
                 <li class="pure-menu-item formata-18-lite"><a href="assets/webfonts/Meta/demo.html">Meta</a></li>
-                <li class="pure-menu-item formata-18-lite"><a href="assets/webfonts/OpenSans/demo.html">Meta</a></li>
+                <li class="pure-menu-item formata-18-lite"><a href="assets/webfonts/OpenSans/demo.html">OpenSans</a></li>
                 <li class="pure-menu-item formata-18-lite"><a href="assets/webfonts/TitilliumText-fontfacekit/demo.html">TitilliumText-fontfacekit</a></li>
                 <li class="pure-menu-item formata-18-lite"><a href="assets/webfonts/Trykker-fontfacekit/demo.html">Trykker-fontfacekit</a></li>
             </ul>
@@ -116,18 +126,7 @@
             </ul>
         </div>
         
-        <div class="content">
-            <h4 class="content-subhead metaSerifWeb-bold" style="margin-top: 0;margin-bottom: 3px;">Some Topics and Resources</h4>
-            <ul class="pure-menu-list">
-                <li class="pure-menu-item formata-18-lite"><a href="/about/">about</a></li>
-                <li class="pure-menu-item formata-18-lite"><a href="/ersa/">Ersa</a></li>
-                <li class="pure-menu-item formata-18-lite"><a href="/oldrite/">Russian Old Rite Faith</a></li>
-                <li class="pure-menu-item formata-18-lite"><a href="/ruscath/">Russian Catholicism</a></li>
-            </ul>
-        </div>
-        <div style="width:500px; display:block">
 
-        </div>
     </div>
 
     <div class="footer l-box is-center titilliumTextRegular">
@@ -149,7 +148,6 @@
 
 
 </div>
-</app-root>
 
 </body>
 </html>
