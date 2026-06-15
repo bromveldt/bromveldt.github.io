@@ -7,7 +7,7 @@ description: Erzya-Russian Dictiornary
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/er-valks/
+permalink: /ersa/dict/ervalks/
 tags: [ bruno, myv]
 ---
 ##### Тимĕрке Митяй (Мидянь Оло) — ~11000 валт
