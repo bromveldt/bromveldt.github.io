@@ -1,4 +1,3 @@
-# 
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
@@ -7,7 +6,7 @@ description: Erzya-Russian Dictionary
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/ervalks/
+permalink: /ersa/dict/ervalks
 tags: [ bruno, myv]
 ---
 ##### Тимĕрке Митяй (Мидянь Оло) — ~11000 валт
