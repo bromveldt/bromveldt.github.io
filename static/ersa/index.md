@@ -6,7 +6,7 @@ description: Some Ersa Links
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa
+permalink: /ersa/
 tags: [ bruno, myv]
 ---
 As it happens, I was born in the capital of the Mordvin Republic in Russia and feel myself somehow connected to the region and its language. Well, there are -- or were -- two of them but I mean Ersa (Эрзя). Unfortunately I can't get too much of a feel for history as there is none, as far as I know. Not too much to fight about. Too far from any trade routes. The darn forests. The wily swamps. Honey and furs abound but there is neither silk nor gold.

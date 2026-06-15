@@ -6,7 +6,7 @@ description: Some Moksha Links
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa
+permalink: /moksha/
 tags: [ bruno, myv]
 ---
 
