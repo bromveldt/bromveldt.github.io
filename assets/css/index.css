@@ -5,7 +5,24 @@
 @import url("../webfonts/TitilliumText-fontfacekit/stylesheet.css");
 @import url("../fonts/TheMixExtraLight/stylesheet.css");
 @import url("../fonts/ProximaNova/stylesheet.css");
+@import url("../fonts/Prospera/stylesheet.css");
 /* START */
+/* Dark warm theme */
+body {
+    background-color: #1e1a14;
+    color: #cfc5a4;
+    font-family: 'ProsperaRegular', Georgia, serif;
+}
+h1, h2, h3, h4, h5, h6, label {
+    color: #ddd0a8;
+}
+.content-subhead {
+    color: #7ab4cc;
+}
+a:link    { color: #ba9a5c; }
+a:visited { color: #8c6e38; }
+a:hover   { color: #d4b46e; }
+a:active  { color: #e8c870; }
 #siteVersion {position:absolute;bottom:18px;right:12px;color:burlywood;}
 .excim-50-reg {font: 50px/56px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
 .excim-30-reg {font: 30px/34px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
