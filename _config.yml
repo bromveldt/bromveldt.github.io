@@ -80,7 +80,8 @@ exclude: [
   'docker-compose.yml',
   'package.json',
   'yarn.lock',
-  'Gemfile.lock'
+  'Gemfile.lock',
+  'static/ersa/ersa.markdown'
 ]
 
 # CSS
