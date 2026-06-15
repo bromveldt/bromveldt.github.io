@@ -1,6 +1,13 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Church Texts pages
+description: PDF files
+layout: simple
+theme: slate
+lang: en
+permalink: /ersa/books/church-texts/
+tags: [ bruno, myv]
 ---
 #### Table of contents
 

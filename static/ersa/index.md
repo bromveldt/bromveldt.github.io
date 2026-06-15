@@ -22,8 +22,8 @@ Some links are below.
  
 ##### Local Resources
     
-- [Books](Lang/books/index.html)
-- [Church texts: liturgy, Gospels](Lang/church-texts/index.html)
-- [Conversation Guides](Lang/conv/index.html)
-- [Dictionaries](Lang/dict/index.html)
-- [Miscellaneous](Lang/misc/index.html)
+- [Books](/ersa/books/index.html)
+- [Church texts: liturgy, Gospels](/ersa/church-texts/index.html)
+- [Conversation Guides](/ersa/conv/index.html)
+- [Dictionaries](/ersa/dict/index.html)
+- [Miscellaneous](/ersa/misc/index.html)

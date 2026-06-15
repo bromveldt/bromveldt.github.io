@@ -6,7 +6,7 @@ description: PDF files
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/Lang/books/
+permalink: /ersa/books/
 tags: [ bruno, myv]
 ---
 ##### Table of contents

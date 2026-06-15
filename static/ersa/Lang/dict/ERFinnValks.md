@@ -1,10 +1,17 @@
-# Эрзянь-Финньэнь Валкс / Ersäläis-suomalainen sanakirja
-
-*Яна Ниеми, Михаил Мосин — ~12000 валт — Саранск, 1996*
-
-ISBN 5-7595-1082-7
-
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Эрзянь-Финньэнь Валкс / Ersäläis-suomalainen sanakirja
+description: Erzya-Finnish Dictionary
+layout: simple
+theme: slate
+lang: en
+permalink: /ersa/dict/
+tags: [ bruno, myv]
+---
+#### Яна Ниеми, Михаил Мосин — ~12000 валт — Саранск, 1996
+
+##### ISBN 5-7595-1082-7
 
 ## ИКЕЛЬЦЕ ВАЛ
 
