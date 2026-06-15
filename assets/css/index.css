@@ -11,7 +11,7 @@
 body {
     background-color: #170d2c;
     color: #f5dece;
-    font-family: 'FormataLight', 'Raleway', sans-serif;
+    font-family: 'TitilliumText22LRegular', 'Raleway', sans-serif;
 }
 h1, h2, h3, h4, h5, h6, label {
     color: #fce8d8;
@@ -20,10 +20,10 @@ h1, h2, h3, h4, h5, h6, label {
 .content-subhead {
     color: #e8dbc8;
 }
-a:link    { color: #d4b0f8; font-family: 'FormataLight', 'Raleway', sans-serif; }
-a:visited { color: #a080c8; font-family: 'FormataLight', 'Raleway', sans-serif; }
-a:hover   { color: #eedcff; font-family: 'FormataLight', 'Raleway', sans-serif; }
-a:active  { color: #f8f0ff; font-family: 'FormataLight', 'Raleway', sans-serif; }
+a:link    { color: #d4b0f8; font-family: 'TitilliumText22LRegular', 'Raleway', sans-serif; }
+a:visited { color: #a080c8; font-family: 'TitilliumText22LRegular', 'Raleway', sans-serif; }
+a:hover   { color: #eedcff; font-family: 'TitilliumText22LRegular', 'Raleway', sans-serif; }
+a:active  { color: #f8f0ff; font-family: 'TitilliumText22LRegular', 'Raleway', sans-serif; }
 .footer.titilliumTextRegular { font-size: 16px; line-height: 25px; }
 #siteVersion {position:absolute;bottom:18px;right:12px;color:burlywood;}
 .excim-50-reg {font: 50px/56px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
@@ -31,7 +31,7 @@ a:active  { color: #f8f0ff; font-family: 'FormataLight', 'Raleway', sans-serif; 
 .excim-20-reg {font: 20px/24px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
 .formata-40-reg {font: 40px/48px 'FormataRegular', sans-serif;letter-spacing: 0;}
 .formata-40-lite {font: 40px/48px 'FormataLight', sans-serif;letter-spacing: 1;}
-.formata-18-lite {font: 18px/24px 'FormataLight', sans-serif;letter-spacing: 1;}
+.formata-18-lite {font: 18px/24px 'TitilliumText22LRegular', sans-serif;letter-spacing: 1;}
 .formata-25-lite {font: 22px/25px 'FormataLight', sans-serif;letter-spacing: 1;}
 .formata-24-bold {font: 24px/26px 'FormataRegular', sans-serif;letter-spacing: 0; text-transform: none;}
 .formata-28-bold {font: 28px/32px 'FormataBold', sans-serif;letter-spacing: 2;text-transform: lowercase;}
