@@ -12,7 +12,7 @@ tags: [ bruno, myv]
 
 #### Table of contents
 
-- [HTML](/ersa/dict/ervalks/index.html) Мидянь Оло, Нурькине эрзянь-рузонь валкс /краткий эрзянско-русский словарь. Малав 11000 валт / Около 11000 слов.
+- [HTML](/ersa/dict/ervalks/index.html) Мидянь Оло, Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь. Малав 11000 валт / Около 11000 слов.
 - [original HTML](business.html) [simplified HTML](/ersa/dict/eryush_vezhay.html) Эрюш Вежай, Русско-эрзянский словарь / Рузонь-эрзянь валкс &ndash; Once downloaded from narod.yandex.ru
 - [HTML](EnglishErzian.html) English-Erzian Dictionary from Jack Rueter
 - [erz.rar](erz.rar) 
