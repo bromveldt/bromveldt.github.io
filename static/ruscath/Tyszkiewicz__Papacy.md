@@ -1,6 +1,8 @@
 ---
 title: Свящ. Станислав Тышкевич, Почему католики дорожат папством
 source: http://www.apologia.ru/O_pervenstve_rimskogo_episkopa/Tyszkiewicz-Papacy
+layout: simple
+permalink: /ruscath/Tyszkiewicz__Papacy/
 ---
 
 #### Почему католики дорожат папством
