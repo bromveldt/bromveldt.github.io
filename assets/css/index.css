@@ -11,7 +11,7 @@
 body {
     background-color: #170d2c;
     color: #f5dece;
-    font-family: 'FormataLight', sans-serif;
+    font-family: 'FormataLight', 'Cormorant Garamond', sans-serif;
 }
 h1, h2, h3, h4, h5, h6, label {
     color: #fce8d8;
