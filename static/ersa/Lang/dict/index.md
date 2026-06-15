@@ -13,8 +13,8 @@ tags: [ bruno, myv]
 ##### Table of contents
 
 - [HTML](/ersa/dict/er-valks/) Мидянь Оло, Нурькине эрзянь-рузонь валкс /краткий эрзянско-русский словарь. Малав 11000 валт / Около 11000 слов.
-- [original HTML](business.html) [simplified HTML](ersa/dict/business/ruserz.html) Русско-Эрзянский словарь / Рузонь-Эрзянь валкс from narod.yandex.ru
-- [EnglishErzian](EnglishErzian.html)
+- [original HTML](business.html) [simplified HTML](ersa/dict/business/ruserz.html) Русско-Эрзянский словарь / Рузонь-Эрзянь валкс &ndash; Once downloaded from narod.yandex.ru
+- [HTML](EnglishErzian.html) English-Erzian Dictionary from Jack Rueter
 - [erz.rar](erz.rar) 
 - [Erzya_Periodic_Table.doc](Erzya_Periodic_Table.doc)
 - [PDF](Erzyan-finnen_valks.pdf) [HTML](ERFinnValks.html) Эрзянь-Финньэнь Валкс / Ersäläis-suomalainen sanakirja. ~12000 валт. Яна Ниеми, Михаил Мосин, Саранск, 1996 г.
