@@ -15,6 +15,7 @@ body {
 }
 h1, h2, h3, h4, h5, h6, label {
     color: #fce8d8;
+    font-weight: normal;
 }
 .content-subhead {
     color: #e8dbc8;
