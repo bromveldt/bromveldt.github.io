@@ -66,4 +66,17 @@ ul.core-competencies li {
 @media (min-width: 768px) {
     .content-main { width: 44%; }
 }
+.page-content {
+    width: 100%;
+    margin: 2em auto;
+    padding: 0 1em;
+    box-sizing: border-box;
+}
+@media (min-width: 768px) {
+    .page-content {
+        width: 60%;
+        max-width: 900px;
+        padding: 0;
+    }
+}
 /* END */
