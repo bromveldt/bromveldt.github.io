@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Ersa Dictionariess
-description: PDF files
+title: Ersa Dictionaries
+description: PDF and HTML files
 layout: simple
 theme: slate
 lang: en
@@ -13,16 +13,16 @@ tags: [ bruno, myv]
 #### Table of contents
 
 - [HTML](/ersa/dict/er-valks/index.html) Мидянь Оло, Нурькине эрзянь-рузонь валкс /краткий эрзянско-русский словарь. Малав 11000 валт / Около 11000 слов.
-- [original HTML](business.html) [simplified HTML](/ersa/dict/ruserz.html) Эрюш Вежай, Русско-Эрзянский словарь / Рузонь-Эрзянь валкс &ndash; Once downloaded from narod.yandex.ru
+- [original HTML](business.html) [simplified HTML](/ersa/dict/ruserz.html) Эрюш Вежай, Русско-эрзянский словарь / Рузонь-эрзянь валкс &ndash; Once downloaded from narod.yandex.ru
 - [HTML](EnglishErzian.html) English-Erzian Dictionary from Jack Rueter
 - [erz.rar](erz.rar) 
 - [Erzya_Periodic_Table.doc](Erzya_Periodic_Table.doc)
-- [PDF](Erzyan-finnen_valks.pdf) [HTML](ERFinnValks.html) Эрзянь-Финньэнь Валкс / Ersäläis-suomalainen sanakirja. ~12000 валт. Яна Ниеми, Михаил Мосин, Саранск, 1996 г.
+- [PDF](Erzyan-finnen_valks.pdf) [HTML](ERFinnValks.html) Эрзянь-финньэнь Валкс / Ersäläis-suomalainen sanakirja. ~12000 валт. Яна Ниеми, Михаил Мосин, Саранск, 1996 г.
 - [PDF](Koljadenkov_Cyganov_1949.pdf) Эрзянско-русский словарь. 15.000 слов. Составили доцент М. Н. Коляденков и Н. Ф. Цыганов. Под редакцией члена-корреспондента академии наук СССР проф. Д. В. Бубриха с приложением краткого грамматического очерка эрзянского языка, составленного М. Н. Коляденковым. Москва: Государственное издательство иностранных и национальных словарей, 1949 г.
 - [mordovija-seredems-erzjaks.htm](mordovija-seredems-erzjaks.htm)
 - [neologizm.odt](neologizm.odt)
 - [RAR](serebrennikov_b_a_buzakova_r_n_mosin_m_v_erzyansko_russkiy_s.rar) [DJVU](erzjanj_ruzonj_valks.djvu) Эрзянско-русский словарь. Около 27 000 слов. Под редакцией академика Б. А. Серебренникова, докторов филол. наук Р. Н. Бузаковой, М. В. Мосина. Москва: «Русский Язык», «Дигора», 1993 г.
-- [PDF](Slovar_sinonimov_erzjanskogo.pdf) Бузакова Р. Н., Словарь синонимов эрзянского языка. Под редакцией доктора филологических наук, профессора Д. В. Цыганкина &ndash; Саранск: Мордовское книжное издательство, 1982 г.
+- [PDF](Slovar_sinonimov_erzjanskogo.pdf) Бузакова Р. Н., Словарь синонимов эрзянского языка. Под редакцией доктора филологических наук, профессора Д. В. Цыганкина. Саранск: Мордовское книжное издательство, 1982 г.
 - [DJVU](syrnenj_chovoljat.djvu) Четвергов Е.В., Сырнень човалят: Стувтовозь ды чуросто вастневиця валт, Саранск: Мордовской книжной издательствась, 1995 ие
 - [PDF](Veysse_bashka_teshks_velde.pdf) Вейсэ, башка, тешкс вельде, Саранск  2001 ие
 
