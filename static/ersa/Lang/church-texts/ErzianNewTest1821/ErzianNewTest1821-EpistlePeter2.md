@@ -2,7 +2,7 @@
 title: Промксонь Кучовксъ омбоцѣ секень же Святоень Апостолонь Петрань.
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: page
+layout: simple
 theme: slate
 lang: ru
 

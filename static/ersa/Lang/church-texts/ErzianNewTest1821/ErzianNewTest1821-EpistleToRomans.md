@@ -2,7 +2,7 @@
 title: Римлятненень Кучовксъ Святой Апостолонь Павлань.
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: page
+layout: simple
 theme: slate
 lang: ru
 

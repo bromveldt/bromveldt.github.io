@@ -2,7 +2,7 @@
 title: Промозь Кучомо колмоцѣ Святой Апостолань Іоаннонь Богословонь.
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: page
+layout: simple
 theme: slate
 lang: ru
 

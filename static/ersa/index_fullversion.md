@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 title: Ersa pages
 ---
 Table of contents

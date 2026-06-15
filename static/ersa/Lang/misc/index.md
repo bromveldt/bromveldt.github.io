@@ -3,7 +3,7 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Misc Ersa
 description: Misc Ersa Resources
-layout: page
+layout: simple
 theme: slate
 lang: en
 permalink: /ersa

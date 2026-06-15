@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 title: Church Texts pages
 ---
 #### Table of contents

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 title: Иоанн Златоустонь литургиязо &ndash; Вень ознома
 ---
 
