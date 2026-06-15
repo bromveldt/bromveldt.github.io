@@ -58,4 +58,12 @@ ul.core-competencies li {
     /*font: 18px/27px 'TheMixExtraLight-Plain', sans-serif;*/
     font: 18px/27px 'ProximaNovaRegular', sans-serif;
 }
+.content-main {
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+@media (min-width: 768px) {
+    .content-main { width: 44%; }
+}
 /* END */
