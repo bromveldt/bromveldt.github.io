@@ -3,7 +3,7 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянь-Рузонь Валкс / Эрзянско-Русский Словарь
-description: Erzya-Russian Dictiornary
+description: Erzya-Russian Dictionary
 layout: simple
 theme: slate
 lang: en
