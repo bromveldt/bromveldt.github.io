@@ -3,4 +3,6 @@ layout: page
 title: Russian Catholicism ToC
 permalink: /ruscath
 ---
-[Tyszkiewicz](/static/ruscath/Tyszkiewicz__Papacy.md)
+[Свящ. Станислав Тышкевич - Почему католики дорожат папством](/static/ruscath/Tyszkiewicz__Papacy.md)
+
+Tyszkiewicz: История католической церкви
