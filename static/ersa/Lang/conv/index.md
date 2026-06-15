@@ -6,7 +6,7 @@ description: PDF files
 layout: simple
 theme: slate
 lang: en
-permalink: /razgovornik
+permalink: /ersa/Lang/conv/
 tags: [ bruno, myv]
 ---
 

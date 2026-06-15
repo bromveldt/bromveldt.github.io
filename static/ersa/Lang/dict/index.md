@@ -6,7 +6,7 @@ description: PDF files
 layout: simple
 theme: slate
 lang: en
-permalink: /dict
+permalink: /ersa/Lang/dict/
 tags: [ bruno, myv]
 ---
 

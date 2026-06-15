@@ -6,7 +6,7 @@ description: PDF files
 layout: simple
 theme: slate
 lang: en
-permalink: /razgovor
+permalink: /moksha/conv/
 tags: [ bruno, myv]
 ---
 #### Table of contents

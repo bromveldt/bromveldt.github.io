@@ -6,7 +6,7 @@ description: Эрзянско-Русский Словарь
 layout: simple
 theme: slate
 lang: en
-permalink: /ERValks
+permalink: /ersa/Lang/dict/МидяньОло/ERValks/
 tags: [ bruno, myv]
 ---
 # Эрзянь-Рузонь Валкс / Эрзянско-Русский Словарь
