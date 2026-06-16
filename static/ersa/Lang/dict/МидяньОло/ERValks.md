@@ -1,15 +1,15 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Эрзянь-Рузонь Валкс
-description: Эрзянско-Русский Словарь
+title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь — Мидянь Оло
+description: Concise Erzya-Russian Dictionary
 layout: simple
 theme: slate
 lang: en
 permalink: /ersa/dict/ervalks/onepage
 tags: [ bruno, myv]
 ---
-# Эрзянь-Рузонь Валкс / Эрзянско-Русский Словарь
+# Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь
 
 Тимĕрке Митяй (Мидянь Оло)
 

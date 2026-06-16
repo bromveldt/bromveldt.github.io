@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь — Мидянь Оло
-description: Erzya-Russian Dictionary
+title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь — Мидянь Оло — А
+description: Concise Erzya-Russian Dictionary
 author: Тимĕрке Митяй (Мидянь Оло)
 layout: simple
 theme: slate
@@ -12,7 +12,7 @@ tags: [ bruno, myv, Мидянь Оло, эрзянь-рузонь валкс, �
 ---
 
 ## А
-----
+
 | myv | ru |
 |-----|----|
 | а каш - а куш | ни звука |

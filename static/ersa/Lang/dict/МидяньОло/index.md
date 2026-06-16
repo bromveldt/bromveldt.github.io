@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь
-description: Erzya-Russian Dictionary
+title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь  — Мидянь Оло
+description: Concise Erzya-Russian Dictionary
 author: Тимĕрке Митяй (Мидянь Оло)
 layout: simple
 theme: slate
@@ -15,9 +15,9 @@ tags: [ bruno, myv]
 <table>
   <tbody>
   <tr>
-    <th colspan="2">НУРЬКИНЕ ЭРЗЯНЬ-РУЗОНЬ ВАЛКС</th>
+    <th colspan="2"><span style="font-variant-caps: all-small-caps;">Нурькине эрзянь-рузонь валкс</span></th>
     <td>&nbsp;</td>
-    <th>КРАТКИЙ ЭРЗЯНСКО-РУССКИЙ СЛОВАРЬ</th>
+    <th><span style="font-variant-caps: all-petite-caps;">Краткий эрзянско-русский словарь</span>/th>
   </tr>
   <tr>
     <td colspan="2">Малав 11000 валт</td>
