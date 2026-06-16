@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: Ersa pages
+permalink: /ersa/index_fullversion/
 ---
 Table of contents
 

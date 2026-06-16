@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: Ersa pages
+permalink: /ersa/books/church-texts/JohnChrysosthomLiturgy/
 ---
 Table of contents
 

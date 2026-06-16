@@ -1,6 +1,8 @@
 ---
 title : Эрзянская губерния
 source_url: http://purgine.livejournal.com/97787.html
+layout: simple
+permalink: /ersa/Lang/misc/purgine/
 ---
 Source: [purgine LiveJournal]({{ source_url }}).
 

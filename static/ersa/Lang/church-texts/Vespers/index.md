@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: Иоанн Златоустонь литургиязо &ndash; Вень ознома
+permalink: /ersa/books/church-texts/Vespers/
 ---
 
 ##### Table of contents

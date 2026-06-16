@@ -1,5 +1,7 @@
 ---
 title : Calendar
+layout: simple
+permalink: /ersa/Lang/misc/calendar/
 months :
  - Якшамков
  - Даволков

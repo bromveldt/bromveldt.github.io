@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: Вень ознома
+permalink: /ersa/books/church-texts/Vespers/arziavecherniaiutrenia/
 ---
 ### Вень ознома
 

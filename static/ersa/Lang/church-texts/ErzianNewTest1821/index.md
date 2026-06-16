@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: СВЯТОЙ ЕВАНГЕЛЬЯ
+permalink: /ersa/books/church-texts/ErzianNewTest1821/
 ---
 ### ГОСПОДАНЬ МИНЕКЪ ІИСУСАНЬ ХРИСТАНЬ
 

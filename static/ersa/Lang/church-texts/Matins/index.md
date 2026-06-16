@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: Иоанн Златоустонь литургиязо / Од сыцятнень литургия
+permalink: /ersa/books/church-texts/Matins/
 ---
 ### Иоанн Златоустонь литургиязо &ndash; Од сыцятнень литургия
 

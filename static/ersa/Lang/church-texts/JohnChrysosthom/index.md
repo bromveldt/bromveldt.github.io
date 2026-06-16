@@ -1,6 +1,7 @@
 ---
 layout: simple
 title: Иоанн Златоустонь литургиязо
+permalink: /ersa/books/church-texts/JohnChrysosthom/
 ---
 ### Иоанн Златоустонь литургиязо
 
