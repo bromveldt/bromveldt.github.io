@@ -99,7 +99,7 @@ tags: [ bruno, myv]
   </thead>
 </table>
 
-<table>
+<table style="float: left">
   <thead>
   <tr>
     <th colspan="11">Table of Contents</th>
