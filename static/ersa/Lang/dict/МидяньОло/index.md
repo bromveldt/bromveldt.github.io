@@ -1,83 +1,101 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Эрзянь-Рузонь Валкс / Эрзянско-Русский Словарь
+title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь
 description: Erzya-Russian Dictionary
+author: Тимĕрке Митяй (Мидянь Оло)
 layout: simple
 theme: slate
 lang: en
 permalink: /ersa/dict/ervalks
 tags: [ bruno, myv]
 ---
-##### Тимĕрке Митяй (Мидянь Оло) — ~11000 валт
+##### Тимĕрке Митяй (Мидянь Оло)
 
 <table>
+  <tbody>
   <tr>
-    <th>НУРЬКИНЕ ЭРЗЯНЬ-РУЗОНЬ ВАЛКС</th>
+    <th colspan="2">НУРЬКИНЕ ЭРЗЯНЬ-РУЗОНЬ ВАЛКС</th>
+    <td>&nbsp;</td>
     <th>КРАТКИЙ ЭРЗЯНСКО-РУССКИЙ СЛОВАРЬ</th>
   </tr>
   <tr>
-    <td>Малав 11000 валт</td>
+    <td colspan="2">Малав 11000 валт</td>
+    <td>&nbsp;</td>
     <td>Около 11000 слов</td>
   </tr>
+  <tr>
+    <td>[original PDF](/static/ersa/Lang/dict/МидяньОло/ERValks.pdf)</td>
+    <td>[earlier PDF](/static/ersa/Lang/dict/МидяньОло/E-R-Valks.pdf)</td>
+    <td>&nbsp;</td>
+    <td>[one page HTML](/ersa/dict/ervalks/onepage.html)</td>
+  </tr>
+  </tbody>
 </table>
 
-_Валксось лезды весеменень, кие эрзякс тонавтни ды ули мелезэ эрзянь келенть содамс
-домкасто. Кинень малавикс ды эрявикс эрзянь келесь сетненень алтави валксось..._
+<quote>
+*Валксось лезды весеменень, кие эрзякс тонавтни ды ули мелезэ эрзянь келенть содамс домкасто.
+Кинень малавикс ды эрявикс эрзянь келесь сетненень алтави валксось...*
+</quote>
 
-###### &mdash; Мидянь Оло.
+#### &mdash; Мидянь Оло.
 
 <table>
   <tr>
     <th colspan="11">ЭРЗЯНЬ ТЕШКСКЕРЬКС</th>
   </tr>
   <tr>
-    <td>А_а_</td>
-    <td>Б_б_</td>
-    <td>В_в_</td>
-    <td>Г_г_</td>
-    <td>Д_д_</td>
-    <td>Е_е_</td>
-    <td>Ё_ё_</td>
-    <td>Ж_ж_</td>
-    <td>З_з_</td>
-    <td>И_и_</td>
-    <td>Й_й_</td>
+    <td>А *а*</td>
+    <td>Б *б*</td>
+    <td>В *в*</td>
+    <td>Г *г*</td>
+    <td>Д *д*</td>
+    <td>Е *е*</td>
+    <td>Ё *ё*</td>
+    <td>Ж *ж*</td>
+    <td>З *з*</td>
+    <td>И *и*</td>
+    <td>Й *й*</td>
   </tr>
   <tr>
-    <td>К_к_</td>
-    <td>Л_л_</td>
-    <td>М_м_</td>
-    <td>Н_н_</td>
-    <td>О_о_</td>
-    <td>П_п_</td>
-    <td>P_p_</td>
-    <td>C_c_</td>
-    <td>T_т_</td>
-    <td>У_у_</td>
-    <td>Ф_ф_</td>
+    <td>К *к*</td>
+    <td>Л *л*</td>
+    <td>М *м*</td>
+    <td>Н *н*</td>
+    <td>О *о*</td>
+    <td>П *п*</td>
+    <td>P *p*</td>
+    <td>C *c*</td>
+    <td>T *т*</td>
+    <td>У *у*</td>
+    <td>Ф *ф*</td>
   </tr>
   <tr>
-    <td>Х_х_</td>
-    <td>Ц_ц_</td>
-    <td>Ч_ч_</td>
-    <td>Ш_ш_</td>
-    <td>Щ_щ_</td>
-    <td>Ъ_ъ_</td>
-    <td>Ы_ы_</td>
-    <td>Ь_ь_</td>
-    <td>Э_э_</td>
-    <td>Ю_ю_</td>
-    <td>Я_я_</td>
+    <td>Х *х*</td>
+    <td>Ц *ц*</td>
+    <td>Ч *ч*</td>
+    <td>Ш *ш*</td>
+    <td>Щ *щ*</td>
+    <td>Ъ *ъ*</td>
+    <td>Ы *ы*</td>
+    <td>Ь *ь*</td>
+    <td>Э *э*</td>
+    <td>Ю *ю*</td>
+    <td>Я *я*</td>
   </tr>
 </table>
 
 <table>
+  <thead>
   <tr>
     <th>http://erzianj.borda.ru</th>
+    <th>&nbsp;</th>
     <th>2007 ие</th>
   </tr>
+  </thead>
 </table>
+
+#### Table of Contents
 
 [А](dict_а.md)
 
@@ -89,9 +107,9 @@ _Валксось лезды весеменень, кие эрзякс тона�
 
 [Д](dict_д.md)
 
-[Е](dict_е.md) no
+[Е] no
 
-[Ё](dict_ё.md) no
+[Ё](dict_ё.md)
 
 [Ж](dict_ж.md)
 

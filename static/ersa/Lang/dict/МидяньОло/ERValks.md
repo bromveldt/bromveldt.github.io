@@ -6,12 +6,12 @@ description: Эрзянско-Русский Словарь
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/Lang/dict/МидяньОло/ERValks/
+permalink: /ersa/dict/ervalks/onepage
 tags: [ bruno, myv]
 ---
 # Эрзянь-Рузонь Валкс / Эрзянско-Русский Словарь
 
-*Тимĕрке Митяй (Мидянь Оло) — ~11000 валт*
+Тимĕрке Митяй (Мидянь Оло)
 
 | myv | ru |
 |-----|----|
