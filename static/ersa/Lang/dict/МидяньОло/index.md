@@ -28,10 +28,10 @@ tags: [ bruno, myv]
   </thead>
   <tbody>
   <tr>
-    <td>[original PDF](/static/ersa/Lang/dict/МидяньОло/ERValks.pdf)</td>
-    <td>[earlier PDF](/static/ersa/Lang/dict/МидяньОло/E-R-Valks.pdf)</td>
+    <td><a href="/static/ersa/Lang/dict/МидяньОло/ERValks.pdf">original PDF</a></td>
+    <td><a href="/static/ersa/Lang/dict/МидяньОло/E-R-Valks.pdf">earlier PDF</a></td>
     <td>&nbsp;</td>
-    <td>[one page HTML](/ersa/dict/ervalks/onepage.html)</td>
+    <td><a href="/ersa/dict/ervalks/onepage.html">one page HTML</a></td>
   </tr>
   </tbody>
 </table>
@@ -92,7 +92,7 @@ tags: [ bruno, myv]
 <table>
   <thead>
   <tr>
-    <th>[erzianj.borda.ru](http://erzianj.borda.ru)</th>
+    <th><a href="https://erzianj.borda.ru/">erzianj.borda.ru</a></th>
     <th>&nbsp;</th>
     <th>2007 ие</th>
   </tr>
