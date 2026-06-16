@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь  — Мидянь Оло
+title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь
 description: Concise Erzya-Russian Dictionary
 author: Тимĕрке Митяй (Мидянь Оло)
 layout: simple
@@ -10,20 +10,23 @@ lang: en
 permalink: /ersa/dict/ervalks
 tags: [ bruno, myv]
 ---
-##### Тимĕрке Митяй (Мидянь Оло)
+
+#### Тимĕрке Митяй (Мидянь Оло)
 
 <table>
-  <tbody>
+  <thead>
   <tr>
     <th colspan="2"><span style="font-variant-caps: all-small-caps;">Нурькине эрзянь-рузонь валкс</span></th>
-    <td>&nbsp;</td>
-    <th><span style="font-variant-caps: all-petite-caps;">Краткий эрзянско-русский словарь</span>/th>
+    <th>&nbsp;</th>
+    <th><span style="font-variant-caps: all-petite-caps;">Краткий эрзянско-русский словарь</span></th>
   </tr>
   <tr>
-    <td colspan="2">Малав 11000 валт</td>
-    <td>&nbsp;</td>
-    <td>Около 11000 слов</td>
+    <th colspan="2">Малав 11000 валт</th>
+    <th>&nbsp;</td>
+    <th>Около 11000 слов</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>[original PDF](/static/ersa/Lang/dict/МидяньОло/ERValks.pdf)</td>
     <td>[earlier PDF](/static/ersa/Lang/dict/МидяньОло/E-R-Valks.pdf)</td>
