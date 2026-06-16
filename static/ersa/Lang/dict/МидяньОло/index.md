@@ -16,7 +16,7 @@ tags: [ bruno, myv]
 <table>
   <thead>
   <tr>
-    <th colspan="2"><span style="font-variant-caps: all-small-caps;">Нурькине эрзянь-рузонь валкс</span></th>
+    <th colspan="2"><span style="font-variant-caps: all-petite-caps;">Нурькине эрзянь-рузонь валкс</span></th>
     <th>&nbsp;</th>
     <th><span style="font-variant-caps: all-petite-caps;">Краткий эрзянско-русский словарь</span></th>
   </tr>
@@ -38,11 +38,9 @@ tags: [ bruno, myv]
 
 <blockquote>
 Валксось лезды весеменень, кие эрзякс тонавтни ды ули мелезэ эрзянь келенть содамс домкасто.
-Кинень малавикс ды эрявикс эрзянь келесь сетненень алтави валксось...
+Кинень малавикс ды эрявикс эрзянь келесь сетненень алтави валксось...<br>
 &mdash; Мидянь Оло.
 </blockquote>
-
-
 
 <table>
   <tbody>
@@ -106,6 +104,8 @@ tags: [ bruno, myv]
   <tr>
     <th colspan="11">Table of Contents</th>
   </tr>
+  </tbody>
+  <thead>
   <tr>
     <td><a href="/ersa/dict/ervalks_а.html">А</a></td>
     <td><a href="/ersa/dict/ervalks_б.html">Б</a></td>
@@ -145,5 +145,5 @@ tags: [ bruno, myv]
     <td><a href="/ersa/dict/ervalks_ю.html">Ю</a></td>
     <td><a href="/ersa/dict/ervalks_я.html">Я</a></td>
   </tr>
-  </tbody>
+  </thead>
 </table>

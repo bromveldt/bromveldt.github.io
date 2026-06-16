@@ -72,6 +72,11 @@ ul.core-competencies li {
     padding: 0 1em;
     box-sizing: border-box;
 }
+body.cyrillic-sans,
+body.cyrillic-sans .page-content,
+body.cyrillic-sans .page-content * {
+    font-family: 'Jost', 'Titillium Web', 'Philosopher', sans-serif;
+}
 @media (min-width: 768px) {
     .page-content {
         width: 60%;
