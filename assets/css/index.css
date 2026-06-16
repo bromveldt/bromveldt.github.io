@@ -75,7 +75,7 @@ ul.core-competencies li {
 body.cyrillic-sans,
 body.cyrillic-sans .page-content,
 body.cyrillic-sans .page-content * {
-    font-family: 'Jost', 'Titillium Web', 'Philosopher', sans-serif;
+    font-family: 'Exo 2', 'Titillium Web', 'Philosopher', sans-serif;
 }
 @media (min-width: 768px) {
     .page-content {
