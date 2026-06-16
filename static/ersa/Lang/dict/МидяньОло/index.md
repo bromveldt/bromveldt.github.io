@@ -100,12 +100,12 @@ tags: [ bruno, myv]
 </table>
 
 <table>
-  <tbody>
+  <thead>
   <tr>
     <th colspan="11">Table of Contents</th>
   </tr>
-  </tbody>
-  <thead>
+  </thead>
+  <tbody>
   <tr>
     <td><a href="/ersa/dict/ervalks_а.html">А</a></td>
     <td><a href="/ersa/dict/ervalks_б.html">Б</a></td>
@@ -145,5 +145,5 @@ tags: [ bruno, myv]
     <td><a href="/ersa/dict/ervalks_ю.html">Ю</a></td>
     <td><a href="/ersa/dict/ervalks_я.html">Я</a></td>
   </tr>
-  </thead>
+  </tbody>
 </table>
