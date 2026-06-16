@@ -42,6 +42,16 @@ tags: [ bruno, myv]
 &mdash; Мидянь Оло.
 </blockquote>
 
+<table>
+  <thead>
+  <tr>
+    <th><a href="https://erzianj.borda.ru/">erzianj.borda.ru</a></th>
+    <th>&nbsp;</th>
+    <th>2007 ие</th>
+  </tr>
+  </thead>
+</table>
+
 <div style="display: flex; gap: 1em; align-items: flex-start; flex-wrap: wrap;">
 
 <table>
@@ -143,13 +153,3 @@ tags: [ bruno, myv]
 </table>
 
 </div>
-
-<table>
-  <thead>
-  <tr>
-    <th><a href="https://erzianj.borda.ru/">erzianj.borda.ru</a></th>
-    <th>&nbsp;</th>
-    <th>2007 ие</th>
-  </tr>
-  </thead>
-</table>
