@@ -33,56 +33,58 @@ tags: [ bruno, myv]
   </tbody>
 </table>
 
-<quote>
-*Валксось лезды весеменень, кие эрзякс тонавтни ды ули мелезэ эрзянь келенть содамс домкасто.
-Кинень малавикс ды эрявикс эрзянь келесь сетненень алтави валксось...*
-</quote>
+<blockquote>
+Валксось лезды весеменень, кие эрзякс тонавтни ды ули мелезэ эрзянь келенть содамс домкасто.
+Кинень малавикс ды эрявикс эрзянь келесь сетненень алтави валксось...
+</blockquote>
 
-#### &mdash; Мидянь Оло.
+&mdash; Мидянь Оло.
 
 <table>
+  <tbody>
   <tr>
     <th colspan="11">ЭРЗЯНЬ ТЕШКСКЕРЬКС</th>
   </tr>
   <tr>
-    <td>А *а*</td>
-    <td>Б *б*</td>
-    <td>В *в*</td>
-    <td>Г *г*</td>
-    <td>Д *д*</td>
-    <td>Е *е*</td>
-    <td>Ё *ё*</td>
-    <td>Ж *ж*</td>
-    <td>З *з*</td>
-    <td>И *и*</td>
-    <td>Й *й*</td>
+    <td>А <span style="font-style: italic;">а</span></td>
+    <td>Б <span style="font-style: italic;">б</span></td>
+    <td>В <span style="font-style: italic;">в</span></td>
+    <td>Г <span style="font-style: italic;">г</span></td>
+    <td>Д <span style="font-style: italic;">д</span></td>
+    <td>Е <span style="font-style: italic;">е</span></td>
+    <td>Ё <span style="font-style: italic;">ё</span></td>
+    <td>Ж <span style="font-style: italic;">ж</span></td>
+    <td>З <span style="font-style: italic;">з</span></td>
+    <td>И <span style="font-style: italic;">и</span></td>
+    <td>Й <span style="font-style: italic;">й</span></td>
   </tr>
   <tr>
-    <td>К *к*</td>
-    <td>Л *л*</td>
-    <td>М *м*</td>
-    <td>Н *н*</td>
-    <td>О *о*</td>
-    <td>П *п*</td>
-    <td>P *p*</td>
-    <td>C *c*</td>
-    <td>T *т*</td>
-    <td>У *у*</td>
-    <td>Ф *ф*</td>
+    <td>К <span style="font-style: italic;">к</span></td>
+    <td>Л <span style="font-style: italic;">л</span></td>
+    <td>М <span style="font-style: italic;">м</span></td>
+    <td>Н <span style="font-style: italic;">н</span></td>
+    <td>О <span style="font-style: italic;">о</span></td>
+    <td>П <span style="font-style: italic;">п</span></td>
+    <td>P <span style="font-style: italic;">p</span></td>
+    <td>C <span style="font-style: italic;">c</span></td>
+    <td>T <span style="font-style: italic;">т</span></td>
+    <td>У <span style="font-style: italic;">у</span></td>
+    <td>Ф <span style="font-style: italic;">ф</span></td>
   </tr>
   <tr>
-    <td>Х *х*</td>
-    <td>Ц *ц*</td>
-    <td>Ч *ч*</td>
-    <td>Ш *ш*</td>
-    <td>Щ *щ*</td>
-    <td>Ъ *ъ*</td>
-    <td>Ы *ы*</td>
-    <td>Ь *ь*</td>
-    <td>Э *э*</td>
-    <td>Ю *ю*</td>
-    <td>Я *я*</td>
+    <td>Х <span style="font-style: italic;">х</span></td>
+    <td>Ц <span style="font-style: italic;">ц</span></td>
+    <td>Ч <span style="font-style: italic;">ч</span></td>
+    <td>Ш <span style="font-style: italic;">ш</span></td>
+    <td>Щ <span style="font-style: italic;">щ</span></td>
+    <td>Ъ <span style="font-style: italic;">ъ</span></td>
+    <td>Ы <span style="font-style: italic;">ы</span></td>
+    <td>Ь <span style="font-style: italic;">ь</span></td>
+    <td>Э <span style="font-style: italic;">э</span></td>
+    <td>Ю <span style="font-style: italic;">ю</span></td>
+    <td>Я <span style="font-style: italic;">я</span></td>
   </tr>
+  </tbody>
 </table>
 
 <table>
@@ -96,46 +98,48 @@ tags: [ bruno, myv]
 </table>
 
 <table>
+  <tbody>
   <tr>
     <th colspan="11">Table of Contents</th>
   </tr>
   <tr>
-    <td>[А](/ersa/dict/ervalks_а.html)</td>
-    <td>[Б](/ersa/dict/ervalks_б.html)</td>
-    <td>[В](/ersa/dict/ervalks_в.html)</td>
-    <td>[Г](/ersa/dict/ervalks_г.html)</td>
-    <td>[Д](/ersa/dict/ervalks_д.html)</td>
-    <td>Е</td>
-    <td>[Ё](/ersa/dict/ervalks_ё.html)</td>
-    <td>[Ж](/ersa/dict/ervalks_ж.html)</td>
-    <td>[З](/ersa/dict/ervalks_з.html)</td>
-    <td>[И](/ersa/dict/ervalks_и.html)</td>
-    <td>Й</td>
+    <td><a href="/ersa/dict/ervalks_а.html">А</a></td>
+    <td><a href="/ersa/dict/ervalks_б.html">Б</a></td>
+    <td><a href="/ersa/dict/ervalks_в.html">В</a></td>
+    <td><a href="/ersa/dict/ervalks_г.html">Г</a></td>
+    <td><a href="/ersa/dict/ervalks_д.html">Д</a></td>
+    <td><span>Е</span></td>
+    <td><a href="/ersa/dict/ervalks_ё.html">Ё</a></td>
+    <td><a href="/ersa/dict/ervalks_ж.html">Ж</a></td>
+    <td><a href="/ersa/dict/ervalks_з.html">З</a></td>
+    <td><a href="/ersa/dict/ervalks_и.html">И</a></td>
+    <td><span>Й</span></td>
   </tr>
   <tr>
-    <td>[К](/ersa/dict/ervalks_к.html)</td>
-    <td>[Л](/ersa/dict/ervalks_л.html)</td>
-    <td>[М](/ersa/dict/ervalks_м.html)</td>
-    <td>[Н](/ersa/dict/ervalks_н.html)</td>
-    <td>[О](/ersa/dict/ervalks_о.html)</td>
-    <td>[П](/ersa/dict/ervalks_п.html)</td>
-    <td>[P](/ersa/dict/ervalks_p.html)</td>
-    <td>[C](/ersa/dict/ervalks_c.html)</td>
-    <td>[T](/ersa/dict/ervalks_т.html)</td>
-    <td>[У](/ersa/dict/ervalks_у.html)</td>
-    <td>[Ф](/ersa/dict/ervalks_ф.html)</td>
+    <td><a href="/ersa/dict/ervalks_к.html">К</a></td>
+    <td><a href="/ersa/dict/ervalks_л.html">Л</a></td>
+    <td><a href="/ersa/dict/ervalks_м.html">М</a></td>
+    <td><a href="/ersa/dict/ervalks_н.html">Н</a></td>
+    <td><a href="/ersa/dict/ervalks_о.html">О</a></td>
+    <td><a href="/ersa/dict/ervalks_п.html">П</a></td>
+    <td><a href="/ersa/dict/ervalks_p.html">P</a></td>
+    <td><a href="/ersa/dict/ervalks_c.html">C</a></td>
+    <td><a href="/ersa/dict/ervalks_т.html">T</a></td>
+    <td><a href="/ersa/dict/ervalks_у.html">У</a></td>
+    <td><a href="/ersa/dict/ervalks_ф.html">Ф</a></td>
   </tr>
   <tr>
-    <td>[Х](/ersa/dict/ervalks_х.html)</td>
-    <td>[Ц](/ersa/dict/ervalks_ц.html)</td>
-    <td>[Ч](/ersa/dict/ervalks_ч.html)</td>
-    <td>[Ш](/ersa/dict/ervalks_ш.html)</td>
-    <td>[Щ](/ersa/dict/ervalks_щ.html)</td>
-    <td>Ъ</td>
-    <td>Ы</td>
-    <td>Ь</td>
-    <td>[Э](/ersa/dict/ervalks_э.html)</td>
-    <td>[Ю](/ersa/dict/ervalks_ю.html)</td>
-    <td>[Я](/ersa/dict/ervalks_я.html)</td>
+    <td><a href="/ersa/dict/ervalks_х.html">Х</a></td>
+    <td><a href="/ersa/dict/ervalks_ц.html">Ц</a></td>
+    <td><a href="/ersa/dict/ervalks_ч.html">Ч</a></td>
+    <td><a href="/ersa/dict/ervalks_ш.html">Ш</a></td>
+    <td><a href="/ersa/dict/ervalks_щ.html">Щ</a></td>
+    <td><span>Ъ</span></td>
+    <td><span>Ы</span></td>
+    <td><span>Ь</span></td>
+    <td><a href="/ersa/dict/ervalks_э.html">Э</a></td>
+    <td><a href="/ersa/dict/ervalks_ю.html">Ю</a></td>
+    <td><a href="/ersa/dict/ervalks_я.html">Я</a></td>
   </tr>
+  </tbody>
 </table>
