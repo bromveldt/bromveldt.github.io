@@ -130,7 +130,7 @@ tags: [ bruno, myv]
     <td><a href="/ersa/dict/ervalks_н.html">Н</a></td>
     <td><a href="/ersa/dict/ervalks_о.html">О</a></td>
     <td><a href="/ersa/dict/ervalks_п.html">П</a></td>
-    <td><a href="/ersa/dict/ervalks_p.html">P</a></td>
+    <td><a href="/ersa/dict/ervalks_р.html">P</a></td>
     <td><a href="/ersa/dict/ervalks_c.html">C</a></td>
     <td><a href="/ersa/dict/ervalks_т.html">T</a></td>
     <td><a href="/ersa/dict/ervalks_у.html">У</a></td>
