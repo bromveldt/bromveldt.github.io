@@ -42,6 +42,8 @@ tags: [ bruno, myv]
 &mdash; Мидянь Оло.
 </blockquote>
 
+<div style="display: flex; gap: 1em; align-items: flex-start; flex-wrap: wrap;">
+
 <table>
   <thead>
   <tr>
@@ -94,16 +96,6 @@ tags: [ bruno, myv]
 <table>
   <thead>
   <tr>
-    <th><a href="https://erzianj.borda.ru/">erzianj.borda.ru</a></th>
-    <th>&nbsp;</th>
-    <th>2007 ие</th>
-  </tr>
-  </thead>
-</table>
-
-<table style="float: left">
-  <thead>
-  <tr>
     <th colspan="11">Table of Contents</th>
   </tr>
   </thead>
@@ -148,4 +140,16 @@ tags: [ bruno, myv]
     <td><a href="/ersa/dict/ervalks_я.html">Я</a></td>
   </tr>
   </tbody>
+</table>
+
+</div>
+
+<table>
+  <thead>
+  <tr>
+    <th><a href="https://erzianj.borda.ru/">erzianj.borda.ru</a></th>
+    <th>&nbsp;</th>
+    <th>2007 ие</th>
+  </tr>
+  </thead>
 </table>
