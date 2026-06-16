@@ -57,7 +57,7 @@ tags: [ bruno, myv]
 <table>
   <thead>
   <tr>
-    <th colspan="11" style="font-variant-caps: all-petite-caps;">ЭРЗЯНЬ ТЕШКСКЕРЬКС</th>
+    <th colspan="11" style="font-variant-caps: all-small-caps;">ЭРЗЯНЬ ТЕШКСКЕРЬКС</th>
   </tr>
   </thead>
   <tbody>
@@ -106,7 +106,7 @@ tags: [ bruno, myv]
 <table>
   <thead>
   <tr>
-    <th colspan="11">Table of Contents</th>
+    <th colspan="11" style="font-variant-caps: all-small-caps;">Table of Contents</th>
   </tr>
   </thead>
   <tbody>
