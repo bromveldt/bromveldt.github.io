@@ -43,10 +43,12 @@ tags: [ bruno, myv]
 </blockquote>
 
 <table>
-  <tbody>
+  <thead>
   <tr>
-    <th colspan="11">ЭРЗЯНЬ ТЕШКСКЕРЬКС</th>
+    <th colspan="11" style="font-variant-caps: all-petite-caps;">ЭРЗЯНЬ ТЕШКСКЕРЬКС</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>А <span style="font-style: italic;">а</span></td>
     <td>Б <span style="font-style: italic;">б</span></td>
