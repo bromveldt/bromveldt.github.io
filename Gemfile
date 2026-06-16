@@ -12,9 +12,8 @@ source "https://rubygems.org"
 Encoding.default_external = Encoding::UTF_8
 Encoding.default_internal = Encoding::UTF_8
 
-gem "jekyll", "~> 3.8.5"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "= 2.5.0"
+gem "minima", "= 2.5.1"
 # Sets the Content-Type header of HTML files to text/html; charset=utf-8.
 gem "jekyll-utf8", "~> 0.0.1"
 # For testing the static pages
@@ -38,6 +37,6 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
+gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
 # GitHub pages
-gem 'github-pages', "~> 202", group: :jekyll_plugins
+gem 'github-pages', "~> 232", group: :jekyll_plugins
