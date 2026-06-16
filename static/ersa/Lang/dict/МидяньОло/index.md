@@ -88,71 +88,54 @@ tags: [ bruno, myv]
 <table>
   <thead>
   <tr>
-    <th>http://erzianj.borda.ru</th>
+    <th>[erzianj.borda.ru](http://erzianj.borda.ru)</th>
     <th>&nbsp;</th>
     <th>2007 ие</th>
   </tr>
   </thead>
 </table>
 
-#### Table of Contents
-
-[А](dict_а.md)
-
-[Б](dict_б.md)
-
-[В](dict_в.md)
-
-[Г](dict_г.md)
-
-[Д](dict_д.md)
-
-[Е] no
-
-[Ё](dict_ё.md)
-
-[Ж](dict_ж.md)
-
-[З](dict_з.md)
-
-[И](dict_и.md)
-
-[Й](dict_й.md) no
-
-[К](dict_к.md)
-
-[Л](dict_л.md)
-
-[М](dict_м.md)
-
-[Н](dict_н.md)
-
-[О](dict_о.md)
-
-[П](dict_п.md)
-
-[P](dict_p.md)
-
-[C](dict_c.md)
-
-[T](dict_т.md)
-
-[У](dict_у.md)
-
-[Ф](dict_ф.md)
-
-[Х](dict_х.md)
-
-[Ц](dict_ц.md)
-
-[Ч](dict_ч.md)
-
-[Ш](dict_ш.md)
-
-[Щ](dict_щ.md)
-
-[Э](dict_э.md)
-
-[Ю](dict_ю.md)
-
-[Я](dict_я.md)
+<table>
+  <tr>
+    <th colspan="11">Table of Contents</th>
+  </tr>
+  <tr>
+    <td>[А](/ersa/dict/ervalks_а.html)</td>
+    <td>[Б](/ersa/dict/ervalks_б.html)</td>
+    <td>[В](/ersa/dict/ervalks_в.html)</td>
+    <td>[Г](/ersa/dict/ervalks_г.html)</td>
+    <td>[Д](/ersa/dict/ervalks_д.html)</td>
+    <td>Е</td>
+    <td>[Ё](/ersa/dict/ervalks_ё.html)</td>
+    <td>[Ж](/ersa/dict/ervalks_ж.html)</td>
+    <td>[З](/ersa/dict/ervalks_з.html)</td>
+    <td>[И](/ersa/dict/ervalks_и.html)</td>
+    <td>Й</td>
+  </tr>
+  <tr>
+    <td>[К](/ersa/dict/ervalks_к.html)</td>
+    <td>[Л](/ersa/dict/ervalks_л.html)</td>
+    <td>[М](/ersa/dict/ervalks_м.html)</td>
+    <td>[Н](/ersa/dict/ervalks_н.html)</td>
+    <td>[О](/ersa/dict/ervalks_о.html)</td>
+    <td>[П](/ersa/dict/ervalks_п.html)</td>
+    <td>[P](/ersa/dict/ervalks_p.html)</td>
+    <td>[C](/ersa/dict/ervalks_c.html)</td>
+    <td>[T](/ersa/dict/ervalks_т.html)</td>
+    <td>[У](/ersa/dict/ervalks_у.html)</td>
+    <td>[Ф](/ersa/dict/ervalks_ф.html)</td>
+  </tr>
+  <tr>
+    <td>[Х](/ersa/dict/ervalks_х.html)</td>
+    <td>[Ц](/ersa/dict/ervalks_ц.html)</td>
+    <td>[Ч](/ersa/dict/ervalks_ч.html)</td>
+    <td>[Ш](/ersa/dict/ervalks_ш.html)</td>
+    <td>[Щ](/ersa/dict/ervalks_щ.html)</td>
+    <td>Ъ</td>
+    <td>Ы</td>
+    <td>Ь</td>
+    <td>[Э](/ersa/dict/ervalks_э.html)</td>
+    <td>[Ю](/ersa/dict/ervalks_ю.html)</td>
+    <td>[Я](/ersa/dict/ervalks_я.html)</td>
+  </tr>
+</table>
