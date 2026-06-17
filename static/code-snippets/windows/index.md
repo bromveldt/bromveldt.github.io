@@ -12,6 +12,103 @@ tags: [ bruno, Windows, code]
 
 I often program in Windows 11 shell and Powershell. Apparently not often enough to remember :( Here are some notes I have made.
 
+
+**Alt + Print Screen**: Copy active window to the clipboard
+
+This is another keyboard shortcut that builds off of Print Screen. This shortcut with copy content as it appears in the active window on your desktop.
+
+**Windows + Shift + S**: copy a specific portion of the Windows 11 desktop to the clipboard
+
+This keyboard shortcut will unlock a tool that has been around Windows since Vista. The Snipping Tool is a tool that first appeared in Windows Vista in 2002 as a PowerToys tool.
+
+#### To copy proxy settings of current user to WinHttp:
+
+```
+netsh winhttp import proxy source =ie
+```
+
+#### To reset the proxy to default settings:
+
+```
+netsh winhttp reset proxy
+```
+
+#### To show proxy settings of current user:
+
+```
+netsh winhttp show proxy
+```
+
+#### netsh
+
+```
+netsh interface ip show config
+netsh interface ipv6 show address 
+netsh advfirewall set currentprofile state
+netsh advfirewall set currentprofile state off
+netsh advfirewall set currentprofile state on
+
+netsh interface show interface
+netsh wlan show interface 
+
+netsh lan
+show interfaces - Zeigt Liste der aktuellen verkabelten Schnittstellen an.
+show profiles  - Zeigt Liste der momentan auf dem Computer konfigurierten
+                 Kabelnetzwerkprofile an.
+show settings  - Zeigt aktuelle globale Einstellungen des verkabelten LANs an.
+show tracing   - Zeigt an, ob die Ablaufverfolgung für ein verkabeltes LAN
+                 aktiviert oder deaktiviert ist.
+```
+
+# open a firewall port
+```
+netsh advfirewall firewall
+  add rule name="SQL Server"
+  dir=in action=allow
+  protocol=TCP localport=1434 
+```
+
+# add a dns server
+
+```
+netsh interface ip
+  set dns "Local Area Connection"
+  static 192.168.0.2
+```
+
+# add a second dns server
+
+```
+netsh interface ip
+  add dnsserver "Local Area Connection"
+  192.168.0.3 
+```
+
+# configure your network adapter to use DHCP and DNS
+```
+netsh interface ip
+ set dns "Local Area Connection" dhcp 
+```
+
+https://becomethesolution.com/useful-netsh-commands-in-windows
+
+
+
+C:\windows\System32\bitsadmin.exe /Util /SetIEProxy LocalSystem Manual_proxy http://<proxyserver>:<proxy port> "<Any bypasses to be added>"
+
+#### How do I check in Windows how man CPU cores I have?
+
+```
+systeminfo | findstr /C:"Processor(s)"
+1
+```
+
+or use wmic:
+```
+wmic cpu get NumberOfCores,NumberOfLogicalProcessors
+10, 12
+```
+
 #### Task List
 
 ```
@@ -199,6 +296,14 @@ if errorlevel 1 (
 )
 ```
 
+To display SERVICE_NAME and DISPLAY_NAME side-by-side:
+
+```vim
+sc queryex type= service state= all | findstr /i "unbound"
+SERVICE_NAME: unbound
+DISPLAY_NAME: Unbound DNS validator
+```
+
 Make sure a service exists and inspect the service states
 
 ```vim
@@ -356,3 +461,18 @@ Get-NetUDPEndpoint -LocalPort 53
 wf.msc
 ```
 Click Inbound Rules.
+
+
+#### ExecutionPolicy RemoteSigned
+
+Als het huidige PowerShell-uitvoeringsbeleid het uitvoeren van TSS niet toestaat, voert u de volgende acties uit:
+
+Stel het RemoteSigned uitvoeringsbeleid voor het procesniveau in door de cmdlet 
+
+```
+Set-ExecutionPolicy -scope Process -ExecutionPolicy RemoteSigned
+```
+
+Voer de cmdlet PS C:\> Get-ExecutionPolicy -Listuit om te controleren of de wijziging van kracht wordt.
+
+Omdat de machtigingen op procesniveau alleen van toepassing zijn op de huidige PowerShell-sessie, gaat de toegewezen machtiging voor het procesniveau ook terug naar de eerder geconfigureerde status zodra het opgegeven PowerShell-venster waarin TSS wordt uitgevoerd is gesloten.

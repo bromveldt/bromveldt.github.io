@@ -14,3 +14,5 @@ I often program in Windows 11 shell and Powershell. Apparently not often enough 
 
 g2 Recruitment Solutions -
 C/C++, Embedded Software, Austria/Belgium/Netherlands
+
+----

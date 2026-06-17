@@ -1,0 +1,1 @@
+http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3

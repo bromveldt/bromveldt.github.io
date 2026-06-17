@@ -1,0 +1,1 @@
+Kazimierz the Jewish quarter
