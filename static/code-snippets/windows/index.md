@@ -92,8 +92,6 @@ netsh interface ip
 
 https://becomethesolution.com/useful-netsh-commands-in-windows
 
-
-
 C:\windows\System32\bitsadmin.exe /Util /SetIEProxy LocalSystem Manual_proxy http://<proxyserver>:<proxy port> "<Any bypasses to be added>"
 
 #### How do I check in Windows how man CPU cores I have?
@@ -106,7 +104,8 @@ systeminfo | findstr /C:"Processor(s)"
 or use wmic:
 ```
 wmic cpu get NumberOfCores,NumberOfLogicalProcessors
-10, 12
+NumberOfCores  NumberOfLogicalProcessors
+10             12
 ```
 
 #### Task List
