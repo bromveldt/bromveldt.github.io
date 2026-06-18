@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Так говорять у Львові: спробуйте здогадатись, що таке кілішок, леґумінка, загумінок та бамбетель
+#{key}"#{escaped}"
 description: ґвара Львова
 layout: simple
 theme: slate

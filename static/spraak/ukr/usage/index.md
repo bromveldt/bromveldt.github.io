@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Викиньте русизми з голови: як правильно вітати родичів з Новим роком
+#{key}"#{escaped}"
 description: misc
 layout: simple
 theme: slate

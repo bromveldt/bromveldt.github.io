@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Where the world’s wealthy are flocking to hide their riches
-description: -
+#{key}#{val}
+#{$1}"-"
 author: Charlotte Gifford
 layout: simple
 theme: slate

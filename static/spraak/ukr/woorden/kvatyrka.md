@@ -1,9 +1,9 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: кватирка
+#{key}#{val}
 description: misc
-author: -
+#{$1}"-"
 layout: simple
 theme: slate
 lang: en

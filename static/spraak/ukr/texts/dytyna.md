@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Що робити, якщо дитина грубить: чотири простих способи впоратися з "маленьким хамом"
+#{key}"#{escaped}"
 description: misc
 author: UkrMedia
 layout: simple

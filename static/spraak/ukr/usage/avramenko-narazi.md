@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: На разі чи наразі: як правильно писати і коли вживається це слово
-description: -
+#{key}"#{escaped}"
+#{$1}"-"
 layout: simple
 theme: slate
 lang: en

@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Tamara Bakran: Epizoda iz života purana Jurice
+#{key}"#{escaped}"
 permalink: /spraak/hrv/texts/index/
 tags: [bruno, croatian, hrv]
 ---

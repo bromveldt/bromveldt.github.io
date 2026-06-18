@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: [TrafficNews.bg](https://trafficnews.bg)
+#{key}"#{escaped}"
 permalink: /spraak/blg/index/
 tags: [bruno, bulgarian, blg]
 ---

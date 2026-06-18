@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Не красний і сірєнєвий: як правильно назвати кольори українською  
+#{key}"#{escaped}"
 description: Some travel destinations
 author: Марія Волошин
 layout: simple

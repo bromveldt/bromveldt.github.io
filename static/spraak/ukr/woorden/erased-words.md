@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Репресована мова: Українські слова, які радянська влада стерла з пам’яті українців
-description: -
+#{key}"#{escaped}"
+#{$1}"-"
 layout: simple
 theme: slate
 lang: en

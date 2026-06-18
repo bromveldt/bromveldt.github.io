@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Так говорять на Галичині: чи знали ви, що таке гальба, пательня, рунделик та слоїк
-description: -
+#{key}"#{escaped}"
+#{$1}"-"
 layout: simple
 theme: slate
 lang: en

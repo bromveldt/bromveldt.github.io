@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: ПРИСКО́РЮВАЧ
-description: -
+#{key}#{val}
+#{$1}"-"
 layout: simple
 theme: slate
 lang: en

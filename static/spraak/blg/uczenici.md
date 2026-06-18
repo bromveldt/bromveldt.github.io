@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: УЧЕНИЦИ ОТ ПЛОВДИВ В КЛИП: БЪЛГАРИЯ НЕ Е ПРО
+#{key}"#{escaped}"
 permalink: /spraak/blg/uczenici/
 tags: [bruno, bulgarian, blg]
 ---

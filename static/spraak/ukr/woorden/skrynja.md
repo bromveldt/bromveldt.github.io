@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: скриня, поштова скринька, шухлядка, ящик
-description: -
+#{key}#{val}
+#{$1}"-"
 layout: simple
 theme: slate
 lang: en

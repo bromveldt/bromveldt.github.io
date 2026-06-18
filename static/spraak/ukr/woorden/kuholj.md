@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: "кухоль" або "чашка"
+#{key}#{val}
 description: misc
 author: Юлі-а
 layout: simple

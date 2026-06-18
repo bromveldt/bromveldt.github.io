@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Тішиться, як чорт цвяхом: як "смачно" сказати українською про велику радість
+#{key}"#{escaped}"
 description: misc
 author: Юлія Піщанська
 layout: simple

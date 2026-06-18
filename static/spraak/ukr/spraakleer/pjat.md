@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: П’ять українських дієслів, з якими не помиляються лише найрозумніші: перевірте себе
+#{key}"#{escaped}"
 description: misc
 author: Юлія Потерянко
 layout: simple
