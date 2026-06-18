@@ -26,6 +26,7 @@ tags: [ bruno, myv]
 - &#x005B;[DJVU](syrnenj_chovoljat.djvu)&#x005d; Четвергов Е.В., Сырнень човалят: Стувтовозь ды чуросто вастневиця валт, Саранск: Мордовской книжной издательствась, 1995 ие
 <ul>
 <li>&#x005b;<a href="Veysse_bashka_teshks_velde.pdf">PDF</a>&#x005d;
+    &#x005b;<a href="/ersa/dict/вейсэ-башка.html">HTML</a>&#x005d;
 <table>
 <tbody>
 <tr>

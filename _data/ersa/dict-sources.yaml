@@ -1,0 +1,31 @@
+- id: midjan_olo
+  author: Тимĕрке Митяй (Мидянь Оло)
+  title: Нурькине эрзянь-рузонь валкс
+  year: 2007
+  type: dictionary
+
+- id: vershinin_1
+  author: Вершинин В.И.
+  title: Этимологический словарь мордовских языков
+  volume: 1
+  year: 2004
+  type: etymological dictionary
+
+- id: vershinin_2
+  author: Вершинин В.И.
+  title: Этимологический словарь мордовских языков
+  volume: 2
+  year: 2004
+  type: etymological dictionary
+
+- id: serebrennikov
+  author: Серебренников Б.А.
+  title: Эрзянско-русский словарь
+  year: 1993
+  type: dictionary
+
+- id: koljadenkov_cyganov
+  author: Коляденков М.Н., Цыганов Н.Ф.
+  title: Эрзянско-русский словарь
+  year: 1949
+  type: dictionary
