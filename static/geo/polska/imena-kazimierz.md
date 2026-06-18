@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Казимеж/Казимир (Kazimierz) – имя состоит из кор�
+title: Казимеж/Казимир (Kazimierz) – имя состоит из кор
 permalink: /geo/polska/imena-kazimierz/
 tags: [bruno, polska]
 ---

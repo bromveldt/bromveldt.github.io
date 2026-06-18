@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Канцелярия Колывано-Воскресенского горног�
+title: Канцелярия Колывано-Воскресенского горног
 permalink: /geo/rusland/sibir/kancelarija1747/
 tags: [bruno, rusland, sibir]
 ---

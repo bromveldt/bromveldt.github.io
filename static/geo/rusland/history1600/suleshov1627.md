@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Назначение Сулешова в Тобольск состоялось�
+title: Назначение Сулешова в Тобольск состоялось
 permalink: /geo/rusland/history1600/suleshov1627/
 tags: [bruno, rusland, history1600]
 ---

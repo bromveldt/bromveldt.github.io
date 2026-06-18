@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Ржевско-Вяземская операция (8 января -20 апре�
+title: Ржевско-Вяземская операция (8 января -20 апре
 permalink: /geo/rusland/history1942/rzsev/
 tags: [bruno, rusland, history1942]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: На беломестных казаков, таким образом, ложи�
+title: На беломестных казаков, таким образом, ложи
 permalink: /geo/rusland/sibir/belomesstnyje-kazaki/
 tags: [bruno, rusland, sibir]
 ---

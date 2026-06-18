@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Все-таки возвращаясь к тому, что было до сму�
+title: Все-таки возвращаясь к тому, что было до сму
 permalink: /geo/rusland/history1600/krotov-kozljakov2/
 tags: [bruno, rusland, history1600]
 ---

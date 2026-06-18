@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Координатами центра села Старое Демкино мо�
+title: Координатами центра села Старое Демкино мо
 permalink: /geo/rusland/oldrite/penza/
 tags: [bruno, rusland, oldrite]
 ---

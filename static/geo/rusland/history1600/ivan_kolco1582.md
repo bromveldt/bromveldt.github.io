@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Волжский казак. За разбои на Волге в 1579 го�
+title: Волжский казак. За разбои на Волге в 1579 го
 permalink: /geo/rusland/history1600/ivan_kolco1582/
 tags: [bruno, rusland, history1600]
 ---

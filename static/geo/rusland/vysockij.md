@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: Привет, Мариша, в Москве несколько памятник�
+title: Привет, Мариша, в Москве несколько памятник
 permalink: /geo/rusland/vysockij/
 tags: [bruno, rusland]
 ---

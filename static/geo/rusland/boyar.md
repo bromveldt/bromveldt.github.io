@@ -1,6 +1,6 @@
 ---
 layout: simple
-title: в XVII столетии. В это время Шереметевы были о�
+title: в XVII столетии. В это время Шереметевы были о
 permalink: /geo/rusland/boyar/
 tags: [bruno, rusland]
 ---
