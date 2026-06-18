@@ -6,7 +6,7 @@ description: PDF files
 layout: simple
 theme: slate
 lang: en
-permalink: /code/windows
+permalink: /code/windows/
 tags: [ bruno, Windows, code]
 ---
 
