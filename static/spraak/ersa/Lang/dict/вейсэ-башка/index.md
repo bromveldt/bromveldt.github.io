@@ -55,7 +55,7 @@ tags: [bruno, myv, ersa, вейсэ, башка]
 Словарь предназначен для всех, кто любит эрзянский язык, стремится обогатить свой словарный запас и научиться правильно писать.
 -->
 
-<h3 style="font-variant-caps: all-petite-caps;">Икельце валось</h3>
+<h3 class="allcaps">Икельце валось</h3>
 
 <p>
 Эрзякс сёрмадомсто свал шкань стакачикс ашти вейсэндязь валонь  сёрмадомась. (<span class="bold">Вейсэндязь вал</span> терминсэнть тесэ лемдевить: 1)  стакалгавтозь  валтнэ, 2) кавонзазь  валтнэ, 3) составной  валтнэ,  эли  лексикализовазь  валсюлмавкстнэ).  Стакачинть  тувталозо,  васняяк,  ашти  сеньсэ:  те  шкас  парсте  эзть  муеве сеть алкуксонь ёнкстнэ, конатнень вельде явовить вейсэндязь валтнэ келень лия единицатнестэ (валсюлмавкстнэстэ,  валмельгакс  марто  валтнэстэ  ды  лиясто – мейстэ).</p>
@@ -89,55 +89,57 @@ tags: [bruno, myv, ersa, вейсэ, башка]
 <li><span>Бути  васенце  юрось  –  суффикстэме  прявт  лем  (существительной). Невтемга:</span>
 <table>
 <tbody>
-<tr><td>авакаль</td><td>гуйкал</td><td>калькуро</td><td>наркедь</td><td>равкев</td></tr>
-<tr><td>бабаловсо</td><td>дигалопа</td><td>лепекал</td><td>овтолапа</td><td>сокапенч</td></tr>
-<tr><td>ведьтол</td><td>калава</td><td>модамекш</td><td>паксяёр</td><td>толкель</td></tr>
+<tr><td><span class="ital">авакаль</span></td><td><span class="ital">гуйкал</span></td><td><span class="ital">калькуро</span></td><td><span class="ital">наркедь</span></td><td><span class="ital">равкев</span></td></tr>
+<tr><td><span class="ital">бабаловсо</span></td><td><span class="ital">дигалопа</span></td><td><span class="ital">лепекал</span></td><td><span class="ital">овтолапа</span></td><td><span class="ital">сокапенч</span></td></tr>
+<tr><td><span class="ital">ведьтол</span></td><td><span class="ital">калава</span></td><td><span class="ital">модамекш</td><td><span class="ital">паксяёр</span></td><td><span class="ital">толкель<</span>/td></tr>
 </tbody>
 </table>
 <p><sup>1</sup> <span>Мокшень кяльса сёрмадомань, корхтамань, пунктуациянь норматне. Эрзянь кельсэ сёрмадомань, кортамонь, пунктуациянь лувтне. – Саранск, 1995. – 32-35 с.</span></p>
 <p><sup>2</sup> <span>Эрзянь кель. Морфемика, валонь теевема ды морфология. – Саранск, 2000. – 46-51 с.</span></p>
 </li>
 
-<li>Бути васенце пельксэсь * ине/инь* прилагательноесь. Невтемга:
-<table>
-<tbody>
-<tr><td>инеазор</td><td>инеатя</td><td>иневедь</td><td>Инечи</td></tr>
-<tr><td>инязор</td><td>инятя</td><td>инелей</td><td>Инешки</td></tr>
-</tbody>
-</table>
+<li>
+  <p>Бути васенце пельксэсь * ине/инь* прилагательноесь. Невтемга:</p>
+  <table>
+  <tbody>
+  <tr><td><span class="ital">инеазор</span></td><td><span class="ital">инеатя</span></td><td><span class="ital">иневедь</span></td><td><span class="ital">Инечи</span></td></tr>
+  <tr><td><span class="ital">инязор</span></td><td><span class="ital">инятя</span></td><td><span class="ital">инелей</span></td><td><span class="ital">Инешки</span></td></tr>
+  </tbody>
+  </table>
 </li>
 
-<li>Бути васенце пельксэсь <span class="ital">ве</span> (ловома лемень смустьсэ), <span class="ital">пеле</span>, <span class="ital">пель</span>, <span class="ital">пельс</span> валтнэ. Невтемга:
-
-<table>
-<tbody>
-<tr><td>велув</td><td>пелеве</td><td>пельспанжадо</td></tr>
-<tr><td>вепекень</td><td>пельашо</td><td>пельсшумбра</td></tr>
-</tbody>
-</table>
+<li>
+  <p>Бути васенце пельксэсь <span class="ital">ве</span> (ловома лемень смустьсэ), <span class="ital">пеле</span>, <span class="ital">пель</span>, <span class="ital">пельс</span> валтнэ. Невтемга:</p>
+  <table>
+  <tbody>
+  <tr><td><span class="ital">велув</span></td><td><span class="ital">пелеве</span></td><td><span class="ital">пельспанжадо</td></tr>
+  <tr><td><span class="ital">вепекень</span></td><td><span class="ital">пельашо</span></td><td><span class="ital">пельсшумбра</span></td></tr>
+  </tbody>
+  </table>
 </li>
 
-<li>Бути васенце валось  <span class="ital">-и</span> / <span class="ital">-ы</span> суффиксэнть марто причастия. Невтемга:
-
-<table>
-<tbody>
-<tr><td>кирвитол</td><td>налксикуракш</td><td>педигуй</td></tr>
-<tr><td>нулныпиле</td><td>палымода</td><td>велиривезь</td></tr>
-</tbody>
-</table>
+<li>
+  <p>Бути васенце валось  <span class="ital">-и</span> / <span class="ital">-ы</span> суффиксэнть марто причастия. Невтемга:</p>
+  <table>
+  <tbody>
+  <tr><td><span class="ital">кирвитол</span></td><td><span class="ital">налксикуракш</span></td><td><span class="ital">педигуй</span></td></tr>
+  <tr><td><span class="ital">нулныпиле</span></td><td><span class="ital">палымода</span></td><td><span class="ital">велиривезь</span></td></tr>
+  </tbody>
+  </table>
 </li>
 
-<li>Бути  поладовиця  валъюртнэсэ  ютась  опрощениянь  процесс.  Невтемга: <span class="ital">пелькакенже</span>, <span class="ital">пелькаполда</span>, <span class="ital">пелькарашко</span> валтнэнь  васенце  пельксэнть  юрозо <span class="ital">пель-</span>,  конанень поладови  <span class="ital">-ка</span>  валонь  теиця  суффиксэсь.  Маряви,  ней  те  суффиксэсь  юронть  эйстэ  а  явови,  секс *пелька*  валось  мельганзо  молиця  валтнэнь марто сёрмадови прок суффикстэме вал. Келень историядо наукась арси – кезэрень шкасто <span class="ital">икеле</span>, <span class="ital">удало</span> валтнэ явовсть кавто пелькска: <span class="ital">ике-/span>  ды  <span class="ital">уда-/span>  –  прявт лемень юрт; <span class="ital">-ле*, <span class="ital">-ло</span>  –  локативень суффикст. Неень шкань кельсэнть неть суффикстнэ  а  явовить  юртнэнь  эйстэ.  Секс <span class="ital">икеле</span>, <span class="ital">удало</span>  валтнэ,  прок  суффикстэметь, мельгаст молиця валтнэнь марто сёрмадовить вейсэ.
+<li>
+  <p>Бути  поладовиця  валъюртнэсэ  ютась  опрощениянь  процесс.  Невтемга: <span class="ital">пелькакенже</span>, <span class="ital">пелькаполда</span>, <span class="ital">пелькарашко</span> валтнэнь  васенце  пельксэнть  юрозо <span class="ital">пель-</span>,  конанень поладови  <span class="ital">-ка</span>  валонь  теиця  суффиксэсь.  Маряви,  ней  те  суффиксэсь  юронть  эйстэ  а  явови,  секс *пелька*  валось  мельганзо  молиця  валтнэнь марто сёрмадови прок суффикстэме вал. Келень историядо наукась арси – кезэрень шкасто <span class="ital">икеле</span>, <span class="ital">удало</span> валтнэ явовсть кавто пелькска: <span class="ital">ике-/span>  ды  <span class="ital">уда-/span>  –  прявт лемень юрт; <span class="ital">-ле*, <span class="ital">-ло</span>  –  локативень суффикст. Неень шкань кельсэнть неть суффикстнэ  а  явовить  юртнэнь  эйстэ.  Секс <span class="ital">икеле</span>, <span class="ital">удало</span>  валтнэ,  прок  суффикстэметь, мельгаст молиця валтнэнь марто сёрмадовить вейсэ.</p>
 </li>
 
-<li>Бути  поладовиця  валтнэстэ кона-бути  неень  шкань кельсэнть ськамонзо – лия валтомо кортамсто тевс а нолдави. Невтемга:
-
-<table>
-<tbody>
-<tr><td>кирда</td><td>: </td><td>ламонькирда, кавтонькирда, котокирда, котокирдаз, котокирдазь</td></tr>
-<tr><td>кадкс</td><td>: </td><td>кадкспуло</td></tr>
-</tbody>
-</table>
+<li>
+  <p>Бути  поладовиця  валтнэстэ кона-бути  неень  шкань кельсэнть ськамонзо – лия валтомо кортамсто тевс а нолдави. Невтемга:</p>
+  <table>
+  <tbody>
+  <tr><td><span class="ital">кирда</span></td><td>: </td><td><span class="ital">ламонькирда, кавтонькирда, котокирда, котокирдаз, котокирдазь</span></td></tr>
+  <tr><td><span class="ital">кадкс</span></td><td>: </td><td><span class="ital">кадкспуло</span></td></tr>
+  </tbody>
+  </table>
 </li>
 
 <li>Бути вейсэндявиця валтнэстэ конаяк неень шкань эрзятненень а чарькодеви. Невтемга:
