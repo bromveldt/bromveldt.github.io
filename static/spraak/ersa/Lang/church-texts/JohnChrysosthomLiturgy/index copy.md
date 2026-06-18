@@ -1,7 +1,8 @@
 ---
 layout: simple
 title: Ersa pages
-permalink: /ersa/books/church-texts/JohnChrysosthomLiturgy/
+permalink: /ersa/books/church-texts/JohnChrysosthomLiturgy-copy/
+published: false
 tags: [bruno, myv, ersa, church-texts]
 ---
 Table of contents

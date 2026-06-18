@@ -8,7 +8,6 @@ theme: slate
 lang: en
 permalink: /geo/usa/nv/
 tags: [bruno, usa]
-tags: [ bruno, job, search]
 ---
 
 | AVERAGE YEARLY SALARY | AVERAGE MONTHLY RENT | HOW MUCH INCOME TAX WILL I PAY? | MONTHLY COST OF LIVING + MORTGAGE |

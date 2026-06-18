@@ -6,9 +6,8 @@ description: Some travel destinations
 layout: simple
 theme: slate
 lang: en
-permalink: /greener-pastures/greece/
+permalink: /geo/ukraine/
 tags: [bruno, ukrainian, ukr]
-tags: [ bruno, greece, livable]
 ---
 
 Рахунок використовуватиметься для зарахування благодійної допомоги з України та з-за кордону. Міністерство соціальної політики використовуватиме зібрані кошти для забезпечення підтримки громадян України, які найбільше страждають від війни.

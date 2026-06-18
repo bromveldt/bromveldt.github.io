@@ -6,9 +6,8 @@ description: Federal States and tax regimes
 layout: simple
 theme: slate
 lang: en
-permalink: /geo/usa/nv/
+permalink: /geo/usa/tx/
 tags: [bruno, usa]
-tags: [ bruno, job, search]
 ---
 
 | AVERAGE YEARLY SALARY | AVERAGE MONTHLY RENT | HOW MUCH INCOME TAX WILL I PAY? | MONTHLY COST OF LIVING + MORTGAGE |
