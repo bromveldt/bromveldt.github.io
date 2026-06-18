@@ -6,8 +6,8 @@ description: desc
 layout: simple
 theme: slate
 lang: en
-permalink: /green-pastures/usa/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/woorden/lyho/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 В російській мові він отримав таке переносне значення, «як усе погано», як скорочення від російських слів «жестко» або «жестоко».

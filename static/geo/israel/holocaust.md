@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Culpable for Holocaust
+permalink: /geo/israel/holocaust/
+tags: [bruno, israel]
+---
+
 #### Culpable for Holocaust
 
 In time it engaged such Jewish theologians as Emil Fackenheim, Eliezer Berkovits and Arthur Green and writers like Elie Wiesel, who had already exposed his own doubts in his Holocaust memoir, “Night.”

@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Повернись живим — реквізити
+permalink: /spraak/ukr/texts/povernis/
+tags: [bruno, ukrainian, ukr, texts]
+---
+
 Назва підприємства/company Name
 МБФ ПОВЕРНИСЬ ЖИВИМ БО
 CO "INTERNATIONAL CHARITABLE FOUNDATION "COME BACK ALIVE"

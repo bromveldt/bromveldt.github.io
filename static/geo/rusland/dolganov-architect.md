@@ -1,3 +1,10 @@
+---
+layout: simple
+title: http://www.russiskusstvo.ru/authors/146/a71/
+permalink: /geo/rusland/dolganov-architect/
+tags: [bruno, rusland]
+---
+
 http://www.russiskusstvo.ru/authors/146/a71/
 
 показывается голова Долганова, кстати, очень похожего на Рахманинова
@@ -17,4 +24,3 @@ http://www.gardener.ru/gap/person/page35.php
 автором Схемы озеленения Москвы 33 35
 
 возглавлял мастерскую озеленения в Институте генерального плана Москвы
-

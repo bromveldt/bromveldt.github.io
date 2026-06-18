@@ -1,3 +1,10 @@
+---
+layout: simple
+title: По общегражданскому паспорту
+permalink: /geo/rusland/visa/
+tags: [bruno, rusland]
+---
+
 По общегражданскому паспорту
 
 Абхазия (90 дней)

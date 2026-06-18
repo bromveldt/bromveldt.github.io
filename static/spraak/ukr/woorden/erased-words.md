@@ -6,8 +6,8 @@ description: -
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/10sliv/
-tags: [ bruno, ukrainian, 24tv.ua]
+permalink: /spraak/ukr/woorden/erased-words/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 06 КВІТНЯ 2023

@@ -6,8 +6,8 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/goroh/onde/
-tags: [ bruno, urkainian, goroh ]
+permalink: /spraak/ukr/goroh/ondeczky/
+tags: [bruno, ukrainian, ukr, goroh]
 ---
 
 Те саме, що о́нде. Приклади

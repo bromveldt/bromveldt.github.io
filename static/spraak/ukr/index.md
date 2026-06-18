@@ -10,6 +10,22 @@ permalink: /spraak/ukr/
 tags: [ bruno, ukrainian, news]
 ---
 
+### Subfolders
+
+- [Woorden](/spraak/ukr/woorden/)
+- [Goroh — woordenboek](/spraak/ukr/goroh/)
+- [Spraakleer](/spraak/ukr/spraakleer/)
+- [Dialecten](/spraak/ukr/dialekt/)
+- [Teksten](/spraak/ukr/texts/)
+- [Usage](/spraak/ukr/usage/)
+- [Accenting](/spraak/ukr/accenting/)
+
+### Pages
+
+- [Ukrainian phrases](/spraak/ukr/phrases/)
+- [метод заснований на ліпосакції](/spraak/ukr/liposuction/)
+- [прополіс](/spraak/ukr/propolis/)
+
 ### Some News Outlets
 
 [Радіо Трек: НОВИНИ.](https://radiotrek.rv.ua/news/)

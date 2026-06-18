@@ -8,6 +8,7 @@ layout: simple
 theme: slate
 lang: en
 permalink: /geo/usa/taxopt/
+tags: [bruno, usa]
 tags: [ bruno, ukr, naukovci]
 ---
 

@@ -1,3 +1,10 @@
+---
+layout: simple
+title: obiti rat ni diktirati uslove mira
+permalink: /spraak/hrv/texts/psaropoulos/
+tags: [bruno, croatian, hrv]
+---
+
 obiti rat ni diktirati uslove mira
 Zatvori traku Breaking news
 pauzirajte udarne vijesti traku

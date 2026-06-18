@@ -6,8 +6,8 @@ description: -
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/spraakleer/uskladneni-chystomovky/
-tags: [ bruno, ukrainian, знегода]
+permalink: /spraak/ukr/spraakleer/uskladneny-chystomovky/
+tags: [bruno, ukrainian, ukr, spraakleer]
 ---
 
 [Image](uskladneni-chystomovky.png)

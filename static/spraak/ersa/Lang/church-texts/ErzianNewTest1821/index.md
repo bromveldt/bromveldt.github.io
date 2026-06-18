@@ -2,6 +2,7 @@
 layout: simple
 title: СВЯТОЙ ЕВАНГЕЛЬЯ
 permalink: /ersa/books/church-texts/ErzianNewTest1821/
+tags: [bruno, myv, ersa, church-texts]
 ---
 ### ГОСПОДАНЬ МИНЕКЪ ІИСУСАНЬ ХРИСТАНЬ
 

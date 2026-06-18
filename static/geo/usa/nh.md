@@ -7,6 +7,7 @@ layout: simple
 theme: slate
 lang: en
 permalink: /geo/usa/nh/
+tags: [bruno, usa]
 tags: [ bruno, job, search]
 ---
 

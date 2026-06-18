@@ -6,8 +6,8 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/phrases/
-tags: [ bruno, urkainian, phrases]
+permalink: /spraak/ukr/woorden/stosunky/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Так, слово "відносини" варто вживати лише коли йдеться про суспільно-економічні зв’язки між організаціями чи державами. Вони бувають політичними, економічними, виробничими, дипломатичними, правовими, міжнародними, ринковими тощо.

@@ -6,8 +6,8 @@ description: про наріччя української мови
 layout: simple
 theme: slate
 lang: en
-permalink: /urk/dialekt/dialekty/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/dialekt/dialecty/
+tags: [bruno, ukrainian, ukr, dialekt]
 ---
 
 #### Скільки діалектів в українській мові?

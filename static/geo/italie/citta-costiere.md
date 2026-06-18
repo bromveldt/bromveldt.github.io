@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Le 25 città costiere più belle d'Italia
+permalink: /geo/italie/citta-costiere/
+tags: [bruno, italie]
+---
+
 Le 25 città costiere più belle d'Italia
 
 Amalfi, Campania

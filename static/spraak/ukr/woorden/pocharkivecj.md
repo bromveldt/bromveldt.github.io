@@ -1,4 +1,3 @@
-
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
@@ -8,7 +7,7 @@ layout: simple
 theme: slate
 lang: en
 permalink: /spraak/ukr/woorden/pocharkivecj/
-tags: [ bruno, ukrainian, 24tv.ua]
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 У російсько-українському словнику мовознавця Овсія Ізюмова за 1926 рік є лише один варіант перекладу цього слова. Це "горілча́ний брат". А на сайті "Словотвір" пропонуються такі варіанти перекладу:

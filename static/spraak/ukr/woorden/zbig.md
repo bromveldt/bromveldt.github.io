@@ -6,8 +6,8 @@ description: Авраменко
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/naukovci/
-tags: [ bruno, ukr, naukovci]
+permalink: /spraak/ukr/woorden/zbig/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Оскільки наша мова має різноманітні синоніми, слід користуватися ними. Замість співпадати слід вживати збігатися.

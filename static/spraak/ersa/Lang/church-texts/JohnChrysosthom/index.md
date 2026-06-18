@@ -2,6 +2,7 @@
 layout: simple
 title: Иоанн Златоустонь литургиязо
 permalink: /ersa/books/church-texts/JohnChrysosthom/
+tags: [bruno, myv, ersa, church-texts]
 ---
 ### Иоанн Златоустонь литургиязо
 

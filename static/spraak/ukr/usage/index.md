@@ -6,8 +6,8 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/slova/
-tags: [ bruno, ukrainian, vocables]
+permalink: /spraak/ukr/usage/
+tags: [bruno, ukrainian, ukr, usage]
 ---
 
 Автор: Марина Іщенко
@@ -40,3 +40,9 @@ tags: [ bruno, ukrainian, vocables]
 + У прийдешньому новому році бажаю вам щастя.
 
 Таким чином, усі зрозуміють, що ви маєте на увазі прийдешні свята, а не попередні.
+
+---
+
+- [На разі чи наразі](/spraak/ukr/usage/avramenko-narazi/)
+- [Авраменко](/spraak/ukr/usage/avramenko/)
+- [Андрій Шимановський](/spraak/ukr/usage/szymanovskyj/)

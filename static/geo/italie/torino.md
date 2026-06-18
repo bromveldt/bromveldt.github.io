@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Ci sono le famiglie Agnelli ed Elkann, con il presidente della Fiat, John , e i 
+permalink: /geo/italie/torino/
+tags: [bruno, italie]
+---
+
 Ci sono le famiglie Agnelli ed Elkann, con il presidente della Fiat, John , e i fratelli Lapo, Andrea e Ginevra in prima fila, alla messa di trigesima per la morte di Marella Agnelli, mancata il 23 febbraio scorso, all’età di 92 anni. In prima fila anche la figlia Margherita con il marito Serge di Phalen. Sotto le volte del santuario, i labari della città di Torino e dell Regione.
 
 « A ripensare la vita di Marella Agnelli e chiedersi che cosa ha lasciato di sé - ha detto John Elkann - si ha la sensazione di una lunga vita spesa alla ricerca della perfezione in tutto quello a cui si dedicava. La ricerca del bello era un desiderio di elevamento continuo, coltivato ogni giorno della sua vita, i giardini, gli arredi, le stoffe, le fotografie. Così, ciò che si sa di Donna Marella ruota attorno a cose apparentemente futili. Non è cosi. In realtà era ed è sempre stata nel corso della sua vita una donna fortissima, dotata di una volontà di ferro e di grande generosità. Donna Marella è sempre stata un punto di riferimento per noi, garantendoci stabilità in qualsiasi momento. Ci ha seguiti, educati e protetti». E racconta un episodio inedito che dice molto del carattere di Marella: «Una volta in Corsica scoppiò un incendio accanto alla nostra casa. Avevo 12 anni. Lei volle rimanere lì, e mandò noi bambini a dormire altrove. Il giorno dopo mi disse: ”Sono delusa da te. Perché mi hai lasciato in questa casa sola? Avresti dovuto chiedermi di andare con i tuoi fratelli e di poter restare tu qui a controllare la casa”... Quel giorno mia nonna mi fece capire cosa significhi la responsabilità».

@@ -7,6 +7,7 @@ layout: simple
 theme: slate
 lang: en
 permalink: /greener-pastures/usa/
+tags: [bruno, usa]
 tags: [ bruno, job, search]
 ---
 

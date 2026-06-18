@@ -6,8 +6,8 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/goroh/kvolo/
-tags: [ bruno, urkainian, phrases]
+permalink: /spraak/ukr/goroh/prymha/
+tags: [bruno, ukrainian, ukr, goroh]
 ---
 
 Несподіване, нічим не обґрунтоване бажання як вияв чиєїсь неврівноваженості; забаганка. Приклади

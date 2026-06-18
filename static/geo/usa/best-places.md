@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Best places to live USA 
+permalink: /geo/usa/best-places/
+tags: [bruno, usa]
+---
+
 Best places to live USA 
 
 Sarasota FL

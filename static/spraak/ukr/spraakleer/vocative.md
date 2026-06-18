@@ -6,8 +6,8 @@ description: Vocative
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/naukovci/
-tags: [ bruno, ukr, naukovci]
+permalink: /spraak/ukr/spraakleer/vocative/
+tags: [bruno, ukrainian, ukr, spraakleer]
 ---
 
 Усі форми кличного відмінка іменників можуть закінчуватися лише на 5 букв:

@@ -7,7 +7,7 @@ author: Юлія Потерянко
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/pjat/
+permalink: /spraak/ukr/spraakleer/pjat/
 tags: [ bruno, ukrainian, articles, error]
 ---
 

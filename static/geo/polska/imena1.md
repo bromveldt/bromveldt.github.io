@@ -1,3 +1,10 @@
+---
+layout: simple
+title: язык и литература
+permalink: /geo/polska/imena1/
+tags: [bruno, polska]
+---
+
 #язык и литература
 Автор: Mikołaj Gliński
 Опубликовано: 14 сент. 2015

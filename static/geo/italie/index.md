@@ -7,6 +7,7 @@ layout: simple
 theme: slate
 lang: en
 permalink: /greener-pastures/italy/
+tags: [bruno, italie]
 tags: [ bruno, italy, livable]
 ---
 

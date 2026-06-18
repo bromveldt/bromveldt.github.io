@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Rozmawiamy z prof. Dominiką Dudek. Jak być szczęśliwym nie tylko w święta?
+permalink: /geo/polska/dudek/
+tags: [bruno, polska]
+---
+
 
 Rozmawiamy z prof. Dominiką Dudek. Jak być szczęśliwym nie tylko w święta?
 
@@ -68,4 +75,3 @@ dostęp do wszystkich treści Dziennika Polskiego,codzienne wydanie Dziennika 
 KUP DOSTĘP
 
 Masz już konto? Zaloguj się
-

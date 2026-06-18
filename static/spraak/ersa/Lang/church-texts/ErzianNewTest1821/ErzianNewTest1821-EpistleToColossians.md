@@ -6,6 +6,7 @@ layout: simple
 theme: slate
 lang: ru
 permalink: /ersa/books/church-texts/ErzianNewTest1821/EpistleToColossians/
+tags: [bruno, myv, ersa, church-texts]
 
 ---
 

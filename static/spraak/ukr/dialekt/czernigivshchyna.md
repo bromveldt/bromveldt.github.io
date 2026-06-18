@@ -6,8 +6,8 @@ description: унікальний закарпатський діалект
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/dialekt/zakarpattja/
-tags: [ bruno, ukr, naukovci]
+permalink: /spraak/ukr/dialekt/czernigivshchyna/
+tags: [bruno, ukrainian, ukr, dialekt]
 ---
 
 #### Так говорять на Чернігівщині: чи знаєте ви, що таке гайстер, деркач, круганець та палайка

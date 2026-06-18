@@ -6,8 +6,8 @@ description: півники vs. іриси, волошки vs. васильки
 layout: simple
 theme: slate
 lang: en
-permalink: /green-pastures/usa/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/woorden/irysy/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Часто від українців можна почути неправильні назви квітів, які є запозиченнями з російської мови. Деякі назви, навпаки, українці можуть уникати, вважаючи їх суржиком. Розповідаємо, як правильно назвати певні квіти українською мовою.

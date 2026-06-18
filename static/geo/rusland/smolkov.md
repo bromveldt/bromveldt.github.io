@@ -1,3 +1,10 @@
+---
+layout: simple
+title: https://ru.stsg.de/cms/node/11118?suchwort=%D0%A1%D0%BC%D0%BE%D0%BB%D1%8C%D0%BA&
+permalink: /geo/rusland/smolkov/
+tags: [bruno, rusland]
+---
+
 
 https://ru.stsg.de/cms/node/11118?suchwort=%D0%A1%D0%BC%D0%BE%D0%BB%D1%8C%D0%BA&beginn=%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D0%B1%D1%83%D0%BA%D0%B2%D1%8B+%D1%84%D0%B0%D0%BC%D0%B8%D0%BB%D0%B8%D0%B8
 

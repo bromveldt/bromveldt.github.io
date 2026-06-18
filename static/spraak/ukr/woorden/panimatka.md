@@ -6,8 +6,8 @@ description: Parents
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/panimatka/
-tags: [ bruno, ukr, panimatka]
+permalink: /spraak/ukr/woorden/panimatka/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Таким чином, неправильно казати:

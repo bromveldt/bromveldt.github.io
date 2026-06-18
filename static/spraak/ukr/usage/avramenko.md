@@ -6,7 +6,7 @@ description: -
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/avramenko/
+permalink: /spraak/ukr/usage/avramenko/
 tags: [ bruno, ukrainian, Авраменко]
 ---
 

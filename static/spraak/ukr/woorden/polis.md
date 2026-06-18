@@ -6,8 +6,8 @@ description: How to best replace the term «страховка»
 layout: simple
 theme: slate
 lang: en
-permalink: /green-pastures/usa/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/woorden/polis/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Коли йдеться про страховий поліс, його скорочено називають «страховка» або «страхівка». Варіант «страхівка» є помилковим, тож його варто уникати. «Страховка» — не є запозиченням з російської мови чи калькуванням, тож це слово можна спокійно використовувати.

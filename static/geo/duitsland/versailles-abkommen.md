@@ -1,3 +1,10 @@
+---
+layout: simple
+title: the German economy did not suffer from the Versailles treaty - read A.P.B Taylor
+permalink: /geo/duitsland/versailles-abkommen/
+tags: [bruno, duitsland]
+---
+
 the German economy did not suffer from the Versailles treaty - read A.P.B Taylor
 
 Tony Judt

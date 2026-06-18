@@ -6,8 +6,8 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/phrases/
-tags: [ bruno, urkainian, shymanovsky, Шимановський]
+permalink: /spraak/ukr/usage/szymanovskyj/
+tags: [bruno, ukrainian, ukr, usage]
 ---
 
 на *дрібняки* почали казати дрібні гроші на кшталт російського "маленькие деньги".

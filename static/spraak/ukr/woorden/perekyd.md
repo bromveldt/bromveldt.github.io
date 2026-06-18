@@ -6,8 +6,8 @@ description: «Апостроф»
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/naukovci/
-tags: [ bruno, ukr, naukovci]
+permalink: /spraak/ukr/woorden/perekyd/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Видання «Апостроф» розповіло, як українською буде «кувырком». Це слово означає котитися, перекидаючись через голову, однак дуже часто використовується в переносному сенсі, тобто «дуже швидко» чи «безладно».

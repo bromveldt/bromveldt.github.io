@@ -7,8 +7,8 @@ author: Юлія Піщанська
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/jak-zaminyty/
-tags: [ bruno, ukrainian, articles, surzhyk]
+permalink: /spraak/ukr/woorden/radost/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Видання LIGA.net опублікувало добірку висловів, якими можна сказати про велику радість. Поповнюйте словниковий запас та збагачуйте своє мовлення цікавими приказками.

@@ -7,8 +7,8 @@ author: Юлія Потерянко
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/jak-zaminyty/
-tags: [ bruno, ukrainian, articles, surzhyk]
+permalink: /spraak/ukr/woorden/negative-terms/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Інститут мовознавства імені O. O. Потебні НАН України опублікував список слів, якими можна точно охарактеризувати людей з різними характерними, часто негативними особливостями. Зараз їх всі відносять до категорії рідковживаних, хоча насправді вони цілком доречні і у сучасному мовленні та здатні суттєво збагатити активний словник.

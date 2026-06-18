@@ -7,7 +7,7 @@ layout: simple
 theme: slate
 lang: en
 permalink: /spraak/ukr/phrases/
-tags: [ bruno, urkainian, phrases]
+tags: [bruno, ukrainian, ukr]
 ---
 
 Але цього дня у Києві ще перебували українські війська й точилися бої з російсько-більшовицькими військами.

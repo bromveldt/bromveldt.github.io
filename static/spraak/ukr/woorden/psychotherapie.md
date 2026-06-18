@@ -6,8 +6,8 @@ description: Profiles and projects
 layout: simple
 theme: slate
 lang: en
-permalink: /jobsearch
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/woorden/psychotherapie/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Psychotherapie :"Seien Sie glücklich, und enttäuschen Sie Ihre Eltern"

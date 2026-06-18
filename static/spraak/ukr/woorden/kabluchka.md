@@ -6,8 +6,8 @@ description: Світлана Чернишова
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/naukovci/
-tags: [ bruno, ukr, naukovci]
+permalink: /spraak/ukr/woorden/kabluchka/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Учителька української мови Світлана Чернишова назвала таке "популярне" слово, яке треба замінити. Це – "кольцо", зазначає Освіта 24.

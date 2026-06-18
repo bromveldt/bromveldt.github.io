@@ -7,6 +7,7 @@ layout: simple
 theme: slate
 lang: en
 permalink: /geo/israel/
+tags: [bruno, israel]
 tags: [ bruno, israel, livable]
 ---
 

@@ -2,6 +2,7 @@
 layout: simple
 title: Ersa pages
 permalink: /ersa/books/church-texts/JohnChrysosthomLiturgy/
+tags: [bruno, myv, ersa, church-texts]
 ---
 Table of contents
 

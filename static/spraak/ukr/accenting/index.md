@@ -6,8 +6,8 @@ description: Some travel destinations
 layout: simple
 theme: slate
 lang: en
-permalink: /geo/duitsland/
-tags: [ bruno, greece, livable]
+permalink: /spraak/ukr/accenting/
+tags: [bruno, ukrainian, ukr, accenting]
 ---
 
 Так, Освіта 24 допоможе вам не припускатися помилок у вимові окремих українських слів.

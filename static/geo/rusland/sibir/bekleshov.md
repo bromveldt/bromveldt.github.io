@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Беклешов Александр Андреевич
+permalink: /geo/rusland/sibir/bekleshov/
+tags: [bruno, rusland, sibir]
+---
+
 
 Беклешов Александр Андреевич
 

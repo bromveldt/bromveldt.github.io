@@ -6,8 +6,8 @@ description: Goroh
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/naukovci/
-tags: [ bruno, ukr, naukovci]
+permalink: /spraak/ukr/spraakleer/lastnames/
+tags: [bruno, ukrainian, ukr, spraakleer]
 ---
 
 Зазначається, що прізвища утворені від словосполучень, наприклад Добривечір, Нетудихата та схожі, були козацькими. Вони поширювались із Запоріжжя та Півдня України.

@@ -2,6 +2,7 @@
 title: Русско-Эрзянский словарь / Рузонь-Эрзянь валкс
 layout: simple
 permalink: /ersa/dict/ruserz
+tags: [bruno, myv, ersa]
 ---
 #### Словарь составлен Борисом Эрюшовым (Эрюш Вежай)
 

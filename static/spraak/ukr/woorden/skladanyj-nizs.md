@@ -6,8 +6,8 @@ description: складаним ножиком
 layout: simple
 theme: slate
 lang: en
-permalink: /green-pastures/usa/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/woorden/skladanyj-nizs/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 "Перочинным ножиком" називають класичний ніж невеликих розмірів, леза якого забираються всередину рукоятки. Його основною особливістю є наявність одного чи кількох відкидних лез по обидва боки ручки.

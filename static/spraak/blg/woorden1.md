@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Отдръпвах се.
+permalink: /spraak/blg/woorden1/
+tags: [bruno, bulgarian, blg]
+---
+
 Отдръпвах се.
 
 ru Я уходил от ответа

@@ -6,8 +6,8 @@ description: Goroh vocable
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/goroh/stajennyj
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/goroh/stajennyj/
+tags: [bruno, ukrainian, ukr, goroh]
 ---
 
 СТАЄ́ННИЙ

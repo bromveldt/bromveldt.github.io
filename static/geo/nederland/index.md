@@ -7,6 +7,7 @@ layout: simple
 theme: slate
 lang: en
 permalink: /geo/nederland/
+tags: [bruno, nederland]
 tags: [ bruno, nederland, livable]
 ---
 

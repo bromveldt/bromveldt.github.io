@@ -6,8 +6,8 @@ description: -
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/dialiekt/galyczyna/
-tags: [ bruno, ukrainian, скриня, скринька, шухлядка, ящик, Сербенська, serbenska]
+permalink: /spraak/ukr/dialekt/galyczyna/
+tags: [bruno, ukrainian, ukr, dialekt]
 ---
 
 16:28 - 15 грудня 2023

@@ -6,26 +6,26 @@
   xmlns:dcterms="http://purl.org/dc/terms/"
 >
 
-    <channel rdf:about="http://www.example.com/">
-      <title>hattalo.github.io</title>
-      <link>https://hattalo.github.io/</link>
-      <description>This web site contains content representing the views of Bruno Samueli.</description>
+    <channel rdf:about="https://bromveldt.github.io/">
+      <title>bromveldta at github.io</title>
+      <link>https://bromveldt.github.io/</link>
+      <description>This web site contains HTML and PDF content representing the views of Bruno Samueli.</description>
       <dc:language>en</dc:language>
       <dc:date>2019-12-21T20:24:55Z</dc:date>
-      <dc:publisher>Gareni UG &amp; Co. KG</dc:publisher> 
+      <dc:publisher>Osterholm B.V.</dc:publisher> 
       <dc:creator>Bruno Samueli</dc:creator>
       <items>
         <rdf:Seq>
-          <rdf:li rdf:resource="https://hattalo.github.io/ersa/" />
-          <rdf:li rdf:resource="https://hattalo.github.io/cv/bruno/" />
+          <rdf:li rdf:resource="https://bromveldt.github.io/ersa/" />
+          <rdf:li rdf:resource="https://bromveldt.github.io/cv/bruno/" />
         </rdf:Seq>
       </items>
     </channel>
 
-    <item rdf:about="https://hattalo.github.io/cv/bruno/"> 
-      <title>Ersa Resources</title>
-      <link>https://hattalo.github.io/ersa/</link>
-      <description>Bruno Samueli's Ersa Resources in simple formatting</description>
+    <item rdf:about="https://bromveldt.github.io/cv/bruno/"> 
+      <title>Resume</title>
+      <link>https://bromveldt.github.io/code-snippets/</link>
+      <description>Bruno Samueli's Code Snippet Resources</description>
       <dc:creator>Bruno Samueli</dc:creator>
       <dc:language>en</dc:language>
       <dc:date>2019-12-21T11:55:20Z</dc:date>
@@ -35,10 +35,10 @@
       <dcterms:modified>2019-12-21T14:07:01Z</dcterms:modified>
       <dcterms:conformsTo rdf:resource="http://www.w3.org/TR/xhtml1/" />
     </item>
-    <item rdf:about="https://hattalo.github.io/ersa/"> 
+    <item rdf:about="https://bromveldt.github.io/geest/"> 
       <title>Ersa</title>
-      <link>https://hattalo.github.io/ersa/</link>
-      <description>Ersa Resources</description>
+      <link>https://bromveldt.github.io/ersa/</link>
+      <description>Spirituality Resources</description>
       <dc:creator>Bruno Samueli</dc:creator>
       <dc:language>en</dc:language>
       <dc:date>2019-12-21T11:55:20Z</dc:date>
@@ -48,10 +48,10 @@
       <dcterms:modified>2019-12-21T14:07:01Z</dcterms:modified>
       <dcterms:conformsTo rdf:resource="http://www.w3.org/TR/xhtml1/" />
     </item>
-    <item rdf:about="https://hattalo.github.io/ersa/"> 
-      <title>Old-Rite Orthodox</title>
-      <link>https://hattalo.github.io/oldrite/</link>
-      <description>Old-Rite Orthodox Resources</description>
+    <item rdf:about="https://bromveldt.github.io/geo/"> 
+      <title>Countries</title>
+      <link>https://bromveldt.github.io/geo/</link>
+      <description>Countries Resources</description>
       <dc:creator>Bruno Samueli</dc:creator>
       <dc:language>en</dc:language>
       <dc:date>2019-12-24T11:55:20Z</dc:date>
@@ -61,9 +61,9 @@
       <dcterms:modified>2019-12-24T14:07:01Z</dcterms:modified>
       <dcterms:conformsTo rdf:resource="http://www.w3.org/TR/xhtml1/" />
     </item>
-    <item rdf:about="https://hattalo.github.io/ersa/"> 
+    <item rdf:about="https://bromveldt.github.io/ruscath/"> 
       <title>Russian Catholic</title>
-      <link>https://hattalo.github.io/ersa/</link>
+      <link>https://bromveldt.github.io/ruscath/</link>
       <description>Russian Catholic Resources</description>
       <dc:creator>Bruno Samueli</dc:creator>
       <dc:language>en</dc:language>
@@ -74,12 +74,42 @@
       <dcterms:modified>2019-12-26T14:07:01Z</dcterms:modified>
       <dcterms:conformsTo rdf:resource="http://www.w3.org/TR/xhtml1/" />
     </item>
+    <item rdf:about="https://bromveldt.github.io/spraak/"> 
+      <title>Languages</title>
+      <link>https://bromveldt.github.io/spraak/</link>
+      <description>Languages Resources</description>
+      <dc:creator>Bruno Samueli</dc:creator>
+      <dc:language>en</dc:language>
+      <dc:date>2019-12-26T11:55:20Z</dc:date>
+      <dc:format>text/html</dc:format>
+      <dcterms:created>2019-12-26T11:17:35Z</dcterms:created>
+      <dcterms:issued>2019-12-2T11:55:20Z</dcterms:issued>
+      <dcterms:modified>2019-12-26T14:07:01Z</dcterms:modified>
+      <dcterms:conformsTo rdf:resource="http://www.w3.org/TR/xhtml1/" />
+    </item>
+    <item rdf:about="https://bromveldt.github.io/system-design/"> 
+      <title>System Design</title>
+      <link>https://bromveldt.github.io/system-design/</link>
+      <description>Languages Resources</description>
+      <dc:creator>Bruno Samueli</dc:creator>
+      <dc:language>en</dc:language>
+      <dc:date>2019-12-26T11:55:20Z</dc:date>
+      <dc:format>text/html</dc:format>
+      <dcterms:created>2019-12-26T11:17:35Z</dcterms:created>
+      <dcterms:issued>2019-12-2T11:55:20Z</dcterms:issued>
+      <dcterms:modified>2019-12-26T14:07:01Z</dcterms:modified>
+      <dcterms:conformsTo rdf:resource="http://www.w3.org/TR/xhtml1/" />
+    </item>
     
-    <textinput rdf:about="https://hattalo.github.io/about/">
+    <textinput rdf:about="https://bromveldt.github.io/about/">
       <title>About</title>
       <description>General info about this Web site</description>
       <name>q</name>
-      <link>https://hattalo.github.io/about/</link>
+      <link>https://bromveldt.github.io/about/</link>
     </textinput>
+
+    <!--
+    Old-Rite Orthodox
+    -->
 
 </rdf:RDF>

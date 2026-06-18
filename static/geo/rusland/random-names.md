@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Никодим Сувалов
+permalink: /geo/rusland/random-names/
+tags: [bruno, rusland]
+---
+
 Никодим Сувалов
 
 Анфим Сулешов

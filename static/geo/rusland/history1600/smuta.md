@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Речь Посполитая – это и Польша, и Великое кн
+permalink: /geo/rusland/history1600/smuta/
+tags: [bruno, rusland, history1600]
+---
+
 
 
 

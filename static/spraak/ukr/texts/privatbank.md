@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Privatbank donation details
+permalink: /spraak/ukr/texts/privatbank/
+tags: [bruno, ukrainian, ukr, texts]
+---
+
 У Військово-медичний клінічний центр Західного регіону - м.Львів прибувають поранені внаслідок нічного бомбардування.
 
 На цей момент є ПОТРЕБА:

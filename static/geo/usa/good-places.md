@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Colorado Springs
+permalink: /geo/usa/good-places/
+tags: [bruno, usa]
+---
+
 Colorado Springs
 Boulder
 Aspen

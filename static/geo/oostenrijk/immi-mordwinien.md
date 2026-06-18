@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Republik Mordwinien
+permalink: /geo/oostenrijk/immi-mordwinien/
+tags: [bruno, oostenrijk]
+---
+
 Republik Mordwinien
 
 mordwinischen Nationalität

@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Casina delle Civette
+permalink: /geo/italie/roma/
+tags: [bruno, italie]
+---
+
 Casina delle Civette
 
 Il Museo della Casina delle Civette si trova all’interno del parco di Villa Torlonia a Roma ed è una delle bellezze nascoste della Capitale. Il suo nome deriva dal fatto che le civette sono uno decori ricorrenti nelle vetrate e nelle maioliche.

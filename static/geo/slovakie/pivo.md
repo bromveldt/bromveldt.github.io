@@ -1,3 +1,10 @@
+---
+layout: simple
+title: S^aris^ 12% zlatà
+permalink: /geo/slovakie/pivo/
+tags: [bruno, slovakie]
+---
+
 S^aris^ 12% zlatà
 Pivo ležiak svetlý
 

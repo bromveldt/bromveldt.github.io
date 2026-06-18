@@ -6,7 +6,7 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/hairdresser/
+permalink: /spraak/ukr/woorden/hairdresser/
 tags: [ bruno, urkainian, hairdresser]
 ---
 

@@ -6,8 +6,8 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/phrases/
-tags: [ bruno, urkainian, phrases]
+permalink: /spraak/ukr/woorden/nemae-tolk/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Автор: Анастасія Рибенко

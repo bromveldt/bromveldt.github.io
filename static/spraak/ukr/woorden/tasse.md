@@ -6,8 +6,8 @@ description: tasse
 layout: simple
 theme: slate
 lang: en
-permalink: /green-pastures/usa/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/woorden/tasse/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Українська мова має багато слів, що означають посудину для подачі кави, такі як чашка, філіжанка, горнятко і навіть кухлик. Ці слова є синонімами, але мають свої особливості вживання. Розглянемо кожне з них окремо.

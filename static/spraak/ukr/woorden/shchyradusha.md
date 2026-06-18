@@ -6,8 +6,8 @@ description: рубаха-парень vs. щира душа
 layout: simple
 theme: slate
 lang: en
-permalink: /green-pastures/usa/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/woorden/shchyradusha/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 За словами Авраменка, "рубаха-парень" українською можна перекласти так:

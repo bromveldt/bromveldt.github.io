@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Shehakol nihye bidvaro
+permalink: /geo/israel/icecream-blessings/
+tags: [bruno, israel]
+---
+
 Shehakol nihye bidvaro
 
 Following Rabi Yehuda Bar Yakar it is a paraprhrase from the verse Ani H Osse Kol Eleh.

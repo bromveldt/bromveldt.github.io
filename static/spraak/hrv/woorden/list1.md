@@ -1,4 +1,3 @@
-
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
@@ -7,8 +6,8 @@ description: Some travel destinations
 layout: simple
 theme: slate
 lang: en
-permalink: /greener-pastures/greece/
-tags: [ bruno, greece, livable]
+permalink: /spraak/hrv/woorden/list1/
+tags: [bruno, croatian, hrv]
 ---
 
 

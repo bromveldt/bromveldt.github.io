@@ -1,3 +1,10 @@
+---
+layout: simple
+title: https://www.bmeia.gv.at/gk-mailand/
+permalink: /geo/oostenrijk/gesetz/
+tags: [bruno, oostenrijk]
+---
+
 https://www.bmeia.gv.at/gk-mailand/
 
 Lichtbildausweis gemäß § 95 FPG (= Legitimationskarte)

@@ -6,8 +6,8 @@ description: Goroh
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/goroh/zapamorochennyj/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/goroh/zapamoroczennyj/
+tags: [bruno, ukrainian, ukr, goroh]
 ---
 
 Дієпр. пас. до запа́морочити. Приклади

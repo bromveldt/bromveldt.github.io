@@ -7,8 +7,8 @@ author: Юлія Потерянко
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/jak-zaminyty/
-tags: [ bruno, ukrainian, articles, surzhyk]
+permalink: /spraak/ukr/woorden/jak-zaminyty/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Юлія Потерянко **Життя**

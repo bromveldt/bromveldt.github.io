@@ -7,8 +7,8 @@ author: -
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/jak-zaminyty/
-tags: [ bruno, ukrainian, articles, champignon]
+permalink: /spraak/ukr/woorden/pecherytcja/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Не будемо зараз занурюватися в історію, чому так сталося, але сьогодні в нашій мові чимало "штучних" слів, які люди часто-густо вживають у щоденному побуті і навіть не замислюються, що так говорити неправильно.

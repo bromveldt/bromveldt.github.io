@@ -6,8 +6,8 @@ description: -
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/goroh/pryskorjuvacz/
-tags: [ bruno, ukr, goroh, прискорювач]
+permalink: /spraak/ukr/goroh/pryskorjuvacz/
+tags: [bruno, ukrainian, ukr, goroh]
 ---
 
 техн. Прилад, пристрій для збільшення швидкості руху чого-небудь. Приклади

@@ -6,8 +6,8 @@ description: -
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/avramenko/
-tags: [ bruno, ukrainian, Авраменко]
+permalink: /spraak/ukr/usage/avramenko-narazi/
+tags: [bruno, ukrainian, ukr, usage]
 ---
 
 Середа, 7 лютого

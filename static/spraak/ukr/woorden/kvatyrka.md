@@ -7,8 +7,8 @@ author: -
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/kvatyrka/
-tags: [ bruno, ukrainian, articles, форточка, ]
+permalink: /spraak/ukr/woorden/kvatyrka/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 "Закрийте форточку, мені дме", "Зараз відкрию форточку, бо нема чим дихати", "Ще трохи, і пташка залетіла би у форточку", - можна почути то тут, то там. Але слова "форточка" в українській мові нема.

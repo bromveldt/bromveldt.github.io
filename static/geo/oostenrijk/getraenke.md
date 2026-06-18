@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Roter Weinachtsstern (Orange/Zimt) 
+permalink: /geo/oostenrijk/getraenke/
+tags: [bruno, oostenrijk]
+---
+
 Roter Weinachtsstern (Orange/Zimt) 
 
 Apfelstücke

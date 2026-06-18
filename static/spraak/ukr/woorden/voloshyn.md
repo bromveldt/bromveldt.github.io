@@ -7,8 +7,8 @@ author: Марія Волошин
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/spraakleer/ponomariv/
-tags: [ bruno, ukrainian, Pomomariv]
+permalink: /spraak/ukr/woorden/voloshyn/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Освіта / Саморозвиток 

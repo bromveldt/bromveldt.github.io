@@ -6,8 +6,8 @@ description: desc
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/ocet/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/woorden/ocet/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Експерти розповіли, що дуже добре відлякує мух оцет. Вам потрібно у неглибоку миску чи пляшку налити яблучний оцет та додати кілька крапель засобу для миття посуду.

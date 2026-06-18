@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Dutch Newspapers
+permalink: /geo/nederland/newspapers/
+tags: [bruno, nederland]
+---
+
 Dutch Newspapers
 
 https://www.parool.nl/

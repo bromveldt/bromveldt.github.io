@@ -6,8 +6,8 @@ description: Vocative
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/naukovci/
-tags: [ bruno, ukr, naukovci]
+permalink: /spraak/ukr/spraakleer/placenames/
+tags: [bruno, ukrainian, ukr, spraakleer]
 ---
 
 Луганск – Луганськ;

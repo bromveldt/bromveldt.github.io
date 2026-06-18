@@ -6,8 +6,8 @@ description: кульчики vs. сірьожки»
 layout: simple
 theme: slate
 lang: en
-permalink: /green-pastures/usa/
-tags: [ bruno, job, search]
+permalink: /spraak/ukr/woorden/kulchyky/
+tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 «Існують думки, що діалектизми псують літературну мову і є мовним сміттям. Ні, друзі, мовне сміття - це суржик», - підкреслив експерт.

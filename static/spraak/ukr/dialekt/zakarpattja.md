@@ -6,8 +6,8 @@ description: унікальний закарпатський діалект
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/dialekt/zakarpattja/
-tags: [ bruno, ukr, naukovci]
+permalink: /spraak/ukr/dialekt/zakarpattja/
+tags: [bruno, ukrainian, ukr, dialekt]
 ---
 
 Кожен регіон України має свій унікальний діалект. Навіть не знаючи, звідки людина, можна це визначити за її мовою. Закарпаття багате на цікаві слова та фрази, зрозуміти які можуть не всі.

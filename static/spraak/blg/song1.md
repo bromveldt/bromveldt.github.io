@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Устата ти говори, но делата ти крещят!
+permalink: /spraak/blg/song1/
+tags: [bruno, bulgarian, blg]
+---
+
 Platinum Sellers Beats
 Release Date
 

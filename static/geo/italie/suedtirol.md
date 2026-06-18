@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Während Bruneck, Pfalzen und Corvara die reichsten Gemeinden in Südtirol sind,
+permalink: /geo/italie/suedtirol/
+tags: [bruno, italie]
+---
+
 Während Bruneck, Pfalzen und Corvara die reichsten Gemeinden in Südtirol sind, befinden sich die ärmsten mit Kastelbell-Tschars, Laas und Taufers im Münstertal im Vinschgau. Die Landeshauptstadt behauptet sich auf dem neunten Platz mit einem durchschnittlichen Einkommen von 24.263 pro Kopf, berichtet Alto Adige online.
 
 Meran liegt gleich hinter Bozen mit einem Durchschnittseinkommen von 23.681 Euro pro Kopf. Weiter vorne im Ranking ist Brixen zu finden, wo die Bürger im Schnitt ein Einkommen 25.185 Euro haben. Was alle drei Städte gemeinsam haben, ist, dass sie über dem landesweiten Durchschnitt von 22.195 Euro liegen.

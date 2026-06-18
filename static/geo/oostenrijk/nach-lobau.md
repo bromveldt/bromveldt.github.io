@@ -1,3 +1,10 @@
+---
+layout: simple
+title: Salzburg
+permalink: /geo/oostenrijk/nach-lobau/
+tags: [bruno, oostenrijk]
+---
+
 Salzburg
 Golling-Abtenau
 Bischofshofen

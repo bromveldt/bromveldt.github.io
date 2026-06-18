@@ -6,8 +6,8 @@ description: ґвара Львова
 layout: simple
 theme: slate
 lang: en
-permalink: /ukr/dialekt/lviv/
-tags: [ bruno, ukr, dialekt, lviv]
+permalink: /spraak/ukr/dialekt/lviv/
+tags: [bruno, ukrainian, ukr, dialekt]
 ---
 
 18:18 - 29 грудня 2023

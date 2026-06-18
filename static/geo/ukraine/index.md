@@ -7,6 +7,7 @@ layout: simple
 theme: slate
 lang: en
 permalink: /greener-pastures/greece/
+tags: [bruno, ukrainian, ukr]
 tags: [ bruno, greece, livable]
 ---
 

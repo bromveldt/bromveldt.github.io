@@ -6,8 +6,8 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/goroh/nabij/
-tags: [ bruno, urkainian, phrases]
+permalink: /spraak/ukr/goroh/obrij/
+tags: [bruno, ukrainian, ukr, goroh]
 ---
 
 Лінія позірного зіткнення неба з землею чи водною поверхнею; горизонт, небокрай. Приклади
