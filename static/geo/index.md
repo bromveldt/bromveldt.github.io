@@ -9,6 +9,7 @@ lang: nl
 tags: [ bruno, geo, geography]
 ---
 - [België](belgie)
+- [Bosnië](bosnie)
 - [Brazilië](brazilie)
 - [Duitsland](duitsland)
 - [Frankrijk](frankrijk)
