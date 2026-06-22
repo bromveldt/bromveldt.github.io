@@ -5,24 +5,24 @@ title: Geography
 description: Countries and regions
 layout: simple
 theme: slate
-lang: en
+lang: nl
 tags: [ bruno, geo, geography]
 ---
-[belgie](belgie)
-[brazil](brazil)
-[duitsland](duitsland)
-[frankrijk](frankrijk)
-[griekenland](griekenland)
-[guernsey](guernsey)
-[israel](israel)
-[italie](italie)
-[nederland](nederland)
-[oostenrijk](oostenrijk)
-[polska](polska)
-[portugal](portugal)
-[rusland](rusland)
-[serbie](serbie)
-[slovakie](slovakie)
-[spanie](spanie)
-[ukraine](ukraine)
-[usa](usa)
+- [België](belgie)
+- [Brazilië](brazilie)
+- [Duitsland](duitsland)
+- [Frankrijk](frankrijk)
+- [Griekenland](griekenland)
+- [Guernsey](guernsey)
+- [Israël](israel)
+- [Italië](italie)
+- [Nederland](nederland)
+- [Oostenrijk](oostenrijk)
+- [Polen](polska)
+- [Portugal](portugal)
+- [Rusland](rusland)
+- [Serbië](serbie)
+- [Slovakije](slovakije)
+- [Spanië](spanie)
+- [Ukraine](ukraine)
+- [USA](usa)

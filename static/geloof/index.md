@@ -6,10 +6,9 @@ description: Some spirituality pages
 layout: simple
 theme: slate
 lang: en
-permalink: /div/
 tags: [ bruno, religion, faith, spirituality, resource]
 ---
 
-[boeddhisme](buddhism)
-[oldrite](oldrite)
-[ruscath](ruscathS)
+- [Buddhism](buddhism)
+- [Russian oldrite](oldrite)
+- [Russian Catholicism](ruscath)
