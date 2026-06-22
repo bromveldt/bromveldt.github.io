@@ -6,4 +6,4 @@ layout: simple
 tags: [bruno, religion, buddhism]
 ---
 
-[boddhipaksa](boddhipaksa/)
+[boddhipaksa](boddhipaksa)

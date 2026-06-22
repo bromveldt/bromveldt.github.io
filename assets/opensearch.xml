@@ -1,0 +1,9 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+    <!-- See https://github.com/dewitt/opensearch -->
+    <ShortName>Bruno Samueli @ GitHub</ShortName>
+    <Description>Search Bruno's GutHub Pages</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image width="16" height="16" type="image/x-icon">https://bromveldt.github.io/assets/icons/searchicon.ico</Image>
+    <Url type="text/html" method="get" template="https://bromveldt.github.io/q?q={searchTerms}&ref=opensearch"/>
+    <moz:SearchForm>https://bromveldt.github.io/q</moz:SearchForm>
+</OpenSearchDescription>

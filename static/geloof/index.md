@@ -10,6 +10,6 @@ permalink: /div/
 tags: [ bruno, religion, faith, spirituality, resource]
 ---
 
-[boeddhisme](buddhism/)
-[oldrite](oldrite/)
-[ruscath](ruscath/)
+[boeddhisme](buddhism)
+[oldrite](oldrite)
+[ruscath](ruscathS)
