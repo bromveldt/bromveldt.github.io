@@ -1,12 +1,11 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}"#{escaped}"
+title: Як вітати родичів зі святами
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/usage/
+lang: uk
 tags: [bruno, ukrainian, ukr, usage]
 ---
 
@@ -43,6 +42,6 @@ tags: [bruno, ukrainian, ukr, usage]
 
 ---
 
-- [На разі чи наразі](/spraak/ukr/usage/avramenko-narazi/)
-- [Авраменко](/spraak/ukr/usage/avramenko/)
-- [Андрій Шимановський](/spraak/ukr/usage/szymanovskyj/)
+- [На разі чи наразі](avramenko-narazi.md)
+- [Авраменко](avramenko.md)
+- [Андрій Шимановський](szymanovskyj.md)

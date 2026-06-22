@@ -1,7 +1,9 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Republik Mordwinien
-permalink: /geo/oostenrijk/immi-mordwinien/
+layout: simple
+theme: slate
 tags: [bruno, oostenrijk]
 ---
 

@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: В нем жили руководители ОГПУ
 layout: simple
-title: дом номер 9 в Милютинском переулке. В нем жил
-permalink: /geo/rusland/adr/
+theme: slate
 tags: [bruno, rusland]
 ---
 

@@ -1,16 +1,13 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: стаєнний
+title: СТАЄ́ННИЙ
 description: Goroh vocable
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/stajennyj/
+lang: uk
 tags: [bruno, ukrainian, ukr, goroh]
 ---
-
-СТАЄ́ННИЙ
 
 Прикм. до ста́йня. Приклади
 

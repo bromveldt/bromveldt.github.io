@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: в XVII столетии Шереметевы были одним из 16 родов
 layout: simple
-title: в XVII столетии. В это время Шереметевы были о
-permalink: /geo/rusland/boyar/
+theme: slate
 tags: [bruno, rusland]
 ---
 

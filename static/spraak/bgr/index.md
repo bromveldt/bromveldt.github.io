@@ -1,8 +1,11 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Bulgarian Resources
 layout: simple
-#{key}"#{escaped}"
-permalink: /spraak/blg/index/
-tags: [bruno, bulgarian, blg]
+theme: slate
+lang: bg
+tags: [ bruno, bulgaria, news]
 ---
 
 ### News
@@ -10,8 +13,8 @@ tags: [bruno, bulgarian, blg]
 
 ### Pages
 
-[demonite.md](demonite.html)
-[bulgarize.md](bulgarize.html)
-[woorden1.md](woorden1.html)
-[uczenici.md](uczenici.html)
-[song1.md](song1.html)
+[demonite](demonite.md)
+[bulgarize](bulgarize.md)
+[woorden1](woorden1.md)
+[uczenici](uczenici.md)
+[song1](song1.md)

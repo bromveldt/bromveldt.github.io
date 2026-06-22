@@ -5,8 +5,7 @@ title: метод заснований на ліпосакції
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/liposuction/
+lang: uk
 tags: [bruno, ukrainian, ukr]
 ---
 

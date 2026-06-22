@@ -5,8 +5,7 @@ title: Jewish Surnames
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/spraakleer/zsydy/
+lang: uk
 tags: [ bruno, ukrainian, spraakleer, євреї ашкеназі ]
 ---
 

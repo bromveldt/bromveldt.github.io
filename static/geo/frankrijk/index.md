@@ -5,8 +5,7 @@ title: France
 description: Some travel destinations
 layout: simple
 theme: slate
-lang: en
-permalink: /geo/frankrijk/
+lang: fr
 tags: [ bruno, frankrijk, livable]
 ---
 

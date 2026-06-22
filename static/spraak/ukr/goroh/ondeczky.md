@@ -5,8 +5,7 @@ title: О́НДЕЧКИ
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/ondeczky/
+lang: uk
 tags: [bruno, ukrainian, ukr, goroh]
 ---
 

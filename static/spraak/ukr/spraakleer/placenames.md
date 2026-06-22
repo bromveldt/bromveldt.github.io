@@ -5,8 +5,7 @@ title: вживайте кличний відмінок!
 description: Vocative
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/spraakleer/placenames/
+lang: uk
 tags: [bruno, ukrainian, ukr, spraakleer]
 ---
 

@@ -5,8 +5,7 @@ title: Wiener Dialekt
 description: desc
 layout: simple
 theme: slate
-lang: en
-permalink: /deu/wiener-dialekt/
+lang: de
 tags: [ bruno, deu, wien, wiener]
 ---
 

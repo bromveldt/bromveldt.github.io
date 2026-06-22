@@ -1,11 +1,10 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}#{val}
-#{$1}"-"
+title: прискорювач
 layout: simple
 theme: slate
-lang: en
+lang: uk
 permalink: /spraak/ukr/goroh/pryskorjuvacz/
 tags: [bruno, ukrainian, ukr, goroh]
 ---

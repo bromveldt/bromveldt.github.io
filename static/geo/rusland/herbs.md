@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Пастушья сумка обыкновенная (Capsella bursa-pastoris)
 layout: simple
-title: Пастушья сумка обыкновенная (Capsella bursa-pastoris (L
-permalink: /geo/rusland/herbs/
+theme: slate
 tags: [bruno, rusland]
 ---
 

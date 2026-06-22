@@ -5,8 +5,7 @@ title: ПОРИНА́ТИ
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/porynaty/
+lang: uk
 tags: [ bruno, urkainian, goroh, поринати]
 ---
 

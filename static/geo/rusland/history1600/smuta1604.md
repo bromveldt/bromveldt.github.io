@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: В 1604 г. вторгся Лжедмитрий
 layout: simple
-title: В 1604 г. Лжедмитрий вторгся в пределы России. 
-permalink: /geo/rusland/history1600/smuta1604/
+theme: slate
 tags: [bruno, rusland, history1600]
 ---
 

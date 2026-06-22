@@ -5,8 +5,7 @@ title: О́НДЕ
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/onde/
+lang: uk
 tags: [ bruno, urkainian, goroh ]
 ---
 

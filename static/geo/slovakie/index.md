@@ -1,8 +1,10 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Slovakie
 layout: simple
-title: Slowakije
-permalink: /geo/slovakie/
+theme: slate
 tags: [bruno, slovakie]
 ---
 
-- [Šariš pivo](/geo/slovakie/pivo/)
+- [Šariš pivo](pivo.md)

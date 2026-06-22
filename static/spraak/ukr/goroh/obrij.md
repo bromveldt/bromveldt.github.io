@@ -5,8 +5,7 @@ title: О́БРІЙ
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/obrij/
+lang: uk
 tags: [bruno, ukrainian, ukr, goroh]
 ---
 

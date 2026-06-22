@@ -6,10 +6,13 @@ description: Some travel destinations
 layout: simple
 theme: slate
 lang: en
-permalink: /greener-pastures/italy/
-tags: [bruno, italie]
 tags: [ bruno, italy, livable]
 ---
+
+[roma.md](roma.md)
+[suedtirol.md](suedtirol.md)
+[torino.md](torino.md)
+[citta-costiere.md](citta-costiere.md)
 
 #### The Aeolian islands
 

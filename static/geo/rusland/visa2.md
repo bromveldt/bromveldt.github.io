@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Виза
 layout: simple
-title: Бруней-Даруссалам	до 14 дней
-permalink: /geo/rusland/visa2/
+theme: slate
 tags: [bruno, rusland]
 ---
 

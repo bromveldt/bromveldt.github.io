@@ -5,9 +5,8 @@ title: НАБІ́Й бо́ю, ч.
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/nabij/
-tags: [ bruno, urkainian, phrases]
+lang: uk
+tags: [ goroh, urkainian, phrases]
 ---
 
 Кількість вибухової речовини, необхідної для пострілу, вибуху; заряд (див. заря́д1 1). Приклади

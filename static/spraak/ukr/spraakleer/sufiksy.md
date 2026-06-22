@@ -1,12 +1,10 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}#{val}
-#{$1}"-"
+title: Поговоримо про підступні суфікси
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/spraakleer/sufiksy/
+lang: uk
 tags: [ bruno, ukrainian, Сніданок, avramenko]
 ---
 

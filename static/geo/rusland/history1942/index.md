@@ -1,10 +1,12 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Rusland WO2 — Rzhev 1942
-permalink: /geo/rusland/history1942/
+layout: simple
+theme: slate
 tags: [bruno, rusland, history1942]
 ---
 
-- [Памяти народа — held](/geo/rusland/history1942/hero/)
-- [28.2.42 — memorial](/geo/rusland/history1942/memorial/)
-- [Rzhev — Rzhevsko-Vyazemskaya operatie](/geo/rusland/history1942/rzsev/)
+- [Памяти народа — held](hero.md)
+- [28.2.42 — memorial](memorial.md)
+- [Rzhev — Rzhevsko-Vyazemskaya operatie](rzsev.md)

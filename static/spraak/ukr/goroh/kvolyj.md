@@ -5,8 +5,7 @@ title: КВО́ЛИЙ а, е.
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/kvolyj/
+lang: uk
 tags: [ bruno, urkainian, phrases]
 ---
 

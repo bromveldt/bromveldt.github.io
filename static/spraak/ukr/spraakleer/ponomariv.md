@@ -5,8 +5,7 @@ title: Pomomariv
 description: Some travel destinations
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/spraakleer/ponomariv/
+lang: uk
 tags: [ bruno, ukrainian, Pomomariv]
 ---
 

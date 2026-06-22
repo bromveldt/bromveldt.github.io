@@ -1,7 +1,9 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: S^aris^ 12% zlatà
-permalink: /geo/slovakie/pivo/
+layout: simple
+theme: slate
 tags: [bruno, slovakie]
 ---
 

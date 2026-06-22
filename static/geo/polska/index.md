@@ -1,13 +1,15 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Polska
 layout: simple
-title: Polen
-permalink: /geo/polska/
+theme: slate
 tags: [bruno, polska]
 ---
 
-- [Rozmawiamy z prof. Dominiką Dudek](/geo/polska/dudek/)
-- [Казимеж/Казимир — имена](/geo/polska/imena-kazimierz/)
-- [язык и литература (1)](/geo/polska/imena1/)
-- [язык и литература (2)](/geo/polska/imena2/)
-- [Kazimierz the Jewish quarter](/geo/polska/krakau/)
-- [Kazimierz Kutz](/geo/polska/kutz/)
+- [Rozmawiamy z prof. Dominiką Dudek](dudek.md)
+- [Казимеж/Казимир — имена](imena-kazimierz.md)
+- [язык и литература (1)](imena1.md)
+- [язык и литература (2)](imena2.md)
+- [Kazimierz the Jewish quarter](krakau.md)
+- [Kazimierz Kutz](kutz.md)

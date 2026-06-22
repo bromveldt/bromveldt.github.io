@@ -1,5 +1,6 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Ржевско-Вяземская операция (8 января -20 апре
 permalink: /geo/rusland/history1942/rzsev/
 tags: [bruno, rusland, history1942]

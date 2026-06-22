@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Names 1
 layout: simple
-title: язык и литература
-permalink: /geo/polska/imena1/
+theme: slate
 tags: [bruno, polska]
 ---
 

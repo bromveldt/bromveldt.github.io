@@ -1,7 +1,9 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Отдръпвах се.
-permalink: /spraak/blg/woorden1/
+layout: simple
+theme: slate
 tags: [bruno, bulgarian, blg]
 ---
 

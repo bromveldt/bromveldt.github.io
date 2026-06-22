@@ -1,14 +1,14 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Platinum Sellers Beats
 layout: simple
-title: Устата ти говори, но делата ти крещят!
-permalink: /spraak/blg/song1/
+theme: slate
 tags: [bruno, bulgarian, blg]
 ---
 
-Platinum Sellers Beats
-Release Date
 
-August 1, 2018
+Release Date August 1, 2018
 
 #### Устата ти говори, но делата ти крещят!
 

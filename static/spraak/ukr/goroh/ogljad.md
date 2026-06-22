@@ -5,8 +5,7 @@ title: О́ГЛЯД
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/ogljad/
+lang: uk
 tags: [ bruno, ukrainian, goroh, огляд]
 ---
 

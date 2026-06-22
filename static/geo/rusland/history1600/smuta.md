@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Речь Посполитая – это и Польша, и Великое княжество Литовское
 layout: simple
-title: Речь Посполитая – это и Польша, и Великое кн
-permalink: /geo/rusland/history1600/smuta/
+theme: slate
 tags: [bruno, rusland, history1600]
 ---
 

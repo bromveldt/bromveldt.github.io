@@ -1,7 +1,9 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Kazimierz the Jewish quarter
-permalink: /geo/polska/krakau/
+layout: simple
+theme: slate
 tags: [bruno, polska]
 ---
 

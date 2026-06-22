@@ -2,11 +2,9 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: ПРА́ВИЙ
-description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/pravyj/
+lang: uk
 tags: [ bruno, urkainian, goroh, правий]
 ---
 

@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Vardarska Banovina, southernmost Serbia
 layout: simple
-title: Vardarska Banovina, southernmost Serbia 
-permalink: /geo/serbie/index/
+theme: slate
 tags: [bruno, serbie]
 ---
 

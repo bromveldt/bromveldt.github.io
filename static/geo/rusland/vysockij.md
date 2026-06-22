@@ -1,7 +1,9 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Привет, Мариша, в Москве несколько памятник
-permalink: /geo/rusland/vysockij/
+layout: simple
+theme: slate
 tags: [bruno, rusland]
 ---
 

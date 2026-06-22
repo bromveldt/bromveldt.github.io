@@ -1,11 +1,11 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: По общегражданскому паспорту
-permalink: /geo/rusland/visa/
+layout: simple
+theme: slate
 tags: [bruno, rusland]
 ---
-
-По общегражданскому паспорту
 
 Абхазия (90 дней)
 Армения (180 дней) x

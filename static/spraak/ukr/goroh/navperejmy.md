@@ -5,8 +5,7 @@ title: навперейми
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/navperejmy/
+lang: uk
 tags: [ bruno, urkainian, навперейми]
 ---
 

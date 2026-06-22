@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Guernsey
 layout: simple
-title: https://registration.gov.ge/pub/form/20/ydrv71/
-permalink: /geo/guernsey/immi/
+theme: slate
 tags: [bruno, guernsey]
 ---
 

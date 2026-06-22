@@ -1,12 +1,10 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}#{val}
-#{$1}"-"
+title: Авраменко - влучно
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/usage/avramenko/
+lang: uk
 tags: [ bruno, ukrainian, Авраменко]
 ---
 

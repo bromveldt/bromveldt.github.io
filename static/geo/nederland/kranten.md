@@ -1,8 +1,10 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Nederlandse Kranten
 layout: simple
-title: Dutch Newspapers
-permalink: /geo/nederland/newspapers/
-tags: [bruno, nederland]
+theme: slate
+tags: [bruno, nederland, kranten]
 ---
 
 Dutch Newspapers

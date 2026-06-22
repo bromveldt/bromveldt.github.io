@@ -1,7 +1,9 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: митрополит Антоний Сурожский в одной из сво
-permalink: /geo/rusland/mitro-antonij/
+layout: simple
+theme: slate
 tags: [bruno, rusland]
 ---
 

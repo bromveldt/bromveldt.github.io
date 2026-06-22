@@ -6,14 +6,13 @@ description: Some language pages
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/
 tags: [ bruno, language, resource]
 ---
 
-[bgr](bgr/)
-[deu](deu/)
-[hrv](hrv/)
-[mdf](mdf/)
-[myv](myv/)
-[ukr](ukr/)
-[yid](yid/)
+[Bulgarian](bgr)
+[German](deu)
+[Croatian](hrv)
+[Mordvin-Moksha](mdf)
+[Mordvin-Erzya](myv)
+[Ukrainian](ukr)
+[Yiddish](yid)

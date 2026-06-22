@@ -6,7 +6,6 @@ description: Countries and regions
 layout: simple
 theme: slate
 lang: en
-permalink: /geo/
 tags: [ bruno, geo, geography]
 ---
 [belgie](belgie)

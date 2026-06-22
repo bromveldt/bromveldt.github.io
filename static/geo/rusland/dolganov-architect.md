@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Долганов архитектор
 layout: simple
-title: http://www.russiskusstvo.ru/authors/146/a71/
-permalink: /geo/rusland/dolganov-architect/
+theme: slate
 tags: [bruno, rusland]
 ---
 

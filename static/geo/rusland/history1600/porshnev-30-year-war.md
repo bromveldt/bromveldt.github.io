@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: 30-летняя война в Европе, то есть 1618-1648 годы
 layout: simple
-title: 30-летняя война в Европе, то есть 1618-1648 годы, э
-permalink: /geo/rusland/history1600/porshnev-30-year-war/
+theme: slate
 tags: [bruno, rusland, history1600]
 ---
 

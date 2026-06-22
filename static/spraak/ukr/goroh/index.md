@@ -1,27 +1,30 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Goroh — Ukraïens woordenboek
-permalink: /spraak/ukr/goroh/
+layout: simple
+theme: slate
+lang: uk
 tags: [bruno, ukrainian, ukr, goroh]
 ---
 
-- [ХУ́РМАН](/spraak/ukr/goroh/hurman/)
-- [КВО́ЛО](/spraak/ukr/goroh/kvolo/)
-- [КВО́ЛИЙ](/spraak/ukr/goroh/kvolyj/)
-- [ЛІ́КАР](/spraak/ukr/goroh/likar/)
-- [НАБІ́Й](/spraak/ukr/goroh/nabij/)
-- [навперейми](/spraak/ukr/goroh/navperejmy/)
-- [О́БРІЙ](/spraak/ukr/goroh/obrij/)
-- [О́ГЛЯД](/spraak/ukr/goroh/ogljad/)
-- [О́НДЕ](/spraak/ukr/goroh/onde/)
-- [О́НДЕЧКИ](/spraak/ukr/goroh/ondeczky/)
-- [ПОРИНА́ТИ](/spraak/ukr/goroh/porynaty/)
-- [ПРА́ВИЙ](/spraak/ukr/goroh/pravyj/)
-- [ПРИ́МХА](/spraak/ukr/goroh/prymha/)
-- [ПРИСКО́РЮВАЧ](/spraak/ukr/goroh/pryskorjuvacz/)
-- [рубати](/spraak/ukr/goroh/rubaty/)
-- [стаєнний](/spraak/ukr/goroh/stajennyj/)
-- [ВІЗНИ́К](/spraak/ukr/goroh/viznyk/)
-- [ВИГА́ДУВАТИ](/spraak/ukr/goroh/vygaduvaty/)
-- [ЗАПА́МОРОЧЕНИЙ](/spraak/ukr/goroh/zapamoroczennyj/)
-- [ЗНЕНА́ЦЬКА](/spraak/ukr/goroh/znenacka/)
+- [ХУ́РМАН](hurman.md)
+- [КВО́ЛО](kvolo.md)
+- [КВО́ЛИЙ](kvolyj.md)
+- [ЛІ́КАР](likar.md)
+- [НАБІ́Й](nabij.md)
+- [навперейми](navperejmy.md)
+- [О́БРІЙ](obrij.md)
+- [О́ГЛЯД](ogljad.md)
+- [О́НДЕ](onde.md)
+- [О́НДЕЧКИ](ondeczky.md)
+- [ПОРИНА́ТИ](porynaty.md)
+- [ПРА́ВИЙ](pravyj.md)
+- [ПРИ́МХА](prymha.md)
+- [ПРИСКО́РЮВАЧ](pryskorjuvacz.md)
+- [рубати](rubaty.md)
+- [стаєнний](stajennyj.md)
+- [ВІЗНИ́К](viznyk.md)
+- [ВИГА́ДУВАТИ](vygaduvaty.md)
+- [ЗАПА́МОРОЧЕНИЙ](zapamoroczennyj.md)
+- [ЗНЕНА́ЦЬКА](znenacka.md)

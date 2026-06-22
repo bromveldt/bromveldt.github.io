@@ -5,8 +5,8 @@ title: UKrainian Scholars
 description: Goroh
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/spraakleer/naukovci/
+lang: uk
+
 tags: [bruno, ukrainian, ukr, spraakleer]
 ---
 

@@ -1,11 +1,13 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: УЧЕНИЦИ ОТ ПЛОВДИВ В КЛИП
 layout: simple
-#{key}"#{escaped}"
-permalink: /spraak/blg/uczenici/
+theme: slate
 tags: [bruno, bulgarian, blg]
 ---
 
-УЧЕНИЦИ ОТ ПЛОВДИВ В КЛИП: БЪЛГАРИЯ НЕ Е ПРОСТО МЯСТО, КЪДЕТО СМЕ СЕ РОДИЛИ!
+БЪЛГАРИЯ НЕ Е ПРОСТО МЯСТО, КЪДЕТО СМЕ СЕ РОДИЛИ!
 
 от Виктория Петрова
 16:52, 02.06.2020

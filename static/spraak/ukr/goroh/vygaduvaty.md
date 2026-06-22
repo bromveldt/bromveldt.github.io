@@ -2,12 +2,11 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: ВИГА́ДУВАТИ ую, уєш, недок., ВИ́ГАДАТИ, аю, аєш, док., що.
-description: misc
+description: Goroh vocable
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/vygaduvaty/
-tags: [ bruno, urkainian, goroh, вигаадувати, вигадати]
+lang: uk
+tags: [ bruno, urkainian, goroh, вигадувати, вигадати]
 ---
 
 Думаючи, міркуючи, знаходити якесь рішення, додумуватися до чого-небудь. Приклади

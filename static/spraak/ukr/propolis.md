@@ -5,8 +5,7 @@ title: прополіс
 description: beeswax
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/propolis/
+lang: uk
 tags: [ bruno, ukrainian, бджіли, прополіс]
 ---
 

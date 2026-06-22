@@ -1,7 +1,9 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: К этому надо добавить, что Украинская СССР б
-permalink: /geo/ukraine/obrazovana/
+layout: simple
+theme: slate
 tags: [bruno, ukrainian, ukr]
 ---
 

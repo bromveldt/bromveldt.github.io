@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Memorial
 layout: simple
-title: 28.2.42
-permalink: /geo/rusland/history1942/memorial/
+theme: slate
 tags: [bruno, rusland, history1942]
 ---
 

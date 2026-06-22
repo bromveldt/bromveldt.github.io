@@ -1,7 +1,10 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: John Psaropoulos - obiti rat 
 layout: simple
-title: obiti rat ni diktirati uslove mira
-permalink: /spraak/hrv/texts/psaropoulos/
+theme: slate
+lang: hr
 tags: [bruno, croatian, hrv]
 ---
 

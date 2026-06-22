@@ -1,12 +1,11 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}#{val}
-#{$1}"-"
+title: візник
+desc: Gorih vocable
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/viznyk/
+lang: uk
 tags: [ bruno, ukrainian, goroh, візник ]
 ---
 

@@ -6,7 +6,6 @@ description: Some travel destinations
 layout: simple
 theme: slate
 lang: en
-permalink: /geo/brazil/
 tags: [ bruno, brazil, livable]
 ---
 

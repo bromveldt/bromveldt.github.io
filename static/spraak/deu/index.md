@@ -5,10 +5,9 @@ title: German Dialects and grammatical points
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/deu/
-tags: [ bruno, job, search]
+lang: de
+tags: [ bruno, spraak, duits, dialekt]
 ---
 
-[Tiroler Dialekt](tiroler-dialekt/)
-[Wiener Dialekt](wiener-dialekt/)
+- [Tiroler Dialekt](tiroler-dialekt)
+- [Wiener Dialekt](wiener-dialekt)

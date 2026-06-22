@@ -2,11 +2,10 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: ЗАПА́МОРОЧЕНИЙ а, е.
-description: Goroh
+description: Goroh vocable
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/zapamoroczennyj/
+lang: uk
 tags: [bruno, ukrainian, ukr, goroh]
 ---
 

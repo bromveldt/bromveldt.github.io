@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Pamyat naroda
 layout: simple
-title: https://pamyat-naroda.ru/heroes/person-hero42793603/?backurl=%2Fheroes%2F%3Fcsrf
-permalink: /geo/rusland/history1942/hero/
+theme: slate
 tags: [bruno, rusland, history1942]
 ---
 

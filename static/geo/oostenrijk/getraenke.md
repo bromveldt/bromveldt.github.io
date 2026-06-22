@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Roter Weinachtsstern (Orange/Zimt)
 layout: simple
-title: Roter Weinachtsstern (Orange/Zimt) 
-permalink: /geo/oostenrijk/getraenke/
+theme: slate
 tags: [bruno, oostenrijk]
 ---
 

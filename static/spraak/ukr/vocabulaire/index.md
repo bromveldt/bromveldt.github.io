@@ -1,0 +1,41 @@
+---
+layout: simple
+title: Ukraïense woorden
+permalink: /spraak/ukr/woorden/
+tags: [bruno, ukrainian, ukr, woorden]
+---
+
+- [Які 5 цікавих слів варто запам'ятати](10sliv.md)
+- [чоботар](chobotar.md)
+- [пусте або дурниця](durnyca.md)
+- [Репресована мова: Українські слова, які радянська влада стерла з пам'яті українців](erased-words.md)
+- [hairdresser in Ukrainian](hairdresser.md)
+- [Avramenko півники, волошки](irysy.md)
+- [Як замінити українською слова-паразити "типа", "блин", "чуть-чуть" і "капец"](jak-zaminyty.md)
+- [замінити "кольцо"](kabluchka.md)
+- ["кухоль" або "чашка"](kuholj.md)
+- [Avramenko кульчики](kulchyky.md)
+- [кватирка](kvatyrka.md)
+- [Українська лайка](layka.md)
+- [Лінгвоцид: українські слова, які репресувала радянська влада](linguocid.md)
+- [Лихо](lyho.md)
+- [як правильно називати елементи начиння](naczynnja.md)
+- [Хто такі мартопляс і пустодух](negative-terms.md)
+- [В нашій мові немає слова "толк"](nemae-tolk.md)
+- [оцет](ocet.md)
+- [оселедець](oseledecj.md)
+- [паніматка](panimatka.md)
+- [печериця — позначення грибів](pecherytcja.md)
+- [«Апостроф» — замінити «кувырком»](perekyd.md)
+- [собутыльник => почарківець](pocharkivecj.md)
+- [Ukrainian translation of «страховка»](polis.md)
+- [UKR — Psychotherapie](psychotherapie.md)
+- [Тішиться, як чорт цвяхом: про велику радість](radost.md)
+- [Avramenko щира душа](shchyradusha.md)
+- [Перочинным ножиком](skladanyj-nizs.md)
+- [скриня, поштова скринька, шухлядка](skrynja.md)
+- [Ukrainian equivalents of common Russian terms](slova.md)
+- [відносини vs. стосунки vs. взаємини](stosunky.md)
+- [філіжанка кави](tasse.md)
+- [Не красний і сірєнєвий: кольори українською](voloshyn.md)
+- [Авраменко — збіг, збігаються](zbig.md)

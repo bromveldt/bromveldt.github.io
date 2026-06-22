@@ -2,11 +2,9 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: ПРИ́МХА
-description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/prymha/
+lang: uk
 tags: [bruno, ukrainian, ukr, goroh]
 ---
 

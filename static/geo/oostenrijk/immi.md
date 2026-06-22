@@ -1,8 +1,8 @@
 ---
 layout: simple
 title: Magistratsabteilung 35
-permalink: /geo/oostenrijk/immi/
-tags: [bruno, oostenrijk]
+
+tags: [bruno, oostenrijk, einwanderung]
 ---
 
 Magistratsabteilung 35

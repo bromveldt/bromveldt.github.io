@@ -1,7 +1,9 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Никодим Сувалов
-permalink: /geo/rusland/random-names/
+layout: simple
+theme: slate
 tags: [bruno, rusland]
 ---
 

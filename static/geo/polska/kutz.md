@@ -1,8 +1,10 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Kazimierz Kutz
-permalink: /geo/polska/kutz/
-tags: [bruno, polska]
+layout: simple
+theme: slate
+tags: [bruno, polska, Kazimierz Kutz]
 ---
 
 Kazimierz Kutz

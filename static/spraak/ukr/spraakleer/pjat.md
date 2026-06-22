@@ -6,8 +6,7 @@ description: misc
 author: Юлія Потерянко
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/spraakleer/pjat/
+lang: uk
 tags: [ bruno, ukrainian, articles, error]
 ---
 

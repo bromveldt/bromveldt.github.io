@@ -5,8 +5,7 @@ title: ЛІ́КАР я, ч.
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/likar/
+lang: uk
 tags: [ bruno, urkainian, phrases]
 ---
 

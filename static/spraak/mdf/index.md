@@ -6,11 +6,10 @@ description: Some Moksha Links
 layout: simple
 theme: slate
 lang: en
-permalink: /moksha/
 tags: [ bruno, myv]
 ---
 
 ##### Local Resources
     
-- [conversation-guides/index.html](Conversation Guides)
-- [dictionaries/index.html](Dictionaries)
+- [Conversation Guides](conv)
+- [Dictionaries](dictionaries)

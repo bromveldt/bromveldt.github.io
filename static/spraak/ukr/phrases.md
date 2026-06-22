@@ -5,7 +5,7 @@ title: Ukrainian phrases
 description: misc
 layout: simple
 theme: slate
-lang: en
+lang: uk
 permalink: /spraak/ukr/phrases/
 tags: [bruno, ukrainian, ukr]
 ---

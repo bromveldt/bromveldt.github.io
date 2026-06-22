@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Филарет выстраивает династический брак Михаила Федоровича Романова
 layout: simple
-title: Тоже было с Филаретом. Достаточно вспомнить
-permalink: /geo/rusland/history1600/filaret-poste-smuty/
+theme: slate
 tags: [bruno, rusland, history1600]
 ---
 

@@ -5,8 +5,7 @@ title: КВО́ЛО .
 description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/goroh/kvolo/
+lang: uk
 tags: [ bruno, urkainian, phrases]
 ---
 

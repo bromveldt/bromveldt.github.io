@@ -6,14 +6,12 @@ description: Some travel destinations
 layout: simple
 theme: slate
 lang: en
-permalink: /geo/israel/
-tags: [bruno, israel]
 tags: [ bruno, israel, livable]
 ---
 
-On Friday afternoons, I like to sit at the Haminzar pub on Allenby Street in Tel Aviv
+Tel Aviv bars
 
-\*
+On Friday afternoons, I like to sit at the Haminzar pub on Allenby Street in Tel Aviv
 
 #### Ramat Hasharon
 

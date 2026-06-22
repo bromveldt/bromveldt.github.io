@@ -1,12 +1,10 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}"#{escaped}"
-#{$1}"-"
+title: Олександр Авраменко
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/usage/avramenko-narazi/
 tags: [bruno, ukrainian, ukr, usage]
 ---
 

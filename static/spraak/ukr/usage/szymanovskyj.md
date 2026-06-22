@@ -2,11 +2,9 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Андрій Шимановський
-description: misc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/usage/szymanovskyj/
+lang: uk
 tags: [bruno, ukrainian, ukr, usage]
 ---
 

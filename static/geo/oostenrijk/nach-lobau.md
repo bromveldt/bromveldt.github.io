@@ -1,19 +1,22 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Salzburg - Lobau
 layout: simple
-title: Salzburg
-permalink: /geo/oostenrijk/nach-lobau/
-tags: [bruno, oostenrijk]
+theme: slate
+lang: de
+tags: [bruno, oostenrijk, lobau, ljubljana]
 ---
 
-Salzburg
-Golling-Abtenau
-Bischofshofen
-St. Johann im Pongau
-Schwarzach-St. Veit
-Dorfgastein
-Bad Hofgastein
-Bad Gastein
-Mallnitz-Obervellach
-Spittal-Millstättersee
-Villach
-Faak am See
+- Salzburg
+- Golling-Abtenau
+- Bischofshofen
+- St. Johann im Pongau
+- Schwarzach-St. Veit
+- Dorfgastein
+- Bad Hofgastein
+- Bad Gastein
+- Mallnitz-Obervellach
+- Spittal-Millstättersee
+- Villach
+- Faak am See

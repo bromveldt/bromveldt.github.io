@@ -5,8 +5,7 @@ title: Tiroler Dialekt
 description: desc
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/deu/tiroler-dialekt/
+lang: de
 tags: [ bruno, deu, wien, wiener]
 ---
 

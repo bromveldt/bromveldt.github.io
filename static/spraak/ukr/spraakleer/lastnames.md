@@ -5,8 +5,7 @@ title: Ukrainian Last Names
 description: Goroh
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/spraakleer/lastnames/
+lang: uk
 tags: [bruno, ukrainian, ukr, spraakleer]
 ---
 

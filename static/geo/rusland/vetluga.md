@@ -1,7 +1,9 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Хмелевицкая волость Ветлужского уезда
 layout: simple
-title: Хмелевицкая волость Ветлужского уезда Кост
-permalink: /geo/rusland/vetluga/
+theme: slate
 tags: [bruno, rusland]
 ---
 
