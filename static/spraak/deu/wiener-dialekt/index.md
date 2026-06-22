@@ -11,7 +11,7 @@ tags: [ bruno, deu, wien, wiener]
 
 #### Wiener Dialekt: Begriffe und Redewendungen
 
-|     |                                                           | Übersetzung                                                               |
+|     |                                                           | Hochdeutch                                                               |
 |-----|-----------------------------------------------------------|---------------------------------------------------------------------------|
 | 1.  | Randsteinhummel                                           | Moped                                                                     |
 | 2.  | a Brezn reissen                                           | stürzen                                                                   |
@@ -41,9 +41,14 @@ tags: [ bruno, deu, wien, wiener]
 
 In Wien sagt man mehr als „Oida“, „heast“ und „leiwand“. Um dich in der Hauptstadt durchzuschlagen, hilft dir diese kleine Übersetzungshilfe bestimmt.
 
-|    |            | Übersetzung |
+|    |            | Hochdeutch |
 |----|------------|-------------|
 | 1. | Bodewaschl | Bademeister (männlich) |
 | 2. | Bröckerl   | bewundernd für einen kräftig gebauten Mann |
 | 3. | busarian   | jemand zu etwas drängen, jemanden anflehen |
 
+----
+
+|     | Hochdeutch |
+|-----|------------|
+| Schmäh : Das war nur ein Schmäh!| Scherz |
