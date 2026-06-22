@@ -1,88 +1,40 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Church Texts pages
+description: PDF files
 layout: simple
-title: Ersa pages
-permalink: /ersa/books/church-texts/JohnChrysosthomLiturgy-copy/
-published: false
-tags: [bruno, myv, ersa, church-texts]
+theme: slate
+lang: en
+permalink: /ersa/books/church-texts/
+tags: [ bruno, myv]
 ---
-Table of contents
+#### Table of contents
 
 <ul class="toc">
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-Acts.html">Тявть Святой Апостолтнень.</a>
+ <a class="page-link" href="Novum_Testamentum_Mordvinice_litt_cyrill.pdf">Господань минекъ Іисусань Христань Святой Евангелья</a> Матθей, Марко, Лука и ІОаннъ Пелдестъ. С҇юрмадозь эрзянь келсе. Петербургсе, 1821 іень. [PDF]
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJames.html">Промксонь Кучомо Іаковонь.</a>
+<a class="page-link" href="ErzianNewTest1821/index.html">Господань минекъ Іисусань Христань Святой Евангелья</a> Erzian-Language New Testament 1821, electronic version compiled and edited by Jack Rueter, corrected by Римма Аверьянова, Helsinki, 2001 [Transcription of the above PDF file]
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJohn1.html">Промксонь Кучовксъ восень Святоень Апостолень Іоаннонь Богословонь.</a>
+<a class="page-link" href="JohnChrysosthom/index.html">Иоанн Златоустонь литургиязо</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJohn2.html">Промось Кучомо омоцѣ Святой Апостолань Іоаннонь Богословонь.</a>
+<a class="page-link" href="JohnChrysosthomLiturgy/index.html">Иоанн Златоустонь литургиязо &ndash; Од сыцятнень литургия</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJohn3.html">Промозь Кучомо колмоцѣ Святой Апостолань Іоаннонь Богословонь.</a>
+<a class="page-link" href="/static/ersa/Lang/ChurchTexts/Matins/index.html">Иоанн Златоустонь литургиязо &ndash; Matins</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJude.html">Промзань Кучомо Іудань.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistlePeter1.html">Промксонь Кучомо Петрань Икельце.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistlePeter2.html">Промксонь Кучовксъ омбоцѣ секень же Святоень Апостолонь Петрань.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToColossians.html">Колоссайтнень Сёрма Святоень Апостолень Павлань.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToCorinthians1.html">Коринфяннень васеньцѣсь Кучомо Святоинь Апостолань Павлань.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToCorinthians2.html">Коринфяннень омбоце Сёрма Святой Апостолонь Павлонь.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToEphesians.html">Ефесейнень Кучомо Святой Апостолань Павлань.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToGalatians.html">Галатненѣнь Кучовксъ Святой Апостолонь Павлань..</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToHebrews.html">Еврейтненѣнь Сёрма Святоень Апостолень Павлань.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToPhilemon.html">Филимоннень Сёрма Святоень Апостолонь Павлань.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToPhilippians.html">Филиппісятненень Сёрма Святой Апостолонь Павлонь.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToRomans.html">Римлятненень Кучовксъ Святой Апостолонь Павлань.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToThessalonians1.html">Солунянтненень икельце Кучовксъ Святой Апостолень Павлань.</a>
-</li>
-
-<li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToThessalonians2.html">Солунянтненѣнь омбоце Кучовксъ Святоень Опостолень Павлань..</a>
+<a class="page-link" href="/static/ersa/Lang/ChurchTexts/Vespers/index.html">Иоанн Златоустонь литургиязо &ndash; Vespers</a>
 </li>
 
 <li class="toc-item">
@@ -122,7 +74,7 @@ Table of contents
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ruscath/Tyszkiewicz%20-%20Papacy">Почему католики дорожат папством - Свящ. Станислав Тышкевич</a>
+<a class="page-link" href="/static/div/ruscath/Tyszkiewicz%20-%20Papacy">Почему католики дорожат папством - Свящ. Станислав Тышкевич</a>
 </li>
 
 <li class="toc-item">

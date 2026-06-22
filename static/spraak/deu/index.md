@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: German Materials
+title: German Dialects and grammatical points
 description: misc
 layout: simple
 theme: slate
@@ -10,4 +10,5 @@ permalink: /spraak/deu/
 tags: [ bruno, job, search]
 ---
 
+[Tiroler Dialekt](tiroler-dialekt/)
 [Wiener Dialekt](wiener-dialekt/)

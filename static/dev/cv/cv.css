@@ -1,8 +1,8 @@
 @charset "UTF-8";
-@import url("../../assets/webfonts/ExcellenceInMotion/stylesheet.css");
-@import url("../../assets/webfonts/Formata/stylesheet.css");
-@import url("../../assets/webfonts/Meta/stylesheet.css");
-@import url("../../assets/webfonts/TitilliumText-fontfacekit/stylesheet.css");
+@import url("../../../assets/webfonts/ExcellenceInMotion/stylesheet.css");
+@import url("../../../assets/webfonts/Formata/stylesheet.css");
+@import url("../../../assets/webfonts/Meta/stylesheet.css");
+@import url("../../../assets/webfonts/TitilliumText-fontfacekit/stylesheet.css");
 /* START */
 #siteVersion {
     position: absolute;

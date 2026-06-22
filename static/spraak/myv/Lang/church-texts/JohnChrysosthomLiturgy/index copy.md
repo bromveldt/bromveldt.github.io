@@ -1,8 +1,9 @@
 ---
 layout: simple
 title: Ersa pages
-permalink: /ersa/index_fullversion/
-tags: [bruno, myv, ersa]
+permalink: /ersa/books/church-texts/JohnChrysosthomLiturgy-copy/
+published: false
+tags: [bruno, myv, ersa, church-texts]
 ---
 Table of contents
 
@@ -121,7 +122,7 @@ Table of contents
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ruscath/Tyszkiewicz%20-%20Papacy">Почему католики дорожат папством - Свящ. Станислав Тышкевич</a>
+<a class="page-link" href="/static/div/ruscath/Tyszkiewicz%20-%20Papacy">Почему католики дорожат папством - Свящ. Станислав Тышкевич</a>
 </li>
 
 <li class="toc-item">

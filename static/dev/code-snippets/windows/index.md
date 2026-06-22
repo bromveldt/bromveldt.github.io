@@ -265,6 +265,15 @@ reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DNSCache\Parameter
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DNSCache\Parameters" /v MaxNegativeCacheTtl /t REG_DWORD /d 5
 ```
 
+#### Wat is de oorzaak achter fout 0xC0000035 in Windows 11?
+
+Het treedt op wanneer sommige processen niet starten. Dit kunnen netwerkgerelateerde of andere processen zijn. enkele voorbeelden zijn PerfDiag Logger, NetCfgTrace, Microsoft. Ramen. Sanering, sensorframework, etc.
+
+## Fix Error Code 0xC0000035 in Event Viewer op Windows 11
+
+```
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\WMI\Autologger\EventLog-System\{b675ec37-bdb6-4648-bc92-f3fdc74d3ca2}" /v Enabled /t REG_DWORD /d 0x0 /f
+```
 ----
 ### Windows Services
 

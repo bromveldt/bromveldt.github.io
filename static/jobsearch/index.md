@@ -6,11 +6,11 @@ description: Profiles and projects
 layout: simple
 theme: slate
 lang: en
-permalink: /jobsearch
+permalink: /jobsearch/
 tags: [ bruno, job, search]
 ---
 
-I often program in Windows 11 shell and Powershell. Apparently not often enough to remember :( Here are some notes I have made.
+#### Sundry Notes
 
 g2 Recruitment Solutions -
 C/C++, Embedded Software, Austria/Belgium/Netherlands

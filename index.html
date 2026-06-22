@@ -4,13 +4,13 @@
     <meta name="robots"      content="none,noindex,nofollow,noarchive,nocache,noyaca">
     <meta charset="utf-8">
     <meta http-equiv="Content-Language" content="en-US">
-    <title>Bruno Samueli @ GitHub</title>
+    <title>Bruno Samueli @ GitHub Actions</title>
     <meta name="viewport"    content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A layout example that mainly hows off a responsive product landing page.">
+    <meta name="description" content="A layout example that mainly shows off a responsive product landing page.">
     <link rel="manifest"     href="manifest.json"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Titillium+Web:ital,wght@0,300;0,400;0,600;1,300;1,400&display=block" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;1,300&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Titillium+Web:ital,wght@0,300;0,400;0,600;1,300;1,400&display=block" rel="stylesheet">
     <link rel="stylesheet"   href="https://unpkg.com/purecss@3.0.0/build/pure-min.css" crossorigin="anonymous">
     <!--[if lte IE 8]>
         <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/grids-responsive-old-ie-min.css"/>
@@ -24,10 +24,10 @@
         <link rel="stylesheet" href="assets/css/layouts/marketing-old-ie.css"/>
     <![endif]-->
     <!--[if gt IE 8]><!-->
-        <link rel="stylesheet" href="assets/css/layouts/marketing.css"/>
+        <link rel="stylesheet" href="assets/css/layouts/marketing.css?v=4"/>
     <!--<![endif]-->
-    
-    <link rel="stylesheet" href="assets/css/index.css">
+
+    <link rel="stylesheet" href="assets/css/index.css?v=4">
     <!--
     <link rel="search" href="assets/opensearch.xml" title="OpenSearch" type="application/opensearchdescription+xml" /> -->
     <link rel="icon" href="assets/icons/favicon.ico" type="ico"/>
@@ -49,10 +49,12 @@
 <body>
 <div class="header">
     <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
-        <p class="pure-menu-item is-center excim-30-reg top16">Bruno Samueli</p>
-        <ul class="pure-menu-list">
-            <li class="pure-menu-item excim-30-reg"><a href="#" class="pure-menu-link">Projects and Topics</a></li>
-        </ul>
+        <div class="nav-inner">
+            <span class="pure-menu-heading">Bruno Samueli</span>
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">Projects and Topics</a></li>
+            </ul>
+        </div>
     </div>
 </div>
 
@@ -80,22 +82,26 @@
         </p>
         <p>
             I am likely switch to Croatian one day. Especially as regards genealogy.
-            I did discover I was a Southern Slav -- relatively late in life.
-            It just feels true.
+            I did discover 10 years ago I was some kind of a Southern Slav by descent.
+            It just feels true and it helps to explain the fact that I am more interested in the Balkan than in any other region of the world.
         </p>
-
+        <!--#config timefmt="A %B %d %Y %r"-->
         <div class="content">
             <h4 class="content-subhead metaSerifWeb-bold" style="margin-top: 0;margin-bottom: 3px;">Some Topics and Resources</h4>
             <ul class="pure-menu-list">
                 <li class="pure-menu-item formata-18-lite"><a href="/about/">About</a></li>
-                <li class="pure-menu-item formata-18-lite"><a href="/code/windows/">Windows Code Snippets</a></li>
+                <li class="pure-menu-item formata-18-lite"><a href="/dev/">Windows Code Snippets</a></li>
                 <li class="pure-menu-item formata-18-lite"><a href="/jobsearch/">Job Search</a></li>
-                <li class="pure-menu-item formata-18-lite"><a href="/green-pastures/">Where To Live</a></li>
-                <li class="pure-menu-item formata-18-lite"><a href="/deu/wiener-dialekt/begriffe/">Wiener Dialekt : Begriffe und Redewendungen</a></li>
+                <li class="pure-menu-item formata-18-lite"><a href="/geo/">Where To Live</a></li>
                 <li class="pure-menu-item formata-18-lite"><a href="/ersa/">Ersa</a></li>
                 <li class="pure-menu-item formata-18-lite"><a href="/oldrite/">Russian Old Rite Faith</a></li>
-                <li class="pure-menu-item formata-18-lite"><a href="/ruscath/">Russian Catholicism</a></li>
+                <li class="pure-menu-item formata-18-lite"><a href="/div/ruscath/">Russian Catholicism</a></li>
             </ul>
+
+            spraak
+            jobsearch
+            geo
+            dev
         </div>
 
         <p class="content-head is-center" style="margin-top: 1px;margin-bottom: 1px">Local Resources</p>
@@ -138,23 +144,21 @@
 
     <div class="footer l-box is-center titilliumTextRegular">
         <div style="display:contents">
-            2018-2026. Made with
-            Visual Studio Code 1.124.0
-            and GitHub Desktop 3.5.12.
+            2018-2026. Made with Visual Studio Code, Intellij Idea 2026-03
         </div>
         <div style="display:contents">
             [<a title="Source code for this GitHub Pages project" href="https://github.com/bromveldt/bromveldt.github.io" class="ondarkbg">Source code</a>]
         </div>
         <div style="display:contents">
-            [<a title="GitHub Pages" href="https://pages.github.com/" class="ondarkbg">More on GitHub Pages</a>]
+            [<a title="GitHub Actions Docs" href="https://docs.github.com/en/actions" class="ondarkbg">More on GitHub Actions</a>]
         </div>
         <div id="siteVersion">
             v0.2-alpha
         </div>
     </div>
-
-
 </div>
-
+<!-- See https://ionic.io/ionicons/usage -->
+<script type="module" src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.js"></script>
 </body>
 </html>

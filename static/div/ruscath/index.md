@@ -1,9 +1,8 @@
 ---
 layout: simple
-title: Russian Catholicism ToC
+title: Russian Catholicism - Writings by Rev. Stanislaw Tyszkiewicz
 permalink: /ruscath/
 tags: [bruno, ruscath]
 ---
 [Свящ. Станислав Тышкевич - Почему католики дорожат папством](/ruscath/Tyszkiewicz__Papacy/)
-
-Tyszkiewicz: История католической церкви
+[Свящ. Станислав Тышкевич - История католической церкви]

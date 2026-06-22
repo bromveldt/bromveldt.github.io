@@ -6,7 +6,7 @@ description: desc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/deu/wiener-dialekt
+permalink: /deu/wiener-dialekt/
 tags: [ bruno, deu, wien, wiener]
 ---
 

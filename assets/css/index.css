@@ -1,4 +1,6 @@
 @charset "UTF-8";
+@import url("../webfonts/Cardo-fontfacekit/stylesheet.css");
+@import url("../webfonts/Trykker-fontfacekit/stylesheet.css");
 @import url("../webfonts/ExcellenceInMotion/stylesheet.css");
 @import url("../webfonts/Formata/stylesheet.css");
 @import url("../webfonts/Meta/stylesheet.css");
@@ -6,26 +8,40 @@
 @import url("../fonts/TheMixExtraLight/stylesheet.css");
 @import url("../fonts/ProximaNova/stylesheet.css");
 @import url("../fonts/Prospera/stylesheet.css");
+
 /* START */
-/* Dark lilac theme */
+/* Light blue-slate theme — IBM Plex Serif Light / Plex Sans ExtraLight, Cardo Bold for Latin */
 body {
-    background-color: #170d2c;
-    color: #f5dece;
-    font-family: 'Titillium Web', 'Philosopher', sans-serif;
+    background-color: #f5f8fe;
+    color: #1a2030;
+    font-family: 'IBM Plex Serif', Georgia, serif;
+    font-weight: 400;
 }
 h1, h2, h3, h4, h5, h6, label {
-    color: #fce8d8;
+    color: #0e1624;
     font-weight: normal;
+    font-family: 'CardoBold', Georgia, serif;
 }
 .content-subhead {
-    color: #e8dbc8;
+    color: #2a4a7a;
 }
-a:link    { color: #d4b0f8; font-family: 'Titillium Web', 'Philosopher', sans-serif; }
-a:visited { color: #a080c8; font-family: 'Titillium Web', 'Philosopher', sans-serif; }
-a:hover   { color: #eedcff; font-family: 'Titillium Web', 'Philosopher', sans-serif; }
-a:active  { color: #f8f0ff; font-family: 'Titillium Web', 'Philosopher', sans-serif; }
+a         { font-size: 0.9em; }
+a:link    { color: #1b5fa0; }
+a:visited { color: #5a3a88; }
+a:hover   { color: #2878c0; }
+a:active  { color: #0a3870; }
+.footer { background-color: #2d3e50; color: #aaa; font-size: 13px !important; position: fixed; bottom: 0; left: 0; width: 100%; box-sizing: border-box; padding: 0 max(calc(20% + 2em), calc(50% - 430px)) 0 1em; }
+.footer a { font-size: 13px !important; }
+.home-menu { padding: 0; }
+.home-menu a { color: #a0cce8; }
+.home-menu .pure-menu-heading { text-transform: none; font: 20px/28px 'TrykkerRegular', serif; padding: 5px 0; }
+.home-menu .pure-menu-link { font: 20px/28px 'FormataRegular', sans-serif; text-transform: none; padding: 5px 0; }
+.home-menu .pure-menu-list { float: none; margin: 0; padding: 0; }
+.nav-inner { display: flex; align-items: center; justify-content: space-between; width: 100%; }
+@media (min-width: 768px) { .nav-inner { width: 60%; max-width: 900px; margin: 0 auto; } }
+.content .pure-menu-item { padding-top: 0.15em; padding-bottom: 0.15em; }
 .footer.titilliumTextRegular { font-size: 16px; line-height: 25px; }
-#siteVersion {position:absolute;bottom:18px;right:12px;color:burlywood;}
+#siteVersion { position: absolute; right: max(20%, calc(50% - 450px)); top: 50%; transform: translateY(-50%); color: burlywood; }
 .excim-50-reg {font: 50px/56px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
 .excim-30-reg {font: 30px/34px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
 .excim-20-reg {font: 20px/24px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
@@ -64,18 +80,13 @@ ul.core-competencies li {
     box-sizing: border-box;
 }
 @media (min-width: 768px) {
-    .content-main { width: 44%; }
+    .content-main { width: 60%; max-width: 900px; }
 }
 .page-content {
     width: 100%;
     margin: 2em auto;
     padding: 0 1em;
     box-sizing: border-box;
-}
-body.cyrillic-sans,
-body.cyrillic-sans .page-content,
-body.cyrillic-sans .page-content * {
-    font-family: 'Exo 2', 'Titillium Web', 'Philosopher', sans-serif;
 }
 @media (min-width: 768px) {
     .page-content {

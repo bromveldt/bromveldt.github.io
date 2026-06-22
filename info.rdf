@@ -7,7 +7,7 @@
 >
 
     <channel rdf:about="https://bromveldt.github.io/">
-      <title>bromveldta at github.io</title>
+      <title>bromveld at github.io</title>
       <link>https://bromveldt.github.io/</link>
       <description>This web site contains HTML and PDF content representing the views of Bruno Samueli.</description>
       <dc:language>en</dc:language>
@@ -24,7 +24,7 @@
 
     <item rdf:about="https://bromveldt.github.io/cv/bruno/"> 
       <title>Resume</title>
-      <link>https://bromveldt.github.io/code-snippets/</link>
+      <link>https://bromveldt.github.io/vak/code-snippets/</link>
       <description>Bruno Samueli's Code Snippet Resources</description>
       <dc:creator>Bruno Samueli</dc:creator>
       <dc:language>en</dc:language>
@@ -63,7 +63,7 @@
     </item>
     <item rdf:about="https://bromveldt.github.io/ruscath/"> 
       <title>Russian Catholic</title>
-      <link>https://bromveldt.github.io/ruscath/</link>
+      <link>https://bromveldt.github.io/geo/ruscath/</link>
       <description>Russian Catholic Resources</description>
       <dc:creator>Bruno Samueli</dc:creator>
       <dc:language>en</dc:language>
