@@ -122,7 +122,7 @@ Table of contents
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/div/ruscath/Tyszkiewicz%20-%20Papacy">Почему католики дорожат папством - Свящ. Станислав Тышкевич</a>
+<a class="page-link" href="/static/geloof/ruscath/Tyszkiewicz%20-%20Papacy">Почему католики дорожат папством - Свящ. Станислав Тышкевич</a>
 </li>
 
 <li class="toc-item">
