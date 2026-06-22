@@ -9,10 +9,10 @@ lang: en
 tags: [ bruno, language, resource]
 ---
 
-[Bulgarian](bgr)
-[German](deu)
-[Croatian](hrv)
-[Mordvin-Moksha](mdf)
-[Mordvin-Erzya](myv)
-[Ukrainian](ukr)
-[Yiddish](yid)
+- [Bulgarian](bgr)
+- [German](deu)
+- [Croatian](hrv)
+- [Mordvin-Moksha](mdf)
+- [Mordvin-Erzya](myv)
+- [Ukrainian](ukr)
+- [Yiddish](yid)

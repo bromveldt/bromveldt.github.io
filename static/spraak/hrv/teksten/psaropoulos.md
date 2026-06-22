@@ -8,12 +8,12 @@ lang: hr
 tags: [bruno, croatian, hrv]
 ---
 
-obiti rat ni diktirati uslove mira
-Zatvori traku Breaking news
-pauzirajte udarne vijesti traku
-Svijet | Ukrajina
-Bivši general NATO-a: Putin ima rok od devet mjeseci da okonča rat
-Taj period je potreban Ukrajini da u svoje redove integrira zapadnjačko oružje koje šalju saveznici, uz svu obuku snaga koje će ga koristiti, navodi general-pukovnik Loukopoulos.
+- obiti rat ni diktirati uslove mira
+- Zatvori traku Breaking news
+- pauzirajte udarne vijesti traku
+- Svijet | Ukrajina
+- Bivši general NATO-a: Putin ima rok od devet mjeseci da okonča rat
+- Taj period je potreban Ukrajini da u svoje redove integrira zapadnjačko oružje koje šalju saveznici, uz svu obuku snaga koje će ga koristiti, navodi general-pukovnik Loukopoulos.
 
 
 Ukrajinski predsjednik Volodimir Zelenski je naveo kako rusko bombardiranje pretvara Donbas u „pakao“ (AP - Ilustracija)

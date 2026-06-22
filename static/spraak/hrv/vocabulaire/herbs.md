@@ -1,13 +1,16 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Ljekovito bilje za kuhanje
 layout: simple
-title: Paprena metvica = menta piperita
-permalink: /spraak/hrv/woorden/herbs/
-tags: [bruno, croatian, hrv]
+theme: slate
+lang: hr
+tags: [bruno, croatian, hrv, bilje]
 ---
 
-Paprena metvica = menta piperita
-Kamilica = Matricaria recutita
-Stolisnik = Achillea millefolium
-Borovica = Juniperus communis = blueberry
-Matic''njak = Melissa officinalis
-Kadulja = salvia officinalis
+- paprena metvica = menta piperita
+- kamilica = Matricaria recutita
+- stolišnik = Achillea millefolium
+- borovica = Juniperus communis = blueberry
+- matičnjak = Melissa officinalis
+- kadulja = salvia officinalis
