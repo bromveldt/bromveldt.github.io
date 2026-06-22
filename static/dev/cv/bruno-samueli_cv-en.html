@@ -2,21 +2,22 @@
 <html lang="en"><!-- Page is based on Landing Page layout from https://purecss.io/layouts/ -->
 <head>
     <title>Bruno Samueli @ GitHub Page &ndash; Shorter HTML resume</title>  
-    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">    
+    <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/pure-min.css" crossorigin="anonymous">
     <!--[if lte IE 8]>
-        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/grids-responsive-old-ie-min.css">
+        <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/grids-responsive-old-ie-min.css">
     <![endif]-->
     <!--[if gt IE 8]><!-->
-        <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/grids-responsive-min.css">
+        <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/grids-responsive-min.css">
     <!--<![endif]-->
-    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/regular.min.css"
+        integrity="sha512-d2x1oQUT6HACW9UlXxWI6XrIBDrEE5z2tit/+kWEdXdVYuift7sm+Q6ucfGWQr1F0+GD9/6eYoYDegw2nm05Vw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <!--[if lte IE 8]>
     <link rel="stylesheet" href="../../../assets/css/layouts/marketing-old-ie.css">
     <![endif]-->
     <!--[if gt IE 8]><!-->
         <link rel="stylesheet" href="../../../assets/css/layouts/marketing.css">
     <!--<![endif]-->
-
+    <link rel="stylesheet" href="../../../assets/css/index.css">
     <link rel="stylesheet" href="cv.css">
 
     {% include_relative dc.html a="b" %}
@@ -32,10 +33,12 @@
 <body>
 <div class="header">
     <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
-        <p class="pure-menu-item excinmo-30-reg top16">Bruno Samueli</p>
-        <ul class="pure-menu-list">
-            <li class="pure-menu-item excinmo-30-reg"><a href="#" class="pure-menu-link">Projects</a></li>
-        </ul>
+        <div class="nav-inner">
+            <span class="pure-menu-heading">Bruno Samueli</span>
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a href="/" class="pure-menu-link">Projects and Topics</a></li>
+            </ul>
+        </div>
     </div>
 </div>
 <app-root><!-- {{page.author}} --><!-- {{site.author}} --><!-- {{author}} -->
@@ -503,8 +506,19 @@
         </table>
     </div>
 </app-root>
-<div class="footer l-box is-center">
-    <div id="siteVersion">{{ page.author }} {{ site.author }} {{ site.name }} {{ page.name }} {{ jane.name }} {{ jane.content }} {{ site.time | date_to_xmlschema }} v.2019-12-18</div>
+<div class="footer l-box is-center titilliumTextRegular">
+    <div style="display:contents">
+        2018-2026. Made with Visual Studio Code and IntelliJ IDEA 2026.1.3
+    </div>
+    <div style="display:contents">
+        [<a title="Source code for this GitHub Actions project" href="https://github.com/bromveldt/bromveldt.github.io" class="ondarkbg">Source code</a>]
+    </div>
+    <div style="display:contents">
+        [<a title="GitHub Actions" href="https://github.com/actions/" class="ondarkbg">GitHub Actions</a>]
+    </div>
+    <div id="siteVersion">
+        v0.2-beta
+    </div>
 </div>
 </body>
 </html>

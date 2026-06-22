@@ -6,6 +6,7 @@
     {% include pure.html format='text/html' %}
 
     <link rel="stylesheet" href="{{site.data.cv.stylesheet}}">
+    <link rel="stylesheet" href="{{ '/assets/css/index.css' | relative_url }}">
 
     {% include dc.html format='text/html' %}
 
@@ -19,17 +20,10 @@
     <meta name="DC.description" content="{{ page.description }}">
 </head>
 <body>
-<header>url={{ page.url }}
-     {% assign category = page.url | remove:'/' | capitalize %}
-    path={{ page.path }}
-</header>
-<section id="var1">
-</section>
-<section id="app-root">
+{% include header.html %}
+<section id="app-root" style="padding-top: 85px; padding-bottom: 80px;">
     {{ content }}
 </section>
-<section class="footer l-box is-center">
-    <div id="siteVersion">v.{{ site.time | date: "%Y-%m-%d" }}</div>
-</section>
+{% include footer.html %}
 </body>
 </html>
