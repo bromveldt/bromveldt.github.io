@@ -1,7 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Эрзянский язык
+title: Эрзянский язык pages 3–12
 description: 10 images (pages 3–12 of the book). The content covers the preface, a brief overview of the Erzya language, its alphabet (with table), phonetics (vowels, vowel harmony, consonants, stress), morphology (cases, verb system), and two conjugation tables for *кундамс* «to catch» in both non-objective and objective conjugations.
 layout: simple
 theme: slate
