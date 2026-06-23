@@ -6,7 +6,6 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/slova/
 tags: [ bruno, ukrainian, vocables]
 ---
 

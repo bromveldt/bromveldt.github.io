@@ -6,7 +6,6 @@ description: PDF and HTML files
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/
 tags: [ bruno, myv, erzya]
 ---
 

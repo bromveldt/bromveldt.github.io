@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: 29 мая 1453 г. - падение Константинополя ведёт 
-permalink: /geo/rusland/sibir/khanate/
 tags: [bruno, rusland, sibir]
 ---
 

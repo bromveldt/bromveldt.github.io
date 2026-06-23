@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Прошло немногим более четверти века после п
-permalink: /geo/rusland/sibir/baraba1729/
 tags: [bruno, rusland, sibir]
 ---
 

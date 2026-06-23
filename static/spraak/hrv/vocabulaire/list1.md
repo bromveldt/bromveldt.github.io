@@ -6,7 +6,6 @@ description: Some travel destinations
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/hrv/woorden/list1/
 tags: [bruno, croatian, hrv]
 ---
 

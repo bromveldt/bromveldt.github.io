@@ -6,7 +6,6 @@ description: Some travel destinations
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/accenting/
 tags: [bruno, ukrainian, ukr, accenting]
 ---
 

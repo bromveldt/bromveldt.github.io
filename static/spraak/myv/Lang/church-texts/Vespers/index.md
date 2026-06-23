@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Иоанн Златоустонь литургиязо &ndash; Вень ознома
-permalink: /ersa/books/church-texts/Vespers/
 tags: [bruno, myv, ersa, church-texts]
 ---
 

@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Тем не менее, организаторские способности, 
-permalink: /geo/rusland/sibir/revizija1623/
 tags: [bruno, rusland, sibir]
 ---
 

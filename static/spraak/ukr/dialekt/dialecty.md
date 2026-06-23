@@ -6,7 +6,6 @@ description: про наріччя української мови
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/dialekt/dialecty/
 tags: [bruno, ukrainian, ukr, dialekt]
 ---
 

@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Privatbank donation details
-permalink: /spraak/ukr/texts/privatbank/
 tags: [bruno, ukrainian, ukr, texts]
 ---
 

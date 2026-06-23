@@ -6,7 +6,6 @@ description: PDF files
 layout: simple
 theme: slate
 lang: en
-permalink: /books
 tags: [ bruno, myv]
 ---
 - [Lang/ChurchTexts/index.html](Psalm 22)

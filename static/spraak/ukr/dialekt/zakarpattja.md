@@ -6,7 +6,6 @@ description: унікальний закарпатський діалект
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/dialekt/zakarpattja/
 tags: [bruno, ukrainian, ukr, dialekt]
 ---
 

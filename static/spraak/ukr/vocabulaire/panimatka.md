@@ -6,7 +6,6 @@ description: Parents
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/panimatka/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

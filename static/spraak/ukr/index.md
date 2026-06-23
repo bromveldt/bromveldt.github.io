@@ -5,8 +5,7 @@ title: Ukrainian
 description: Some links
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/
+lang: uk
 tags: [ bruno, ukrainian, news]
 ---
 

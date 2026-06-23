@@ -6,7 +6,6 @@ description: Concise Erzya neologisms
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/neologizm
 tags: [ bruno, myv]
 ---
 

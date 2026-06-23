@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Канцелярия Колывано-Воскресенского горног
-permalink: /geo/rusland/sibir/kancelarija1747/
 tags: [bruno, rusland, sibir]
 ---
 

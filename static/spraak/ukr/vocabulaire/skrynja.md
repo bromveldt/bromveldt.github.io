@@ -6,7 +6,6 @@ mode: 'r:bom|utf-8'
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/skrynja/
 tags: [ bruno, ukrainian, скриня, скринька, шухлядка, ящик, Сербенська, serbenska]
 ---
 

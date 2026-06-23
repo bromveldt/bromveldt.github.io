@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Крутиха
-permalink: /geo/rusland/sibir/krutiha1782/
 tags: [bruno, rusland, sibir]
 ---
 

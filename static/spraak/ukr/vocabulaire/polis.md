@@ -6,7 +6,6 @@ description: How to best replace the term «страховка»
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/polis/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: CV
-permalink: /cv/
 tags: [bruno, cv]
 ---
 

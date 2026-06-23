@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Ci sono le famiglie Agnelli ed Elkann, con il presidente della Fiat, John , e i 
-permalink: /geo/italie/torino/
 tags: [bruno, italie]
 ---
 

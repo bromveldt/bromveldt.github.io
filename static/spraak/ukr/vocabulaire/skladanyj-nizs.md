@@ -6,7 +6,6 @@ description: складаним ножиком
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/skladanyj-nizs/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

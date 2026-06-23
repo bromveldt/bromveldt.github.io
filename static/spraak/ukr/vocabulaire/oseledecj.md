@@ -6,7 +6,6 @@ description: Words
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/oseledecj/
 tags: [ bruno, ukrainian, оселедець]
 ---
 

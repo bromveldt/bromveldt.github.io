@@ -6,7 +6,6 @@ description: Erzya names for chemical elements
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/Erzya_Periodic_Table.html
 tags: [ bruno, myv]
 ---
 

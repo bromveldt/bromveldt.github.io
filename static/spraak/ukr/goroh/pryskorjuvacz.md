@@ -5,7 +5,6 @@ title: прискорювач
 layout: simple
 theme: slate
 lang: uk
-permalink: /spraak/ukr/goroh/pryskorjuvacz/
 tags: [bruno, ukrainian, ukr, goroh]
 ---
 

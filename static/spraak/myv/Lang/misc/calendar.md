@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title : Calendar
 layout: simple
-permalink: /ersa/Lang/misc/calendar/
 tags: [bruno, myv, ersa]
 months :
  - Якшамков

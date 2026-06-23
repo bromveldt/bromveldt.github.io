@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Best places to live USA 
-permalink: /geo/usa/best-places/
 tags: [bruno, usa]
 ---
 

@@ -5,7 +5,6 @@ mode: 'r:bom|utf-8'
 layout: simple
 theme: slate
 lang: ru
-permalink: /ersa/books/church-texts/ErzianNewTest1821/Revelation/
 tags: [bruno, myv, ersa, church-texts]
 
 ---

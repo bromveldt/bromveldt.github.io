@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: В 1767 г. китайцы окончательно овладели Джун
-permalink: /geo/rusland/sibir/dzhungaria1767/
 tags: [bruno, rusland, sibir]
 ---
 

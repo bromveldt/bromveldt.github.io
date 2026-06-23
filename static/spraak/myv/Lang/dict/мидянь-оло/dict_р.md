@@ -7,7 +7,6 @@ author: Тимĕрке Митяй (Мидянь Оло)
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/ervalks_р
 tags: [ bruno, myv, Мидянь Оло, эрзянь-рузонь валкс, эрзянско-русский словарь]
 ---
 

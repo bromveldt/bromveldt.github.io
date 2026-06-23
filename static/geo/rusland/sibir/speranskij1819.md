@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Сибирская реформа Сперанского
-permalink: /geo/rusland/sibir/speranskij1819/
 tags: [bruno, rusland, sibir]
 ---
 

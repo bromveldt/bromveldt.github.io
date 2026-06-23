@@ -6,7 +6,6 @@ description: Federal States and tax regimes
 layout: simple
 theme: slate
 lang: en
-permalink: /geo/usa/sd/
 tags: [bruno, usa]
 ---
 

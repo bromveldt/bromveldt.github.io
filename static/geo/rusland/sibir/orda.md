@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Кичи́ Мухамме́д (тат. Кече Мөхәммәд хан) — 
-permalink: /geo/rusland/sibir/orda/
 tags: [bruno, rusland, sibir]
 ---
 

@@ -6,7 +6,6 @@ description: Some language pages
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/
 tags: [ bruno, language, resource]
 ---
 

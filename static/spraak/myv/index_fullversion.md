@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Ersa pages
-permalink: /ersa/index_fullversion/
 tags: [bruno, myv, ersa]
 ---
 Table of contents

@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Поначалу я отнюдь не различал служилых люде
-permalink: /geo/rusland/sibir/tara/
 tags: [bruno, rusland, sibir]
 ---
 

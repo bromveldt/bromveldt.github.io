@@ -1,4 +1,6 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Координатами центра села Старое Демкино
 tags: [bruno, rusland, oldrite]

@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Siberië — geschiedenis
-permalink: /geo/rusland/sibir/
 tags: [bruno, rusland, sibir]
 ---
 

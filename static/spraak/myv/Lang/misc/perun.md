@@ -6,7 +6,6 @@ description: An article on a Perun-like deity in Eastern Europe
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/Lang/misc/perun/
 tags: [ bruno, perun]
 ---
 #### Similar Gods

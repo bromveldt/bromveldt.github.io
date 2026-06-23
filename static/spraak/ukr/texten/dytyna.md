@@ -1,13 +1,12 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}"#{escaped}"
+title: Поради по вихованню
 description: misc
 author: UkrMedia
 layout: simple
 theme: slate
-lang: en
-permalink: /spraak/ukr/texts/dytyna/
+lang: uk
 tags: [ bruno, ukrainian, texts, Поради по вихованню ]
 ---
 

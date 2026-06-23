@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: https://ru.stsg.de/cms/node/11118?page=1&suchwort=%D0%94%D0%BE%D0%BB%D0%B3%D0%B0
-permalink: /geo/rusland/sibir/dolganov/
 tags: [bruno, rusland, sibir]
 ---
 

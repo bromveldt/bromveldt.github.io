@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: География расселения Казанцевых пр
-permalink: /geo/rusland/sibir/vyvod-kuznetska1797/
 tags: [bruno, rusland, sibir]
 ---
 

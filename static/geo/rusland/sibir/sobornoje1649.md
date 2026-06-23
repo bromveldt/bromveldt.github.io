@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Соборному Уложению 1649 г
-permalink: /geo/rusland/sibir/sobornoje1649/
 tags: [bruno, rusland, sibir]
 ---
 

@@ -6,7 +6,6 @@ description: PDF files
 layout: simple
 theme: slate
 lang: en
-permalink: /moksha/dictionaries/
 tags: [ bruno, myv]
 ---
 #### Table of contents

@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Регион - Ставропольский край, Советский рай
-permalink: /geo/rusland/oldrite/penza2/
 tags: [bruno, rusland, oldrite]
 ---
 

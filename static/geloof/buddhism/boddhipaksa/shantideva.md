@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Shantideva is not suggesting that we should never get angry with those who cause
-permalink: /geest/boeddhisme/boddhipaksa/shantideva/
 tags: [bruno, boeddhisme]
 ---
 

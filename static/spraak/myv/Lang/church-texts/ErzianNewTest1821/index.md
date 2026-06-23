@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: СВЯТОЙ ЕВАНГЕЛЬЯ
-permalink: /ersa/books/church-texts/ErzianNewTest1821/
 tags: [bruno, myv, ersa, church-texts]
 ---
 ### ГОСПОДАНЬ МИНЕКЪ ІИСУСАНЬ ХРИСТАНЬ

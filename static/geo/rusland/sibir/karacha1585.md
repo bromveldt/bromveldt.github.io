@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: В марте 1585 года на реке Туре восстал изъявл
-permalink: /geo/rusland/sibir/karacha1585/
 tags: [bruno, rusland, sibir]
 ---
 

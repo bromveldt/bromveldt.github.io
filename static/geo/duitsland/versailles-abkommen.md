@@ -1,4 +1,6 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: the German economy did not suffer from the Versailles treaty - read A.P.B Taylor
 tags: [bruno, duitsland]

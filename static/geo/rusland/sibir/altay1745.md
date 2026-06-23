@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Итоги первоначального заселения Алтая русс
-permalink: /geo/rusland/sibir/altay1745/
 tags: [bruno, rusland, sibir]
 ---
 

@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Vorgartenstrasse 80 / 46, 1200 Wien
-permalink: /geo/oostenrijk/coord/
 tags: [bruno, oostenrijk]
 ---
 

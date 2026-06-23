@@ -6,7 +6,6 @@ description: MIscellaneous notes
 layout: simple
 theme: slate
 lang: en
-permalink: /code/windows
 tags: [ bruno, system, software, architecture]
 ---
 

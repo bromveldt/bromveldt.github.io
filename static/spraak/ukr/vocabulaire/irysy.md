@@ -6,7 +6,6 @@ description: півники vs. іриси, волошки vs. васильки
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/irysy/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: http://xn--c1acc6aafa1c.xn--p1ai/?page_id=15461&cpage=1#comment-13269
-permalink: /geo/rusland/sibir/5-genofondov/
 tags: [bruno, rusland, sibir]
 ---
 

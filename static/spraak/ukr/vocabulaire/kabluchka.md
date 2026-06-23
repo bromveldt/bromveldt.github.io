@@ -6,7 +6,6 @@ description: Світлана Чернишова
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/kabluchka/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

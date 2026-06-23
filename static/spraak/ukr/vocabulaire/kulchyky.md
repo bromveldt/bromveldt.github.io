@@ -6,7 +6,6 @@ description: кульчики vs. сірьожки»
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/kulchyky/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

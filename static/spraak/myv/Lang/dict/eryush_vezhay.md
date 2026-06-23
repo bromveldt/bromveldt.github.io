@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Русско-Эрзянский словарь / Рузонь-Эрзянь валкс
 layout: simple
-permalink: /ersa/dict/ruserz
 tags: [bruno, myv, ersa]
 ---
 

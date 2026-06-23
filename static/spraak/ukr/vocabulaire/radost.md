@@ -7,7 +7,6 @@ author: Юлія Піщанська
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/radost/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

@@ -7,7 +7,6 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/kvatyrka/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

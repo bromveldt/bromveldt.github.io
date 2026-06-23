@@ -6,7 +6,6 @@ description: Profiles and projects
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/psychotherapie/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

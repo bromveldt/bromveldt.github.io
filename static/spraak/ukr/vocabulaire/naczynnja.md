@@ -6,7 +6,6 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/naczynnja/
 tags: [ bruno, ukrainian, чашка, таця, тертушка, кавник, сільниця, ополоник, дощечка, серветка, глечик, друшляк,пательня, начиння]
 ---
 

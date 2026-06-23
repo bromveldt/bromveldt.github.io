@@ -6,7 +6,6 @@ description: desc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/lyho/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

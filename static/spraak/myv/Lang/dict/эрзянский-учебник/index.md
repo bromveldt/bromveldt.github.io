@@ -7,7 +7,6 @@ author:
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/vodyasova
 tags: [ bruno, myv, учебник]
 ---
 #### 2008-01 (янв)

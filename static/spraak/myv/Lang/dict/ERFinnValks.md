@@ -6,7 +6,6 @@ description: Erzya-Finnish Dictionary
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/erfinnvalks
 tags: [ bruno, myv]
 ---
 #### Яна Ниеми, Михаил Мосин — ~12000 валт — Саранск, 1996

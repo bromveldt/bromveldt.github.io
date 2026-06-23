@@ -7,7 +7,6 @@ author: Марія Волошин
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/voloshyn/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

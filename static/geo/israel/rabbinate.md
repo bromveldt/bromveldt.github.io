@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: However, Moshe Dagan, director-general of the rabbinate, indicated that only con
-permalink: /geo/israel/rabbinate/
 tags: [bruno, israel]
 ---
 

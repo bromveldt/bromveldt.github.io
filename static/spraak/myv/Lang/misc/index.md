@@ -6,7 +6,6 @@ description: Misc Ersa Resources
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/Lang/misc/
 tags: [ bruno, myv]
 ---
 #### Sundry Resources

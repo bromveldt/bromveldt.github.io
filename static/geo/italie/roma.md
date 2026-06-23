@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Casina delle Civette
-permalink: /geo/italie/roma/
 tags: [bruno, italie]
 ---
 

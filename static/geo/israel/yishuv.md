@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: The leaders of the Zionist Yishuv were highly selective over which Jews to allow
-permalink: /geo/israel/yishuv/
 tags: [bruno, israel]
 ---
 

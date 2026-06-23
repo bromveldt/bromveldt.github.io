@@ -6,7 +6,6 @@ description: «Апостроф»
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/perekyd/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

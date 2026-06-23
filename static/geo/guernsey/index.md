@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Guernsey
-permalink: /geo/guernsey/
 tags: [bruno, guernsey]
 ---
 

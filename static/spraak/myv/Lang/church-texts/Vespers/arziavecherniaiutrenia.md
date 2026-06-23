@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Вень ознома
-permalink: /ersa/books/church-texts/Vespers/arziavecherniaiutrenia/
 tags: [bruno, myv, ersa, church-texts]
 ---
 ### Вень ознома

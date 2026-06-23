@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Иоанн Златоустонь литургиязо / Од сыцятнень литургия
-permalink: /ersa/books/church-texts/Matins/
 tags: [bruno, myv, ersa, church-texts]
 ---
 ### Иоанн Златоустонь литургиязо &ndash; Од сыцятнень литургия

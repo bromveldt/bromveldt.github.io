@@ -7,7 +7,6 @@ author: Jack Rueter
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/EnglishErzyan
 tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
 ---
 

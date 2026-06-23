@@ -6,7 +6,6 @@ description: Concise Erzya-Russian Dictionary
 layout: simple
 theme: slate
 lang: en
-permalink: /ersa/dict/ervalks/onepage
 tags: [ bruno, myv]
 ---
 # Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь

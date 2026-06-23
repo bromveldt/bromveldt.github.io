@@ -7,7 +7,6 @@ author: Юлія Потерянко
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/negative-terms/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

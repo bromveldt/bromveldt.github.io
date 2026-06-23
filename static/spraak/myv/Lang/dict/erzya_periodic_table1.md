@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Erzya Periodic Table
-permalink: /spraak/ersa/Lang/dict/erzya_periodic_table1/
 tags: [bruno, myv, ersa]
 ---
 

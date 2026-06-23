@@ -6,7 +6,6 @@ description: Vocative
 layout: simple
 theme: slate
 lang: uk
-permalink: /spraak/ukr/spraakleer/vocative/
 tags: [bruno, ukrainian, ukr, spraakleer]
 ---
 

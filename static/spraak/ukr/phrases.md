@@ -6,7 +6,6 @@ description: misc
 layout: simple
 theme: slate
 lang: uk
-permalink: /spraak/ukr/phrases/
 tags: [bruno, ukrainian, ukr]
 ---
 

@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Лексика, отражающая крестьянский быт, в мордовских языках
-permalink: /ersa/Lang/misc/avtoreferat7/
 tags: [bruno, myv, ersa]
 ---
 На правах рукописи

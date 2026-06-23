@@ -6,7 +6,6 @@ description: Авраменко
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/zbig/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

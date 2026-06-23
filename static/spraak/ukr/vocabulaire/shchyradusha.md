@@ -6,7 +6,6 @@ description: рубаха-парень vs. щира душа
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/shchyradusha/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

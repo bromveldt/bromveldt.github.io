@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Беклешов Александр Андреевич
-permalink: /geo/rusland/sibir/bekleshov/
 tags: [bruno, rusland, sibir]
 ---
 

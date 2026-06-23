@@ -6,7 +6,6 @@ description: tasse
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/tasse/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

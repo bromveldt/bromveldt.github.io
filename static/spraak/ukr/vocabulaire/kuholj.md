@@ -7,7 +7,6 @@ author: Юлі-а
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/kuholj/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

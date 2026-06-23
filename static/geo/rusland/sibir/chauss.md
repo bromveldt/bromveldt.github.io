@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Первые приказчики Чаусского острога Д. Лавр
-permalink: /geo/rusland/sibir/chauss/
 tags: [bruno, rusland, sibir]
 ---
 

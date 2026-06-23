@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Служилые люди получали, кроме денежного, и х
-permalink: /geo/rusland/sibir/sluzsilyje-ljudi/
 tags: [bruno, rusland, sibir]
 ---
 

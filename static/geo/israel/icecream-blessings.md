@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Shehakol nihye bidvaro
-permalink: /geo/israel/icecream-blessings/
 tags: [bruno, israel]
 ---
 

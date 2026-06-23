@@ -1,7 +1,8 @@
 ---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 layout: simple
 title: Образована 18 декабря 1708 года Петром I и пр
-permalink: /geo/rusland/sibir/tobolsk1708/
 tags: [bruno, rusland, sibir]
 ---
 

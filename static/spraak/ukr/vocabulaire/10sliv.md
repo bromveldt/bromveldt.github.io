@@ -6,7 +6,6 @@ mode: 'r:bom|utf-8'
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/10sliv/
 tags: [ bruno, ukrainian, 24tv.ua]
 ---
 

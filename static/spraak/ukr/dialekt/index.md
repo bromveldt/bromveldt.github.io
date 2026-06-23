@@ -1,7 +1,10 @@
 ---
-layout: simple
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
 title: Ukraïense dialecten
-permalink: /spraak/ukr/dialekt/
+layout: simple
+theme: slate
+lang: uk
 tags: [bruno, ukrainian, ukr, dialekt]
 ---
 

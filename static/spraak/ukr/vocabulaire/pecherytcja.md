@@ -7,7 +7,6 @@ description: misc
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/woorden/pecherytcja/
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

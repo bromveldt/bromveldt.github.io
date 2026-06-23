@@ -6,7 +6,6 @@ description: ґвара Львова
 layout: simple
 theme: slate
 lang: en
-permalink: /spraak/ukr/dialekt/lviv/
 tags: [bruno, ukrainian, ukr, dialekt]
 ---
 
