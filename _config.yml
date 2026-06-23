@@ -72,7 +72,6 @@ defaults:
       topic: "curriculum vitae"
 
 exclude: [
-  'assets/ersa',
   'assets/lang',
   'icons',
   'templates',
