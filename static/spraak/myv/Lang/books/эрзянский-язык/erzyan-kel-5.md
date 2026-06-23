@@ -11,7 +11,7 @@ tags: [bruno, myv, Эрзянский язык]
 
 Source: http://filfak.mrsu.ru/bak/razgn/sssss.html
 
-Pages 43–52 complete. This section finishes the apartment description, then covers vacation planning (tourist bases in Mordovia with phone numbers), asking for directions on a hiking trip (landmarks, distances, road conditions, hitchhiking, breakdown assistance), camping and overnight stays with locals (food, bathing, accommodation), and arriving in an unfamiliar city (taxi ranks, bus stops, finding streets and landmarks).
+This section finishes the apartment description, then covers vacation planning (tourist bases in Mordovia with phone numbers), asking for directions on a hiking trip (landmarks, distances, road conditions, hitchhiking, breakdown assistance), camping and overnight stays with locals (food, bathing, accommodation), and arriving in an unfamiliar city (taxi ranks, bus stops, finding streets and landmarks).
 
 ---
 
