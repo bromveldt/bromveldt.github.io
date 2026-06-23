@@ -12,3 +12,6 @@ tags: [bruno, ukrainian, ukr, texts]
 - [Повернись живим — реквізити](povernis.md)
 - [Privatbank donation details](privatbank.md)
 - [Увага — фейк](uvaga-feik.md)
+- [метод заснований на ліпосакції](liposuction.md)
+- [прополіс](propolis.md)
+
