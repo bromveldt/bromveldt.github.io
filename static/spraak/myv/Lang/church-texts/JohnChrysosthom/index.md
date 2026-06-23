@@ -2,6 +2,7 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 layout: simple
+theme: slate
 title: Иоанн Златоустонь литургиязо
 tags: [bruno, myv, ersa, church-texts]
 ---
@@ -12,107 +13,107 @@ tags: [bruno, myv, ersa, church-texts]
 <ul class="toc">
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom.html">Иоанн Златоустонь литургиязо &ndash; aa</a>
+<a class="page-link" href="johnchrysosthom.html">Иоанн Златоустонь литургиязо &ndash; aa</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0anamnesis.html">Иоанн Златоустонь литургиязо &ndash; Анамнесис</a>
+<a class="page-link" href="johnchrysosthom0anamnesis.html">Иоанн Златоустонь литургиязо &ndash; Анамнесис</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0anaphora.html">Иоанн Златоустонь литургиязо &ndash; Анафора</a>
+<a class="page-link" href="johnchrysosthom0anaphora.html">Иоанн Златоустонь литургиязо &ndash; Анафора</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0cherubim.html">Иоанн Златоустонь литургиязо &ndash; Анафора</a>
+<a class="page-link" href="johnchrysosthom0cherubim.html">Иоанн Златоустонь литургиязо &ndash; Анафора</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0ektenia.html">Иоанн Златоустонь литургиязо &ndash; Ектеният</a>
+<a class="page-link" href="johnchrysosthom0ektenia.html">Иоанн Златоустонь литургиязо &ndash; Ектеният</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0epiclesis.html">Иоанн Златоустонь литургиязо &ndash; Эпиклесис</a>
+<a class="page-link" href="johnchrysosthom0epiclesis.html">Иоанн Златоустонь литургиязо &ndash; Эпиклесис</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0evangelia.html">Иоанн Златоустонь литургиязо &ndash; Евангелия</a>
+<a class="page-link" href="johnchrysosthom0evangelia.html">Иоанн Златоустонь литургиязо &ndash; Евангелия</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0int.html">Иоанн Златоустонь литургиязо &ndash; Интерцессио</a>
+<a class="page-link" href="johnchrysosthom0int.html">Иоанн Златоустонь литургиязо &ndash; Интерцессио</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0izobrantiphon.html">Иоанн Златоустонь литургиязо &ndash; Вход с евангелием / Евангелия марто совамодо антифон</a>
+<a class="page-link" href="johnchrysosthom0izobrantiphon.html">Иоанн Златоустонь литургиязо &ndash; Вход с евангелием / Евангелия марто совамодо антифон</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0nachalo.html">Иоанн Златоустонь литургиязо &ndash; Начало / Ине Ектения</a>
+<a class="page-link" href="johnchrysosthom0nachalo.html">Иоанн Златоустонь литургиязо &ndash; Начало / Ине Ектения</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0oglash.html">Иоанн Златоустонь литургиязо &ndash; Оглашение / Озномат</a>
+<a class="page-link" href="johnchrysosthom0oglash.html">Иоанн Златоустонь литургиязо &ndash; Оглашение / Озномат</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0oglash0.html">Иоанн Златоустонь литургиязо &ndash; Оглашение / Од сыцятнень литургия</a>
+<a class="page-link" href="johnchrysosthom0oglash0.html">Иоанн Златоустонь литургиязо &ndash; Оглашение / Од сыцятнень литургия</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0prefatio.html">Иоанн Златоустонь литургиязо &ndash; Префацио</a>
+<a class="page-link" href="johnchrysosthom0prefatio.html">Иоанн Златоустонь литургиязо &ndash; Префацио</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0sugubaya.html">Иоанн Златоустонь литургиязо &ndash; Сугубая ектения / Башка ектения</a>
+<a class="page-link" href="johnchrysosthom0sugubaya.html">Иоанн Златоустонь литургиязо &ndash; Сугубая ектения / Башка ектения</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0symbol.html">Иоанн Златоустонь литургиязо &ndash; Кемемань Символ</a>
+<a class="page-link" href="johnchrysosthom0symbol.html">Иоанн Златоустонь литургиязо &ndash; Кемемань Символ</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0trisv.html">Иоанн Златоустонь литургиязо &ndash; Трисвятое / Колмо чанстев морось</a>
+<a class="page-link" href="johnchrysosthom0trisv.html">Иоанн Златоустонь литургиязо &ndash; Трисвятое / Колмо чанстев морось</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0usopshikh.html">Иоанн Златоустонь литургиязо &ndash; Ектения об усопших / Кулозтень ледстямонь ектения</a>
+<a class="page-link" href="johnchrysosthom0usopshikh.html">Иоанн Златоустонь литургиязо &ndash; Ектения об усопших / Кулозтень ледстямонь ектения</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0velikaya.html">Иоанн Златоустонь литургиязо &ndash; Ине Ектения</a>
+<a class="page-link" href="johnchrysosthom0velikaya.html">Иоанн Златоустонь литургиязо &ndash; Ине Ектения</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0vkhod.html">Иоанн Златоустонь литургиязо &ndash; Вход с евангелием / Евангелия марто совамо</a>
+<a class="page-link" href="johnchrysosthom0vkhod.html">Иоанн Златоустонь литургиязо &ndash; Вход с евангелием / Евангелия марто совамо</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom0zhivantiphon.html">Иоанн Златоустонь литургиязо &ndash; Эрьвачинь антифонт</a>
+<a class="page-link" href="johnchrysosthom0zhivantiphon.html">Иоанн Златоустонь литургиязо &ndash; Эрьвачинь антифонт</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom1.html">Иоанн Златоустонь литургиязо &ndash; 1. Од сыцятнень литургия</a>
+<a class="page-link" href="johnchrysosthom1.html">Иоанн Златоустонь литургиязо &ndash; 1. Од сыцятнень литургия</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom2.html">Иоанн Златоустонь литургиязо &ndash; 2</a>
+<a class="page-link" href="johnchrysosthom2.html">Иоанн Златоустонь литургиязо &ndash; 2</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom3.html">Иоанн Златоустонь литургиязо &ndash; 3. Вешемань ектения | Синдемадо икеле ознома | Прянь нолдамонь ознома</a>
+<a class="page-link" href="johnchrysosthom3.html">Иоанн Златоустонь литургиязо &ndash; 3. Вешемань ектения | Синдемадо икеле ознома | Прянь нолдамонь ознома</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom4.html">Иоанн Златоустонь литургиязо &ndash; 4. Алтарьсэ причастямось</a>
+<a class="page-link" href="johnchrysosthom4.html">Иоанн Златоустонь литургиязо &ndash; 4. Алтарьсэ причастямось</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom12.html">Иоанн Златоустонь литургиязо &ndash; 12. Благодарственные молитвы / Сюкпрянь евтамонь ознома</a>
+<a class="page-link" href="johnchrysosthom12.html">Иоанн Златоустонь литургиязо &ndash; 12. Благодарственные молитвы / Сюкпрянь евтамонь ознома</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/johnchrysosthom15.html">Иоанн Златоустонь литургиязо &ndash; 15. Нолдамонь тропарезэ</a>
+<a class="page-link" href="johnchrysosthom15.html">Иоанн Златоустонь литургиязо &ndash; 15. Нолдамонь тропарезэ</a>
 </li>
 
 </ul>

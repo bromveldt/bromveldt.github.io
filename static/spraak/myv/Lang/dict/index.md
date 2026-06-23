@@ -5,7 +5,7 @@ title: Ersa Dictionaries
 description: PDF and HTML files
 layout: simple
 theme: slate
-lang: en
+lang: ru
 tags: [ bruno, myv, erzya]
 ---
 
