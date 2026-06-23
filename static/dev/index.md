@@ -1,18 +1,16 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Spraak
-description: Some language pages
+title: Software development
+description: Some software development pages
 layout: simple
 theme: slate
 lang: en
 tags: [ bruno, language, resource]
 ---
 
-[bgr](bgr/)
-[deu](deu/)
-[hrv](hrv/)
-[mdf](mdf/)
-[myv](myv/)
-[ukr](ukr/)
-[yid](yid/)
+[code-snippets/windows](code-snippets/windows)
+[cv](cv) old
+[system-design](system-design)
+
+
