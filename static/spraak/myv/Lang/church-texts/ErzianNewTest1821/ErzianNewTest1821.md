@@ -4,11 +4,9 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 layout: simple
 theme: slate
-lang: ru
+lang: myv
 tags: [bruno, myv, ersa, church-texts]
-
 ---
-
 
 Шнамонь гисъ Святой, вя Пазонь, живойсто тѣицянь, и апакъ явозень ТРОИЦЯНЬ, тятянь, и цёрань, и Святой Оймень: 
 
@@ -41,41 +39,41 @@ tags: [bruno, myv, ersa, church-texts]
 
 Индиктань 9.
 
-Комсьвяхкеце ійсе мирямонь и шумрань паронь Инязорокирдемань ИМПЕРАТОРАНЬ МИНЕКЪ.
+Комсь вяхкеце ійсе мирямонь и шумрань паронь Инязорокирдемань ИМПЕРАТОРАНЬ МИНЕКЪ.
 
 #### Historical Books
 
-* [Matthew / Матѳейсте Святой Евангелья](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-Matthew.html)
-* [Mark / Маркасто Святой Евангелья](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-Mark.html)
-* [Luke / Лукасто Святой Евангелья](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-Luke.html)
-* [John / Іоанносто Святой Евангелья](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-John.html)
-* [Acts / Тявть Святой Апостолтнень](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-Acts.html)
+* [Matthew / Матѳейсте](ErzianNewTest1821-Matthew.md) Святой Евангелья
+* [Mark / Маркасто](ErzianNewTest1821-Mark.md) Святой Евангелья
+* [Luke / Лукасто](ErzianNewTest1821-Luke.md) Святой Евангелья
+* [John / Іоанносто](ErzianNewTest1821-John.md) Святой Евангелья
+* [Acts / Тявть](ErzianNewTest1821-Acts.md) Святой Апостолтнень
 
 #### Pauline Epistles
 
-* [Hebrews / Еврейтненѣнь Сёрма Святоень Апостолень Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToHebrews.html)
-* [Romans / Римлятненень Кучовксъ Святой Апостолонь Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToRomans.html)
-* [1 Corinthians / Коринфяннень васеньцѣсь Кучомо Святоинь Апостолань Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToCorinthians1.html)
-* [1 Corinthians / Коринфяннень омбоце Сёрма Святой Апостолонь Павлонь](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToCorinthians2.html)
-* [Galatians / Галатненѣнь Кучовксъ Святой Апостолонь Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToGalatians.html)
-* [Ephesians / Ефесейнень Кучомо Святой Апостолань Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToEphesians.html)
-* [Philippians / Филиппісятненень Сёрма Святой Апостолонь Павлонь](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToPhilippians.html)
-* [Colossians / Колоссайтнень Сёрма Святоень Апостолень Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToColossians.html)
-* [1 Thessalonians / Солунянтненень икельце Кучовксъ Святой Апостолень Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToThessalonians1.html)
-* [2 Thessalonians / Солунянтненѣнь омбоце Кучовксъ Святоень Опостолень Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToThessalonians2.html)
-* [1 Timothy / Тимофейнѣнь васень Кучовксъ Святоень Апостолень Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToTimothy1.html)
-* [2 Timothy / Тимофейнѣнь омбоце Сёрмань Святой Апостоленьть Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToTimothy1.html)
-* [Titus / Титнень Сёрма Святоень Апостолень Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToTitus.html)
-* [Philemon / Филимоннень Сёрма Святоень Апостолонь Павлань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleToPhilemon.html)
+* [Hebrews / Еврейтненѣнь Сёрма](ErzianNewTest1821-EpistleToHebrews.md) Святоень Апостолонь Павлань
+* [Romans / Римлятненень Кучовксъ](ErzianNewTest1821-EpistleToRomans.md) Святоень Апостолонь Павлань
+* [1 Corinthians / Коринфяннень васеньцѣсь Кучомо](ErzianNewTest1821-EpistleToCorinthians1.md) Святоень Апостолонь Павлань
+* [1 Corinthians / Коринфяннень омбоце Сёрма](ErzianNewTest1821-EpistleToCorinthians2.md) Святоень Апостолонь Павлань
+* [Galatians / Галатненѣнь Кучовксъ](ErzianNewTest1821-EpistleToGalatians.md) Святоень Апостолонь Павлань
+* [Ephesians / Ефесейнень Кучомо](ErzianNewTest1821-EpistleToEphesians.md) Святоень Апостолонь Павлань
+* [Philippians / Филиппісятненень Сёрма](ErzianNewTest1821-EpistleToPhilippians.md) Святоень Апостолонь Павлань
+* [Colossians / Колоссайтнень Сёрма](ErzianNewTest1821-EpistleToColossians.md) Святоень Апостолонь Павлань
+* [1 Thessalonians / Солунянтненень икельце Кучовксъ](ErzianNewTest1821-EpistleToThessalonians1.md) Святоень Апостолонь Павлань
+* [2 Thessalonians / Солунянтненѣнь омбоце Кучовксъ](ErzianNewTest1821-EpistleToThessalonians2.md) Святоень Апостолонь Павлань
+* [1 Timothy / Тимофейнѣнь васень Кучовксъ](ErzianNewTest1821-EpistleToTimothy1.md) Святоень Апостолонь Павлань
+* [2 Timothy / Тимофейнѣнь омбоце Сёрмань](ErzianNewTest1821-EpistleToTimothy1.md) Святоень Апостолонь Павлань
+* [Titus / Титнень Сёрма](ErzianNewTest1821-EpistleToTitus.md) Святоень Апостолень Павлань
+* [Philemon / Филимоннень Сёрма](ErzianNewTest1821-EpistleToPhilemon.md)  Святоень Апостолонь Павлань
 
 #### Non-Pauline Epistles
 
-* [James / Промксонь Кучомо Іаковонь](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJames.html)
-* [1 Peter / Промксонь Кучомо Петрань икельце](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistlePeter1.html)
-* [2 Peter / Промксонь Кучовксъ омбоцѣ секень же Святоень Апостолонь Петрань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistlePeter2.html)
-* [1 John / Промксонь Кучовксъ восень Святоень Апостолень Іоаннонь Богословонь](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJohn1.html)
-* [2 John / Промось Кучомо омоцѣ Святой Апостолань Іоаннонь Богословонь](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJohn2.html)
-* [3 John / Промозь Кучомо колмоцѣ Святой Апостолань Іоаннонь Богословонь](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJohn3.html)
-* [Jude / Промзань Кучомо Іудань](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-EpistleJude.html)
-* [Revelation / Штафтома Святой Іоаннень Богословнень](/static/ersa/Lang/ChurchTexts/ErzianNewTest1821-Revelation.html)
+* [James / Промксонь Кучомо Іаковонь](ErzianNewTest1821-EpistleJames.md)
+* [1 Peter / Промксонь Кучомо Петрань икельце](ErzianNewTest1821-EpistlePeter1.md)
+* [2 Peter / Промксонь Кучовксъ омбоцѣ секень же] Святоень Апостолонь Петрань(ErzianNewTest1821-EpistlePeter2.md)
+* [1 John / Промксонь Кучовксъ восень](ErzianNewTest1821-EpistleJohn1.md) Святоень Апостолень Іоаннонь Богословонь
+* [2 John / Промось Кучомо омбоцѣ](ErzianNewTest1821-EpistleJohn2.md) Святой Апостолань Іоаннонь Богословонь
+* [3 John / Промозь Кучомо колмоцѣ](ErzianNewTest1821-EpistleJohn3.md) Святой Апостолань Іоаннонь Богословонь
+* [Jude / Промзань Кучомо](ErzianNewTest1821-EpistleJude.md) Іудань
+* [Revelation / Штафтома](ErzianNewTest1821-Revelation.md) Святой Іоаннень Богословнень
 

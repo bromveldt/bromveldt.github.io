@@ -4,8 +4,8 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 layout: simple
 theme: slate
-lang: ru
-tags: [bruno, myv, ersa, church-texts]
+lang: myv
+tags: [bruno, myv, ersa, Ефесейнень, Кучомо]
 
 ---
 

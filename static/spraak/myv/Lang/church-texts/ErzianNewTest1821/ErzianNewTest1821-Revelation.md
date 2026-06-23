@@ -6,7 +6,6 @@ layout: simple
 theme: slate
 lang: ru
 tags: [bruno, myv, ersa, church-texts]
-
 ---
 
 #### Пря 1. 
