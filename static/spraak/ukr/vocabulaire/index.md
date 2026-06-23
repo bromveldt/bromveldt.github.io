@@ -12,11 +12,9 @@ lang: uk
 - [пусте або дурниця](durnyca.md)
 - [Репресована мова: Українські слова, які стерла радянська влада](erased-words.md)
 - [hairdresser in Ukrainian](hairdresser.md)
-- [Avramenko півники, волошки](irysy.md)
 - [Як замінити українською слова-паразити](jak-zaminyty.md)
 - [замінити "кольцо"](kabluchka.md)
 - ["кухоль" або "чашка"](kuholj.md)
-- [Avramenko кульчики](kulchyky.md)
 - [кватирка](kvatyrka.md)
 - [Українська лайка](layka.md)
 - [Лінгвоцид: українські слова, які репресувала радянська влада](linguocid.md)
@@ -42,6 +40,8 @@ lang: uk
 
 ### Avramenko
 
+- [Avramenko півники, волошки](irysy.md)
+- [Avramenko кульчики](kulchyky.md)
 - [Avramenko щира душа](shchyradusha.md)
 - [Авраменко — збіг, збігаються](zbig.md)
 

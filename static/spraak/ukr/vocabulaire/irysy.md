@@ -1,8 +1,8 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Avramenko півники, волошки
-description: півники vs. іриси, волошки vs. васильки
+title: Avramenko півники vs. іриси, волошки vs. василькиЯ
+description: к правильно назвати квіти васильки українською
 layout: simple
 theme: slate
 lang: uk
@@ -18,7 +18,7 @@ tags: [bruno, ukrainian, ukr, woorden]
 Також варто пам’ятати, що назва ірис має ще два значення:
 
 - райдужна оболонка ока;
--ґатунок цукерок.
+- ґатунок цукерок.
 
 Як правильно назвати квіти васильки українською
 
