@@ -9,3 +9,5 @@ lang: ru
 tags: [bruno, myv, эрзянский язык]
 ---
 - [original images 1–10](/assets/ersa/SSS/s.html) [HTML 1–10](erzyan-kel.md)
+
+Source: http://filfak.mrsu.ru/bak/razgn/s.html
