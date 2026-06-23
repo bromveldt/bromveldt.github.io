@@ -204,7 +204,7 @@ tags: [ bruno, myv]
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="../dict/ERFinnValks.md">Эрзянь-Финньэнь Валкс / Ersäläis-suomalainen sanakirja</a>
+<a class="page-link" href="../dict/erfinnvalks/ERFinnValks.md">Эрзянь-Финньэнь Валкс / Ersäläis-suomalainen sanakirja</a>
 </li>
 
 </ul>
