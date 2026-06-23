@@ -30,7 +30,7 @@ tags: [ bruno, myv]
     <td><a href="ERValks.pdf">the original PDF</a></td>
     <td><a href="E-R-Valks.pdf">an earlier PDF</a></td>
     <td>&nbsp;</td>
-    <td><a href="ERValks.md">one page HTML</a></td>
+    <td><a href="ERValks.html">>one page HTML</a></td>
   </tr>
   </tbody>
 </table>
@@ -110,43 +110,43 @@ tags: [ bruno, myv]
   </thead>
   <tbody>
   <tr>
-    <td><a href="dict_а.md">А</a></td>
-    <td><a href="dict_б.md">Б</a></td>
-    <td><a href="dict_в.md">В</a></td>
-    <td><a href="dict_г.md">Г</a></td>
-    <td><a href="dict_д.md">Д</a></td>
+    <td><a href="dict_а.html">>А</a></td>
+    <td><a href="dict_б.html">>Б</a></td>
+    <td><a href="dict_в.html">>В</a></td>
+    <td><a href="dict_г.html">>Г</a></td>
+    <td><a href="dict_д.html">>Д</a></td>
     <td><span>Е</span></td>
-    <td><a href="dict_ё.md">Ё</a></td>
-    <td><a href="dict_ж.md">Ж</a></td>
-    <td><a href="dict_з.md">З</a></td>
-    <td><a href="dict_и.md">И</a></td>
+    <td><a href="dict_ё.html">>Ё</a></td>
+    <td><a href="dict_ж.html">>Ж</a></td>
+    <td><a href="dict_з.html">>З</a></td>
+    <td><a href="dict_и.html">>И</a></td>
     <td><span>Й</span></td>
   </tr>
   <tr>
-    <td><a href="dict_к.md">К</a></td>
-    <td><a href="dict_л.md">Л</a></td>
-    <td><a href="dict_м.md">М</a></td>
-    <td><a href="dict_н.md">Н</a></td>
-    <td><a href="dict_о.md">О</a></td>
-    <td><a href="dict_п.md">П</a></td>
-    <td><a href="dict_р.md">P</a></td>
-    <td><a href="dict_с.md">C</a></td>
-    <td><a href="dict_т.md">T</a></td>
-    <td><a href="dict_у.md">У</a></td>
-    <td><a href="dict_ф.md">Ф</a></td>
+    <td><a href="dict_к.html">>К</a></td>
+    <td><a href="dict_л.html">>Л</a></td>
+    <td><a href="dict_м.html">>М</a></td>
+    <td><a href="dict_н.html">>Н</a></td>
+    <td><a href="dict_о.html">>О</a></td>
+    <td><a href="dict_п.html">>П</a></td>
+    <td><a href="dict_р.html">>P</a></td>
+    <td><a href="dict_с.html">>C</a></td>
+    <td><a href="dict_т.html">>T</a></td>
+    <td><a href="dict_у.html">>У</a></td>
+    <td><a href="dict_ф.html">>Ф</a></td>
   </tr>
   <tr>
-    <td><a href="dict_х.md">Х</a></td>
-    <td><a href="dict_ц.md">Ц</a></td>
-    <td><a href="dict_ч.md">Ч</a></td>
-    <td><a href="dict_ш.md">Ш</a></td>
-    <td><a href="dict_щ.md">Щ</a></td>
+    <td><a href="dict_х.html">>Х</a></td>
+    <td><a href="dict_ц.html">>Ц</a></td>
+    <td><a href="dict_ч.html">>Ч</a></td>
+    <td><a href="dict_ш.html">>Ш</a></td>
+    <td><a href="dict_щ.html">>Щ</a></td>
     <td><span>Ъ</span></td>
     <td><span>Ы</span></td>
     <td><span>Ь</span></td>
-    <td><a href="dict_э.md">Э</a></td>
-    <td><a href="dict_ю.md">Ю</a></td>
-    <td><a href="dict_я.md">Я</a></td>
+    <td><a href="dict_э.html">>Э</a></td>
+    <td><a href="dict_ю.html">>Ю</a></td>
+    <td><a href="dict_я.html">>Я</a></td>
   </tr>
   </tbody>
 </table>
