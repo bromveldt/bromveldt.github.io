@@ -12,15 +12,15 @@ tags: [bruno, myv, ersa, church-texts]
 <ul class="toc">
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/Matins/arzialiturgia.doc">Од сыцятнень литургия (DOC)</a>
+<a class="page-link" href="arzialiturgia.doc">Од сыцятнень литургия (DOC)</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/Matins/arzialiturgia.pdf">Од сыцятнень литургия (PDF)</a>
+<a class="page-link" href="arzialiturgia.pdf">Од сыцятнень литургия (PDF)</a>
 </li>
 
 <li class="toc-item">
-<a class="page-link" href="/static/ersa/Lang/ChurchTexts/Matins/arzialiturgia.html">Од сыцятнень литургия</a>
+<a class="page-link" href="arzialiturgia.html">Од сыцятнень литургия</a>
 </li>
 
 </ul>

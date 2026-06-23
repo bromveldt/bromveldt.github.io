@@ -7,13 +7,13 @@ tags: [bruno, ukrainian, ukr, spraakleer]
 lang: uk
 ---
 
-- [Ukrainian Last Names](/spraak/ukr/spraakleer/lastnames/)
-- [Ukrainian Scholars](/spraak/ukr/spraakleer/naukovci/)
-- [П'ять українських дієслів](/spraak/ukr/spraakleer/pjat/)
-- [вживайте кличний відмінок! (placenames)](/spraak/ukr/spraakleer/placenames/)
-- [Ponomariv](/spraak/ukr/spraakleer/ponomariv/)
-- [Avramenko — Фемінітиви](/spraak/ukr/spraakleer/sufiksy/)
-- [Ускладнені чистомовки](/spraak/ukr/spraakleer/uskladneny-chystomovky/)
-- [вживайте кличний відмінок!](/spraak/ukr/spraakleer/vocative/)
-- [знегода](/spraak/ukr/spraakleer/znegoda/)
-- [Jewish Surnames](/spraak/ukr/spraakleer/zsydy/)
+- [Ukrainian Last Names](lastnames/)
+- [Ukrainian Scholars](naukovci/)
+- [П'ять українських дієслів](pjat/)
+- [вживайте кличний відмінок! (placenames)](placenames/)
+- [Ponomariv](ponomariv/)
+- [Avramenko — Фемінітиви](sufiksy/)
+- [Ускладнені чистомовки](uskladneny-chystomovky/)
+- [вживайте кличний відмінок!](vocative/)
+- [знегода](znegoda/)
+- [Jewish Surnames](zsydy/)

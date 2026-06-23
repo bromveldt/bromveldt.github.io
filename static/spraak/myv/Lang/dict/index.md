@@ -11,7 +11,7 @@ tags: [ bruno, myv, erzya]
 
 ### Table of contents
 
-- &#x005B;[HTML](мидянь-оло/ERValks.md)&#x005d; Мидянь Оло, Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь. Малав 11000 валт / Около 11000 слов.
+- &#x005B;[one-page HTML](мидянь-оло/ERValks.md)&#x005d; &#x005B;[HTML](мидянь-оло)&#x005d;Мидянь Оло, Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь. Малав 11000 валт / Около 11000 слов.
 - &#x005B;[original HTML](эрюш-вежай/business.html) [simplified HTML](эрюш-вежай/eryush_vezhay.md) Эрюш Вежай, Русско-эрзянский словарь / Рузонь-эрзянь валкс &ndash; Once downloaded from narod.yandex.ru
 - &#x005B;[original HTML](john-rueter/EnglishErzian.html) [simplified HTML](john-rueter/EnglishErzyan.md) English-Erzian Dictionary from Jack Rueter
 - &#x005B;[RAR](эрзянский-учебник/erz.rar)&#x005d; Эрзянский учебник &#x005b;[simplified HTML](эрзянский-учебник) Л. П. Водясова, Н.И. Рузанкина, Учимся говорить по-эрзянски — 2008

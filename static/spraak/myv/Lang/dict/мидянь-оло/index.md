@@ -27,10 +27,10 @@ tags: [ bruno, myv]
   </thead>
   <tbody>
   <tr>
-    <td><a href="/static/ersa/Lang/dict/МидяньОло/ERValks.pdf">original PDF</a></td>
-    <td><a href="/static/ersa/Lang/dict/МидяньОло/E-R-Valks.pdf">earlier PDF</a></td>
+    <td><a href="ERValks.pdf">original PDF</a></td>
+    <td><a href="E-R-Valks.pdf">earlier PDF</a></td>
     <td>&nbsp;</td>
-    <td><a href="/ersa/dict/ervalks/onepage.html">one page HTML</a></td>
+    <td><a href="ervalks/onepage.html">one page HTML</a></td>
   </tr>
   </tbody>
 </table>
@@ -56,7 +56,7 @@ tags: [ bruno, myv]
 <table>
   <thead>
   <tr>
-    <th colspan="11" style="font-variant-caps: all-small-caps;">ЭРЗЯНЬ ТЕШКСКЕРЬКС</th>
+    <th colspan="11" style="font-variant-caps: all-small-caps;">Эрзянь тешкскерькс</th>
   </tr>
   </thead>
   <tbody>
@@ -110,43 +110,43 @@ tags: [ bruno, myv]
   </thead>
   <tbody>
   <tr>
-    <td><a href="/ersa/dict/ervalks_а.html">А</a></td>
-    <td><a href="/ersa/dict/ervalks_б.html">Б</a></td>
-    <td><a href="/ersa/dict/ervalks_в.html">В</a></td>
-    <td><a href="/ersa/dict/ervalks_г.html">Г</a></td>
-    <td><a href="/ersa/dict/ervalks_д.html">Д</a></td>
+    <td><a href="ervalks_а.html">А</a></td>
+    <td><a href="ervalks_б.html">Б</a></td>
+    <td><a href="ervalks_в.html">В</a></td>
+    <td><a href="ervalks_г.html">Г</a></td>
+    <td><a href="ervalks_д.html">Д</a></td>
     <td><span>Е</span></td>
-    <td><a href="/ersa/dict/ervalks_ё.html">Ё</a></td>
-    <td><a href="/ersa/dict/ervalks_ж.html">Ж</a></td>
-    <td><a href="/ersa/dict/ervalks_з.html">З</a></td>
-    <td><a href="/ersa/dict/ervalks_и.html">И</a></td>
+    <td><a href="ervalks_ё.html">Ё</a></td>
+    <td><a href="ervalks_ж.html">Ж</a></td>
+    <td><a href="ervalks_з.html">З</a></td>
+    <td><a href="ervalks_и.html">И</a></td>
     <td><span>Й</span></td>
   </tr>
   <tr>
-    <td><a href="/ersa/dict/ervalks_к.html">К</a></td>
-    <td><a href="/ersa/dict/ervalks_л.html">Л</a></td>
-    <td><a href="/ersa/dict/ervalks_м.html">М</a></td>
-    <td><a href="/ersa/dict/ervalks_н.html">Н</a></td>
-    <td><a href="/ersa/dict/ervalks_о.html">О</a></td>
-    <td><a href="/ersa/dict/ervalks_п.html">П</a></td>
-    <td><a href="/ersa/dict/ervalks_р.html">P</a></td>
-    <td><a href="/ersa/dict/ervalks_с.html">C</a></td>
-    <td><a href="/ersa/dict/ervalks_т.html">T</a></td>
-    <td><a href="/ersa/dict/ervalks_у.html">У</a></td>
-    <td><a href="/ersa/dict/ervalks_ф.html">Ф</a></td>
+    <td><a href="ervalks_к.html">К</a></td>
+    <td><a href="ervalks_л.html">Л</a></td>
+    <td><a href="ervalks_м.html">М</a></td>
+    <td><a href="ervalks_н.html">Н</a></td>
+    <td><a href="ervalks_о.html">О</a></td>
+    <td><a href="ervalks_п.html">П</a></td>
+    <td><a href="ervalks_р.html">P</a></td>
+    <td><a href="ervalks_с.html">C</a></td>
+    <td><a href="ervalks_т.html">T</a></td>
+    <td><a href="ervalks_у.html">У</a></td>
+    <td><a href="ervalks_ф.html">Ф</a></td>
   </tr>
   <tr>
-    <td><a href="/ersa/dict/ervalks_х.html">Х</a></td>
-    <td><a href="/ersa/dict/ervalks_ц.html">Ц</a></td>
-    <td><a href="/ersa/dict/ervalks_ч.html">Ч</a></td>
-    <td><a href="/ersa/dict/ervalks_ш.html">Ш</a></td>
-    <td><a href="/ersa/dict/ervalks_щ.html">Щ</a></td>
+    <td><a href="ervalks_х.html">Х</a></td>
+    <td><a href="ervalks_ц.html">Ц</a></td>
+    <td><a href="ervalks_ч.html">Ч</a></td>
+    <td><a href="ervalks_ш.html">Ш</a></td>
+    <td><a href="ervalks_щ.html">Щ</a></td>
     <td><span>Ъ</span></td>
     <td><span>Ы</span></td>
     <td><span>Ь</span></td>
-    <td><a href="/ersa/dict/ervalks_э.html">Э</a></td>
-    <td><a href="/ersa/dict/ervalks_ю.html">Ю</a></td>
-    <td><a href="/ersa/dict/ervalks_я.html">Я</a></td>
+    <td><a href="ervalks_э.html">Э</a></td>
+    <td><a href="ervalks_ю.html">Ю</a></td>
+    <td><a href="ervalks_я.html">Я</a></td>
   </tr>
   </tbody>
 </table>

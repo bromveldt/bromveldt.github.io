@@ -6,4 +6,4 @@ title: Guernsey
 tags: [bruno, guernsey]
 ---
 
-- [Immigration info](/geo/guernsey/immi/)
+- [Immigration info](immi/)
