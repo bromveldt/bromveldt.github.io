@@ -90,7 +90,7 @@ tags: [bruno, myv, ersa, вейсэ, башка]
  <tbody>
  <tr><td><span class="ital">аваль</span></td><td><span class="ital">гуйкал</span></td><td><span class="ital">кальку ро</span></td><td><span class="ital">наркедь</span></td><td><span class="ital">правка</span></td></tr>
  <tr><td><span class="ital">Табалов</span></td><td><span class="ital">галопа</span></td><td><span class="ital">лепекал</span></td><td><span class="ital">довголапа</span></td><td><span class="ital">сокращен</span></td></tr>
- <tr><td><span class="ital">ведь тол</span></td><td><span class="ital">калава</span></td><td><span class="ital">монашек</span></td><td><span class="ital">паксяёр</span></td><td><span class="ital">толкель</span>/td></tr>
+ <tr><td><span class="ital">ведь тол</span></td><td><span class="ital">калава</span></td><td><span class="ital">монашек</span></td><td><span class="ital">паксяёр</span></td><td><span class="ital">толкель</span></td></tr>
  </tbody>
  </table>
  <p><sup>1</sup> <span>Мокшень кяльса сёрмадомань, корхтамань, пунктуациянь норматне. Эрзянь кельм сёрмадомань, кортамонь, пунктуациянь втне. – Саранск, 1995. – 32-35 с.</span></p>
