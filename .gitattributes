@@ -1,0 +1,32 @@
+# Auto-detect text files and enforce CRLF line endings on Windows
+* text=auto eol=crlf
+
+# Markdown
+*.md text eol=crlf
+
+# Web assets
+*.html text eol=crlf
+*.css text eol=crlf
+*.js text eol=crlf
+*.json text eol=crlf
+*.yml text eol=crlf
+*.yaml text eol=crlf
+*.xml text eol=crlf
+*.svg text eol=crlf
+
+# Configs
+*.txt text eol=crlf
+.gitattributes text eol=crlf
+.gitignore text eol=crlf
+
+# Binaries — no line ending conversion
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
