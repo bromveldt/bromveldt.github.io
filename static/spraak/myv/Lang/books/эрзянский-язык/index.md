@@ -8,6 +8,9 @@ theme: slate
 lang: ru
 tags: [bruno, myv, эрзянский язык]
 ---
-- [original images 1–10](/assets/ersa/SSS/s.html) [HTML 1–10](erzyan-kel.md)
+- [original images 1–10](/assets/ersa/SSS/s.html) [HTML 1–10](erzyan-kel-1.md)
+- - [original images 1–10](/assets/ersa/SSS/s.html) [HTML 1–10](erzyan-kel-1.md)
+[erzyan-kel-1.md](erzyan-kel-1.md)
+[erzyan-kel-2.md](erzyan-kel-2.md)
 
 Source: http://filfak.mrsu.ru/bak/razgn/s.html
