@@ -8,6 +8,8 @@ theme: slate
 tags: [bruno, myv, Эрзянский язык]
 ---
 
+Source: http://filfak.mrsu.ru/bak/razgn/ss.html
+
 This section finishes the objective conjugation tables, adds a note on non-conjugated verb forms (infinitive, participle, gerund), then opens the phrasebook proper with sections on greetings, farewells, thanks, apologies, introductions, requests, agreement, refusal, congratulations, inscriptions/dedications, and language learning.
 
 ---
