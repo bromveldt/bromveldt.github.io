@@ -11,6 +11,9 @@
 
 /* START */
 /* Light blue-slate theme — IBM Plex Serif Light / Plex Sans ExtraLight, Cardo Bold for Latin */
+html {
+    overflow-y: scroll; /* always show scrollbar — prevents centered content from jumping when navigating between short and long pages */
+}
 body {
     background-color: #f5f8fe;
     color: #1a2030;
