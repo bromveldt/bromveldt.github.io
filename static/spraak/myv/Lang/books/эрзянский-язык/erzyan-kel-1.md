@@ -10,6 +10,10 @@ tags: [bruno, myv, Эрзянский язык]
 
 Source: http://filfak.mrsu.ru/bak/razgn/s.html
 
+The content covers the preface, a brief overview of the Erzya language, its alphabet (with table), phonetics (vowels, vowel harmony, consonants, stress), morphology (cases, verb system), and two conjugation tables for *кундамс* «to catch» in both non-objective and objective conjugations.
+
+---
+
 ## Предисловие
 
 Каждый язык – уникальное достижение человеческого разума. Задача настоящего разговорника – помочь тем, кто не владеет эрзянским языком и нуждается в минимуме словарного запаса и оборотов речи в сфере общения. Он предназначается для широкого круга людей, желающих научиться говорить по-эрзянски.
