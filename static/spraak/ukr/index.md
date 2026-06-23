@@ -19,12 +19,11 @@ tags: [ bruno, ukrainian, news]
 
 ### Local Notes
 
-- [Accenting](accenting)
+- [Beklemtonen](beklemtonen)
 - [Vocabulaire](vocabulaire)
 - [Goroh](goroh)
 - [Spraakleer](spraakleer)
 - [Dialecten](dialecten)
 - [Teksten](texts)
-- [Usage](usage)
-- [Phrases](phrases.md)
+- [Gebruik](gebruik)
 

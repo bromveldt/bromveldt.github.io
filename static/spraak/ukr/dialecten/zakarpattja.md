@@ -5,7 +5,8 @@ title: Закарпатський діалект
 description: унікальний закарпатський діалект
 layout: simple
 theme: slate
-lang: en
+Alang: uk
+Set 
 tags: [bruno, ukrainian, ukr, dialekt]
 ---
 

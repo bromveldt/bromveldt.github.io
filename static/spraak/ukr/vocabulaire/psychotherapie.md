@@ -5,7 +5,7 @@ title: UKR - Psychotherapie
 description: Profiles and projects
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

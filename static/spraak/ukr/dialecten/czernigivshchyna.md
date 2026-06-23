@@ -5,7 +5,7 @@ title: Так говорять на Чернігівщині
 description: унікальний закарпатський діалект
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, dialekt]
 ---
 

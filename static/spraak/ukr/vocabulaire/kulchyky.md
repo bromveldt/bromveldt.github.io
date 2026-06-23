@@ -5,7 +5,7 @@ title: Avramenko кульчики
 description: кульчики vs. сірьожки»
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

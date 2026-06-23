@@ -5,7 +5,7 @@ title: діалектизми
 description: про наріччя української мови
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, dialekt]
 ---
 

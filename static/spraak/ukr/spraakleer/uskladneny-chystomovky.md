@@ -4,7 +4,7 @@ mode: 'r:bom|utf-8'
 title: Ускладнени чистомовки
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, spraakleer]
 ---
 

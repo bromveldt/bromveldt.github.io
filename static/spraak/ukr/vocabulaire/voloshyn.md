@@ -1,18 +1,16 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}"#{escaped}"
-description: Some travel destinations
+title: "Не красний і сірєнєвий: як правильно назвати кольори українською"
+description: Як правильно назвати кольори українською
 author: Марія Волошин
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 
 Освіта / Саморозвиток 
- 
-Не красний і сірєнєвий: як правильно назвати кольори українською
 
 Автор: Марія Волошин
 

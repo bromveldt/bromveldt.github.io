@@ -5,7 +5,7 @@ title: Avramenko півники, волошки
 description: півники vs. іриси, волошки vs. васильки
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

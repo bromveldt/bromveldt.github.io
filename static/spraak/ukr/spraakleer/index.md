@@ -4,6 +4,7 @@ mode: 'r:bom|utf-8'
 layout: simple
 title: Ukraïense spraakkunst
 tags: [bruno, ukrainian, ukr, spraakleer]
+lang: uk
 ---
 
 - [Ukrainian Last Names](/spraak/ukr/spraakleer/lastnames/)

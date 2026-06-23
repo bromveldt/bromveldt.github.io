@@ -5,7 +5,7 @@ title: hairdresser in Ukrainian
 description: misc
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [ bruno, urkainian, hairdresser]
 ---
 

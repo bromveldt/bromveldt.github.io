@@ -5,7 +5,7 @@ title: замінити "кольцо",
 description: Світлана Чернишова
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

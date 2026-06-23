@@ -5,7 +5,7 @@ title: оселедець
 description: Words
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [ bruno, ukrainian, оселедець]
 ---
 

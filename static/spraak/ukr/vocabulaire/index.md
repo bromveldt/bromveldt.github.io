@@ -4,15 +4,16 @@ mode: 'r:bom|utf-8'
 layout: simple
 title: Ukraïense woorden
 tags: [bruno, ukrainian, ukr, woorden]
+lang: uk
 ---
 
 - [Які 5 цікавих слів варто запам'ятати](10sliv.md)
 - [чоботар](chobotar.md)
 - [пусте або дурниця](durnyca.md)
-- [Репресована мова: Українські слова, які радянська влада стерла з пам'яті українців](erased-words.md)
+- [Репресована мова: Українські слова, які стерла радянська влада](erased-words.md)
 - [hairdresser in Ukrainian](hairdresser.md)
 - [Avramenko півники, волошки](irysy.md)
-- [Як замінити українською слова-паразити "типа", "блин", "чуть-чуть" і "капец"](jak-zaminyty.md)
+- [Як замінити українською слова-паразити](jak-zaminyty.md)
 - [замінити "кольцо"](kabluchka.md)
 - ["кухоль" або "чашка"](kuholj.md)
 - [Avramenko кульчики](kulchyky.md)
@@ -32,11 +33,18 @@ tags: [bruno, ukrainian, ukr, woorden]
 - [Ukrainian translation of «страховка»](polis.md)
 - [UKR — Psychotherapie](psychotherapie.md)
 - [Тішиться, як чорт цвяхом: про велику радість](radost.md)
-- [Avramenko щира душа](shchyradusha.md)
-- [Перочинным ножиком](skladanyj-nizs.md)
+- [складаним ножиком](skladanyj-nizs.md)
 - [скриня, поштова скринька, шухлядка](skrynja.md)
 - [Ukrainian equivalents of common Russian terms](slova.md)
 - [відносини vs. стосунки vs. взаємини](stosunky.md)
 - [філіжанка кави](tasse.md)
 - [Не красний і сірєнєвий: кольори українською](voloshyn.md)
+
+### Avramenko
+
+- [Avramenko щира душа](shchyradusha.md)
 - [Авраменко — збіг, збігаються](zbig.md)
+
+### Random Sentences
+
+- [Sentences](zinnen.md)

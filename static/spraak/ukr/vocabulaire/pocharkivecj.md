@@ -1,11 +1,11 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}#{val}
-#{$1}"-"
+title: собутыльник => почарківець
+description: Антисуржик
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

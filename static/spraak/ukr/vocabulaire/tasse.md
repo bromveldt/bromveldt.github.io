@@ -5,7 +5,7 @@ title: філіжанка кави
 description: tasse
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

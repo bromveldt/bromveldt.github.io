@@ -1,11 +1,11 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-title: Перочинным ножиком
+title: складаним ножиком
 description: складаним ножиком
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

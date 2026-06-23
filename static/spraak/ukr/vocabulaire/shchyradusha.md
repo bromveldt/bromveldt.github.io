@@ -5,7 +5,7 @@ title: Avramenko щира душа
 description: рубаха-парень vs. щира душа
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

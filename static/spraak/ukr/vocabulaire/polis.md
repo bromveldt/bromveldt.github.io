@@ -5,7 +5,7 @@ title: Ukrainian translation of «страховка»
 description: How to best replace the term «страховка»
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

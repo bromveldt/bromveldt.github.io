@@ -5,7 +5,7 @@ title: В нашій мові немає слова "толк"
 description: misc
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

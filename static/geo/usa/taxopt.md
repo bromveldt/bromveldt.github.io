@@ -1,8 +1,7 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}#{val}
-#{$1}"-"
+title: Tax Optimization
 author: Charlotte Gifford
 layout: simple
 theme: slate

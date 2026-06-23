@@ -5,7 +5,7 @@ title: як правильно називати елементи начиння
 description: misc
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [ bruno, ukrainian, чашка, таця, тертушка, кавник, сільниця, ополоник, дощечка, серветка, глечик, друшляк,пательня, начиння]
 ---
 

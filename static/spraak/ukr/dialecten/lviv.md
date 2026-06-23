@@ -1,11 +1,11 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}"#{escaped}"
-description: ґвара Львова
+title: надсянський діалект, ґвара Львова
+description: про південно-західне наріччя української мови
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, dialekt]
 ---
 

@@ -5,7 +5,7 @@ title: Авраменко - збіг, збігаються
 description: Авраменко
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

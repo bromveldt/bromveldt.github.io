@@ -5,7 +5,7 @@ title: наголошувати правильно
 description: Some travel destinations
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, accenting]
 ---
 

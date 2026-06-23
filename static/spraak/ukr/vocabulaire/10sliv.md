@@ -1,11 +1,10 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}#{val}
-#{$1}"-"
+title: 24tv.ua - 10 стародавних українських слів
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [ bruno, ukrainian, 24tv.ua]
 ---
 

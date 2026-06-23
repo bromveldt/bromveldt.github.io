@@ -5,7 +5,7 @@ title: Українська лайка
 description: misc
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

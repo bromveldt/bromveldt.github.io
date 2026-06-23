@@ -6,7 +6,7 @@ description: misc
 author: Юлія Потерянко
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, woorden]
 ---
 

@@ -1,11 +1,10 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-#{key}"#{escaped}"
-#{$1}"-"
+title: галицький діалект (Наддністрянський говір)
 layout: simple
 theme: slate
-lang: en
+lang: uk
 tags: [bruno, ukrainian, ukr, dialekt]
 ---
 

@@ -4,6 +4,7 @@ mode: 'r:bom|utf-8'
 layout: simple
 title: Privatbank donation details
 tags: [bruno, ukrainian, ukr, texts]
+lang: uk
 ---
 
 У Військово-медичний клінічний центр Західного регіону - м.Львів прибувають поранені внаслідок нічного бомбардування.
