@@ -27,15 +27,20 @@ As an AI-savvy software engineer and architect, I am open to providing corp-2-co
 ### E.E.A. Contracting
 
 <table>
-<tr><td>KvK-nummer:</td><td>89256581</td><td>Feel free to verify it on the [Website](https://www.kvk.nl/zoeken/) of the Dutch Chamber of Commerce</td></tr>
-<tr><td>VAT / BTW-nr:</td><td>NL.8649.25.888.B.01</td><td>See for yourself if it is valid on [VIES](https://ec.europa.eu/taxation_customs/vies/#/vat-validation)</td></tr>
+<tr><td>KvK-nummer:</td><td>89256581</td>
+    <td>Feel free to verify it with the <a href="https://www.kvk.nl/zoeken/" title="KVK zoeken">Dutch Chamber of Commerce</a></td>
+</tr>
+<tr><td>VAT / BTW-nr:</td><td>NL.8649.25.888.B.01</td>
+    <td>See for yourself if it is valid on <a href="https://ec.europa.eu/taxation_customs/vies/#/vat-validation">VIES</a></td>
+</tr>
 </table>
 
 ### U.S. Contracting
 
-30% withholding, authorized by the U.S. I.R.S. rules §§ 1441–1442 on payments to a foreign corporation, there is no need for the U.S. client to issue a 1099. My firm would file **Form W-8BEN-E** with the U.S. client's A.P. department to certify that
+There is no need for the U.S. client to issue a 1099. My company is entirely Dutch, so a 30% withholding, authorized by the U.S. I.R.S. rules §§ 1441–1442 on payments to a foreign corporation, does not apply in my case.
 
-* The limited company (B.V.) is a foreign entity (not a US person)
-* It claims benefits under the US–Netherlands Tax Treaty
+My firm would file **Form W-8BEN-E** with the client's A.P. department to certify that
 
-Under Article 7 of that Treaty (Business Profits), the U.S. may not tax a Dutch company's profits unless the company has a Permanent Establishment in the U.S., which my B.V. does not.
+- my limited-liability company (B.V.) is a foreign entity (not a U.S. legal person)
+- it is entitled to tax benefits under Article 7 of the US–Netherlands Tax Treaty (Business Profits), which stipulates that the U.S. may not tax a Dutch company's profits unless the company has a Permanent Establishment in the U.S., which my B.V. does not.
+

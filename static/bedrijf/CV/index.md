@@ -26,3 +26,5 @@ Netherlands and Ireland.
 - [DOCX](samueli_resume2026v7-jai_de.docx) | [PDF](samueli_resume2026v7-jai_de.pdf) Samueli CV
 - [DOCX](osterholm_kundenhinweis_de.docx) | [PDF](osterholm_kundenhinweis_de.pdf) Osterholm – Kundenhinweis
 - [German Projektportale – Shortlist](german_projektportale_shortlist.md)
+---
+[Job Search Tips](/static/jobsearch/)
