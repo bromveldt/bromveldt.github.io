@@ -27,21 +27,22 @@ As an AI-savvy software engineer and architect, I am open to providing corp-2-co
 ### E.E.A. Contracting
 
 <table>
-<tr><td>KvK-nummer:</td><td> </td><td>89256581</td><td> </td>
-    <td>
-    Feel free to verify it with the Dutch Chamber of Commerce (KvK):
+<tr>
+    <td>KvK-nummer:</td><td> </td><td>89256581</td><td> </td>
+    <td>Feel free to verify it with the Dutch Chamber of Commerce (KvK):
       <a href="https://www.kvk.nl/zoeken/" title="KVK zoeken">Nederlands</a> 
     | <a href="https://www.kvk.nl/en/search/" title="Search KVK">English</a>
     </td>
 </tr>
-<tr><td>VAT / BTW-nr:</td><td> </td><td>NL.8649.25.888.B.01</td><td> </td>
+<tr>
+    <td>VAT / BTW-nr:</td><td> </td><td>NL.8649.25.888.B.01</td><td> </td>
     <td>See for yourself if it is valid in the <a href="https://ec.europa.eu/taxation_customs/vies/#/vat-validation">VIES</a></td>
 </tr>
 </table>
 
 ### U.S. Contracting
 
-I am fully authorized to contract with U.S. clients. There is no need for the U.S. client to issue a 1099. My company is entirely Dutch, so a 30% withholding, imposed by the U.S. I.R.S. rules §§ 1441–1442 on payments to a foreign corporation, does not apply in my case.
+I am fully authorized to contract with U.S. clients. There is no need for the U.S. client to issue a 1099. My company is entirely Dutch and has no presence in the U.S.. The I.R.S. rules §§ 1441–1442 mandate 30% withholding on any payments to a foreign corporation, do not apply in my case.
 
 My firm would file **Form W-8BEN-E** with the client's Accounts Payable department to certify that
 
