@@ -28,10 +28,14 @@ As an AI-savvy software engineer and architect, I am open to providing corp-2-co
 
 <table>
 <tr><td>KvK-nummer:</td><td> </td><td>89256581</td><td> </td>
-    <td>Feel free to <a href="https://www.kvk.nl/zoeken/" title="KVK search">verify it with the Dutch Chamber of Commerce</a></td>
+    <td>
+    Feel free to verify it with the Dutch Chamber of Commerce (KvK):
+      <a href="https://www.kvk.nl/zoeken/" title="KVK zoeken">Nederlands</a> 
+    | <a href="https://www.kvk.nl/en/search/" title="Search KVK">English</a>
+    </td>
 </tr>
 <tr><td>VAT / BTW-nr:</td><td> </td><td>NL.8649.25.888.B.01</td><td> </td>
-    <td>See for yourself if it is valid on <a href="https://ec.europa.eu/taxation_customs/vies/#/vat-validation">VIES</a></td>
+    <td>See for yourself if it is valid in the <a href="https://ec.europa.eu/taxation_customs/vies/#/vat-validation">VIES</a></td>
 </tr>
 </table>
 
