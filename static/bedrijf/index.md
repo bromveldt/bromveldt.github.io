@@ -37,9 +37,9 @@ As an AI-savvy software engineer and architect, I am open to providing corp-2-co
 
 ### U.S. Contracting
 
-There is no need for the U.S. client to issue a 1099. My company is entirely Dutch, so a 30% withholding, authorized by the U.S. I.R.S. rules §§ 1441–1442 on payments to a foreign corporation, does not apply in my case.
+I am fully authorized to contract with U.S. clients. There is no need for the U.S. client to issue a 1099. My company is entirely Dutch, so a 30% withholding, imposed by the U.S. I.R.S. rules §§ 1441–1442 on payments to a foreign corporation, does not apply in my case.
 
-My firm would file **Form W-8BEN-E** with the client's A.P. department to certify that
+My firm would file **Form W-8BEN-E** with the client's Accounts Payable department to certify that
 
 - my limited-liability company (B.V.) is a foreign entity (not a U.S. legal person)
 - it is entitled to tax benefits under Article 7 of the US–Netherlands Tax Treaty (Business Profits), which stipulates that the U.S. may not tax a Dutch company's profits unless the company has a Permanent Establishment in the U.S., which my B.V. does not.
