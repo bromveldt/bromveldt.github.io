@@ -6,6 +6,8 @@ title: Ukraïense woorden
 tags: [bruno, ukrainian, ukr, woorden]
 lang: uk
 ---
+
+- [galoczka](galoczka.md)
 - [zhevrity](zhevrity.md)
 - [naplicznik](naplicznik.md)
 - [charunka](charunka.md)
