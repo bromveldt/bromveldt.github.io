@@ -7,6 +7,9 @@ tags: [bruno, ukrainian, ukr, woorden]
 lang: uk
 ---
 
+- [charunka](charunka.md)
+- [3slova](3slova.md)
+- [ljubeznyj](ljubeznyj.md)
 - [Які 5 цікавих слів варто запам'ятати](10sliv.md)
 - [чоботар](chobotar.md)
 - [пусте або дурниця](durnyca.md)
