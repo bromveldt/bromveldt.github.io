@@ -11,7 +11,7 @@ tags: [ bruno, ukrainian, news]
 
 ### Some News Outlets
 
-- [Радіо Трек: НОВИНИ.](https://radiotrek.rv.ua/news/)
+- [Главред: Освіта](https://glavred.net/osvita/)
 - [Громадське](https://hromadske.ua/)
 - [oboz.ua](https://oboz.ua/)
 - [24tv.ua](https://24tv.ua/)
