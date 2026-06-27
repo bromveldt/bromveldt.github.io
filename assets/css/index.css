@@ -1,15 +1,15 @@
 @charset "UTF-8";
-@import url("../webfonts/Cardo-fontfacekit/style.css");
-@import url("../webfonts/Trykker-fontfacekit/style.css");
-@import url("../webfonts/ExcellenceInMotion/style.css");
-@import url("../webfonts/Formata/style.css");
-@import url("../webfonts/Meta/style.css");
-@import url("../webfonts/TitilliumText-fontfacekit/style.css");
+@import url("../webfonts-squirrel/Cardo-fontfacekit/style.css");
+@import url("../webfonts-squirrel/Trykker-fontfacekit/style.css");
+@import url("../webfonts-squirrel/ExcellenceInMotion/style.css");
+@import url("../webfonts-squirrel/Formata/style.css");
+@import url("../webfonts-squirrel/Meta/style.css");
+@import url("../webfonts-squirrel/TitilliumText-fontfacekit/style.css");
 @import url("../fonts/TheMixExtraLight/stylesheet.css");
 @import url("../fonts/ProximaNova/stylesheet.css");
 @import url("../fonts/Prospera/stylesheet.css");
 
-/* START */
+/* Import fonts into the HTML page separately */
 /* Light blue-slate theme — IBM Plex Serif Light / Plex Sans ExtraLight, Cardo Bold for Latin */
 html {
     overflow-y: scroll; /* always show scrollbar — prevents centered content from jumping when navigating between short and long pages */
@@ -36,7 +36,7 @@ a:active  { color: #0a3870; }
 .footer a { font-size: 13px !important; }
 .home-menu { padding: 0; }
 .home-menu a { color: #a0cce8; }
-.home-menu .pure-menu-heading { text-transform: none; font: 20px/28px 'TrykkerRegular', serif; padding: 5px 0; }
+.home-menu .pure-menu-heading { text-transform: none; font: 20px/28px 'FormataRegular', serif; padding: 5px 0; }
 .home-menu .pure-menu-link { font: 20px/28px 'FormataRegular', sans-serif; text-transform: none; padding: 5px 0; }
 .home-menu .pure-menu-list { float: none; margin: 0; padding: 0; }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; width: 100%; }
