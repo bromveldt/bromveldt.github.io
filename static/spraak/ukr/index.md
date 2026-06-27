@@ -24,6 +24,6 @@ tags: [ bruno, ukrainian, news]
 - [Goroh](goroh)
 - [Spraakleer](spraakleer)
 - [Dialecten](dialecten)
-- [Teksten](texts)
+- [Teksten](teksten)
 - [Gebruik](gebruik)
 
