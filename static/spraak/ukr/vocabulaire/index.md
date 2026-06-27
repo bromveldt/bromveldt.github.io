@@ -7,6 +7,7 @@ tags: [bruno, ukrainian, ukr, woorden]
 lang: uk
 ---
 
+- [naplicznik](naplicznik.md)
 - [charunka](charunka.md)
 - [3slova](3slova.md)
 - [ljubeznyj](ljubeznyj.md)
