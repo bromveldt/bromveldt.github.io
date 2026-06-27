@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'CardoRegular';
+    src: url('Cardo104s-webfont.woff') format('woff'),
+         url('Cardo104s-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'CardoItalic';
+    src: url('Cardoi99-webfont.woff') format('woff'),
+         url('Cardoi99-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'CardoBold';
+    src: url('Cardob101-webfont.woff') format('woff'),
+         url('Cardob101-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'CardoBoldItalic';
+    src: url('Cardob101-webfont.woff') format('woff'),
+    url('Cardob101-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+

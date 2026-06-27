@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'TitilliumText22L';
+    src: url('TitilliumText22L001-webfont.woff') format('woff'),
+         url('TitilliumText22L001-webfont.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TitilliumText22L';
+    src: url('TitilliumText22L002-webfont.woff') format('woff'),
+         url('TitilliumText22L002-webfont.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TitilliumText22L';
+    src: url('TitilliumText22L003-webfont.woff') format('woff'),
+         url('TitilliumText22L003-webfont.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TitilliumText22L';
+    src: url('TitilliumText22L004-webfont.woff') format('woff'),
+         url('TitilliumText22L004-webfont.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TitilliumText22L';
+    src: url('TitilliumText22L005-webfont.woff') format('woff'),
+         url('TitilliumText22L005-webfont.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'TitilliumText22L';
+    src: url('TitilliumText22L006-webfont.woff') format('woff'),
+         url('TitilliumText22L006-webfont.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+

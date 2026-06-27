@@ -26,9 +26,9 @@ https://github.com/yahoo/pure/blob/master/LICENSE.md
 
     * Droid Sans: Ships with all versions of Android.
 
-    * Helvetica, Arial, sans-serif: Common font stack on OS X and Windows.
+    * Helvetica, sans-serif: Common font stack on OS X and Windows.
     */
-    font-family: FreeSans, Arimo, "Droid Sans", Helvetica, Arial, sans-serif;
+    font-family: FreeSans, Arimo, "Droid Sans", Helvetica, sans-serif;
 
     /* Use flexbox when possible to avoid `letter-spacing` side-effects. */
     display: -webkit-box;

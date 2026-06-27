@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'RX100-Regular';
+    src: url('RX100-Regular.woff2') format('woff2'),
+        url('RX100-Regular.woff') format('woff'),
+        url('RX100-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-display: swap;
+    font-style: normal;
+}

@@ -1,10 +1,10 @@
 @charset "UTF-8";
-@import url("../webfonts/Cardo-fontfacekit/stylesheet.css");
-@import url("../webfonts/Trykker-fontfacekit/stylesheet.css");
-@import url("../webfonts/ExcellenceInMotion/stylesheet.css");
-@import url("../webfonts/Formata/stylesheet.css");
-@import url("../webfonts/Meta/stylesheet.css");
-@import url("../webfonts/TitilliumText-fontfacekit/stylesheet.css");
+@import url("../webfonts/Cardo-fontfacekit/style.css");
+@import url("../webfonts/Trykker-fontfacekit/style.css");
+@import url("../webfonts/ExcellenceInMotion/style.css");
+@import url("../webfonts/Formata/style.css");
+@import url("../webfonts/Meta/style.css");
+@import url("../webfonts/TitilliumText-fontfacekit/style.css");
 @import url("../fonts/TheMixExtraLight/stylesheet.css");
 @import url("../fonts/ProximaNova/stylesheet.css");
 @import url("../fonts/Prospera/stylesheet.css");
@@ -55,12 +55,12 @@ a:active  { color: #0a3870; }
 .formata-28-bold {font: 28px/32px 'FormataBold', sans-serif;letter-spacing: 2;text-transform: lowercase;}
 .metaSerifWeb-34-bold {font: 34px/38px 'MetaSerifWebBold', sans-serif;font-weight: normal;font-style: normal; text-transform: none;}
 .metaSerifWeb-bold {font: 18px/27px 'MetaSerifWebBold', sans-serif;font-weight: normal;font-style: normal; text-transform: none;}
-.titilliumTextThin {font: 18px/27px 'TitilliumText22LThin', Arial, sans-serif;}
-.titilliumTextLight {font: 18px/27px 'TitilliumText22LLight', Arial, sans-serif;}
-.titilliumTextRegular {font: 18px/27px 'Titillium Web', Arial, sans-serif;}
-.titilliumTextMedium {font: 18px/27px 'TitilliumText22LMedium', Arial, sans-serif;}
-.titilliumTextBold {font: 18px/27px 'TitilliumText22LBold', Arial, sans-serif;}
-.titilliumTextXBold {font: 18px/27px 'TitilliumText22LXBold', Arial, sans-serif;}
+.titilliumTextThin {font: 18px/27px 'TitilliumText22LThin', sans-serif;}
+.titilliumTextLight {font: 18px/27px 'TitilliumText22LLight', sans-serif;}
+.titilliumTextRegular {font: 18px/27px 'Titillium Web', sans-serif;}
+.titilliumTextMedium {font: 18px/27px 'TitilliumText22LMedium', sans-serif;}
+.titilliumTextBold {font: 18px/27px 'TitilliumText22LBold', sans-serif;}
+.titilliumTextXBold {font: 18px/27px 'TitilliumText22LXBold', sans-serif;}
 .proximaNova {font: 18px/27px 'ProximaNovaRegular', sans-serif;}
 .theMixExtraLightPlain {font: 18px/27px 'TheMixExtraLight-Plain', sans-serif;}
 .midali {vertical-align: middle}

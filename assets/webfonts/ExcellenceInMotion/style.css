@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'ExcellenceInMotion';
+    src: url('ExcellenceInMotion_Regular.woff') format('woff'),
+         url('ExcellenceInMotion_Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'ExcellenceInMotion';
+    src: url('ExcellenceInMotion_Medium.woff') format('woff'),
+         url('ExcellenceInMotion_Medium.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'ExcellenceInMotion';
+    src: url('ExcellenceInMotion_Bold.woff') format('woff'),
+         url('ExcellenceInMotion_Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
