@@ -25,7 +25,7 @@ tags: [bruno, myv, эрзянский язык]
 
 ⁕
 
-Source: http://filfak.mrsu.ru/bak/razgn/s.html
+[Source](http://filfak.mrsu.ru/bak/razgn/svs.html) | [Local version](svs.md)
 
 ⁂ Not following the original text separation:
 
