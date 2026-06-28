@@ -1,4 +1,14 @@
-   <p class="content-head is-center" style="margin-top: 1px;margin-bottom: 1px">Local Resources</p>
+---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Font Demos and Design Tips
+description: Web development
+layout: simple
+theme: slate
+lang: uk
+tags: [ bruno, site]
+---
+<p class="content-head is-center" style="margin-top: 1px;margin-bottom: 1px">Local Resources</p>
         <div class="content" style="float:left;margin-right:5%">
             <h4 class="content-subhead metaSerifWeb-bold" style="margin-top: 0;margin-bottom: 3px;">WebFont Demos</h4>
             <ul class="pure-menu-list">
