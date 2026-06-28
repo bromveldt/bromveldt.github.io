@@ -2,7 +2,7 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянский язык pages 23–32
-description: 10 images s21–s30  (pages 23–32) This section finishes the language-learning dialogue, then covers personal information topics: name/introductions, age, birthplace/residence, family, kinship terms (direct line and in-laws), nationality, education, and professions (with vocabulary lists for industry, agriculture, and transport).
+description: "10 images s21–s30  (pages 23–32) | This section finishes the language-learning dialogue, then covers personal information topics: name/introductions, age, birthplace/residence, family, kinship terms (direct line and in-laws), nationality, education, and professions (with vocabulary lists for industry, agriculture, and transport)."
 layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык]

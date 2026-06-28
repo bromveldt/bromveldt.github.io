@@ -2,7 +2,7 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянский язык pages 63–72
-description: 10 images s61–s70  (pages 63–72) This section concludes ОБЩЕСТВЕННОЕ ПИТАНИЕ (dancing, paying the bill), then covers бытовое обслуживание in full: барикмахерская, баня, химчистка/починка обуви, починка часов/фотоаппаратов, ателье мод, справочник учреждений бытового обслуживания, почта (телеграммы, переговоры, марки, открытки, газеты), and магазины (opening hours, shopping phrases, payment).
+description: "10 images s61–s70  (pages 63–72) | This section concludes ОБЩЕСТВЕННОЕ ПИТАНИЕ (dancing, paying the bill), then covers бытовое обслуживание in full: барикмахерская, баня, химчистка/починка обуви, починка часов/фотоаппаратов, ателье мод, справочник учреждений бытового обслуживания, почта (телеграммы, переговоры, марки, открытки, газеты), and магазины (opening hours, shopping phrases, payment)."
 layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык]
