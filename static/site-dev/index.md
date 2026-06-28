@@ -8,6 +8,15 @@ theme: slate
 lang: uk
 tags: [ bruno, site]
 ---
+
+https://blog.markdowntools.com/posts/markdown-custom-css-classes-styling-complete-guide
+
+https://icons8.com/icons/set/favicon--icons8
+https://icons8.com/icon/GKCbLdI3wPw0/star
+
+[github-markdown-css v5.9.0](https://github.com/sindresorhus/github-markdown-css/releases/tag/v5.9.0)
+
+
 <p class="content-head is-center" style="margin-top: 1px;margin-bottom: 1px">Local Resources</p>
         <div class="content" style="float:left;margin-right:5%">
             <h4 class="content-subhead metaSerifWeb-bold" style="margin-top: 0;margin-bottom: 3px;">WebFont Demos</h4>
