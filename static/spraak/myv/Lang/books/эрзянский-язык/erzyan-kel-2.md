@@ -2,13 +2,13 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянский язык pages 13–22
-description: 10 images s11–s20  (pages 13–22) This section finishes the objective conjugation tables, adds a note on non-conjugated verb forms (infinitive, participle, gerund), then opens the phrasebook proper with sections on greetings, farewells, thanks, apologies, introductions, requests, agreement, refusal, congratulations, inscriptions/dedications, and language learning.
+description: Phrasebook's 10 images s11–s20 (pages 13–22)
 layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык]
 ---
 
-Source: http://filfak.mrsu.ru/bak/razgn/ss.html
+[Source](http://filfak.mrsu.ru/bak/razgn/ss.html) | [Local copy](/assets/ersa/SSS/ss.html)
 
 This section finishes the objective conjugation tables, adds a note on non-conjugated verb forms (infinitive, participle, gerund), then opens the phrasebook proper with sections on greetings, farewells, thanks, apologies, introductions, requests, agreement, refusal, congratulations, inscriptions/dedications, and language learning.
 

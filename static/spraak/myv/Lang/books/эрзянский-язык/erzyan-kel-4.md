@@ -2,13 +2,13 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянский язык pages 33–42
-description: 10 images s31–s40  (pages 33–42) This section finishes the profession vocabulary lists (service industry, science/culture, administration), covers civic participation, then gives a detailed model meeting script (agenda, quorum, debate, voting, closing), and begins the apartment/furniture topic with detailed descriptions of flat layouts and furnishings.
+description: Phrasebook's 10 images s31–s40 (pages 33–42)
 layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык]
 ---
 
-Source: http://filfak.mrsu.ru/bak/razgn/ssss.html
+[Source](http://filfak.mrsu.ru/bak/razgn/ssss.html) | [Local copy](/assets/ersa/SSS/ssss.html)
 
 This section finishes the profession vocabulary lists (service industry, science/culture, administration), covers civic participation, then gives a detailed model meeting script (agenda, quorum, debate, voting, closing), and begins the apartment/furniture topic with detailed descriptions of flat layouts and furnishings.
 

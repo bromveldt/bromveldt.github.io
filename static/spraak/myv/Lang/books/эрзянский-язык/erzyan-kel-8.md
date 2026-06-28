@@ -2,13 +2,13 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянский язык pages 73–82
-description: 10 images s71–s80  (pages 73–82) 
+description: Phrasebook's 10 images s71–s80 (pages 73–82) 
 layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык]
 ---
 
-Source: http://filfak.mrsu.ru/bak/razgn/ssssssss.html
+[Source](http://filfak.mrsu.ru/bak/razgn/ssssssss.html) | [Local copy](/assets/ersa/SSS/ssssssss.html)
 
 This section covers the tail of магазины (wrapping/paying), then runs through: книжный магазин, магазин художественных изделий (сувениры, керамика, ювелирные украшения), канцелярские принадлежности, фотопринадлежности (p.76 unavailable), грампластинки и радиотовары, спорттовары, парфюмерный магазин, галантерейный магазин, обувной магазин, and the opening of магазин тканей.
 

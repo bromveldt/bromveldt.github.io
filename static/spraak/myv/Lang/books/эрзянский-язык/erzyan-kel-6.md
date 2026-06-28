@@ -2,13 +2,13 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянский язык pages 53–62
-description: 10 images s51–s60  (pages 53–62) This section 
+description: Phrasebook's 10 images s51–s60 (pages 53–62) 
 layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык]
 ---
 
-Source: http://filfak.mrsu.ru/bak/razgn/ssssss.html
+[Source](http://filfak.mrsu.ru/bak/razgn/ssssss.html) | [Local copy](/assets/ersa/SSS/ssssss.html)
 
 This section finishes arriving in an unfamiliar city (lost-and-found, information kiosks, train/flight enquiries, advance ticket booking), then covers city transport (finding stops, getting on/off, asking fellow passengers for help), hotel stay (booking, amenities, wake-up calls), sightseeing (historical monuments, architecture, sculptures), and public catering (cafés, ordering food and drink, national dishes, smoking).
 

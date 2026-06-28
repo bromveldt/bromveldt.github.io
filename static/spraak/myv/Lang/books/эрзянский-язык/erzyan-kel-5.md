@@ -2,14 +2,12 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянский язык pages 43–52
-description: 10 images s41–s50  (pages 43–52) This section finishes the apartment description, then covers vacation planning (tourist bases in Mordovia with phone numbers), asking for directions on a hiking trip (landmarks, distances, road conditions, hitchhiking, breakdown assistance), camping and overnight stays with locals (food, bathing, accommodation), and arriving in an unfamiliar city (taxi ranks, bus stops, finding streets and landmarks).
-
+description: Phrasebook's 10 images s41–s50 (pages 43–52)
 layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык]
 ---
-
-Source: http://filfak.mrsu.ru/bak/razgn/sssss.html
+[Source](http://filfak.mrsu.ru/bak/razgn/sssss.html) | [Local copy](/assets/ersa/SSS/sssss.html)
 
 This section finishes the apartment description, then covers vacation planning (tourist bases in Mordovia with phone numbers), asking for directions on a hiking trip (landmarks, distances, road conditions, hitchhiking, breakdown assistance), camping and overnight stays with locals (food, bathing, accommodation), and arriving in an unfamiliar city (taxi ranks, bus stops, finding streets and landmarks).
 

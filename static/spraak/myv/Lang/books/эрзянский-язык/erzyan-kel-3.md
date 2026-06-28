@@ -2,13 +2,13 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянский язык pages 23–32
-description: "10 images s21–s30  (pages 23–32) | This section finishes the language-learning dialogue, then covers personal information topics: name/introductions, age, birthplace/residence, family, kinship terms (direct line and in-laws), nationality, education, and professions (with vocabulary lists for industry, agriculture, and transport)."
+description: Phrasebook's 10 images s21–s30 (pages 23–32)
 layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык]
 ---
 
-Source: http://filfak.mrsu.ru/bak/razgn/sss.html
+[Source](http://filfak.mrsu.ru/bak/razgn/sss.html) | [Local copy](/assets/ersa/SSS/sss.html)
 
 This section finishes the language-learning dialogue, then covers personal information topics: name/introductions, age, birthplace/residence, family, kinship terms (direct line and in-laws), nationality, education, and professions (with vocabulary lists for industry, agriculture, and transport).
 ---
