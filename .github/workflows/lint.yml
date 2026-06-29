@@ -29,9 +29,7 @@ jobs:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # These scanners ignore VALIDATE_ALL_CODEBASE and always sweep the whole
-          # repo — disable them so runs stay scoped to changed files and quiet.
-          VALIDATE_JSCPD: false
-          VALIDATE_TRIVY: false
-          VALIDATE_BIOME_LINT: false
-          VALIDATE_BIOME_FORMAT: false
+          # Opt-in mode: setting any VALIDATE_* to true restricts Super-Linter to
+          # only those linters. This is a Markdown-driven Jekyll site, so we lint
+          # the Markdown content and leave infra YAML and vendor CSS/fonts alone.
+          VALIDATE_MARKDOWN: true
