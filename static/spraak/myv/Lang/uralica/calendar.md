@@ -21,11 +21,10 @@ months :
 
 #### Ковтне ковкерьксенть иесэ
 
-<ol>
+<ol style="float: inline-start">
 {% for month in page.months %}
 <li>{{ month }}</li>
 {% endfor %}
 </ol>
-
 
 ![Ersa Calendar](calendar.jpg "Calendar in Ersa, Russian")
