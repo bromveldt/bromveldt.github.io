@@ -21,7 +21,7 @@ jobs:
           fetch-depth: 0
 
       - name: Super-Linter
-        uses: super-linter/super-linter/slim@v8.2.0
+        uses: super-linter/super-linter/slim@v8.7.0
         env:
           # Lint only files changed in this push / PR. The repo has hundreds of
           # pre-existing content files that were never linted; checking the whole
