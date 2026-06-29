@@ -9,5 +9,6 @@ index.markdown
 assets/fontawesome-free-5.3.1-web
 _site/
 node_modules/
-!/package.json
-!/package-lock.json
+/package.json
+/package-lock.json
+/qodana.yaml
