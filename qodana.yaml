@@ -23,7 +23,7 @@ profile:
 #    paths:
 #      - <path/where/not/run/inspection>
 
-projectJDK: "26" #(Applied in CI/CD pipeline)
+# projectJDK is JVM-only; this is a static Jekyll site (HTML/CSS/JS/Markdown), so it is not used.
 
 #Execute shell command before Qodana execution (Applied in CI/CD pipeline)
 #bootstrap: sh ./prepare-qodana.sh
@@ -36,13 +36,11 @@ projectJDK: "26" #(Applied in CI/CD pipeline)
 # severityThresholds - configures maximum thresholds for different problem severities
 # testCoverageThresholds - configures minimum code coverage on a whole project and newly added code
 # Code Coverage is available in Ultimate and Ultimate Plus plans
-#failureConditions:
-#  severityThresholds:
-#    any: 15
-#    critical: 5
-#  testCoverageThresholds:
-#    fresh: 70
-#    total: 50
+# Quality gate: only fail the pipeline on real problems, not minor style hints.
+failureConditions:
+  severityThresholds:
+    critical: 1
 
 #Specify Qodana linter for analysis (Applied in CI/CD pipeline)
-linter: jetbrains/qodana-jvm:2026.1
+# qodana-js covers JavaScript/TypeScript, HTML, CSS and JSON — the languages in this Jekyll site.
+linter: jetbrains/qodana-js:2026.1
