@@ -1,13 +1,6 @@
 @charset "UTF-8";
-@import url("../webfonts-squirrel/Cardo-fontfacekit/style.css");
-@import url("../webfonts-squirrel/Trykker-fontfacekit/style.css");
-@import url("../webfonts-squirrel/ExcellenceInMotion/style.css");
-@import url("../webfonts-squirrel/Formata/style.css");
-@import url("../webfonts-squirrel/Meta/style.css");
-@import url("../webfonts-squirrel/TitilliumText-fontfacekit/style.css");
-@import url("../fonts/TheMixExtraLight/stylesheet.css");
-@import url("../fonts/ProximaNova/stylesheet.css");
-@import url("../fonts/Prospera/stylesheet.css");
+@import url("/assets/webfonts-squirrel/all-fonts.css");
+@import url("/assets/webfonts-fontshare/all-fonts.css");
 
 /* Import fonts into the HTML page separately */
 /* Light blue-slate theme — IBM Plex Serif Light / Plex Sans ExtraLight, Cardo Bold for Latin */
