@@ -1,0 +1,35 @@
+name: Lint
+
+on:
+  push:
+    branches: ["master"]
+  pull_request:
+
+permissions:
+  contents: read
+  statuses: write
+
+jobs:
+  lint:
+    name: Lint changed files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          # Full history so Super-Linter can diff against the base branch.
+          fetch-depth: 0
+
+      - name: Super-Linter
+        uses: super-linter/super-linter/slim@v8.2.0
+        env:
+          # Lint only files changed in this push / PR. The repo has hundreds of
+          # pre-existing content files that were never linted; checking the whole
+          # codebase would fail the build on day one. Flip to true for a full sweep.
+          VALIDATE_ALL_CODEBASE: false
+          DEFAULT_BRANCH: master
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Opt-in mode: setting any VALIDATE_* to true restricts Super-Linter to
+          # only those linters. This is a Markdown-driven Jekyll site, so we lint
+          # the Markdown content and leave infra YAML and vendor CSS/fonts alone.
+          VALIDATE_MARKDOWN: true
