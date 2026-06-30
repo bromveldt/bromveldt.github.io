@@ -34,17 +34,19 @@ fonts:
 
 ### Local Resources
 
+#### Fontshare WebFont Demos
+
 <ul>
 {% for font in page.fontshare_webfonts %}
-  <a href="/assets/webfonts-fontshare/{{ font }}/demo.html" title="{{ font }}">{{ font }}</a>
+  <li><a href="/assets/webfonts-fontshare/{{ font }}/demo.html" title="{{ font }}">{{ font }}</a></li>
 {% endfor %}
 </ul>
 
-#### WebFont Demos
+#### Squirrel WebFont Demos
 
 <ul>
 {% for font in page.squirrel_webfonts %}
-  <a href="/assets/webfonts-squirrel/{{ font }}/demo.html" title="{{ font }}">{{ font }}</a>
+  <li><a href="/assets/webfonts-squirrel/{{ font }}/demo.html" title="{{ font }}">{{ font }}</a></li>
 {% endfor %}
 </ul>
 
@@ -52,9 +54,11 @@ fonts:
 
 <ul>
 {% for font in page.fonts %}
-<a href="/assets/fonts/{{ font }}/demo.html" title="{{ font }}">{{ font }}</a>
+    <li><a href="/assets/fonts/{{ font }}/demo.html" title="{{ font }}">{{ font }}</a></li>
 {% endfor %}
 </ul>
+
+#### Layout Demo
 
 [pure-layout](pure-layout/index.html)
 
