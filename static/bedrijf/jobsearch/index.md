@@ -24,6 +24,7 @@ tags: [ bruno, job, search]
 - **DE**
     - [Job- und Projektsuche | FERCHAU](https://touch.ferchau.com/de/de?sortingType=actuality&sortingDirection=DESC)
     - [It Anzeigen | Greifenberg](https://jobs.greifenberg.de/jobs/search?q=it&l=&lat=&long=&d=)
+
 - **NL**
 - [Together Abroad](https://www.togetherabroad.nl/list-international-companies-nl.html)
     - [Java Developer Jobs in Netherlands | 950+ open jobs | WeAreDevelopers](https://www.wearedevelopers.com/en/jobs/ls/netherlands/java)
@@ -31,10 +32,12 @@ tags: [ bruno, job, search]
     - [6118+ Jobs in Amsterdam - Top Opportunities & Vacancies Nov 2025](https://www.drjobpro.com/netherlands/jobs-in-amsterdam)
     - [Software developer vacatures | Randstad Professional | Yacht](https://www.yacht.nl/functies/software-developer-vacatures)
     - [Java Developer Jobs in Netherlands | 950+ open jobs | WeAreDevelopers](https://www.wearedevelopers.com/en/jobs/ls/netherlands/java)
+
 - **AT**
     - [Jobs finden | jobs.apc.co.at](https://jobs.apc.co.at/stellenanzeigen/)
     - [Jobs - Active Solution](https://www.activesolution.at/karriere/jobs/)
     - [Projekte](https://www.voquz.com/voquz-erweiterung/projekte/)
+
 - **GULP**
     - [GULP](https://www.gulp.de/gulp2/g/projekte?query=java&order=DATE_DESC)
     - [GULP](https://www.gulp.de/gulp2/g/experten/selbststaendige/profile/546c8f4de4b087635bc4fae5/passende-projekte?order=DATE_DESC)
