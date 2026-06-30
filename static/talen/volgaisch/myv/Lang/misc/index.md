@@ -10,8 +10,8 @@ tags: [ bruno, myv]
 ---
 
 - [HTML](leaf/leaf.phtml.htm) История мордовского этноса
-- [HTML](calendar.md) Ersan Calendar
-- [PDF](tartu/naita-pilt.pdf) Niina Aasmäe: *An introductory course of the Erzya language*. Ed. Tõnu Seilenthal. Tartu:Tartu ülikooli Paul Ariste soome-ugri põlisrahvaste keskuse üllitised, 2014
+- [HTML](calendar.md) Erzyan Calendar
+- [PDF](tartu/naita-pilt.pdf) Niina Aasmäe: An introductory course of the Erzya language. Ed. Tõnu Seilenthal. Tartu:Tartu ülikooli Paul Ariste soome-ugri põlisrahvaste keskuse üllitised, 2014
 - [HTML](perun.md) Perun
 - [HTML](psalm22.html) Psalm 22
 - [HTML](purgine.md) Purgine: Эрзянская губерния (Blog Post, 2012-05-02)
