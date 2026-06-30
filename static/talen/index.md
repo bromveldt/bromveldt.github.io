@@ -9,26 +9,16 @@ lang: en
 tags: [ bruno, language, resource]
 ---
 
-- [baltic](baltisch)
-- [germanic](germaans)
+- [Baltic](baltisch)
+- [Germanic](germaans)
   - [German](germaans/deu)
   - [Yiddish](germaans/yid)
-- [slavic](slavisch)
+- [Slavic](slavisch)
   - [Bulgarian](slavisch/bgr)
   - [Croatian](slavisch/hrv)
   - [Ukrainian](slavisch/ukr)
-- [volgaic](volgaisch)
-
-#### Germanic
-
-
-
-
-
-- [Mordvin-Moksha](volgaisch/mdf)
-- [Mordvin-Erzya](myv)
-
-
-
+- [Volgaic](volgaisch)
+  - [Mordvin-Moksha](volgaisch/mdf)
+  - [Mordvin-Erzya](volgaisch/myv)
 
 Language codes taken from the [ISO 639-3 code set](https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3.tab)
