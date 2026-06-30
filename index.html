@@ -8,14 +8,13 @@
     <meta name="description" content="A responsive product landing page for my GitHub acccount.">
     <meta property="og:type" content="website"><!-- Open Graph -->
     <link rel="stylesheet" href="/assets/css/index.css?v=4">
-    <link rel="stylesheet" href="/assets/css/index.css?v=4">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/icons8-star-16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/icons8-star-32.png">
     <link rel="icon" type="image/png" sizes="64x64" href="/assets/icons/icons8-star-64.png">
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest"     href="site.webmanifest">
     <link rel="preconnect"   href="https://fonts.googleapis.com">
     <link rel="preconnect"   href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect"   href="https://unpkg.com/purecss@3.0.0" crossorigin>
     <link rel="stylesheet"   href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;1,300&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Titillium+Web:ital,wght@0,300;0,400;0,600;1,300;1,400&display=block">
     <link rel="stylesheet"   href="https://unpkg.com/purecss@3.0.0/build/pure-min.css" crossorigin="anonymous">
     <!--[if gt IE 8]><!-->
@@ -29,20 +28,17 @@
     <!--<![endif]-->
     <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
     <link rel="dcterms.relation" href="http://dublincore.org/documents/2000/08/15/dcq-html/">
-    <meta name="dcterms.title"       content="Landing page for the personal GitHub Actions Web site">
-    <meta name="dcterms.creator"     content="Bruno Samueli, Freelance Software Developer, Nederland">
+    <meta name="dcterms.title"       content="Landing page for my personal GitHub Actions Web site">
+    <meta name="dcterms.creator"     content="Bruno Samueli">
     <meta name="dcterms.created"     content="2019-09-15">
     <meta name="dcterms.format"      content="text/html">
     <meta name="dcterms.type"        content="Text">
     <meta name="dcterms.modified"    content="{{ site.time | date_to_xmlschema }}">
     <meta name="dcterms.subject"     content="software development, GitHub Actions, Jekyll">
-    <meta name="dcterms.language"    content="en">
-    <meta name="dcterms.type"        content="http://purl.org/dc/dcmitype/Text">
+    <meta name="dcterms.language"    content="en-US">
+    <meta name="dcterms.identifier"  content="{{ page.url | absolute_url }}">
+    <meta name="dcterms.description" content="This is intended to showcase my HTML5 coding skills">
 
-    <meta name="dcterms.date"        content="{{ site.time | date_to_xmlschema }}">
-    <meta name="dcterms.identifier"  content="http://dublincore.org/documents/dcq-html/">
-    <meta name="dcterms.description" content="This document is intended to showcase my software development skills">
-    <meta name="dcterms.license"   content="https://creativecommons.org/licenses/by/4.0/">
 </head>
 <body>
 <div class="header">
@@ -106,7 +102,7 @@
 
     <div class="footer l-box is-center titilliumTextRegular">
         <div style="display:contents">
-            2018-2026. Made with Visual Studio Code and IntelliJ IDEA 2026.1.3
+            2026. Made with Visual Studio Code and IntelliJ IDEA 2026.1.3
         </div>
         <div style="display:contents">
             [<a title="Source code for this GitHub Actions project" href="https://github.com/bromveldt/bromveldt.github.io" class="ondarkbg">Source code</a>]
@@ -119,8 +115,5 @@
         </div>
     </div>
 </div>
-<!-- See https://ionic.io/ionicons/usage -->
-<script type="module" src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@8.0.13/dist/ionicons/ionicons.js"></script>
 </body>
 </html>
