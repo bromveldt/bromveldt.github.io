@@ -8,7 +8,6 @@ layout: simple
 theme: slate
 lang: en
 tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
----
 
 #### A
 
@@ -673,8 +672,6 @@ tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
 
 #### B
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | baboon | n. | бабуин |
 | baby | n. | эйде (пек вишине) |
 | bachelor | n. | апак урьваксто цёра |
@@ -1171,8 +1168,6 @@ tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
 
 #### C
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | cabbage | n. | капста |
 | cabin | n. | вирькудо |
 | cabinet | n. | (government) правительства; (storage) шкап |
@@ -1998,8 +1993,6 @@ tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
 
 #### D
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | dad | n. | тетя |
 | daddy | n. | тетька |
 | dagger | n. | кинжал |
@@ -2431,8 +2424,6 @@ tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
 
 #### E
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | each | adj. | эрьва |
 | each other | pron. вейке-вейке |
 | eager | adj. | мелень путозь теиця |
@@ -2730,8 +2721,6 @@ tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
 
 #### F
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | fable | n. | фабула |
 | fabric | n. | коцт |
 | fabulous | adj. | ёвксонь кондямо |
@@ -3082,8 +3071,6 @@ tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
 
 #### G
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | gain | n. | лезэ |
 | gain | v. | касомс |
 | gallery | n. | (art) галлерея |
@@ -3311,8 +3298,6 @@ tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
 
 #### H
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | habit | n. | кой |
 | hail | n. | бабаньямкс, цярахман |
 | hair | n. | (body) пона; (chest) черь; (head) черь, прячерь |
@@ -3579,8 +3564,6 @@ tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]
 
 #### I
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | I | (pron) | мон |
 | ice | n. | эй |
 | ice | cream n. | мороженное |
@@ -3976,8 +3959,6 @@ inside, [q], out adv. ингель ёнт
 
 #### J
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | jacket | n. | жилетка |
 | jail | n. | пекстамокудо |
 | jam | n. | (difficulty) кажочи, стакачи |
@@ -4035,8 +4016,6 @@ inside, [q], out adv. ингель ёнт
 
 #### K
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | kangaroo | n. | кенгуру |
 | keep | v. | кирдемс |
 | kennel | n. | псарня |
@@ -4077,12 +4056,10 @@ inside, [q], out adv. ингель ёнт
 | know-how | n. | маштомачи, колчи |
 | knowledge | n. | содамочи |
 | knuckle | n. | сурполда |
-| Koran | n. | Коран |
+| Koran | n. | Коран
 
 #### L
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | label | n. | этикеть |
 | labor | n. | (medical) чачтома; (work) важодема |
 | laboratory | n. | лаборатория |
@@ -4332,8 +4309,6 @@ inside, [q], out adv. ингель ёнт
 
 #### M
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | machine | n. | машина, мотор |
 | machine gun | n. | пулемёт |
 | machinery | n. | машинань оборудования |
@@ -4651,8 +4626,6 @@ inside, [q], out adv. ингель ёнт
 
 #### N
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | nail | n. | (metal) эске |
 | naked | adj. | штапо, штадо |
 | name | n. | лем |
@@ -4786,8 +4759,6 @@ inside, [q], out adv. ингель ёнт
 
 #### O
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | oak | n. | тумо |
 | oar | n. | имле |
 | oath | n. | пежеть :: take an oath пежедькстамс |
@@ -4964,8 +4935,6 @@ inside, [q], out adv. ингель ёнт
 
 #### P
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | pack | vi., vt. | тапарямс, тапардамс |
 | package | n. | тапаркс |
 | packing | n. | упаковка |
@@ -5566,8 +5535,6 @@ inside, [q], out adv. ингель ёнт
 
 #### Q
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | quack grass | n. | уськаз |
 | qualification | n. | квалификация |
 | qualified | adj. | маштовиця, тевс тонавтозь |
@@ -5605,8 +5572,6 @@ inside, [q], out adv. ингель ёнт
 
 #### R
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | rabbi | n. | раввин |
 | rabbit | n. | кудонумоло |
 | rabid dog | n. | азарсь киска (ормалгадозь) |
@@ -6066,8 +6031,6 @@ inside, [q], out adv. ингель ёнт
 
 #### S
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | sabotage | n. | саботаж, диверсия |
 | sack | n. | кескал, кескав, мешок |
 | sacrifice | n. | жертва, анокс |
@@ -6869,8 +6832,6 @@ inside, [q], out adv. ингель ёнт
 
 #### T
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | table | n. | стувор, морго |
 | tablet | n. | таблетка |
 | tack | n. | (сурсо ??лепштявиця) эске |
@@ -7255,11 +7216,8 @@ inside, [q], out adv. ингель ёнт
 | typical | adj. | типичной |
 | typist | n. | печатыця |
 
-
-
 #### U
-| English | part of speech| Erzyan |
-| --- | --- | --- |
+
 | udder | n. | одар |
 | ugly | adj. | амазы |
 | ulcer | n. | язва, орво, пекеорво |
@@ -7401,11 +7359,8 @@ inside, [q], out adv. ингель ёнт
 | utensil | n. | пенчт-вакант |
 | uterus | n. | эйдекудо |
 
-
-
 #### V
-| English | part of speech| Erzyan |
-| --- | --- | --- |
+
 | vacancy | n. | чаво тарка, оля тарка |
 | vacant | adj. | чаво, оля |
 | vacate | v. | чамдомс, олякстомтомс |
@@ -7522,8 +7477,6 @@ inside, [q], out adv. ингель ёнт
 
 #### W
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | wages | n. | важодема ярмак, сивеярмак |
 | wagon | n. | (train) вагон; (cart) улав |
 | waist | n. | карксамо |
@@ -7729,14 +7682,10 @@ inside, [q], out adv. ингель ёнт
 
 #### X
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | x-ray | n. | рентген |
 
 #### Y
 
-| English | part of speech| Erzyan |
-| --- | --- | --- |
 | yacht | n. | венч (покш), яхта |
 | yard | n. | (area) кардаз |
 | yawn | n. | кургонь автнема |
@@ -7759,24 +7708,19 @@ inside, [q], out adv. ингель ёнт
 | youth | n. | (young man) од цёра; (people) од ломанть; (time) одкс пора |
 | youthful | adj. | однэ |
 
-
-
 #### Z
 
-| English | Erzyan |
-| --- | --- |
-| zebra | n. | зебра |
-| zero | n. | (number) нолла |
-| zigzag | adv. | кики-мики |
-| zinc | n. | цинк |
-| zipper | n. | яки чочамка, замок |
-| zone | n. | кирькс, зона |
-| zoo | n. | зоопарк, идем ракшань кирдема тарка |
-| zoology | n. | зоология, ракшадо наука |
-
-
+| English | part of speech | Erzyan |
+| --- |----------------| --- |
+| zebra | n.             | зебра |
+| zero | n.             | (number) нолла |
+| zigzag | adv.           | кики-мики |
+| zinc | n.             | цинк |
+| zipper | n.             | яки чочамка, замок |
+| zone | n.             | кирькс, зона |
+| zoo | n.             | зоопарк, идем ракшань кирдема тарка |
+| zoology | n.             | зоология, ракшадо наука |
 ### Some languages
-
 - азеринь
 - аймарань
 - акинесэнь
@@ -7954,7 +7898,6 @@ inside, [q], out adv. ингель ёнт
 - тибетань
 - тигринянь
 - тонганонь
-- тонгань
 - тонгань
 - тумбукань
 - туркменэнь
