@@ -25,4 +25,4 @@ Some links are below.
 - [Church texts: liturgy, Gospels](Lang/church-texts)
 - [Conversation Guides](Lang/conv)
 - [Dictionaries](Lang/dict)
-- [Miscellaneous](Lang/uralica)
+- [Miscellaneous](../../uralica)

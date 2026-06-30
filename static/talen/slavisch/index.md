@@ -10,4 +10,5 @@ tags: [bruno, bgr, hrv, ukr]
 
 - [bgr](bgr)
 - [hrv](hrv)
+- [pom](pom)
 - [ukr](ukr)
