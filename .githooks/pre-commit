@@ -1,0 +1,30 @@
+#!/usr/bin/env bash
+#
+# Lint staged Markdown with the same ruleset and pinned linter version as CI
+# (Super-Linter v8.7.0 ships markdownlint-cli2@0.22.1), reading the single
+# source-of-truth config at .markdownlint.yaml. Blocks the commit on any error
+# so problems surface here, never on a failed GitHub build.
+#
+# Enable once per clone:  git config core.hooksPath .githooks
+# Skip a one-off commit:  git commit --no-verify
+
+set -euo pipefail
+
+# Collect staged Markdown files (Added/Copied/Modified/Renamed), NUL-delimited
+# so paths with spaces or non-ASCII characters survive intact.
+mapfile -d '' -t files < <(
+  git diff --cached --name-only --diff-filter=ACMR -z -- '*.md'
+)
+
+if [ ${#files[@]} -eq 0 ]; then
+  exit 0
+fi
+
+if ! npx --yes markdownlint-cli2@0.22.1 --config .markdownlint.yaml -- "${files[@]}"; then
+  echo
+  echo "markdownlint found issues in staged Markdown (see above)."
+  echo "Fix them, or auto-fix the mechanical ones with:"
+  echo "  npx markdownlint-cli2@0.22.1 --fix --config .markdownlint.yaml <files>"
+  echo "Bypass once (not recommended): git commit --no-verify"
+  exit 1
+fi

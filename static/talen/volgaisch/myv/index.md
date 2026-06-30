@@ -14,13 +14,13 @@ Over the years I have downloaded many files from the Internet, not expecting the
 
 Some links are below.
 
-#### External Links
-    
+## External Links
+
 - [Википедиянь Прявтлопа](https://myv.wikipedia.org/wiki/) Wikipedia
 - [Эрзянь ки &ndash; Словари](http://erzan.ru/slovari/) The best resource, probably still around
- 
-#### Local Resources
-    
+
+## Local Resources
+
 - [Books](Lang/books)
 - [Church texts: liturgy, Gospels](Lang/church-texts)
 - [Conversation Guides](Lang/conv)

@@ -19,6 +19,9 @@
 .gitattributes text eol=crlf
 .gitignore text eol=crlf
 
+# Git hook scripts must stay LF — a CRLF in the shebang breaks them on Unix
+.githooks/* text eol=lf
+
 # Binaries — no line ending conversion
 *.png binary
 *.jpg binary

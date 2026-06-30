@@ -6,7 +6,7 @@ layout: simple
 tags: [bruno, myv, ersa]
 ---
 
-### László Klima
+## László Klima
 
 ### The linguistic affinity of the Volgaic Finno-Ugrians and their ethnogenesis
 
@@ -16,32 +16,25 @@ tags: [bruno, myv, ersa]
 
 ## Contents
 
-**Introduction**
-
-**Mari-Mordvin language contacts**
-
-**The Finno-Ugrians of the Middle Volga region in the historic sources**
-
-- The Mordvins
-- The Erza
-- The Moksha
-- The Muroma
-- The evaluation of the historic records
-- The Meshchera and the Burtas
-- The Merja and the Cheremis
-
-**The prehistory of the Volgaic Finno-Ugrians: the archaeological record**
-
-- From the Neolithic to the Iron Age
-- The Djakovo culture and its role in the ethnogenesis of the Volgaic Finno-Ugrians
-- The Gorodets culture and its role in Mordvin and Mari ethnogenesis
-- The cemeteries of the Proto-Mordvin period
-- The Ananino culture: a possible historical setting for Mari ethnogenesis
-- Mari ethnogenesis: Ananino or Gorodets?
-
-**Summary**
-
-**References**
+- Introduction
+- Mari-Mordvin language contacts
+- The Finno-Ugrians of the Middle Volga region in the historic sources
+  - The Mordvins
+  - The Erza
+  - The Moksha
+  - The Muroma
+  - The evaluation of the historic records
+  - The Meshchera and the Burtas
+  - The Merja and the Cheremis
+- The prehistory of the Volgaic Finno-Ugrians: the archaeological record
+  - From the Neolithic to the Iron Age
+  - The Djakovo culture and its role in the ethnogenesis of the Volgaic Finno-Ugrians
+  - The Gorodets culture and its role in Mordvin and Mari ethnogenesis
+  - The cemeteries of the Proto-Mordvin period
+  - The Ananino culture: a possible historical setting for Mari ethnogenesis
+  - Mari ethnogenesis: Ananino or Gorodets?
+- Summary
+- References
 
 ---
 
@@ -324,14 +317,14 @@ And even though the Mordvin ablative does have a Mari correspondence, the use of
 and he also discussed with the word-medial ňk > ŏk, kň > kŏ, ňt > ŏt phonetic changes. His arguments for the Mordvin-Mari morphological correspondences hardly contain new elements
 
 | Kazantsev (1985) | Serebrennikov (1967) |
-|---|---|
-| no. 1 | no. 2 |
-| no. 2 | no. 5 |
-| no. 3 | — |
-| no. 4 | no. 20 |
-| no. 5 | no. 6 |
-| no. 6 | no. 4 |
-| no. 7 | no. 14 |
+| ---------------- | -------------------- |
+| no. 1            | no. 2                |
+| no. 2            | no. 5                |
+| no. 3            | —                    |
+| no. 4            | no. 20               |
+| no. 5            | no. 6                |
+| no. 6            | no. 4                |
+| no. 7            | no. 14               |
 
 Under no. 3 Kazantsev discusses the correspondence between the Mari numerical adverb, the essive *-nek/-ńek* suffix and the Mordvin comitative *-ńek* suffix. Gábor Bereczki had refuted this argument earlier.
 
@@ -347,7 +340,7 @@ Under no. 3 Kazantsev discusses the correspondence between the Mari numerical ad
 
 &nbsp;&nbsp;&nbsp;&nbsp;In sum, it is clear that the linguistic evidence suggests considerably more complex processes than the traditional genealogical model:
 
-```
+```text
 Finno-Ugrian parent speech unity
 
     Volgaic parent speech unity
@@ -405,18 +398,18 @@ The sources are silent on the Mordvins following Julian's report. The 15th-17th 
 
 &nbsp;&nbsp;&nbsp;&nbsp;For a better overview of the available evidence I have arranged the sources quoted in the above into a table:
 
-|  | *Mordvin* | *Erza* | *Moksha* | *Muroma* |
-|---|---|---|---|---|
-| Jordanes, 6th century | ✓ |  |  |  |
-| Constantine Porphyrogenetus, 10th century | ✓ |  |  |  |
-| Joseph, Khazar kaqan, 10th century |  | ✓ |  |  |
-| al-Balkhi, al-Istakhri, Ibn Hawqal, 9th-10th century |  | ✓ |  |  |
-| *Povest' vremennyh let*, 12th century | ✓ |  |  | *Povest' vremennyh let*, 12th century |
-| Rubruck (?), 13th century | ✓ |  | Rubruck, 13th century |  |
-| Plano Carpini, C. De Bridia, Benedictus Polonius, 13th century | ✓ |  |  |  |
-| Rashid ad-Din, 14th century |  | ✓ |  |  |
-| European travellers, from the 16th century | ✓ | Jusuf, Nogaj khan, 16th century |  |  |
-| Russian sources |  | from the 18th century | from the 17th century | Russian sources only |
+|                                                                | *Mordvin* | *Erza*                          | *Moksha*              | *Muroma*                              |
+| -------------------------------------------------------------- | --------- | ------------------------------- | --------------------- | ------------------------------------- |
+| Jordanes, 6th century                                          | ✓         |                                 |                       |                                       |
+| Constantine Porphyrogenetus, 10th century                      | ✓         |                                 |                       |                                       |
+| Joseph, Khazar kaqan, 10th century                             |           | ✓                               |                       |                                       |
+| al-Balkhi, al-Istakhri, Ibn Hawqal, 9th-10th century           |           | ✓                               |                       |                                       |
+| *Povest' vremennyh let*, 12th century                          | ✓         |                                 |                       | *Povest' vremennyh let*, 12th century |
+| Rubruck (?), 13th century                                      | ✓         |                                 | Rubruck, 13th century |                                       |
+| Plano Carpini, C. De Bridia, Benedictus Polonius, 13th century | ✓         |                                 |                       |                                       |
+| Rashid ad-Din, 14th century                                    |           | ✓                               |                       |                                       |
+| European travellers, from the 16th century                     | ✓         | Jusuf, Nogaj khan, 16th century |                       |                                       |
+| Russian sources                                                |           | from the 18th century           | from the 17th century | Russian sources only                  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;I have tried to analyze the data in the above table in terms of which Mordvin grouping and to which areas a particular source refers to. What must be minutely examined is whether the authors of these reports had personally visited the peoples they describe and if so, from which direction they had approached the Mordvins' land, or whether they based their reports on hearsay, and if so, who were their informants and which Mordvin grouping they were familiar with.
 
@@ -772,7 +765,7 @@ Knabe, G. S. (1962), Slovarnyje zaimstvovanija i etnogenez (k voprosu o "baltijs
 
 Kokovtsov, P. K., (1932), *Jevrejsko-Hazarskaja perepiska v X. veke*. Leningrad.
 
-Korhonen, M., (1984), *Suomalaisten suomalais-ugrilainen tausta historiallis vertailevan kielitieteen valossa. *Suomen väeston esihistorialliset juuret. Helsinki.
+Korhonen, M., (1984), *Suomalaisten suomalais-ugrilainen tausta historiallis vertailevan kielitieteen valossa.*Suomen väeston esihistorialliset juuret. Helsinki.
 
 Kovedjaeva, Je. I. (1976), Marijskij jazyk. *Osnovy finno-ugorskogo jazykoznanija* III, 3-96.
 

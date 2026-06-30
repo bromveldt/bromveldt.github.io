@@ -33,7 +33,9 @@ jobs:
           # only those linters. This is a Markdown-driven Jekyll site, so we lint
           # the Markdown content and leave infra YAML and vendor CSS/fonts alone.
           VALIDATE_MARKDOWN: true
-          # Markdownlint config lives at the Super-Linter default path/name
-          # (.github/linters/.markdown-lint.yml), so no MARKDOWN_CONFIG_FILE
-          # override is needed. Note: this is NOT the name editor extensions
-          # look for (.markdownlint.yaml), so IDE linting won't read it.
+          # Single source of truth: the markdownlint config lives at the repo
+          # root as .markdownlint.yaml -- the name editor extensions auto-detect
+          # -- so the IDE and CI lint with identical rules. Point Super-Linter
+          # there (its default would be .github/linters/.markdown-lint.yml).
+          LINTER_RULES_PATH: .
+          MARKDOWN_CONFIG_FILE: .markdownlint.yaml
