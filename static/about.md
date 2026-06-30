@@ -25,7 +25,7 @@ On June 27, 2026 I have disabled the IE 6‑8 support and the IE 9 compatibility
 As far as the fonts are concerted, it means not using .eot files and .svg files.
 
 
-LEaving format 'woff2' for Super Modern Browsers,,
+Leaving format 'woff2' for Super Modern Browsers,,
  format 'woff' for  Modern Browsers,
  format 'truetype' for Safari, Android, iOS
 
