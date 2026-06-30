@@ -9,17 +9,28 @@ lang: en
 tags: [ bruno, business, development]
 ---
 
+### Career Overview
+
 [My CV / Resume](CV)
 
+### Anthropic Education
+
+- [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
+- [Introduction to Claude Cowork](https://anthropic.skilljar.com/introduction-to-claude-cowork)
+- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
+- [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
+
 ---
+
 ### Noteworthy
 
 I am a U.S. citizen resident in the Netherlands since 2023 on the basis of the Dutch-American Friendship Treaty. In practical terms it means that I am a salaried DGA (*directeur-grootaandeelhouder*, director and principal shareholder) of my own limited company
 
-<p><span style="font-weight: bold">Osterholm B.V.</span></p>
-<p>Arthur van Schendelstraat 500<br>
-3511 MH Utrecht<br>
-Nederland
+<p>
+    <span style="clear: both-inline; font-weight: bold">Osterholm B.V.</span>
+    <spanstyle="clear: both-inline">Arthur van Schendelstraat 500</span>
+    <spanstyle="clear: both-inline">3511 MH Utrecht</span>
+    <span style="clear: both-inline">Nederland</span>
 </p>
 
 As an AI-savvy software engineer and architect, I am open to providing corp-2-corp remote and on-site services anywhere in the **European Economic Area** and remote services delivered from Europe in the **United States**.
