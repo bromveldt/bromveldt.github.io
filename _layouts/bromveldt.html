@@ -12,6 +12,8 @@
     <link rel="stylesheet" href="assets/css/index.css?v=4">
     <link rel="stylesheet" href="{{ '/assets/css/bromveldt.css' | relative_url }}">
 
+    {%- feed_meta -%}
+
     {% if page.custom_theme %}
     <link rel="stylesheet" href="{{ '/assets/css/themes/' | append: page.custom_theme | append: '.css' | relative_url }}">
     {% endif %}
@@ -26,16 +28,18 @@
     <meta name="dcterms.type"        content="Text">
     <meta name="dcterms.language"    content="en-US"><!-- RFC 4646 / BCP 47 -->
 
-    title, creator, subject, description, publisher, contributor, date, type, format, identifier, source, language, relation, coverage
+    title, creator, subject, description,
+    publisher, contributor, date, type, format,
+    identifier, source, language, relation, coverage
 
 </head>
-<body class="content-flow" style="padding-top: 85px; padding-bottom: 80px;">
+<body class="content-flow" style="padding-top: 5px; padding-bottom: 80px;">
 <div class="content-wrapper">
     {% if page.layout_type == "grid" %}
     <div class="content-grid">
         <main class="content-main">
     {% endif %}
-            {% if page.layout_type == "grid" %}
+    {% if page.layout_type == "grid" %}
         </main>
         <aside class="content-sidebar">
             {% include table-of-contents.html %}
