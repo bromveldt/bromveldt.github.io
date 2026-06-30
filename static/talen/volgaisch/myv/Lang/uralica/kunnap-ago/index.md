@@ -13,4 +13,4 @@ tags: [ bruno, myv]
 - [RTF](klima-laszlo/01794.rtf) | [HTML](klima-laszlo) László Klima, The linguistic affinity of the Volgaic Finno-Ugrians and their ethnogenesis (early 4<super>th</super> millennium BC - late 1<super>st</super> millennium AD)
 - [PDF](toth-alfred/sumerian_proto-uralic_hungarian.pdf) Prof. Dr. Alfréd Tóth, Sumerian, Proto- Uralic, Proto-Finno-Ugrian and Hungarian
 - [HTML](kunnap-ago) Prof. Ago Künnap, About Some Morphological Features of Proto-Uralic
-- [HTML](kunnap-ago/interdisciplinar.md) Prof. Ago Künnap, On the Interdisciplinarity in the Present-Day Historical Uralistics
+- [HTML](kunnap-ago/kunnap.md) Prof. Ago Künnap, On the Interdisciplinarity in the Present-Day Historical Uralistics
