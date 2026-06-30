@@ -2,6 +2,12 @@
   "version": "0.0.1",
   "configurations": [
     {
+      "name": "jekyll",
+      "runtimeExecutable": "bundle",
+      "runtimeArgs": ["exec", "jekyll", "serve", "--host", "127.0.0.1", "--port", "4000", "--livereload"],
+      "port": 4000
+    },
+    {
       "name": "static",
       "runtimeExecutable": "npx",
       "runtimeArgs": ["serve", "-l", "4321", "."],

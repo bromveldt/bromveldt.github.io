@@ -43,7 +43,7 @@
     min-width: 0; /* Prevent grid overflow */
 }
 
-* Layout and Spacing Utilities */
+/* Layout and Spacing Utilities */
 .flex {
     display: flex;
 }

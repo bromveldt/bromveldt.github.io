@@ -5,11 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | escape }}</title>
     <meta property="og:type" content="website"><!-- Open Graph -->
-    <!-- FavIcon -->
-    <link rel="icon" href="/assets/icons/icons8-star-16.png" type="ico">
-    <link rel="SHORTCUT ICON" href="/assets/icons/icons8-star-16.png">
+    <link rel="stylesheet" href="/assets/css/index.css?v=6">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/icons8-star-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/icons8-star-32.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/assets/icons/icons8-star-64.png">
     <!-- Enhanced styling -->
-    <link rel="stylesheet" href="assets/css/index.css?v=4">
+    <link rel="stylesheet" href="assets/css/index.css?v=6">
     <link rel="stylesheet" href="{{ '/assets/css/bromveldt.css' | relative_url }}">
 
     {%- feed_meta -%}
@@ -19,34 +20,37 @@
     {% endif %}
     <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
     <link rel="dcterms.relation" href="http://dublincore.org/documents/2000/08/15/dcq-html/">
-    <meta name="dcterms.title"       content="Landing page for the personal GitHub Actions Web site">
-    <meta name="dcterms.creator"     content="Bruno Samueli, Freelance Software Developer, Nederland">
-    <meta name="dcterms.date"        content="{{ site.time | date_to_xmlschema }}">
-    <meta name="dcterms.identifier"  content="http://dublincore.org/documents/dcq-html/">
-    <meta name="dcterms.description" content="This document is intended to showcase my software development skills">
+    <meta name="dcterms.title"       content="Landing page for my personal GitHub Actions Web site">
+    <meta name="dcterms.creator"     content="Bruno Samueli">
+    <meta name="dcterms.created"     content="2019-09-15">
     <meta name="dcterms.format"      content="text/html">
     <meta name="dcterms.type"        content="Text">
-    <meta name="dcterms.language"    content="en-US"><!-- RFC 4646 / BCP 47 -->
-
-    title, creator, subject, description,
-    publisher, contributor, date, type, format,
-    identifier, source, language, relation, coverage
-
+    <meta name="dcterms.modified"    content="{{ site.time | date_to_xmlschema }}">
+    <meta name="dcterms.subject"     content="software development, GitHub Actions, Jekyll">
+    <meta name="dcterms.language"    content="en-US"> <!-- RFC 4646 / BCP 47 -->
+    <meta name="dcterms.identifier"  content="{{ page.url | absolute_url }}">
+    <meta name="dcterms.description" content="This is intended to showcase my HTML5 coding skills">
 </head>
 <body class="content-flow" style="padding-top: 5px; padding-bottom: 80px;">
 <div class="content-wrapper">
+    {% include header.html %}
     {% if page.layout_type == "grid" %}
     <div class="content-grid">
         <main class="content-main">
-    {% endif %}
-    {% if page.layout_type == "grid" %}
+            {{ content }}
         </main>
         <aside class="content-sidebar">
             {% include table-of-contents.html %}
             {% include related-posts.html %}
         </aside>
     </div>
+    {% else %}
+    <section id="app-root" style="padding-top: 85px; padding-bottom: 80px;">
+        {{ content }}
+    </section>
     {% endif %}
+    {% include footer.html %}
+
 </div>
 </body>
 </html>

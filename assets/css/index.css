@@ -2,36 +2,100 @@
 @import url("/assets/webfonts-squirrel/all-fonts.css");
 @import url("/assets/webfonts-fontshare/all-fonts.css");
 
+/* MetaWeb scoped to Latin so Cyrillic falls through to the serif fallback (IBM Plex Serif).
+   Same source files as 'MetaWeb', aliased + unicode-range-limited so Cyrillic is left untouched. */
+@font-face {
+    font-family: 'MetaWebLatin';
+    src: url('/assets/webfonts-squirrel/Meta/MetaWeb-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-024F, U+1E00-1EFF, U+2000-206F, U+2070-209F, U+20A0-20BF, U+2122, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+    font-family: 'MetaWebLatin';
+    src: url('/assets/webfonts-squirrel/Meta/MetaWeb-NormalIta.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+    unicode-range: U+0000-024F, U+1E00-1EFF, U+2000-206F, U+2070-209F, U+20A0-20BF, U+2122, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+    font-family: 'MetaWebLatin';
+    src: url('/assets/webfonts-squirrel/Meta/MetaWeb-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0000-024F, U+1E00-1EFF, U+2000-206F, U+2070-209F, U+20A0-20BF, U+2122, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+    font-family: 'MetaWebLatin';
+    src: url('/assets/webfonts-squirrel/Meta/MetaWeb-BoldIta.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+    unicode-range: U+0000-024F, U+1E00-1EFF, U+2000-206F, U+2070-209F, U+20A0-20BF, U+2122, U+2C60-2C7F, U+A720-A7FF;
+}
+
 /* Import fonts into the HTML page separately */
 /* Light blue-slate theme — IBM Plex Serif Light / Plex Sans ExtraLight, Cardo Bold for Latin */
+/* Global border-box reset (ported from marketing.css) */
+* { box-sizing: border-box; }
 html {
     overflow-y: scroll; /* always show scrollbar — prevents centered content from jumping when navigating between short and long pages */
 }
 body {
     background-color: #f5f8fe;
     color: #1a2030;
-    font-family: 'IBM Plex Serif', Georgia, serif;
+    font-family: 'MetaWebLatin', 'IBM Plex Serif', Georgia, serif;
     font-weight: 400;
+    font-size: 13px;
+    line-height: 1.7em;
 }
-h1, h2, h3, h4, h5, h6, label {
+/* Base font-size bump on tablet and up (ported from marketing.css) */
+@media (min-width: 48em) {
+    body { font-size: 16px; }
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #0e1624;
+    font-weight: normal;
+    font-family: 'Gambarino-Regular', Georgia, serif;
+}
+label {
     color: #0e1624;
     font-weight: normal;
     font-family: 'CardoBold', Georgia, serif;
 }
 .content-subhead {
-    color: #2a4a7a;
+    color: #0c1c33;
 }
+/* Layout utilities (ported from marketing.css) */
+.l-box { padding: 1em; }
+.l-box-lrg { padding: 2em; border-bottom: 1px solid rgba(0,0,0,0.1); }
+.is-center { text-align: center; }
+.pure-img-responsive { max-width: 100%; height: auto; }
 a:link    { color: #1b5fa0; }
 a:visited { color: #5a3a88; }
 a:hover   { color: #2878c0; }
 a:active  { color: #0a3870; }
 .footer { background-color: #2d3e50; color: #aaa; font-size: 13px !important; position: fixed; bottom: 0; left: 0; width: 100%; box-sizing: border-box; padding: 0 max(calc(20% + 2em), calc(50% - 430px)) 0 1em; }
 .footer a { font-size: 13px !important; }
-.home-menu { padding: 0; }
+.home-menu { padding: 0; background: #2d3e50; box-shadow: 0 1px 1px rgba(0,0,0,0.10); }
 .home-menu a { color: #a0cce8; }
-.home-menu .pure-menu-heading { text-transform: none; font: 20px/28px 'FormataRegular', serif; padding: 5px 0; }
+.home-menu .pure-menu-heading { text-transform: none; font: 20px/28px 'FormataRegular', serif; padding: 5px 0; color: #e6edf3; }
 .home-menu .pure-menu-link { font: 20px/28px 'FormataRegular', sans-serif; text-transform: none; padding: 5px 0; }
 .home-menu .pure-menu-list { float: none; margin: 0; padding: 0; }
+/* Small bullet-separated topic strip under the main header row */
+.nav-topics { text-align: center; white-space: normal; font: 12px/1.6 'FormataRegular', sans-serif; padding: 0 1em 5px; }
+.nav-topics a { color: #a0cce8; white-space: nowrap; }
+.nav-topics a:hover { color: #cfe6f6; }
+.nav-topics a:not(:last-child)::after { content: "\2022"; color: #6b7d92; margin: 0 0.55em; }
+@media (min-width: 768px) {
+    .nav-topics { width: 60%; max-width: 900px; margin: 0 auto; padding: 0 0 5px; }
+}
+/* Clear the fixed two-row header: taller on mobile where the topic strip wraps */
+#home-shell { padding-top: 66px; }
+@media (max-width: 767px) { #home-shell { padding-top: 88px; } }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; width: 100%; }
 @media (min-width: 768px) { .nav-inner { width: 60%; max-width: 900px; margin: 0 auto; } }
 .content .pure-menu-item { padding-top: 0.15em; padding-bottom: 0.15em; }
