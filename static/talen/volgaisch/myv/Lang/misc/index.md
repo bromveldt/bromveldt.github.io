@@ -10,7 +10,7 @@ tags: [ bruno, myv]
 ---
 
 - [HTML](leaf/leaf.phtml.htm) История мордовского этноса
-- [HTML](calendar.md) Erzyan Calendar
+- [HTML](calendar/index.md) Erzyan Calendar
 - [PDF](tartu/naita-pilt.pdf) Niina Aasmäe: An introductory course of the Erzya language. Ed. Tõnu Seilenthal. Tartu:Tartu ülikooli Paul Ariste soome-ugri põlisrahvaste keskuse üllitised, 2014
 - [HTML](perun.md) Perun
 - [HTML](psalm22.html) Psalm 22
