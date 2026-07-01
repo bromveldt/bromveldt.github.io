@@ -190,7 +190,7 @@ GEM
     rb-inotify (0.11.1)
       ffi (~> 1.0)
     rexml (3.4.4)
-    rouge (4.0.1)
+    rouge (4.7.0)
     ruby-rc4 (0.1.5)
     safe_yaml (1.0.5)
     sass-embedded (1.101.0-x64-mingw-ucrt)
@@ -249,7 +249,7 @@ DEPENDENCIES
   minima (= 2.5.2)
   parallel (~> 2.1.0)
   rackup (~> 2.3.1)
-  rouge (~> 4.0.0)
+  rouge (~> 4.7.0)
   terminal-table (~> 3.0.2)
   ttfunk (~> 1.8.0)
   tzinfo (~> 2.0)
@@ -338,7 +338,7 @@ CHECKSUMS
   rb-fsevent (0.11.2) sha256=43900b972e7301d6570f64b850a5aa67833ee7d87b458ee92805d56b7318aefe
   rb-inotify (0.11.1) sha256=a0a700441239b0ff18eb65e3866236cd78613d6b9f78fea1f9ac47a85e47be6e
   rexml (3.4.4) sha256=19e0a2c3425dfbf2d4fc1189747bdb2f849b6c5e74180401b15734bc97b5d142
-  rouge (4.0.1) sha256=e7f6d63d8484857ec1a6614d874395759bdb5006b8f0bc7e4afe8080d3bbe7bc
+  rouge (4.7.0) sha256=dba5896715c0325c362e895460a6d350803dbf6427454f49a47500f3193ea739
   ruby-rc4 (0.1.5) sha256=00cc40a39d20b53f5459e7ea006a92cf584e9bc275e2a6f7aa1515510e896c03
   safe_yaml (1.0.5) sha256=a6ac2d64b7eb027bdeeca1851fe7e7af0d668e133e8a88066a0c6f7087d9f848
   sass-embedded (1.101.0-x64-mingw-ucrt) sha256=f70af7f42130823ee7ec056eb398ac42c032bb31914317ab5fdec1f57c586864
