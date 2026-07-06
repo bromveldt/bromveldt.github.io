@@ -2,7 +2,6 @@
 title: Солунянтненень икельце Кучовксъ Святой Апостолень Павлань.
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: simple
 theme: slate
 lang: myv
 tags: [bruno, myv, ersa, church-texts]

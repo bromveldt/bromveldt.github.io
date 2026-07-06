@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Bulgarian Resources
-layout: simple
 theme: slate
 lang: bg
 tags: [ bruno, bulgaria, news]

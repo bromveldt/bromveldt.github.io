@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Yiddish
 description: Yiddish language pages
-layout: simple
 theme: slate
 lang: yi
 tags: [ bruno, language, resource]

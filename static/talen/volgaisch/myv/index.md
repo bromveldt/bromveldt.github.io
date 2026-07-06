@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Ersa
 description: Some Ersa Links
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv]

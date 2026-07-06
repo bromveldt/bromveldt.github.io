@@ -1,7 +1,6 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: simple
 title: Ukraïense spraakkunst
 tags: [bruno, ukrainian, ukr, spraakleer]
 lang: uk

@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: Correctarium — Українська мова
 description: misc
 author: Юлія Потерянко
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, ukrainian, articles, error]

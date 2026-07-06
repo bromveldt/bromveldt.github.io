@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Ukrainian translation of «страховка»
 description: How to best replace the term «страховка»
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, woorden]

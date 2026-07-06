@@ -2,7 +2,6 @@
 title: Иоанн Златоустонь литургиязо – Евангелия марто совамо
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: simple
 theme: slate
 ---
 

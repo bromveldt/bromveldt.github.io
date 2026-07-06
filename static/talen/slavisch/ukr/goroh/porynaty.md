@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: ПОРИНА́ТИ
 description: misc
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, urkainian, goroh, поринати]

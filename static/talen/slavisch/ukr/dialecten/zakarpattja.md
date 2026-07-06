@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Закарпатський діалект
 description: унікальний закарпатський діалект
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, dialekt]

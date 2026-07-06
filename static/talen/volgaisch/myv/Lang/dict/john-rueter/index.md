@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: English-Erzya Dictionary
 description: Concise English-Erzya Dictionary
 author: Jack Rueter
-layout: simple
 theme: slate
 lang: en
 tags: [ English, Erzya, Dictionary, Erza, Erzian, Ersa, Mordvin, myv]

@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title : Эрзянская губерния
 source_url: http://purgine.livejournal.com/97787.html
-layout: simple
 tags: [bruno, myv, ersa]
 ---
 Source: [purgine LiveJournal]({{ source_url }}).

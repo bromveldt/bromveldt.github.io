@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянский язык pages 33–42
 description: Phrasebook's 10 images s31–s40 (pages 33–42)
-layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык]
 ---

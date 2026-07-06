@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: 'Тішиться, як чорт цвяхом: як "смачно" сказати українською про велику радість'
 description: добірка висловів, якими можна сказати про велику радість
 author: Юлія Піщанська
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, woorden]

@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Avramenko щира душа
 description: рубаха-парень vs. щира душа
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, woorden]

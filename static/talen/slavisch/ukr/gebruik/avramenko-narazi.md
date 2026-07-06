@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Олександр Авраменко
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, usage]

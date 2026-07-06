@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Устата ти говори, но делата ти крещят Демони
-layout: simple
 theme: slate
 tags: [bruno, bulgarian, blg]
 ---

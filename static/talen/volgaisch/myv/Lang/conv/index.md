@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Ersa and Moksha Conversation Guides
 description: PDF files
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv]

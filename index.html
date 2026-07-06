@@ -7,19 +7,14 @@
     <meta name="viewport"    content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A responsive product landing page for my GitHub acccount.">
     <meta property="og:type" content="website"><!-- Open Graph -->
-    <link rel="stylesheet" href="/assets/css/index.css?v=6">
+    <link rel="stylesheet" href="/assets/css/index.css?v=8">
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/icons8-star-16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/icons8-star-32.png">
     <link rel="icon" type="image/png" sizes="64x64" href="/assets/icons/icons8-star-64.png">
     <link rel="manifest"     href="site.webmanifest">
     <link rel="preconnect"   href="https://fonts.googleapis.com">
     <link rel="preconnect"   href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preconnect"   href="https://unpkg.com/purecss@3.0.0" crossorigin>
-    <link rel="stylesheet"   href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;1,300&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Titillium+Web:ital,wght@0,300;0,400;0,600;1,300;1,400&display=block">
-    <link rel="stylesheet"   href="https://unpkg.com/purecss@3.0.0/build/pure-min.css" crossorigin="anonymous">
-    <!--[if gt IE 8]><!-->
-        <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/grids-responsive-min.css">
-    <!--<![endif]-->
+    <link rel="stylesheet"   href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;1,300&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Titillium+Web:ital,wght@0,300;0,400;0,600;1,300;1,400&display=block">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/regular.min.css" 
         integrity="sha512-d2x1oQUT6HACW9UlXxWI6XrIBDrEE5z2tit/+kWEdXdVYuift7sm+Q6ucfGWQr1F0+GD9/6eYoYDegw2nm05Vw=="
           crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -39,20 +34,24 @@
 </head>
 <body>
 <div class="header">
-    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+    <div class="home-menu">
         <div class="nav-inner">
-            <span class="pure-menu-heading">Bruno Samueli</span>
-            <ul class="pure-menu-list">
-                <li class="pure-menu-item"><a href="/" class="pure-menu-link">Projects and Topics</a></li>
+            <span class="menu-heading">Bruno Samueli</span>
+            <ul class="menu-list">
+                <li class="menu-item"><a href="/" class="menu-link">Projects and Topics</a></li><li class="menu-item nav-drop">
+                    <details>
+                        <summary aria-label="Topics menu">&#x2630;</summary>
+                        <nav class="nav-drop-panel">
+                            <a href="/static/bedrijf/">Business Info</a>
+                            <a href="/static/dev/">Software Development</a>
+                            <a href="/static/geloof/">Faith</a>
+                            <a href="/static/geo/">Where To Live</a>
+                            <a href="/static/spraak/">Language</a>
+                        </nav>
+                    </details>
+                </li>
             </ul>
         </div>
-        <nav class="nav-topics">
-            <a href="/static/bedrijf/">Business Info</a>
-            <a href="/static/dev/">Software Development</a>
-            <a href="/static/geloof/">Faith</a>
-            <a href="/static/geo/">Where To Live</a>
-            <a href="/static/spraak/">Language</a>
-        </nav>
     </div>
 </div>
 
@@ -90,11 +89,6 @@
             After the Coronavirus ended, I started learning Ukrainian, Croatian and Greek.
             I have since learnt quite a lot of Ukrainian, but my Croatian is still weak and my Greek… Well, I stopped.
         </p>
-        <div class="content">
-            <ul class="pure-menu-list">
-                <li class="pure-menu-item formata-18-lite"><a href="/static/site-dev/">About this Web site</a></li>
-            </ul>
-        </div>
     </div>
 
     <div class="footer l-box is-center titilliumTextRegular">
@@ -106,6 +100,9 @@
         </div>
         <div style="display:contents">
             [<a title="GitHub Actions" href="https://github.com/actions/" class="ondarkbg">GitHub Actions</a>]
+        </div>
+        <div style="display:contents">
+            [<a title="About this Web site" href="/static/site-dev/" class="ondarkbg">About this Web site</a>]
         </div>
         <div id="siteVersion">
             v0.2-beta

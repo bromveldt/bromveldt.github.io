@@ -2,7 +2,6 @@
 title: Иоанн Златоустонь литургиязо – Евангелиянть ловномадо икеле ознома
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: simple
 theme: slate
 ---
 

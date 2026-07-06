@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Вершинин В.И., Этимологический словарь мордовских (эрзянского и мокшанского) языков
 description: An etymological dictionary of the Erzya and Moksha languages
-layout: simple
 theme: slate
 lang: myv, ru
 tags: [bruno, myv, эрзянский язык]

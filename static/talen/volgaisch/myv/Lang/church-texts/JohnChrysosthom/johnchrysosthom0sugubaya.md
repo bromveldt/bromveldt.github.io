@@ -2,7 +2,6 @@
 title: Иоанн Златоустонь литургиязо – Башка ектения – Сугубая ектения
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: simple
 theme: slate
 ---
 

@@ -63,6 +63,10 @@ defaults:
     values:
       layout: "default"
   - scope:
+      path: "static/talen"
+    values:
+      layout: "simple"
+  - scope:
       path: "/static/cv/cv-en.markdown"
       type: "pages" # previously `page` in Jekyll 2.2.
       permalink: "/cv/"
@@ -72,6 +76,7 @@ defaults:
       topic: "curriculum vitae"
 
 exclude: [
+  'design',
   'assets/lang',
   'icons',
   'templates',
@@ -83,17 +88,6 @@ exclude: [
   'static/ersa/ersa.markdown'
 ]
 
-# CSS
-css:
-  pure:   https://unpkg.com/purecss@3.0.0/build/pure-min.css
-  pure_sha384: sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47
-  pure_grids:
-    older_ie: https://unpkg.com/purecss@3.0.0/build/grids-responsive-old-ie-min.css
-    newer_ie: https://unpkg.com/purecss@3.0.0/build/grids-responsive-min.css
-  marketing:
-    older_ie: /assets/css/layouts/marketing-old-ie.css
-    newer_ie: /assets/css/layouts/marketing.css
-  
 # Icons
 
 #fontawesome:   https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css

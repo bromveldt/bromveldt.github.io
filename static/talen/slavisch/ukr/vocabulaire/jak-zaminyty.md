@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: Як замінити українською слова-паразити "типа", "блин", "чуть-чуть" і "капец" &ndash; всі варіанти
 description: misc
 author: Юлія Потерянко
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, woorden]

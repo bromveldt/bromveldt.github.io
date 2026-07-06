@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Taalgroepen
 description: Some language group pages
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, language, resource]

@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: "Эрзянский язык: Грамматика и разговорник (кортамолезкс)"
 description: An overview of the Erzya language and a conversation guide
-layout: simple
 theme: slate
 lang: myv, ru
 tags: [bruno, myv, эрзянский язык]

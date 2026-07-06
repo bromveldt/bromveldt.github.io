@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Church Texts pages
 description: PDF files
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv, new testament, Novum Testamentum Mordvinice, John Chrysosthom liturgy]

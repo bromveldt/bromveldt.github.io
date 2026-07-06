@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: печериця
 description: слово "шампіньйон" широко вживають на позначення грибів
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, woorden]

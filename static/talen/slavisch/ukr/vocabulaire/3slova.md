@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: "Були під суворою забороною в СРСР: три українські слова, які майже зникли з ужитку"
 description: Антисуржик
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, ukrainian, городина, осоння]

@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Вейсэ, башка, тешкс вельде, Саранск 2001
-layout: simple
 tags: [bruno, myv, ersa, вейсэ, башка]
 ---
 <style>

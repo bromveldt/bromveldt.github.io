@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: "Не красний і сірєнєвий: як правильно назвати кольори українською"
 description: Як правильно назвати кольори українською
 author: Марія Волошин
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, woorden]

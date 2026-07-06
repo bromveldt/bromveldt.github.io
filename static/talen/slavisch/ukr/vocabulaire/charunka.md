@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Що означає слово "чарунка"
 description: Антисуржик
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, ukrainian, чарунка]

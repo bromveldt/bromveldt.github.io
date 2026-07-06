@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянь-Финньэнь Валкс / Ersäläis-suomalainen sanakirja
 description: Erzya-Finnish Dictionary
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv]

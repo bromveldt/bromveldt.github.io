@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: НАБІ́Й бо́ю, ч.
 description: misc
-layout: simple
 theme: slate
 lang: uk
 tags: [ goroh, urkainian, phrases]

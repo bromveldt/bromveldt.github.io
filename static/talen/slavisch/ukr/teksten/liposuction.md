@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: метод заснований на ліпосакції
 description: misc
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr]

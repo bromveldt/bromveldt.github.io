@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: як правильно називати елементи начиння
 description: misc
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, ukrainian, чашка, таця, тертушка, кавник, сільниця, ополоник, дощечка, серветка, глечик, друшляк,пательня, начиння]

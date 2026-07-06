@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: кружка => кухоль, чашка
 description: Антисуржик
 author: Юлі-а
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, woorden]

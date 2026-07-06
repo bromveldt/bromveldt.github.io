@@ -3,8 +3,9 @@
 <head>
     <title>{{site.title_start}} {{page.title}}</title>
 
-    {% include pure.html format='text/html' %}
-
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;1,300&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap">
+    <link rel="stylesheet" href="{{site.fontawesome}}">
+    <link rel="stylesheet" href="{{site.iconic}}">
     <link rel="stylesheet" href="{{site.data.cv.stylesheet}}">
     <link rel="stylesheet" href="{{ '/assets/css/index.css' | relative_url }}">
 
@@ -23,7 +24,7 @@
 </head>
 <body>
 {% include header.html %}
-<section id="app-root" style="padding-top: 85px; padding-bottom: 80px;">
+<section id="app-root" class="content-shell">
     {{ content }}
 </section>
 {% include footer.html %}

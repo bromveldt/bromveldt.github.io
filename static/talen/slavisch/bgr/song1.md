@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Platinum Sellers Beats
-layout: simple
 theme: slate
 tags: [bruno, bulgarian, blg]
 ---

@@ -6,15 +6,8 @@
   <title>{{ page.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;1,300&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Titillium+Web:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/pure-min.css" crossorigin="anonymous">
-  <!--[if lte IE 8]>
-  <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/grids-responsive-old-ie-min.css"/>
-  <![endif]-->
-  <!--[if gt IE 8]><!-->
-  <link rel="stylesheet" href="https://unpkg.com/purecss@3.0.0/build/grids-responsive-min.css"/>
-  <!--<![endif]-->
-  <link rel="stylesheet" href="{{ '/assets/css/index.css' | relative_url }}?v=6">
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;1,300&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Titillium+Web:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/index.css' | relative_url }}?v=8">
   <link rel="icon" href="{{ '/assets/icons/favicon.ico' | relative_url }}" type="image/x-icon"/>
   <link rel="shortcut icon" href="{{ '/assets/icons/favicon.ico' | relative_url }}"/>
 
@@ -22,7 +15,7 @@
 </head>
 <body>
   {% include header.html %}
-  <div style="padding-top: 85px; padding-bottom: 80px;">
+  <div class="content-shell">
     <article class="page-content">
       <h1>{{ page.title }}</h1>
       {{ content }}

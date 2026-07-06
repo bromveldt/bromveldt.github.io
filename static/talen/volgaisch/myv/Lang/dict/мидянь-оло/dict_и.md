@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь — Мидянь Оло — И
 description: Concise Erzya-Russian Dictionary
 author: Тимĕрке Митяй (Мидянь Оло)
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv, Мидянь Оло, эрзянь-рузонь валкс, эрзянско-русский словарь]

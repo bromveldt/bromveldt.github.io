@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Similar Gods
 description: An article on a Perun-like deity in Eastern Europe
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, perun]

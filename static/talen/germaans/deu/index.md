@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Deutsche Dialekte und Grammatikthemen
 description: misc
-layout: simple
 theme: slate
 lang: de
 tags: [ bruno, spraak, duits, dialekt]

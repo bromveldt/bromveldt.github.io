@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Эрзянь Од Валт / Эрзянские неологизмы
 description: Concise Erzya neologisms
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv]

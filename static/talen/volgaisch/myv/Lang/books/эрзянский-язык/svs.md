@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Русско-эрзянский разговорник – Содержание
 description: Содержание 
-layout: simple
 theme: slate
 tags: [bruno, myv, Эрзянский язык, Русско-эрзянский разговорник]
 ---

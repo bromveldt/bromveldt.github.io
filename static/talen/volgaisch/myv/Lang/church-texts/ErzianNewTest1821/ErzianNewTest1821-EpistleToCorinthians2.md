@@ -2,7 +2,6 @@
 title: Коринфяннень омбоце Сёрма Святой Апостолонь Павлонь.
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: simple
 theme: slate
 lang: myv
 tags: [bruno, myv, ersa, Коринфяннень омбоце Сёрма]

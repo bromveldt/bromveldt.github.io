@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Vocabulary L1
 description: Some travel destinations
-layout: simple
 theme: slate
 lang: en
 tags: [bruno, croatian, hrv]

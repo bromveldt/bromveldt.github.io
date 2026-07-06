@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: КВО́ЛИЙ а, е.
 description: misc
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, urkainian, phrases]

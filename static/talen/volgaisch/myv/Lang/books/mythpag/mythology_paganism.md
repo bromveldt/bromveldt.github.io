@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: Мифология и язычество
 description: PDF files
 source: http://www.mordvarf.ru/trad1
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv]

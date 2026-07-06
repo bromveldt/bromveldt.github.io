@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Ukrainian Resources
 description: Some links
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, ukrainian, news]

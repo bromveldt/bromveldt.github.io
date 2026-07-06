@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: "Erzya Periodic Table of the Elements / Periodická tabulka v erzjaštině"
 description: Erzya names for chemical elements
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv]

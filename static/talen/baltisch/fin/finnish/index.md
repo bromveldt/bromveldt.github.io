@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Finnish Grammar Resources from uta.fi 
-layout: simple
 theme: slate
 lang: hr
 tags: [bruno, fin, uta.fi]

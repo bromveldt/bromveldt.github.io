@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: Л. П. Водясова, Н.И. Рузанкина, Учимся говорить по-эрзянски — 2008-01 (янв)
 description: Эрзянский учебник / Erzya Language Method 2008-01
 author: 
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv, учебник]

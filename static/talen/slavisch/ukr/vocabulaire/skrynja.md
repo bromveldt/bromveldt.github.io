@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Олександра Сербенська - скриня, скринька, шухлядка, ящик
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, ukrainian, скриня, скринька, шухлядка, ящик, Сербенська, serbenska]

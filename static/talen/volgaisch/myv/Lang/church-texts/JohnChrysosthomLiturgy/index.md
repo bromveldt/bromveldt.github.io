@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Иоанн Златоустонь литургиязо — Од сыцятнень литургия
-layout: simple
 theme: slate
 tags: [bruno, myv, ersa, liturgy]
 ---

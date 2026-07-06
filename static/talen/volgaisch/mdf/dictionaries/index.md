@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Moksha Dictionaries
 description: PDF files
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv]

@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: UKrainian Scholars
 description: Goroh
-layout: simple
 theme: slate
 lang: uk
 

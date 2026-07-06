@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: ВИГА́ДУВАТИ ую, уєш, недок., ВИ́ГАДАТИ, аю, аєш, док., що.
 description: Goroh vocable
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, urkainian, goroh, вигадувати, вигадати]

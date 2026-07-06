@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Hrvatski tekstovi
-layout: simple
 theme: slate
 lang: hr
 ---

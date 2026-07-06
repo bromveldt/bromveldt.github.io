@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: ЛІ́КАР я, ч.
 description: misc
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, urkainian, phrases]

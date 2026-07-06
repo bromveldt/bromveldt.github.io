@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: "Aussterbende Mundart: 15 Dialekt-Wörter, die du in deinem Leben brauchst"
 description: Mundart
-layout: simple
 theme: slate
 lang: de
 tags: [ bruno, deu, wien, wiener]

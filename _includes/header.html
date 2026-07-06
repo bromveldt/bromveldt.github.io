@@ -1,9 +1,20 @@
 <div class="header">
-    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+    <div class="home-menu">
         <div class="nav-inner">
-            <span class="pure-menu-heading">Bruno Samueli</span>
-            <ul class="pure-menu-list">
-                <li class="pure-menu-item"><a href="/" class="pure-menu-link">Projects and Topics</a></li>
+            <span class="menu-heading">Bruno Samueli</span>
+            <ul class="menu-list">
+                <li class="menu-item"><a href="/" class="menu-link">Projects and Topics</a></li><li class="menu-item nav-drop">
+                    <details>
+                        <summary aria-label="Topics menu">&#x2630;</summary>
+                        <nav class="nav-drop-panel">
+                            <a href="/static/bedrijf/">Business Info</a>
+                            <a href="/static/dev/">Software Development</a>
+                            <a href="/static/geloof/">Faith</a>
+                            <a href="/static/geo/">Where To Live</a>
+                            <a href="/static/spraak/">Language</a>
+                        </nav>
+                    </details>
+                </li>
             </ul>
         </div>
     </div>

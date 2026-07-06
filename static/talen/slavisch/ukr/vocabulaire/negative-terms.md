@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: Хто такі мартопляс і пустодух &ndash; пояснення рідкісних українських слів
 description: misc
 author: Юлія Потерянко
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, woorden]

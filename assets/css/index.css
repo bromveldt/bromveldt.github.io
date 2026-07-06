@@ -2,41 +2,6 @@
 @import url("/assets/webfonts-squirrel/all-fonts.css");
 @import url("/assets/webfonts-fontshare/all-fonts.css");
 
-/* MetaWeb scoped to Latin so Cyrillic falls through to the serif fallback (IBM Plex Serif).
-   Same source files as 'MetaWeb', aliased + unicode-range-limited so Cyrillic is left untouched. */
-@font-face {
-    font-family: 'MetaWebLatin';
-    src: url('/assets/webfonts-squirrel/Meta/MetaWeb-Normal.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-    unicode-range: U+0000-024F, U+1E00-1EFF, U+2000-206F, U+2070-209F, U+20A0-20BF, U+2122, U+2C60-2C7F, U+A720-A7FF;
-}
-@font-face {
-    font-family: 'MetaWebLatin';
-    src: url('/assets/webfonts-squirrel/Meta/MetaWeb-NormalIta.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
-    unicode-range: U+0000-024F, U+1E00-1EFF, U+2000-206F, U+2070-209F, U+20A0-20BF, U+2122, U+2C60-2C7F, U+A720-A7FF;
-}
-@font-face {
-    font-family: 'MetaWebLatin';
-    src: url('/assets/webfonts-squirrel/Meta/MetaWeb-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-    unicode-range: U+0000-024F, U+1E00-1EFF, U+2000-206F, U+2070-209F, U+20A0-20BF, U+2122, U+2C60-2C7F, U+A720-A7FF;
-}
-@font-face {
-    font-family: 'MetaWebLatin';
-    src: url('/assets/webfonts-squirrel/Meta/MetaWeb-BoldIta.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
-    unicode-range: U+0000-024F, U+1E00-1EFF, U+2000-206F, U+2070-209F, U+20A0-20BF, U+2122, U+2C60-2C7F, U+A720-A7FF;
-}
-
 /* Import fonts into the HTML page separately */
 /* Light blue-slate theme — IBM Plex Serif Light / Plex Sans ExtraLight, Cardo Bold for Latin */
 /* Global border-box reset (ported from marketing.css) */
@@ -45,9 +10,10 @@ html {
     overflow-y: scroll; /* always show scrollbar — prevents centered content from jumping when navigating between short and long pages */
 }
 body {
+    margin: 0; /* was normalize.css's job (bundled with Pure) */
     background-color: #f5f8fe;
     color: #1a2030;
-    font-family: 'MetaWebLatin', 'IBM Plex Serif', Georgia, serif;
+    font-family: 'Source Serif 4', 'IBM Plex Serif', Georgia, serif;
     font-weight: 400;
     font-size: 13px;
     line-height: 1.7em;
@@ -73,32 +39,33 @@ label {
 .l-box { padding: 1em; }
 .l-box-lrg { padding: 2em; border-bottom: 1px solid rgba(0,0,0,0.1); }
 .is-center { text-align: center; }
-.pure-img-responsive { max-width: 100%; height: auto; }
 a:link    { color: #1b5fa0; }
 a:visited { color: #5a3a88; }
 a:hover   { color: #2878c0; }
 a:active  { color: #0a3870; }
 .footer { background-color: #2d3e50; color: #aaa; font-size: 13px !important; position: fixed; bottom: 0; left: 0; width: 100%; box-sizing: border-box; padding: 0 max(calc(20% + 2em), calc(50% - 430px)) 0 1em; }
 .footer a { font-size: 13px !important; }
-.home-menu { padding: 0; background: #2d3e50; box-shadow: 0 1px 1px rgba(0,0,0,0.10); }
-.home-menu a { color: #a0cce8; }
-.home-menu .pure-menu-heading { text-transform: none; font: 20px/28px 'FormataRegular', serif; padding: 5px 0; color: #e6edf3; }
-.home-menu .pure-menu-link { font: 20px/28px 'FormataRegular', sans-serif; text-transform: none; padding: 5px 0; }
-.home-menu .pure-menu-list { float: none; margin: 0; padding: 0; }
-/* Small bullet-separated topic strip under the main header row */
-.nav-topics { text-align: center; white-space: normal; font: 12px/1.6 'FormataRegular', sans-serif; padding: 0 1em 5px; }
-.nav-topics a { color: #a0cce8; white-space: nowrap; }
-.nav-topics a:hover { color: #cfe6f6; }
-.nav-topics a:not(:last-child)::after { content: "\2022"; color: #6b7d92; margin: 0 0.55em; }
-@media (min-width: 768px) {
-    .nav-topics { width: 60%; max-width: 900px; margin: 0 auto; padding: 0 0 5px; }
-}
-/* Clear the fixed two-row header: taller on mobile where the topic strip wraps */
-#home-shell { padding-top: 66px; }
-@media (max-width: 767px) { #home-shell { padding-top: 88px; } }
+.home-menu { position: fixed; top: 0; left: 0; width: 100%; z-index: 4; padding: 0; background: #4d5b6a; box-shadow: 0 1px 1px rgba(0,0,0,0.10); }
+.home-menu a { color: #a0cce8; text-decoration: none; }
+.home-menu a:hover { color: #cfe6f6; }
+.home-menu .menu-heading { font: 20px/28px 'FormataRegular', serif; padding: 5px 0; color: #e6edf3; }
+.home-menu .menu-link { display: inline-block; font: 20px/28px 'FormataRegular', sans-serif; padding: 5px 0; }
+.menu-list { list-style: none; margin: 0; padding: 0; position: relative; }
+.menu-item { display: inline-block; }
+/* Topics dropdown behind the caret next to "Projects and Topics" */
+.nav-drop summary { list-style: none; cursor: pointer; color: #a0cce8; font-size: 15px; line-height: 1; padding: 5px 5px; margin-left: 0; border: 1px solid #6b7d92; border-radius: 3px; display: inline-block; }
+.nav-drop summary:hover { border-color: #a0cce8; }
+.nav-drop summary::-webkit-details-marker { display: none; }
+.nav-drop summary:hover { color: #cfe6f6; }
+.nav-drop-panel { position: absolute; left: 0; right: 0; top: 100%; background: #2d3e50; box-shadow: 0 2px 6px rgba(0,0,0,0.3); padding: 6px 0; z-index: 10; }
+.nav-drop-panel a { display: block; padding: 4px 14px; color: #a0cce8; white-space: nowrap; font: 14px/1.8 'FormataRegular', sans-serif; }
+.nav-drop-panel a:hover { color: #cfe6f6; background-color: #3a4d63; }
+/* Clear the fixed header (single row now that topics live in the dropdown) */
+#home-shell, .content-shell { padding-top: 48px; }
+.content-shell { padding-bottom: 80px; }
 .nav-inner { display: flex; align-items: center; justify-content: space-between; width: 100%; }
 @media (min-width: 768px) { .nav-inner { width: 60%; max-width: 900px; margin: 0 auto; } }
-.content .pure-menu-item { padding-top: 0.15em; padding-bottom: 0.15em; }
+.content .menu-item { padding-top: 0.15em; padding-bottom: 0.15em; }
 .footer.titilliumTextRegular { font-size: 16px; line-height: 25px; }
 #siteVersion { position: absolute; right: max(20%, calc(50% - 450px)); top: 50%; transform: translateY(-50%); color: burlywood; }
 .excim-50-reg {font: 50px/56px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
@@ -141,9 +108,15 @@ ul.core-competencies li {
 @media (min-width: 768px) {
     .content-main { width: 60%; max-width: 900px; }
 }
+.page-content td { vertical-align: top; }
+.voc-table td { padding: 2px 16px 2px 0; }
+/* Two parallel text columns with a narrow spacer between */
+.parallel { width: 100%; table-layout: fixed; }
+.parallel td:nth-child(1), .parallel td:nth-child(3) { width: 48.5%; }
+.parallel td:nth-child(2) { width: 3%; }
 .page-content {
     width: 100%;
-    margin: 2em auto;
+    margin: 1em auto;
     padding: 0 1em;
     box-sizing: border-box;
 }

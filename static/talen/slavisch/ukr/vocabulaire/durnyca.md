@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: пустяк => пусте, дурниця
 description: Антисуржик
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, ukrainian, 24tv.ua]

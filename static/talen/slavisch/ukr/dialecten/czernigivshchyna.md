@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Так говорять на Чернігівщині
 description: унікальний закарпатський діалект
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, dialekt]

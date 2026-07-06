@@ -4,7 +4,6 @@ mode: 'r:bom|utf-8'
 title: Поради по вихованню
 description: misc
 author: UkrMedia
-layout: simple
 theme: slate
 lang: uk
 tags: [ bruno, ukrainian, texts, Поради по вихованню ]

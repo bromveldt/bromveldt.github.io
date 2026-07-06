@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Нурькине эрзянь-рузонь валкс / Краткий эрзянско-русский словарь — Мидянь Оло
 description: Concise Erzya-Russian Dictionary
-layout: simple
 theme: slate
 lang: en
 tags: [ bruno, myv]

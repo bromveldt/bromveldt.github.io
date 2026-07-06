@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Österreichische Alltagsbegriffe
 description: desc
-layout: simple
 theme: slate
 lang: de
 tags: [ bruno, deu, wien, wiener]

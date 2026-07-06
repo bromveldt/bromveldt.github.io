@@ -1,7 +1,6 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: simple
 title: Вдруг ваша вторая половина поджидает вас в 
 tags: [bruno, bulgarian, blg]
 ---

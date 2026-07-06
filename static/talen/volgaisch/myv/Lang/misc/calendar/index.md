@@ -2,7 +2,6 @@
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title : Calendar
-layout: simple
 tags: [bruno, myv, ersa]
 months :
  - Якшамков

@@ -3,7 +3,6 @@ encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
 title: Avramenko півники vs. іриси, волошки vs. василькиЯ
 description: к правильно назвати квіти васильки українською
-layout: simple
 theme: slate
 lang: uk
 tags: [bruno, ukrainian, ukr, woorden]

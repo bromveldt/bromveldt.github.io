@@ -1,7 +1,6 @@
 ---
 encoding: "bom|utf-8"
 mode: 'r:bom|utf-8'
-layout: simple
 title: Вень ознома
 tags: [bruno, myv, ersa, church-texts]
 ---
