@@ -9,11 +9,13 @@ lang: en
 tags: [ bruno, business, development]
 ---
 
-### Career Overview
+## Career Overview
 
 [My CV / Resume](CV)
 
-### Anthropic Education
+[Job Search Tips](/static/bedrijf/jobsearch/)
+
+## Anthropic Education
 
 - [Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api)
 - [Introduction to Claude Cowork](https://anthropic.skilljar.com/introduction-to-claude-cowork)
@@ -22,7 +24,7 @@ tags: [ bruno, business, development]
 
 ---
 
-### Noteworthy
+## Noteworthy
 
 I am a U.S. citizen resident in the Netherlands since 2023 on the basis of the Dutch-American Friendship Treaty. In practical terms it means that I am a salaried DGA (*directeur-grootaandeelhouder*, director and principal shareholder) of my own limited company
 
@@ -41,7 +43,7 @@ As an AI-savvy software engineer and architect, I am open to providing corp-2-co
 <tr>
     <td>KvK-nummer:</td><td> </td><td>89256581</td><td> </td>
     <td>Feel free to verify it with the Dutch Chamber of Commerce (KvK):
-      <a href="https://www.kvk.nl/zoeken/" title="KVK zoeken">Nederlands</a> 
+      <a href="https://www.kvk.nl/zoeken/" title="KVK zoeken">Nederlands</a>
     | <a href="https://www.kvk.nl/en/search/" title="Search KVK">English</a>
     </td>
 </tr>
@@ -59,4 +61,3 @@ My firm would file **Form W-8BEN-E** with the client's Accounts Payable departme
 
 - my limited-liability company (B.V.) is a foreign entity (not a U.S. legal person)
 - it is entitled to tax benefits under Article 7 of the US–Netherlands Tax Treaty (Business Profits), which stipulates that the U.S. may not tax a Dutch company's profits unless the company has a Permanent Establishment in the U.S., which my B.V. does not.
-
