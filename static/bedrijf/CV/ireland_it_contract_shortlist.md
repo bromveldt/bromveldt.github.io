@@ -1,4 +1,14 @@
-# Ireland IT contract market — channels for a remote, NL-based freelancer
+---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: Ireland IT contract market — channels for a remote, NL-based freelancer
+description: German career tips
+layout: simple
+theme: slate
+lang: en
+tags: [ bruno, resume, cv, business]
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+---
 
 Finding Irish IT contract projects (Java / Spring Boot / Kubernetes, AI-assisted dev) delivered remotely through Osterholm B.V.
 

@@ -1,4 +1,14 @@
-# German Projektportale & agencies for a remote, EU-based freelancer
+---
+encoding: "bom|utf-8"
+mode: 'r:bom|utf-8'
+title: German Projektportale & agencies for a remote, EU-based freelancer
+description: German career tips
+layout: simple
+theme: slate
+lang: en
+tags: [ bruno, resume, cv, business]
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+---
 
 Channels for finding German IT contract projects (Java / Spring Boot / Kubernetes, AI-assisted dev) as a Netherlands-based freelancer working remotely through Osterholm B.V.
 
