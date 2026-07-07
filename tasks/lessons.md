@@ -14,4 +14,12 @@ Per-tale vocabulary lives in `_data/govorya/sprookje-N.yml` with a small Liquid 
 
 ## markdownlint pre-commit hook (2026-07-06)
 
-The hook passes every staged `.md` path as command-line arguments; 300+ staged files exceeds Windows' command-line length limit and the hook dies before linting anything. Bypass: `git commit --no-verify`. Real fix (still open): make the hook lint via glob or read paths from a file.
+The hook passed every staged `.md` path as command-line arguments; 300+ staged files exceeded Windows' 32,767-character command-line limit and the hook died before linting anything.
+
+FIXED 2026-07-07: the hook now lints in batches of 100 files via bash array slicing — `"${files[@]:i:batch}"` in a `for ((i = 0; i < ${#files[@]}; i += batch))` loop, collecting a failure flag across batches. Verified against all 456 tracked .md files: largest batch ~7.8K chars.
+
+General recipe when any tool hits the Windows arg-length limit, in order of preference:
+
+1. Response file, if the tool supports it: write paths to a file, pass `@paths.txt` (javac, clang, 7z) — markdownlint-cli2 does NOT support this.
+2. `xargs` batching: `git diff --cached --name-only -z -- '*.md' | xargs -0 -n 100 <tool>` — simplest, but exit-code handling is coarser (xargs returns 123 on any failure).
+3. Bash array slicing as in this hook — keeps NUL-safe paths and precise exit-code control.

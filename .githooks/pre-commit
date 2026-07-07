@@ -20,7 +20,17 @@ if [ ${#files[@]} -eq 0 ]; then
   exit 0
 fi
 
-if ! npx --yes markdownlint-cli2@0.22.1 --config .markdownlint.yaml -- "${files[@]}"; then
+# Lint in batches of 100 files. Windows' CreateProcess command line tops out
+# at 32,767 characters, so passing hundreds of paths in one invocation makes
+# the hook die before linting anything. markdownlint-cli2 has no
+# read-paths-from-file option, hence batching.
+status=0
+batch=100
+for ((i = 0; i < ${#files[@]}; i += batch)); do
+  npx --yes markdownlint-cli2@0.22.1 --config .markdownlint.yaml -- "${files[@]:i:batch}" || status=1
+done
+
+if [ "$status" -ne 0 ]; then
   echo
   echo "markdownlint found issues in staged Markdown (see above)."
   echo "Fix them, or auto-fix the mechanical ones with:"
