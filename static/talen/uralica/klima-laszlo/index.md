@@ -5,7 +5,7 @@ title : László Klima
 tags: [bruno, myv, ersa]
 ---
 
-## The linguistic affinity of the Volgaic Finno-Ugrians and their ethnogenesis (early 4<super>th</super> millennium BC - late 1<super>st</super> millennium AD)
+## The linguistic affinity of the Volgaic Finno-Ugrians and their ethnogenesis (early 4<super>th</super> millennium BC  - late 1<super>st</super> millennium AD)
 
 ### Contents
 
@@ -59,7 +59,7 @@ Budapest, October 3, 1995.
 
 To the examples quoted in point (1) one can add the Finn adessive *-lle* and the Izhor adessive *-len*; in other words, the evidence cited by Lakó is unsuitable for proving early contacts between Mari and Permian.
 
-&nbsp;&nbsp;&nbsp;&nbsp;In his paper read at the First Finno-Ugrian Congress held in Budapest in 1960,  Bereczki analyzed the interrelation between Mordvin, Mari and Permian. In the first part of his paper he reviewed the results of his research on the vocabulary, noting that Mari has considerably more words of Finno-Ugrian origin than Mordvin, a language that had been assigned to the same language group and derived from the same parent language. He found eighteen words of Finno-Ugrian origin that only occur in the Volgaic languages, whereas the number of Mari-Komi correspondences was forty-six, and Mari-Udmurt correspondences came to a total of forty-seven. In addition to these lexical correspondences, Mari and the Permian languages share a number of morphological features that are entirely lacking in Mordvin.  Bereczki concluded that the lexical and grammatical correspondences between Mari and the Permian languages can only explained by a long secondary contact that had been preceded by a very short Volgaic linguistic phase. The absence of Baltic loanwords in Mari would also point to the early separation of Mordvin and Mari: the forebears of the Mari had separated from the ancestral Mordvins well before the advent of Baltic influences (Bereczki 1963, 202-203).
+&nbsp;&nbsp;&nbsp;&nbsp;In his paper read at the First Finno-Ugrian Congress held in Budapest in 1960, Bereczki analyzed the interrelation between Mordvin, Mari and Permian. In the first part of his paper he reviewed the results of his research on the vocabulary, noting that Mari has considerably more words of Finno-Ugrian origin than Mordvin, a language that had been assigned to the same language group and derived from the same parent language. He found eighteen words of Finno-Ugrian origin that only occur in the Volgaic languages, whereas the number of Mari-Komi correspondences was forty-six, and Mari-Udmurt correspondences came to a total of forty-seven. In addition to these lexical correspondences, Mari and the Permian languages share a number of morphological features that are entirely lacking in Mordvin. Bereczki concluded that the lexical and grammatical correspondences between Mari and the Permian languages can only explained by a long secondary contact that had been preceded by a very short Volgaic linguistic phase. The absence of Baltic loanwords in Mari would also point to the early separation of Mordvin and Mari: the forebears of the Mari had separated from the ancestral Mordvins well before the advent of Baltic influences (Bereczki 1963, 202-203).
 
 &nbsp;&nbsp;&nbsp;&nbsp;The implication of Baltic loanwords for prehistoric studies warrant a lengthier discussion of this issue. Serebrennikov (1957) suggested that the Baltic loanwords in Permian originate from an ancient Proto-Indo-European tongue that is very close to the modern Baltic tongues. In his paper on the origins of Mordvin, read at Saransk in 1965, he offered a detailed survey of Mordvin-Baltic language contacts. He listed a number of Mordvin words that could, in his opinion, be derived from Lithuanian, such as
 
@@ -656,7 +656,7 @@ Abu Hamid (1985), *Abu Hámid al-Garnáti utazása Kelet- és Közép-Európába
 
 Alihova, A. E. (1949), K voprosu o burtasah. *SE* (1), 48-57.
 
-Ambroz, A. K. (1966), *Fibuli juga jevropejskoj chasti SSSR II. v. do n.e. - IV. v. n.e.* SAI D1-30. Moskva.
+Ambroz, A. K. (1966), *Fibuli juga jevropejskoj chasti SSSR II. v. do n.e.  - IV. v. n.e.* SAI D1-30. Moskva.
 
 Archipov, G. A. (1973), *Marijci IX-XI vv.* Joshkar-Ola.
 
@@ -706,7 +706,7 @@ Fodor, I. (1973), Vázlatok a finnugor őstörténet régészetéből. *RF* II. 
 
 Gening, V. F. (1967), Nekotorie problemi etnicheskoj istorii marijskogo naroda (o merjanskoj etnicheskoj obshchnosti). *Proishozhdenie marijskogo naroda.* Joshkar-Ola, 52-70.
 
-Gening, V. F. (1970), Istorija naselenija Udmurtskogo Prikamja v pjanoborskuju epohu, Chast I. Chegadinskaja kultura (III. v. do n.e. - II. v. n.e.). *Trudy Udmurtskoj arheologicheskoj ekspeditsii* 4. VAU 10. Izhevsk.
+Gening, V. F. (1970), Istorija naselenija Udmurtskogo Prikamja v pjanoborskuju epohu, Chast I. Chegadinskaja kultura (III. v. do n.e.  - II. v. n.e.). *Trudy Udmurtskoj arheologicheskoj ekspeditsii* 4. VAU 10. Izhevsk.
 
 Gheno, D. (1981), Megjegyzések a mordvin és cseremisz közötti grammatikai egyezésekről. *NyK* 83, 114-121.
 
@@ -930,7 +930,7 @@ Vihljaev, V. I. (1979), O genezise kultury juzhnomordovskih plemen. *Arheologich
 
 Vrjantsev, P. D. (1897), *Ocherk drevnej Litvy*. Vilna.
 
-Wiik, Kalevi (1993), *Volgalaiskansojen ja -kielten syntykysymyksiä*. Turku.
+Wiik, Kalevi (1993), *Volgalaiskansojen ja  -kielten syntykysymyksiä*. Turku.
 
 Zahoder, B. N. (1967), *Kaspijskij svod svedenij o Vostochnoj Jevrope* 2. Moskva.
 
