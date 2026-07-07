@@ -41,6 +41,7 @@ env: production
 
 markdown: kramdown
 title_start: 'Bruno Samueli &#x40; GitHub Actions &#x214B;'
+site_version: v0.2-gamma
 robots: none,noindex,nofollow,noarchive,nocache,noyaca
 viewport: width=device-width, initial-scale=1.0
 
