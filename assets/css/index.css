@@ -11,7 +11,7 @@ html {
 }
 body {
     margin: 0; /* was normalize.css's job (bundled with Pure) */
-    background-color: #f5f8fe;
+    background-color: #f6f9f9; /* Mist White (Letter palette) */
     color: #1a2030;
     font-family: 'Source Serif 4', 'IBM Plex Serif', Georgia, serif;
     font-weight: 400;
@@ -43,15 +43,17 @@ a:link    { color: #1b5fa0; }
 a:visited { color: #5a3a88; }
 a:hover   { color: #2878c0; }
 a:active  { color: #0a3870; }
-.footer { background-color: #2d3e50; color: #aaa; font-size: 13px !important; position: fixed; bottom: 0; left: 0; width: 100%; box-sizing: border-box; padding: 0 max(calc(20% + 2em), calc(50% - 430px)) 0 1em; }
+.footer { background-color: #2d3e50; color: #aaa; font-size: 13px !important; position: fixed; bottom: 0; left: 0; width: 100%; box-sizing: border-box; padding: 0 7em; }
 .footer a { font-size: 13px !important; }
-.home-menu { position: fixed; top: 0; left: 0; width: 100%; z-index: 4; padding: 0; background: #4d5b6a; box-shadow: 0 1px 1px rgba(0,0,0,0.10); }
+.home-menu { position: fixed; top: 0; left: 0; width: 100%; z-index: 4; padding: 0; background: #644bc4; box-shadow: 0 1px 1px rgba(0,0,0,0.10); }
 .home-menu a { color: #a0cce8; text-decoration: none; }
 .home-menu a:hover { color: #cfe6f6; }
 .home-menu .menu-heading { font: 20px/28px 'FormataRegular', serif; padding: 5px 0; color: #e6edf3; }
 .home-menu .menu-link { display: inline-block; font: 20px/28px 'FormataRegular', sans-serif; padding: 5px 0; }
-.menu-list { list-style: none; margin: 0; padding: 0; position: relative; }
+.menu-list { list-style: none; margin: 0; padding: 0; position: relative; display: flex; align-items: center; }
 .menu-item { display: inline-block; }
+.home-menu img { display: block; }
+.menu-link img { margin-top: 7px; } /* compensate descender space baked into the wordmark's viewBox */
 /* Topics dropdown behind the caret next to "Projects and Topics" */
 .nav-drop summary { list-style: none; cursor: pointer; color: #a0cce8; font-size: 15px; line-height: 1; padding: 5px 5px; margin-left: 0; border: 1px solid #6b7d92; border-radius: 3px; display: inline-block; }
 .nav-drop summary:hover { border-color: #a0cce8; }
@@ -67,7 +69,7 @@ a:active  { color: #0a3870; }
 @media (min-width: 768px) { .nav-inner { width: 60%; max-width: 900px; margin: 0 auto; } }
 .content .menu-item { padding-top: 0.15em; padding-bottom: 0.15em; }
 .footer.titilliumTextRegular { font-size: 16px; line-height: 25px; }
-#siteVersion { position: absolute; right: max(20%, calc(50% - 450px)); top: 50%; transform: translateY(-50%); color: burlywood; }
+#siteVersion { position: absolute; right: 1em; top: 50%; transform: translateY(-50%); color: burlywood; }
 .excim-50-reg {font: 50px/56px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
 .excim-30-reg {font: 30px/34px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
 .excim-20-reg {font: 20px/24px 'ExcellenceInMotionRegular', sans-serif;letter-spacing: 3;}
