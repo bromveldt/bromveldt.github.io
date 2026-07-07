@@ -7,7 +7,7 @@ lang: hr
 tags: [bruno, bgr, hrv, ukr]
 ---
 
-- [Bulgarian](bgr)
-- [Croatian](hrv)
+- [Bulgaars](bgr)
+- [Kroatisch](hrv)
 - [Pomor](pom)
-- [Ukrainian](ukr)
+- [Oekraïns](ukr)

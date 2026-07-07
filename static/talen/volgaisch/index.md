@@ -7,5 +7,5 @@ lang: en
 tags: [bruno, mdf, myv]
 ---
 
-- [mdf](mdf)
-- [myv](myv)
+- [Mordvinisch-Moksha](mdf)
+- [Mordviniscn-Erzya](myv)

@@ -7,7 +7,5 @@ lang: hr
 tags: [bruno, deu, yid]
 ---
 
-- [Deutsch](deu)
+- [Duits](deu)
 - [Jidisch](yid)
-
-
