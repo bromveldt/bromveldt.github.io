@@ -13,6 +13,12 @@ Author: Bruno Samueli <mailto:Bruno.Samueli@osterholm.nl>
 The layout of this page is based on the 'Landing Page' layout from
 <https://pure-css.github.io/layouts/>.
 
+## Dublin Core
+
+<https://www.dublincore.org/resources/userguide/>
+
+<http://purl.org/dc/terms/> The /terms/ namespace was originally created in 2001 for identifying new terms coined outside of the original fifteen-element Dublin Core. While the /elements/1.1/ namespace will be supported indefinitely, DCMI gently encourages use of the /terms/ namespace.
+
 ## Local development
 
 Markdown is linted in CI by Super-Linter, using the ruleset at

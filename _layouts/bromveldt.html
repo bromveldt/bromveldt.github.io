@@ -1,11 +1,18 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang=" lang="{{ page.lang | default: 'en-US' }}">
 <head>
+    <meta name="robots"   content="{{ page.title | robots }}">
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="{{ viewport }}">
     <title>{{ page.title | escape }}</title>
+    <meta name="HandheldFriendly" content="true">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="{{ page.title | escape }}">
     <meta property="og:type" content="website"><!-- Open Graph -->
     <link rel="stylesheet" href="/assets/css/index.css?v=6">
+    <!-- Icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/icons8-star-16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/icons8-star-32.png">
     <link rel="icon" type="image/png" sizes="64x64" href="/assets/icons/icons8-star-64.png">
@@ -13,13 +20,17 @@
     <link rel="stylesheet" href="assets/css/index.css?v=6">
     <link rel="stylesheet" href="{{ '/assets/css/bromveldt.css' | relative_url }}">
 
+    <link rel="manifest"     href="site.webmanifest">
+    <link rel="preconnect"   href="https://fonts.googleapis.com">
+    <link rel="preconnect"   href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet"   href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,300;0,400;1,300&family=Philosopher:ital,wght@0,400;0,700;1,400;1,700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Titillium+Web:ital,wght@0,300;0,400;0,600;1,300;1,400&display=block">
+
     {%- feed_meta -%}
 
     {% if page.custom_theme %}
     <link rel="stylesheet" href="{{ '/assets/css/themes/' | append: page.custom_theme | append: '.css' | relative_url }}">
     {% endif %}
     <link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
-    <link rel="dcterms.relation" href="http://dublincore.org/documents/2000/08/15/dcq-html/">
     <meta name="dcterms.title"       content="Landing page for my personal GitHub Actions Web site">
     <meta name="dcterms.creator"     content="Bruno Samueli">
     <meta name="dcterms.created"     content="2019-09-15">
@@ -27,30 +38,20 @@
     <meta name="dcterms.type"        content="Text">
     <meta name="dcterms.modified"    content="{{ site.time | date_to_xmlschema }}">
     <meta name="dcterms.subject"     content="software development, GitHub Actions, Jekyll">
-    <meta name="dcterms.language"    content="en-US"> <!-- RFC 4646 / BCP 47 -->
+    <meta name="dcterms.language"    content="{{ page.lang | default: 'en-US' }}"> <!-- RFC 4646 / BCP 47 -->
     <meta name="dcterms.identifier"  content="{{ page.url | absolute_url }}">
     <meta name="dcterms.description" content="This is intended to showcase my HTML5 coding skills">
 </head>
 <body class="content-flow" style="padding-top: 5px; padding-bottom: 80px;">
 <div class="content-wrapper">
-    {% include header.html %}
-    {% if page.layout_type == "grid" %}
-    <div class="content-grid">
-        <main class="content-main">
+    {% include bromveldt-header.html %}
+    <div class="content-flow" id="home-shell" style="padding-bottom: 80px;">
+        <div class="content-main">
+        <section id="app-root">
             {{ content }}
-        </main>
-        <aside class="content-sidebar">
-            {% include table-of-contents.html %}
-            {% include related-posts.html %}
-        </aside>
-    </div>
-    {% else %}
-    <section id="app-root" style="padding-top: 85px; padding-bottom: 80px;">
-        {{ content }}
-    </section>
-    {% endif %}
+        </section>
+        </div>
     {% include footer.html %}
 
-</div>
 </body>
 </html>
