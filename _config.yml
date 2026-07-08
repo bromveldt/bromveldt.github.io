@@ -20,9 +20,6 @@
 
 encoding: "bom|utf-8"
 mode: 'r:bom|UTF-8'
-#'rb:UTF-16BE'
-#'r:bom|utf-8'
-#source:  static/ersa
 
 # Meta
 title: Bruno Samueli's GitHub page
