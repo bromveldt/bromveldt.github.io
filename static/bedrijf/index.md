@@ -22,6 +22,17 @@ tags: [ bruno, business, development]
 - [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
 - [Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)
 
+## Exam Prep Plan: AWS Certified Cloud Practitioner (CLF-C02 - English).
+
+- [AWS SkillBuilder](https://skillbuilder.aws/training-activity)
+- Amazon RDS Service Primer
+
+## ClickUp University
+
+- [About ClickUp AI](https://university.clickup.com/path/clickup-advanced-ai-skills/about-clickup-ai)
+- [Navigating the ClickUp Interface](https://university.clickup.com/path/clickup-for-beginners/navigating-the-clickup-interface/)
+- [Create and Set Up Your First Task](https://university.clickup.com/onboarding-create-your-first-task)
+
 ---
 
 ## Noteworthy
