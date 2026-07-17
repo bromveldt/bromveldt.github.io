@@ -2,6 +2,7 @@
 # Relax the noisiest rules for prose-style Markdown content.
 default: true
 MD013: false   # line length — prose lines are not wrapped
+MD026: false   # allow trailing punctuation in heading
 MD033: false   # inline HTML — common in Jekyll content
 MD041: false   # first line need not be a top-level heading (front matter)
 MD060: { "style": "compact" } # Pin the style to stop padded tables from being changed by a fixer
