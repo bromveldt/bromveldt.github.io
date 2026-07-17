@@ -10,7 +10,7 @@ tags: [bruno, pomor, russian, dialect, dictionary entries]
 ---
 
 {% assign path = "static/talen/slavisch/pom/govorya/entries" %}
-{% assign letters = "у ф х ц ш э ю я" | split: " " %}
+{% assign letters = "т у ф х ц ш э ю я" | split: " " %}
 {% for letter in letters %}
 {%- assign fpath = path | append: "/" | append: "govorya-" | append: letter | append: ".md" %}
 
