@@ -14,8 +14,8 @@ node_modules/
 /qodana.yaml
 /_data/говоря/govorya-у2.txt
 /static/talen/slavisch/pom/govorya/govorya_u2.md
-/static/talen/slavisch/pom/govorya/govorya-у.md
-/static/talen/slavisch/pom/govorya/govorya_e.md
+!/static/talen/slavisch/pom/govorya/entries/govorya-у.md
+!/static/talen/slavisch/pom/govorya/entries/govorya-э.md
 /static/talen/slavisch/pom/govorya/govorya_f.md
 /static/talen/slavisch/pom/govorya/govorya_h.md
 /static/talen/slavisch/pom/govorya/govorya_sh.md

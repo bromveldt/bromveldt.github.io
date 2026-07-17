@@ -5,13 +5,13 @@ entries.pom takes an array to accomodate multiple vocables with the same meaning
 Keys:
   t – translation (always present)
   e – example (often absent), array of phrases in double quotes
-  v – *vide*, reference (typically absent), array of bolded single words, rendered introduced by "см. "
+  r – *vide*, reference (typically absent), array of bolded single words, rendered introduced by "см. "
       if the translation contains @v@, the latter will be replaced
   c – comparison (typically absent), array of italicized single words, rendered introduced by "ср. "
       the period is omitted at the end of the phrase (but may be rendered),
       the exclamation mark and the question mark are preserved
 
-Example:
+Example 1:
 
 ```yaml
 - pom: [Уледи]
@@ -26,4 +26,21 @@ is rendered as
 
 ```markdown
 **Уледи** — обувь из грубой кожи наподобие калош с загнутыми кверху носками, с пришитыми суконными или камусными (см. *кАмус*) голенищами ("В Уледях вЕкшу хОжали"); (ср. _тобуркА_, _яры_, _вЕкша_).
+```
+
+Example 2:
+
+```markdown
+- pom: [ЮрО, юрОво]
+  rus:
+    - t: залежка стад морского зверя
+      e: ["Моржа Этта юрОво"]
+    - t: рыбий косяк
+      e: ["ЮрОво рЫбьё сюдЫ кАтицце"]
+```
+
+is rendered as
+
+```markdown
+      **ЮрО** / **юрОво** — 1) залежка стад морского зверя ("Моржа Этта юрОво"). 2) Рыбий косяк ("ЮрОво рЫбьё сюдЫ кАтицце").
 ```
