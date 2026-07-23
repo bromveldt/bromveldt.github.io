@@ -81,7 +81,6 @@ defaults:
       letter: >-
         {{ page.name | split: "-" | last | remove: ".html" | remove: ".md" }}
 
-
 exclude: [
   'design',
   'assets/lang',
