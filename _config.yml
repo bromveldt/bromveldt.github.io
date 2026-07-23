@@ -72,6 +72,15 @@ defaults:
       layout: "cv" # overrides previous default layout
       author: "Bruno Samueli"
       topic: "curriculum vitae"
+  - scope:
+      path: "static/talen/slavisch/pom/govorya/entries"   # adjust to the actual folder
+      type: "pages"                                      # or "posts" if you placed them there
+    values:
+      layout: "govorya"
+      # Derive the letter from the filename and store it in a variable called `letter`
+      letter: >-
+        {{ page.name | split: "-" | last | remove: ".html" | remove: ".md" }}
+
 
 exclude: [
   'design',
