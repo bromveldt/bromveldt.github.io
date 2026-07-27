@@ -19,3 +19,5 @@ tags: [ bruno, spraak, duits, dialekt]
   - [Wiener Mundart](wiener-dialekt)
 - [Bayrischer Mundart](bayern)
 - [Schweizer Mundart](schweiz)
+
+- [Idiome](idiomatik.md)
