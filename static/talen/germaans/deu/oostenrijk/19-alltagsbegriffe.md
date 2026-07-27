@@ -7,6 +7,7 @@ theme: slate
 lang: de
 tags: [ bruno, deu, wien, wiener]
 ---
+
 | | | Erklärung |
 | --- | --- | --- |
 | 1. | Haberer | Freund, Kumpel (aus dem Hebräischen „Chaver“)wien |

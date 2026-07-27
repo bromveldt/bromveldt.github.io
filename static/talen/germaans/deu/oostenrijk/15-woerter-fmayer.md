@@ -4,12 +4,13 @@ mode: 'r:bom|utf-8'
 title: "Aussterbende Mundart: 15 Dialekt-Wörter, die du in deinem Leben brauchst"
 description: Mundart
 author: Fabienne Mayer
+date-published: 12.08.2023, 05:22 Uhr
 source: BuzzFeed.at
 theme: slate
 lang: de
 tags: [ bruno, deu, wien, wiener]
 ---
-{{ page.source | escape }} Österreich Stand:12.08.2023, 05:22 Uhr
+{{ page.source | escape }} Österreich | Stand: {{ page.date-published | escape }}
 
 Von: {{ page.author | escape }}
 
