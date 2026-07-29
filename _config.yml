@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-encoding: "bom|utf-8"
+encoding: "bom|utf-8" # read everything as UTF-8 with BOM
 mode: 'r:bom|UTF-8'
 
 # Meta
@@ -43,6 +43,11 @@ robots: none,noindex,nofollow,noarchive,nocache,noyaca
 viewport: width=device-width, initial-scale=1.0
 
 defaults:
+  - scope:
+      path: "" # all files in the project
+    values:
+      encoding: {{ site.encoding }}
+      mode: {{ site.mode }}
   - scope:
       path: "assets/images"
     values:
@@ -71,15 +76,19 @@ defaults:
     values:
       layout: "cv" # overrides previous default layout
       author: "Bruno Samueli"
-      topic: "curriculum vitae"
+      topic: "curriculum vitæ"
   - scope:
       path: "static/talen/slavisch/pom/govorya/entries"   # adjust to the actual folder
       type: "pages"                                      # or "posts" if you placed them there
     values:
-      layout: "govorya"
-      # Derive the letter from the filename and store it in a variable called `letter`
-      letter: >-
-        {{ page.name | split: "-" | last | remove: ".html" | remove: ".md" }}
+      layout: "pomor-entry"
+      # Do not look for Cyrillic letters, just strip the extension out of the filename
+      # and store the result in a variable called `govorya-discriminator` and use it as a key
+      # to look up the YAML filename in _data/govorya.yaml
+      govorya-discriminator: >-
+        {{ page.name | remove: ".html" | remove: ".md" }}
+      source-title: 'И. И. Мосеев, Краткий словарь поморского языка. Архангельск, 2005.'
+      title: 'Словарные статьи'
 
 exclude: [
   'design',
