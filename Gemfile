@@ -30,7 +30,7 @@ end
 gem "jekyll-utf8", "~> 0.0.1"
 # Bumping up outdated gems
 # For testing the static pages
-gem "html-proofer", "~> 5.2.1"
+gem "html-proofer", "~> 5.2.2"
 gem "liquid", "~> 4.0.4"
 gem "parallel", "~> 2.1.0"
 gem "rackup", "~> 2.3.1"
