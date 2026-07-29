@@ -17,7 +17,7 @@ gem "minima", "2.5.2"
 gem "bigdecimal", "~> 3.3.1"
 gem "faraday-retry"
 # csv, base64 will no longer be part of the default gems starting from Ruby 3.4.0.
-gem "csv", "~> 3.3.5"
+gem "csv", "~> 3.3.6"
 gem "base64", "~> 0.3.0"
 # For Pagination in jekyll
 #gem "jekyll-paginate", "~> 0.0.1"
@@ -30,7 +30,7 @@ end
 gem "jekyll-utf8", "~> 0.0.1"
 # Bumping up outdated gems
 # For testing the static pages
-gem "html-proofer", "~> 5.2.1"
+gem "html-proofer", "~> 5.2.2"
 gem "liquid", "~> 4.0.4"
 gem "parallel", "~> 2.1.0"
 gem "rackup", "~> 2.3.1"
