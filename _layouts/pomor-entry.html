@@ -1,28 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'ru' }}">
+<head>
+    <meta name="robots"   content="{{ page.title | robots }}">
+    <meta charset="utf-8">
+    <meta name="viewport" content="{{ viewport }}">
+    <title>{{ page.title | escape }}</title>
+    <meta name="HandheldFriendly" content="true">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="{{ page.title | escape }}">
+    <meta property="og:type" content="website"><!-- Open Graph -->
+    <link rel="stylesheet" href="/assets/css/index.css?v=6">
+    <!-- Icon -->
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/icons/icons8-star-16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/icons/icons8-star-32.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/assets/icons/icons8-star-64.png">
+</head>
+<body class="content-flow" style="padding-top: 5px; padding-bottom: 80px;">
 {%- comment -%}
-Layout expects a front‑matter variable called `letter`.
-Example front‑matter:
-letter: т
-It is autoinserted in the front‑matter based on the filename as defined in _config.yml defaults
+Layout expects a front‑matter variable called `govorya-discriminator`.
+
+It is autoinserted in the front‑matter based on the filename as defined in `_config.yml` defaults
 {%- endcomment -%}
 
-{%- assign data = site.data.govorya[page.letter] -%}
-{%- if data == nil -%}
-<p style="color:red;">❗ No data found for letter "{{ page.letter }}".</p>
-{%- else -%}
-## Letter {{ data.letter | escape }}
+{%- assign yaml = site.data.govorya[page.govorya-discriminator] -%}
 
+{{ yaml | split: "-" | last }}
+
+{%- assign data = site.data.govorya[page.yml-discriminator] -%}
+<h3>{{ page.source-title | default: 'Title' }}</h3>
+
+{%- if data == nil -%}
+<h5 style="color:red;">❗ No data found for letter "{{ page.letter }}".</h5>
+{%- else -%}
+<h4> {{ page.title | escape }} Letter {{ data.dict-letter | default: 'ABCH' }}</h4>
+<p>
 {%- for entry in data.entries -%}
-{%- for vocable in entry.pom -%}
-**{{ vocable }}**{%- unless forloop.last %}, {% endunless -%}
+    {%- for vocable in entry.pom -%}
+    **{{ vocable }}**{%- unless forloop.last -%}, {%- endunless -%}
+    {%- endfor -%}
+    {%- for sense in entry.rus -%}
+        — {{ sense.t }}
+        {%- if sense.e -%}(
+            {%- for example in sense.e -%}
+                «{{ example }}»{%- unless forloop.last -%} / {%- endunless -%}
+            {%- endfor -%}
+        ){%- endif -%}
+        {%- if sense.r -%};
+        см. {%- for ref in sense.r -%}**{{ ref }}**{%- unless forloop.last -%}, {%- endunless -%}{%- endfor -%}{%- endif -%}
+        {%- if sense.c -%};
+        ср. {%- for comp in sense.c -%}*{{ comp }}*{%- unless forloop.last -%}, {%- endunless -%}{%- endfor -%}{%- endif -%}
+    {%- endfor -%}
+    <br>
 {%- endfor -%}
-{%- for sense in entry.rus -%}
-— {{ sense.t }}
-{%- if sense.e -%}
-({{- for example in sense.e -»«{{ example }}»{% unless forloop.last %} / {% endunless %}{%- endfor -%}})
+</p>
 {%- endif -%}
-{%- if sense.r -%}; см. {%- for ref in sense.r -%}**{{ ref }}**{%- unless forloop.last %}, {% endunless %}{%- endfor -%}{%- endif -%}
-{%- if sense.c -%}; ср. {%- for comp in sense.c -%}*{{ comp }}*{%- unless forloop.last %}, {% endunless %}{%- endfor -%}{%- endif -%}
-{%- endfor -%}
-<br>
-{%- endfor -%}
-{%- endif -%}
+</body>
