@@ -9,10 +9,10 @@ lang: ru
 tags: [bruno, pomor, russian, dialect, dictionary entries]
 ---
 
-{% assign path = "static/talen/slavisch/pom/govorya" %}
+{% assign md_base_path = "static/talen/slavisch/pom/govorya" %}
 {% assign letters = "р с т у ф х ц ш э ю я" | split: " " %}
-{% for letter in letters %}
-{%- assign fpath = path | append: "/entries/" | append: "govorya-" | append: letter | append: ".html" %}
+{%- for letter in letters -%}
+{%- assign fpath = md_base_path | append: "/entries/" | append: "govorya-" | append: letter | append: ".html" -%}
 
-{%- assign p = site.pages | where: "path", fpath | first %}- [{{ p.title }}]({{ p.url | relative_url }})
-{% endfor %}
+{%- assign p = site.pages | where: "path", fpath | first -%}- [{{ p.title }}]({{ p.url | relative_url }})
+{%- endfor -%}
