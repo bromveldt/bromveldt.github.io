@@ -11,6 +11,11 @@ tags: [ bruno, Windows, code]
 
 I often program in Windows 11 shell and Powershell. Apparently not often enough to remember :( Here are some notes I have made.
 
+Display which programs are installed in Windows:
+
+```
+Get-CimInstance -ClassName Win32_Product
+```
 
 **Alt + Print Screen**: Copy active window to the clipboard
 
@@ -20,25 +25,25 @@ This is another keyboard shortcut that builds off of Print Screen. This shortcut
 
 This keyboard shortcut will unlock a tool that has been around Windows since Vista. The Snipping Tool is a tool that first appeared in Windows Vista in 2002 as a PowerToys tool.
 
-#### To copy proxy settings of current user to WinHttp:
+## To copy proxy settings of current user to WinHttp:
 
 ```
 netsh winhttp import proxy source =ie
 ```
 
-#### To reset the proxy to default settings:
+## To reset the proxy to default settings:
 
 ```
 netsh winhttp reset proxy
 ```
 
-#### To show proxy settings of current user:
+## To show proxy settings of current user:
 
 ```
 netsh winhttp show proxy
 ```
 
-#### netsh
+## netsh
 
 ```
 netsh interface ip show config
@@ -59,7 +64,8 @@ show tracing   - Zeigt an, ob die Ablaufverfolgung für ein verkabeltes LAN
                  aktiviert oder deaktiviert ist.
 ```
 
-# open a firewall port
+### open a firewall port
+
 ```
 netsh advfirewall firewall
   add rule name="SQL Server"
@@ -67,7 +73,7 @@ netsh advfirewall firewall
   protocol=TCP localport=1434 
 ```
 
-# add a dns server
+### add a dns server
 
 ```
 netsh interface ip
@@ -75,7 +81,7 @@ netsh interface ip
   static 192.168.0.2
 ```
 
-# add a second dns server
+### add a second dns server
 
 ```
 netsh interface ip
@@ -83,17 +89,27 @@ netsh interface ip
   192.168.0.3 
 ```
 
-# configure your network adapter to use DHCP and DNS
+### configure your network adapter to use DHCP and DNS
+
 ```
 netsh interface ip
  set dns "Local Area Connection" dhcp 
 ```
 
-https://becomethesolution.com/useful-netsh-commands-in-windows
+### show ipv4 settings
 
+```
+netsh interface ipv4 show excludedportrange protocol=tcp
+netsh int ipv4 show dynamicport tcp
+```
+
+### Bypass manual proxy [useful-netsh-commands-in-windows](https://becomethesolution.com/useful-netsh-commands-in-windows)
+
+```
 C:\windows\System32\bitsadmin.exe /Util /SetIEProxy LocalSystem Manual_proxy http://<proxyserver>:<proxy port> "<Any bypasses to be added>"
+```
 
-#### How do I check in Windows how man CPU cores I have?
+### How do I check in Windows how man CPU cores I have?
 
 ```
 systeminfo | findstr /C:"Processor(s)"
@@ -101,13 +117,14 @@ systeminfo | findstr /C:"Processor(s)"
 ```
 
 or use wmic:
+
 ```
 wmic cpu get NumberOfCores,NumberOfLogicalProcessors
 NumberOfCores  NumberOfLogicalProcessors
 10             12
 ```
 
-#### Task List
+## Task List
 
 ```
 tasklist /fo table /svc | findstr proxy
@@ -122,7 +139,7 @@ dnscrypt-proxy.exe           20548 Services                   0     16.884 K
 tasklist /FI "PID eq 1234"
 ```
 
-#### Memory Diagnostics on Computer Restart
+## Memory Diagnostics on Computer Restart
 
 ```
 mdsched.exe
@@ -130,9 +147,9 @@ mdsched.exe
 
 eventvwr.exe System > MemoryDiagnostics results
 
-See https://www.supereasy.com/memory-test-for-windows-10-solved/
+See [Memory test for Windows](https://www.supereasy.com/memory-test-for-windows-10-solved/)
 
-#### Windows Resource Protection system scan
+## Windows Resource Protection system scan
 
 ```
 sfc /scannow
@@ -150,7 +167,7 @@ Dism /Online /Cleanup-Image /ScanHealth
 DISM /Online /Cleanup-Image /RestoreHealth
 ```
 
-#### Scheduled Tasks
+## Scheduled Tasks
 
 schtasks.exet
 
@@ -160,7 +177,7 @@ To check a schedules task status:
 schtasks.exe /Query /TN "\Microsoft\Windows\PI\Secure-Boot-Update" /FO LIST /V
 ```
 
-##### Start one service as soon as some other service is running
+### Start one service as soon as some other service is running
 
 1) Start and Stop the Service to got the appropriate Events in the Eventlog.
 2) `taskschd.msc` and create a new custom Task. As Trigger you can select the Events created before with the start and/or stop action.
@@ -173,20 +190,14 @@ Get-EventLog -LogName System | Where-Object { $_.EventID -eq 7036 } | Format-Tab
 
 ----
 
-### Network
+## Network
 
-##### netsh 
+### netstat
 
-```
-netsh interface ipv4 show excludedportrange protocol=tcp
-netsh int ipv4 show dynamicport tcp
-```
-
-##### netstat 
-
-The -a switch shows all active connections and listening ports, 
+The -a switch shows all active connections and listening ports,
     -n displays addresses and port numbers in numeric form,
 and -o shows the process ID, also called the PID
+
 ```
 netstat -ab # active connections with names
 
@@ -198,7 +209,7 @@ netstat -ano | findstr :8080
 netstat -ano | findstr :53
 ```
 
-#### DNS Caching
+## DNS Caching
 
 To display the DNS cache entries, if any, if you wish to confirm if the DNS cache has been cleared:
 
@@ -212,29 +223,31 @@ To turn off DNS caching for a particular session:
 net stop dnscache
 ```
 
-To turn on DNS caching for a particular session: 
+To turn on DNS caching for a particular session:
 
 ```
 net start dnscache
 ```
 
 ----
-#### Flush DNS Cache
 
-https://www.thewindowsclub.com/flush-windows-dns-cache
+### Flush DNS Cache
 
-```
+[flush Windows DNS cache](https://www.thewindowsclub.com/flush-windows-dns-cache)
+
+```vim
 ipconfig /flushdns
 ```
 
 You should be able to see a confirmation dialog window:
 
+```vim
 Windows IP Configuration. Successfully flushed the DNS Resolver Cache.
-
+```
 
 Once the requisite process is complete and existing cache data has been flushed, you may registers any DNS records that you or programs may have added to your Hosts file:
 
-```
+```vim
 ipconfig /registerdns
 ```
 
@@ -244,12 +257,12 @@ To flush DNS Cache using PowerShell:
 Clear-DnsClientCache
 ```
 
-#### How to refresh DNS cache every few hours automatically?
+### How to refresh DNS cache every few hours automatically?
 
 Take a backup of your registry before making any changes.
 Open Registry Editor: regedit
 
-Navigate to: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DNSCache\Parameters
+Navigate to: `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DNSCache\Parameters`
 
 Right-click on an empty area, and create a new DWORD.
 
@@ -264,21 +277,23 @@ reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DNSCache\Parameter
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DNSCache\Parameters" /v MaxNegativeCacheTtl /t REG_DWORD /d 5
 ```
 
-#### Wat is de oorzaak achter fout 0xC0000035 in Windows 11?
+### Wat is de oorzaak achter fout 0xC0000035 in Windows 11?
 
 Het treedt op wanneer sommige processen niet starten. Dit kunnen netwerkgerelateerde of andere processen zijn. enkele voorbeelden zijn PerfDiag Logger, NetCfgTrace, Microsoft. Ramen. Sanering, sensorframework, etc.
 
-## Fix Error Code 0xC0000035 in Event Viewer op Windows 11
+### Fix Error Code 0xC0000035 in Event Viewer op Windows 11
 
 ```
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\WMI\Autologger\EventLog-System\{b675ec37-bdb6-4648-bc92-f3fdc74d3ca2}" /v Enabled /t REG_DWORD /d 0x0 /f
 ```
+
 ----
+
 ### Windows Services
 
 services.msc
 
-Native PowerShell object pipeline: 
+Native PowerShell object pipeline:
 
 ```powershell
 Get-Service | Where-Object Status -EQ 'Running' 
@@ -351,9 +366,10 @@ sc query DcomLaunch | findstr /I " STATE"
 sc query RPCSS | findstr /I " STATE"
         STATE              : 4  RUNNING
 ```
+
 ----
 
-#### Service Management via NSSM
+### Service Management via NSSM
 
 ```vim
 $event = Get-WinEvent -FilterHashtable @{LogName='System '; ID=7034} -MaxEvents 1
@@ -384,6 +400,7 @@ Here’s the exact filter to paste into **Event Viewer → Filter Current Log (X
 ```
 
 Steps:
+
 1. Open **Event Viewer** (`eventvwr.msc`).
 2. Go to **Windows Logs → System**.
 3. On the right, click **Filter Current Log…**.
@@ -399,9 +416,10 @@ If you prefer PowerShell instead, you can run:
 Get-EventLog -LogName System | Where-Object { $_.EventID -eq 7036 } |
 Format-Table MachineName, TimeWritten, UserName, EventID, Message -AutoSize -Wrap
 ```
+
 ----
 
-##### KEK certificate missing
+### KEK certificate missing
 
 A missing KEK (Key Exchange Key) certificate after a firmware update usually indicates a secure boot key mismatch in the BIOS/UEFI, often caused by outdated UEFI certificates not matching newer Windows bootloaders. To resolve this, ensure BIOS is set to default (which you have done), check for further BIOS updates, or temporarily disable Secure Boot if Windows cannot boot.
 
@@ -410,12 +428,16 @@ Potential Troubleshooting Steps:
 Check UEFI Key Configuration: Enter the BIOS/UEFI setup (usually F2 or Del at boot) and look for a section named "Secure Boot" or "Key Management". Ensure the Secure Boot mode is set to "Standard" or "Windows".
 
 Refresh Secure Boot Keys: Within the secure boot settings, select options to "Install Default Secure Boot Keys" or "Restore Factory Keys" to ensure the KEK and db keys are correctly populated.
+
 Update BIOS/Firmware: Even if you just updated, check the Acer support website again for any immediate revisions (e.g., 1.08a, 1.09) that might fix this issue.
+
 Check Windows Updates: If the system boots, install all pending Windows updates, as Microsoft often releases patches that update the required keys.
+
 If the system functions normally, this error in the Event Viewer might be safely ignored, as it often appears temporarily during bootloader updates.
+
 ----
 
-#### Restart the Clock Service
+### Restart the Clock Service
 
 ```
 net stop w32time
@@ -426,7 +448,8 @@ net start w32time
 
 ----
 
-#### View Network Connections
+### View Network Connections (Ethernet, WLAN)
+
 ```
 ncpa.cpl
 ```
@@ -464,19 +487,20 @@ Get-NetUDPEndpoint -LocalPort 53
 ```
 
 #### Firewall Rules
+
 ```
 wf.msc
 ```
-Click Inbound Rules.
 
+Click Inbound Rules.
 
 #### ExecutionPolicy RemoteSigned
 
 Als het huidige PowerShell-uitvoeringsbeleid het uitvoeren van TSS niet toestaat, voert u de volgende acties uit:
 
-Stel het RemoteSigned uitvoeringsbeleid voor het procesniveau in door de cmdlet 
+Stel het RemoteSigned uitvoeringsbeleid voor het procesniveau in door de cmdlet
 
-```
+```powershell
 Set-ExecutionPolicy -scope Process -ExecutionPolicy RemoteSigned
 ```
 
