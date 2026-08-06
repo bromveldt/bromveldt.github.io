@@ -5,5 +5,6 @@ MD013: false   # line length — prose lines are not wrapped
 MD026: false   # allow trailing punctuation in heading
 MD033: false   # inline HTML — common in Jekyll content
 MD036: false   # emphasis allowed instead of a heading
+MD040: false   # fenced code blocks do not have to have a language specified
 MD041: false   # first line need not be a top-level heading (front matter)
 MD060: { "style": "compact" } # Pin the style to stop padded tables from being changed by a fixer
