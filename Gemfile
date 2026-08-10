@@ -39,6 +39,7 @@ gem "terminal-table", "~> 3.0.2"
 gem "ttfunk", "~> 1.8.0"
 gem "unicode-display_width", "~> 2.6.0"
 
+gem "jekyll-sass-converter", "~> 2.0"
 gem "jekyll-theme-nix", "~> 1.1.5"
 gem "jekyll-theme-nixer", "~> 1.1.5"
 gem "jekyll-theme-nixest", "~> 1.1.5"
@@ -48,7 +49,7 @@ gem "jekyll-theme-penumbra", "~> 0.1.1"
 gem "jekyll-theme-plain", "~> 0.8.0"
 gem "jekyll-theme-polar", "~> 1.0.0"
 gem "jekyll-theme-with-hack-css", "~> 0.1.1"
-gem "jekyll-vite", "~> 3.0.3"
+#gem "jekyll-vite", "~> 3.0.3"
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
