@@ -117,11 +117,12 @@ documentation: "/documentation/overview/start/"
 download:      https://github.com/jgthms/bulma/releases/download/0.6.0/bulma-0.6.0.zip
 github:        https://github.com/bromveldt/bulma
 twitter:       https://twitter.com/jgthms
-version:       0.6.0
-vernum:        60
+version:       0.7.0
+vernum:        70
 
 # Build settings
 theme: minima
+remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
   - jekyll-relative-links
