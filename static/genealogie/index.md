@@ -12,13 +12,13 @@ After I was released from the hospital I ordered a genealogy kit from FamilyTree
 
 MyHeritageDNA v2.5 gives my origins as
 
-<table>
-<tr><th colspan=”3”>Europa</th></tr>
-<tr><td>Baltic</td><td>55.9%</td><td>Russia, Ukraine, Belarus and Kazakhstan. Russia and Ukraine</td></tr>
+<table id="myheritage25">
+<tr><th colspan="3">Europa</th></tr>
+<tr><td>Baltic</td><td>55.9%</td><td>Russia, Ukraine, Belarus and Kazakhstan | Russia and Ukraine</td></tr>
 <tr><td>East European</td><td>24.7%</td><td> </td></tr>
 <tr><td>Balkans</td><td>10,0%</td><td> </td></tr>
 <tr><td>Finnish </td><td>7.2%</td><td>Southern Finland, Russia (St. Petersburg) en Estonia</td></tr>
-<tr><th colspan=”3”>Asia</th></tr>
+<tr><th colspan="3">Asia</th></tr>
 <tr><td>Central Asian</td><td>2.2%</td><td> </td></tr>
 </table>
 
