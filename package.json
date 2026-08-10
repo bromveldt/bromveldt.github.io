@@ -1,9 +1,13 @@
 {
   "devDependencies": {
-    "@actions/artifact": "^6.2.1",
     "glob": "^13.0.6",
-    "stylelint": "^17.14.0",
+    "stylelint": "^17.14.1",
     "stylelint-config-standard": "^40.0.0"
+  },
+  "overrides": {
+    "@actions/deploy-pages": {
+      "@actions/artifact": "^6.2.1"
+    }
   },
   "scripts": {
     "postinstall": "node post-install-fix.js"
