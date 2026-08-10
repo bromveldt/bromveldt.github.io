@@ -2,25 +2,21 @@
  * Taken by bromveldt from https://github.com/nodemailer/nodemailer/issues/1599
  * on 6-8-2026
  */
-import fs from "fs";
-import path from "path";
-
+const fs = require('fs');
+const path = require('path');
+// Currently made ineffective as the punycode depreation has been fixed
+// by bumping up @actions/artifact
 const pathArray = [
-    "./node_modules/@chromatic-com/storybook/dist/preset.js",
-    "./node_modules/@storybook/addon-interactions/dist/preset.js",
-    "./node_modules/@storybook/addon-onboarding/dist/preset.js",
-    "./node_modules/whatwg-url/lib/url-state-machine.js",
-    "./node_modules/nodemailer/lib/mime-node/index.js",
-    "./node_modules/nodemailer/lib/dkim/sign.js",
-    "./node_modules/tr46/index.js",
+    //"./node_modules/whatwg-url/lib/url-state-machine.js",
+    //"./node_modules/tr46/index.js",
 ];
-
-for (const [_i, value] of pathArray.entries()) {
+console.log(`Searching for punycode`);
+for (const [_i, entry] of pathArray.entries()) {
     try {
         // Read the content of the file
-        const tr46Path = path.resolve(value);
-        const content = fs.readFileSync(tr46Path, "utf8");
-        replace(content, tr46Path);
+        const pathEntry = path.resolve(entry);
+        const content = fs.readFileSync(pathEntry, "utf8");
+        normalize_punycode(content, pathEntry);
         console.log(`punycode successfully patched ${value}`);
     } catch (error) {
         console.error(`punycode error patching ${value}`, error);
@@ -30,19 +26,19 @@ for (const [_i, value] of pathArray.entries()) {
 /**
  * Replaces all occurrences of a specific line in the content and writes the updated content to a file.
  * @param {string} content - The original content.
- * @param {string} tr46Path - The path of the file to write the updated content to.
+ * @param {string} pathEntry - The path of the file to write the updated content to.
  */
-function replace(content, tr46Path) {
+function normalize_punycode(content, pathEntry) {
     content = content.replace(/("punycode")/g, '("punycode/")');
-    writeTheFile(content, tr46Path);
+    writeTheFile(content, pathEntry);
 }
 
 /**
  * Writes the modified content back to the file.
  *
  * @param {string} content - The modified content to write.
- * @param {string} tr46Path - The path of the file to write to.
+ * @param {string} pathEntry - The path of the file to write to.
  */
-function writeTheFile(content, tr46Path) {
-    fs.writeFileSync(tr46Path, content, "utf8");
+function writeTheFile(content, pathEntry) {
+    fs.writeFileSync(pathEntry, content, "utf8");
 }
