@@ -13,7 +13,8 @@ Encoding.default_external = Encoding::UTF_8
 Encoding.default_internal = Encoding::UTF_8
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "2.5.2"
+# gem "minima", "2.5.2"
+gem "minimal-mistakes-jekyll", "~> 4.28.0"
 gem "bigdecimal", "~> 3.3.1"
 gem "faraday-retry"
 # csv, base64 will no longer be part of the default gems starting from Ruby 3.4.0.
@@ -39,6 +40,11 @@ gem "terminal-table", "~> 3.0.2"
 gem "ttfunk", "~> 1.8.0"
 gem "unicode-display_width", "~> 2.6.0"
 
+gem "async", "~> 2.44.1"
+gem "pdf-reader", "~> 2.16.0"
+gem "zeitwerk", "~> 2.8.3"
+
+gem "jekyll-include-cache", "~> 0.2.2"
 gem "jekyll-sass-converter", "~> 3.1"
 gem "jekyll-theme-nix", "~> 1.1.5"
 gem "jekyll-theme-nixer", "~> 1.1.5"
@@ -50,6 +56,7 @@ gem "jekyll-theme-plain", "~> 0.8.0"
 gem "jekyll-theme-polar", "~> 1.0.0"
 gem "jekyll-theme-with-hack-css", "~> 0.1.1"
 #gem "jekyll-vite", "~> 3.0.3"
+
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
