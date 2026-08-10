@@ -121,9 +121,8 @@ version:       0.7.0
 vernum:        70
 
 # Build settings
-#theme: minima
-theme: minimal-mistakes-jekyll
-remote_theme: "minimal-mistakes-jekyll"
+theme: minima
+remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
   - jekyll-relative-links
