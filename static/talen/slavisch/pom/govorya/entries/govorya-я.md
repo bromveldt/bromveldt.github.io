@@ -1,8 +1,9 @@
 ---
-encoding: "bom|utf-8"
-mode: 'r:bom|utf-8'
+#encoding: "bom|utf-8"
+#mode: 'r:bom|utf-8'
 title: Letter {{ data.letter }}
 theme: slate
+  pomor-entry.html
 lang: ru
 ---
 
