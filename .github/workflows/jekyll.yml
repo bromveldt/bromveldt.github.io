@@ -50,5 +50,5 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v5
         id: deployment
-        env:
+        env: ## See punycode set out https://github.com/actions/deploy-pages/issues/413
           NODE_OPTIONS: --trace-deprecation
