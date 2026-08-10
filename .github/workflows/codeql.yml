@@ -111,5 +111,3 @@ jobs:
       uses: github/codeql-action/analyze@v4
       with:
         category: "/language:${{matrix.language}}"
-        # Speed up subsequent runs by reusing the previous build's database
-        trap-caching: true
