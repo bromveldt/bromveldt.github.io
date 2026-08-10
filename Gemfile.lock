@@ -152,6 +152,10 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
+    minima (2.5.2)
+      jekyll (>= 3.5, < 5.0)
+      jekyll-feed (~> 0.9)
+      jekyll-seo-tag (~> 2.1)
     minimal-mistakes-jekyll (4.28.0)
       jekyll (>= 3.7, < 5.0)
       jekyll-feed (~> 0.1)
@@ -240,6 +244,7 @@ DEPENDENCIES
   jekyll-theme-with-hack-css (~> 0.1.1)
   jekyll-utf8 (~> 0.0.1)
   liquid (~> 4.0.4)
+  minima (= 2.5.2)
   minimal-mistakes-jekyll (~> 4.28.0)
   parallel (~> 2.1.0)
   pdf-reader (~> 2.16.0)
@@ -314,6 +319,7 @@ CHECKSUMS
   listen (3.10.0) sha256=c6e182db62143aeccc2e1960033bebe7445309c7272061979bb098d03760c9d2
   logger (1.7.0) sha256=196edec7cc44b66cfb40f9755ce11b392f21f7967696af15d274dde7edff0203
   mercenary (0.4.0) sha256=b25a1e4a59adca88665e08e24acf0af30da5b5d859f7d8f38fba52c28f405138
+  minima (2.5.2) sha256=9c434e3b7bc4a0f0ab488910438ed3757a0502ff1060d172f361907fc38aa45a
   minimal-mistakes-jekyll (4.28.0) sha256=97d38e5ae90d8d9192bb0c9dc577ed41783bd3842a506429842e984e0877ecd7
   net-http (0.9.1) sha256=25ba0b67c63e89df626ed8fac771d0ad24ad151a858af2cc8e6a716ca4336996
   nokogiri (1.19.4-x64-mingw-ucrt) sha256=051da97b8eccfdb5444fed40246a35e10d7298b9efe759b4cd25455ea04c587e

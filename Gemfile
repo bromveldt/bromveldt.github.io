@@ -13,7 +13,7 @@ Encoding.default_external = Encoding::UTF_8
 Encoding.default_internal = Encoding::UTF_8
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-# gem "minima", "2.5.2"
+gem "minima", "2.5.2"
 gem "minimal-mistakes-jekyll", "~> 4.28.0"
 gem "bigdecimal", "~> 3.3.1"
 gem "faraday-retry"
