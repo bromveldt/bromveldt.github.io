@@ -39,7 +39,7 @@ gem "terminal-table", "~> 3.0.2"
 gem "ttfunk", "~> 1.8.0"
 gem "unicode-display_width", "~> 2.6.0"
 
-gem "jekyll-sass-converter", "~> 2.0"
+gem "jekyll-sass-converter", "~> 3.1"
 gem "jekyll-theme-nix", "~> 1.1.5"
 gem "jekyll-theme-nixer", "~> 1.1.5"
 gem "jekyll-theme-nixest", "~> 1.1.5"
