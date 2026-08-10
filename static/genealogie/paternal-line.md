@@ -112,9 +112,9 @@ Medieval samples with I2a1b-CTS10228, in graves dating to a few centuries before
 
 [DNAGenics](https://www.dnagenics.com/haplogroups/ydna/I2A1#when) lists many more I2A1 occurrences in ancient samples.
 
-In the Nature article <NNN> traces the Early European Farmer (EEF) ancestry in the Celtic population of the South-Western Germany in the Late Antiquity and
+The article [Evidence for dynastic succession among early Celtic elites in Central Europe](https://www.nature.com/articles/s41562-024-01888-7), published in Nature, discusses the Early Iron Age (800 to 450 BCE) in France, Germany and Switzerland, known as the ‘West-Hallstattkreis’, tracing the Early European Farmer (EEF) ancestry in the Celtic population of the South-Western Germany in the Late Antiquity andtraces the Early European Farmer (EEF) ancestry in the Celtic population of the South-Western Germany in the Late Antiquity and the early Middle Age.
 
-> &mdlr;the Celtic migrations during the fourth and third century BCE, not only ‘Celts’ migrated, but at least a limited number of people from northern central Europe reached the southern zone of the La Tène culture and even northern Italy
+> &#8230;the Celtic migrations during the fourth and third century BCE, not only ‘Celts’ migrated, but at least a limited number of people from northern central Europe reached the southern zone of the La Tène culture and even northern Italy
 >
 > The historical and archaeological record leave no doubt that the development of culture and population in southwestern Germany was temporarily characterized by profound discontinuities, particularly during the third to first century BCE. The definitive end of the 2,000 years of relative genetic continuity from the Bronze throughout the Iron Age in southern Germany is marked by a sudden, sharp increase of Steppe-related ancestry during the Late Antiquity and Early Middle Ages.
 >
@@ -134,7 +134,7 @@ The 2021 article in the European Journal of Human Genetics 29 ([Subdividing Y-ch
 
 [First Scandinavians came from north and south](https://www.sciencenordic.com/archaeology-forskningno-society--culture/first-scandinavians-came-from-north-and-south/1453083) writes:
 
-> Archaeologist and Stone Age expert, Mikkel Sørensen from the University of Copenhagen, Denmark, is more positive. In his [2013 study](http://www.tandfonline.com/doi/abs/10.1080/00293652.2013.770416), he concluded that Scandinavia was probably populated from both the south and the northeast, as the new study confirms.
+> Archaeologist and Stone Age expert, Mikkel Sørensen from the University of Copenhagen, Denmark, is more positive. In his [2013 study](http://www.tandfonline.com/doi/abs/10.1080/00293652.2013.770416), &#8230; concluded that Scandinavia was probably populated from both the south and the northeast, as the new study confirms.
 
 [Northern European population history revealed by ancient human genomes](https://www.heritagedaily.com/2018/01/northern-european-population-history-revealed-ancient-human-genomes/118272) writes:
 
@@ -144,9 +144,9 @@ The 2021 article in the European Journal of Human Genetics 29 ([Subdividing Y-ch
 
 A few possibilities come to mind:
 
-Either **S20602** does in reality not coincide with Y3120 and is not at all indicative of I2a-Dinaric.
+Either S20602 in reality does not coincide with Y3120 and is not at all indicative of I2a-Dinaric.
 
-Or one of Martin Luther's ancestors in the paternal line did not descend from Wigand von Lüder but from a man in County Henneberg or County Mansfeld, whose Y-DNA would have connected him to the Slavic expansion from the South-East of today’s Poland and Polissya eastward in the 6th-8th centuries CE. The medieval Südharz was, however, not known for its Slavic communities. Even if some Slavs came to the area, it is not clear by which process they could have integrated in a German tribal context. At least equally unlikely appears a wife’s infidelity to the point of bearing a male child in a well-to-do patriarchal family living in the countryside.
+Or one of Martin Luther's ancestors in the paternal line did not descend from Wigand von Lüder but from a man in County Henneberg or County Mansfeld, whose Y-DNA would have connected him to the Slavic expansion from the South-East of today’s Poland and Polissya eastward in the 6th-8th centuries CE. The medieval Südharz was, however, not known for its Slavic communities. Even if some Slavs had come to the area, it is not clear by which process they could have integrated in a German tribal context. At least equally unlikely appears a wife’s infidelity to the point of bearing a male child in a well-to-do patriarchal family living in the countryside.
 
 Or some Germanic tribes, such as the Goths, might have originated in the Pontic Steppe. Wikipedia mentions the Goths could just as well have migrated from the Black Sea area as expanded to it:
 
