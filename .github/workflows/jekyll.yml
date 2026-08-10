@@ -48,5 +48,7 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v5
+        id: deployment
+        env:
+          NODE_OPTIONS: --trace-deprecation
