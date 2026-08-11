@@ -1,12 +1,10 @@
 ---
-encoding: "bom|utf-8"
-mode: 'r:bom|utf-8'
 title: Dutch platforms & brokers for IT contract work (NL)
-description: German career tips
+description: Dutch career tips
 layout: simple
 theme: slate
 lang: en
-tags: [ bruno, resume, cv, business]
+tags: [ bruno, resume, cv, business, nl, nederland]
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 

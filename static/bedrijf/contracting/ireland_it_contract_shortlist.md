@@ -1,12 +1,10 @@
 ---
-encoding: "bom|utf-8"
-mode: 'r:bom|utf-8'
 title: Ireland IT contract market — channels for a remote, NL-based freelancer
-description: German career tips
+description: Ireland career tips
 layout: simple
 theme: slate
 lang: en
-tags: [ bruno, resume, cv, business]
+tags: [ bruno, resume, cv, business, ie, ireland]
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 ---
 
