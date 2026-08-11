@@ -11,8 +11,9 @@ tags: [ bruno, job, search]
 
 ## Where to Search a Corp-To-Corp Contract
 
-- [Ireland IT Contract](../CV/ireland_it_contract_shortlist.md) – Shortlist
-- [German Projektportale](../CV/german_projektportale_shortlist.md) – Shortlist
+- [Ireland IT Contract](../contracting/ireland_it_contract_shortlist.md) – Shortlist
+- [German Projektportale](../contracting/german_projektportale_shortlist.md) – Shortlist
+- [Swiss Projektportale](../contracting/swiss_projektportale_shortlist.md) – Shortlist
 
 ----
 
