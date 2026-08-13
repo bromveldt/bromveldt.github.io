@@ -14,6 +14,9 @@ The original version featured my resume and was created in late 2019.
 I would like to add some topics to this Website that really matter to me.
 The general intention is to swarm off here some of the not very frequently used notes from my Notion account.
 
+- [ChatGLM](https://chat.z.ai/)
+  | [ChatGLM at huggingface](https://huggingface.co/zai-org)
+
 The site was originally intended to keep safe and make available some documents that have a certain interest for me.
 I would like to now add some topics that have been shaping my life in the past 2–3 years.
 
