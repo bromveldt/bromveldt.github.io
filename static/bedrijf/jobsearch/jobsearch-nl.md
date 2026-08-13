@@ -18,6 +18,7 @@ tags: [ bruno, job, search, nl]
   - [Jellow](https://www.jellow.nl/voor-freelancers/) *general ZZP marketplaces, high volume
   - [Jooble](https://jooble.org/jobs-programmer/Netherlands)
   - [LinkedIn Freelance developer NL](https://www.linkedin.com/jobs/search-results/?currentJobId=4450151330&keywords=Freelance%20developer%20jobs&originalSubdomain=nl)
+    | [LinkedIn Freelance developer jobs Netherlands contract](https://www.linkedin.com/jobs/search-results/?currentJobId=4452358706&keywords=Freelance%20developer%20jobs%20Netherlands&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=lZJKJEuzi%2F79g%2FO7NqOH2Q%3D%3D&f_SAL=f_SA_id_226001%3A274001)
   - [Starapple](https://www.starapple.nl/voor-professionals/) *IT-specialist focus, senior-friendly
   - [Striive Freelance](https://freelancer.striive.com/inbox/all) *biggest NL marketplace; enterprise + government opdrachten via brokers
 
