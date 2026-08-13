@@ -20,17 +20,17 @@ Netherlands and Ireland, as far as I am concerned.
 <table id="contract-shortlist"><!-- ◌● ✵✳❅ ✵ -->
 <tr>
     <td>
-        <a href="netherlands_it_contract_shortlist.html" title="Netherlands ITC Contract Shortlist">Netherlands</a>
+        <a href="contracting/netherlands_it_contract_shortlist.html" title="Netherlands ITC Contract Shortlist">Netherlands</a>
     </td>
     <td>✵
     </td>
     <td>
-        <a href="ireland_it_contract_shortlist.html" title="Ireland ITC Contract Shortlist">Ireland</a>
+        <a href="contracting/ireland_it_contract_shortlist.html" title="Ireland ITC Contract Shortlist">Ireland</a>
     </td>
     <td>✵
     </td>
     <td>
-        <a href="german_projektportale_shortlist.html" title="Germany ITC Contract Shortlist">Germany</a>
+        <a href="contracting/german_projektportale_shortlist.html" title="Germany ITC Contract Shortlist">Germany</a>
     </td>
 </tr>
 </table>
@@ -49,10 +49,10 @@ Netherlands and Ireland, as far as I am concerned.
         <tbody>
             <tr>
                 <td>
-                    [<a href="samueli_resume2026v8-jai_eneu.docx" title="Samueli CV 2026v8 [DOCX]">DOCX</a>]
+                    [<a href="v8/samueli_resume2026v8-jai_eneu.docx" title="Samueli CV 2026v8 EN [DOCX]">DOCX</a>]
                 </td>
                 <td>
-                    [<a href="samueli_resume2026v8-jai_eneu.pdf" title="Samueli CV 2026v8 [PDF]">PDF</a>]
+                    [<a href="v8/samueli_resume2026v8-jai_eneu.pdf" title="Samueli CV 2026v8 EN [PDF]">PDF</a>]
                 </td>
                 <td>Samueli CV 2026v8 (EN)</td>
             </tr>
@@ -110,10 +110,10 @@ Netherlands and Ireland, as far as I am concerned.
         <tbody>
             <tr>
                 <td>
-                    [<a href="samueli_resume2026v8-jai_de.docx" title="Samueli CV 2026v8 [DOCX]">DOCX</a>]
+                    [<a href="v8/samueli_resume2026v8-jai_de.docx" title="Samueli CV 2026v8 DE [DOCX]">DOCX</a>]
                 </td>
                 <td>
-                    [<a href="samueli_resume2026v8-jai_de.pdf" title="Samueli CV 2026v8 [PDF]">PDF</a>]
+                    [<a href="v8/samueli_resume2026v8-jai_de.pdf" title="Samueli CV 2026v8 DE [PDF]">PDF</a>]
                 </td>
                 <td>Samueli CV 2026v8 (DE)</td>
             </tr>
