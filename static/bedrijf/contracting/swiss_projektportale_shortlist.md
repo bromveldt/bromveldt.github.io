@@ -13,6 +13,7 @@ tags: [ bruno, contractwerk, ch, Zwitserland]
 <tr><td>[indeed.ch](https://www.indeed.ch)</td><td> </td></tr>
 <tr><td>[jobserve.com](https://www.jobserve.com)</td><td> </td></tr>
 <tr><td>[freelance.de](https://www.freelance.de) </td><td>also covers Switzerland</td></tr>
+<tr><td>[SWISSLINX](http://www.swisslinx.com/en/europe/candidates/search-job?)</td><td> </td></tr>
 </table>
 
 ## Plaatsingsbureaus
