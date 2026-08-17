@@ -72,16 +72,19 @@ Voor de miljoenen nieuwe makers die voor het eerst software bouwen, moeten we he
 ## Lees ook
 
 Geselecteerd door de redactie
-[**AI kan nu quasi autonoom hacken: wat betekent Mythos voor banken, overheden en bedrijven?](https://www.demorgen.be/tech-wetenschap/ai-kan-nu-quasi-autonoom-hacken-wat-betekent-mythos-voor-banken-overheden-en-bedrijven~ba6e9862/)
-[Nieuwe AI blijft achter slot en grendel wegens te gevaarlijk: ‘Er zijn zeer goede redenen om dit niet publiek te maken’](https://www.demorgen.be/nieuws/nieuwe-ai-blijft-achter-slot-en-grendel-wegens-te-gevaarlijk-er-zijn-zeer-goede-redenen-om-dit-niet-publiek-te-maken~b844f2979/)
-[Schokgolf binnen de cybersecurity: AI-model Mythos overtreft bijna alle menselijke experts](https://www.demorgen.be/tech-ai/schokgolf-binnen-de-cybersecurity-ai-model-mythos-overtreft-bijna-alle-menselijke-experts~bb2bef4d/)
-[Pijnlijk lek voor Anthropic: complete blauwdruk van programmeertool Claude op straat](https://www.demorgen.be/tech-wetenschap/pijnlijk-lek-voor-anthropic-complete-blauwdruk-van-programmeertool-claude-op-straat~bf1da398/)Dossier
-Artificiële intelligentie (AI)**
-Lees hier alle artikelen over dit thema[**Naar het dossier](https://www.demorgen.be/dossier/artificiele-intelligentie-ai/)[Lees onbeperkt De Morgen**Onbeperkt toegang tot alle artikelenToegang tot Koken met De MorgenAbonnement delenMet 1 jaar gratis Tijdschrift.be](https://abonnement.demorgen.be/?otag=t2ejen&utm_source=be&utm_medium=interne_referral&utm_campaign=alwayson_A1&utm_content=4D_A1_SUBSCRIBE_USP_1_ARTICLE_BOTTOM_DM)
+
+- [AI kan nu quasi autonoom hacken: wat betekent Mythos voor banken, overheden en bedrijven?](https://www.demorgen.be/tech-wetenschap/ai-kan-nu-quasi-autonoom-hacken-wat-betekent-mythos-voor-banken-overheden-en-bedrijven~ba6e9862/)
+- [Nieuwe AI blijft achter slot en grendel wegens te gevaarlijk: ‘Er zijn zeer goede redenen om dit niet publiek te maken’](https://www.demorgen.be/nieuws/nieuwe-ai-blijft-achter-slot-en-grendel-wegens-te-gevaarlijk-er-zijn-zeer-goede-redenen-om-dit-niet-publiek-te-maken~b844f2979/)
+- [Schokgolf binnen de cybersecurity: AI-model Mythos overtreft bijna alle menselijke experts](https://www.demorgen.be/tech-ai/schokgolf-binnen-de-cybersecurity-ai-model-mythos-overtreft-bijna-alle-menselijke-experts~bb2bef4d/)
+- [Pijnlijk lek voor Anthropic: complete blauwdruk van programmeertool Claude op straat](https://www.demorgen.be/tech-wetenschap/pijnlijk-lek-voor-anthropic-complete-blauwdruk-van-programmeertool-claude-op-straat~bf1da398/) Dossier
+Artificiële intelligentie (AI)
+
+Lees hier alle artikelen over dit thema
+
+- [Naar het dossier](https://www.demorgen.be/dossier/artificiele-intelligentie-ai/)
+- [Lees onbeperkt De Morgen Onbeperkt toegang tot alle artikelen Toegang tot Koken met De Morgen](https://abonnement.demorgen.be/?otag=t2ejen&utm_source=be&utm_medium=interne_referral&utm_campaign=alwayson_A1&utm_content=4D_A1_SUBSCRIBE_USP_1_ARTICLE_BOTTOM_DM) Met 1 jaar gratis Tijdschrift.be
 
 De Morgen is onderdeel van DPG Media.
 
 DPG Media NV - Mediaplein 1 2018 Antwerpen - RPR Antwerpen nr. 0432.306.234
 © 2026 DPG Media NV Alle rechten voorbehouden.
-
-
