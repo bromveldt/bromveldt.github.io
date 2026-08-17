@@ -9,8 +9,9 @@ lang: en
 tags: [ bruno, language, resource]
 ---
 
+[AI](ai)
 [code-snippets/windows](code-snippets/windows)
-[cv](cv) old
+[CV](cv) old
 [system-design](system-design)
 
 
