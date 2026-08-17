@@ -68,6 +68,7 @@ tags: [ bruno, index, huggingface, models]
 
   - [Mistral AI Chat](https://chat.mistral.ai/chat)
     | [Mistral AI](https://mistral.ai/)
+    | [Mistral AI Vibe Remote Agents](https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/)
 
 - **LLM Inference and Serving**
 
