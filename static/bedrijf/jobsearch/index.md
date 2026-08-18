@@ -9,7 +9,12 @@ lang: en
 tags: [ bruno, job, search, columbia]
 ---
 
-## Where to Search a Corp-To-Corp Contract
+### My resume (PDF)
+
+[DACH](CV\v07\samueli_resume2026v07-swd_ende.pdf) English
+| [EU](CV\v07\samueli_resume2026v07-swd_ennl.pdf) English
+
+### Where to Search a Corp-To-Corp Contract
 
 - [U.S. IT Contract](../contracting/us_it_contract_shortlist.md)
 - [Ireland IT Contract](../contracting/ireland_it_contract_shortlist.md)
@@ -20,9 +25,12 @@ tags: [ bruno, job, search, columbia]
 
 ### Zoeken naar Projecten
 
-[AT](jobsearch-at.md) | [CH / LU](jobsearch-ch-lu.md) | [DE](jobsearch-de.md) | [NL](jobsearch-nl.md)
+[AT](jobsearch-at.md)
+| [CH / LU](jobsearch-ch-lu.md)
+| [DE](jobsearch-de.md)
+| [NL](jobsearch-nl.md)
 
-- **Columbia U**
+### Columbia U
 
   - [Columbia Alumni Association](https://www.alumni.columbia.edu/) | [Alumni Email](https://www.alumni.columbia.edu/content/alumni-email)
   - [Columbia Online Alumni Community](https://community.alumni.columbia.edu/s/)
