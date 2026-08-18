@@ -1,6 +1,4 @@
 ---
-encoding: "bom|utf-8"
-mode: 'r:bom|utf-8'
 title: Job Search
 description: Profiles and projects
 layout: simple
@@ -9,10 +7,12 @@ lang: en
 tags: [ bruno, job, search, columbia]
 ---
 
-### My resume (PDF)
+## My resume (PDF)
 
 [DACH](CV\v07\samueli_resume2026v07-swd_ende.pdf) English
 | [EU](CV\v07\samueli_resume2026v07-swd_ennl.pdf) English
+
+----
 
 ### Where to Search a Corp-To-Corp Contract
 
@@ -20,8 +20,6 @@ tags: [ bruno, job, search, columbia]
 - [Ireland IT Contract](../contracting/ireland_it_contract_shortlist.md)
 - [German Projektportale](../contracting/german_projektportale_shortlist.md)
 - [Swiss Projektportale](../contracting/swiss_projektportale_shortlist.md)
-
-----
 
 ### Zoeken naar Projecten
 
@@ -32,5 +30,5 @@ tags: [ bruno, job, search, columbia]
 
 ### Columbia U
 
-  - [Columbia Alumni Association](https://www.alumni.columbia.edu/) | [Alumni Email](https://www.alumni.columbia.edu/content/alumni-email)
-  - [Columbia Online Alumni Community](https://community.alumni.columbia.edu/s/)
+- [Columbia Alumni Association](https://www.alumni.columbia.edu/) | [Alumni Email](https://www.alumni.columbia.edu/content/alumni-email)
+- [Columbia Online Alumni Community](https://community.alumni.columbia.edu/s/)

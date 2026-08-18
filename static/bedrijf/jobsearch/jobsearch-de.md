@@ -38,6 +38,7 @@ tags: [ bruno, job, search]
   - [SOLCOM](https://www.solcom.de/)
   - [VOQUZ IT -Projekte](http://www.voquz.com/experts/it-projekte/)
     | [talentiqo Java](https://talentiqo.voquz.com/search/portal-projects?filter=&query=java&sort=)
+  - [Windhoff Group freelancing](https://freelancing.windhoff-group.de/)
 
 - **Randstad Professional**
 

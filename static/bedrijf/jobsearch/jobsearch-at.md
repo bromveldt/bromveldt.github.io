@@ -12,8 +12,11 @@ tags: [ bruno, job, search, at]
 - [freelancermap.at](http://www.freelancermap.at/projekte)
 - [GULP java AT](https://www.gulp.de/gulp2/g/projekte?query=java&order=DATE_DESC&country=AT&page=1)
   | [GULP java AT remote](https://www.gulp.de/gulp2/g/projekte?query=java&order=DATE_DESC&country=AT&remote=true&page=1)
-- [indeed.com AT](https://at.indeed.com/)
-- [Ing. Ernst Steiner](http://www.steiner-hitech.at/bewerber/jobboerse/cache/1.html)
+- [VOQUZ Projekte - talentiqo](https://talentiqo.voquz.com/search/portal-projects?filter=&query=&sort=%2Fpartners%2Flogin%2Ftoken%20DESC)
+
+### Stellenanzeigen
+
+- [Active Solution](https://www.activesolution.at/coole-jobs)
 - [APC Stellenanzeigen](https://jobs.apc.co.at/stellenanzeigen/)
-- [Active Solution](https://www.activesolution.at/karriere/jobs/)
-- [VOQUZ Projekte](https://www.voquz.com/voquz-erweiterung/projekte/)
+- [indeed.com AT](https://at.indeed.com/)
+- [Ing. Ernst Steiner HiTech - Jobbörse](https://www.steiner-hitech.at/jobboerse)
