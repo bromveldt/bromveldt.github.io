@@ -14,7 +14,7 @@ Encoding.default_internal = Encoding::UTF_8
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "2.5.2"
-gem "minimal-mistakes-jekyll", "~> 4.28.0"
+gem "minimal-mistakes-jekyll", "~> 4.28.1"
 gem "bigdecimal", "~> 3.3.1"
 gem "faraday-retry"
 # csv, base64 will no longer be part of the default gems starting from Ruby 3.4.0.
