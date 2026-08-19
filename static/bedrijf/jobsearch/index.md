@@ -7,10 +7,10 @@ lang: en
 tags: [ bruno, job, search, columbia]
 ---
 
-## My resume (PDF)
+## My current resume (PDF)
 
-[DACH](CV\v07\samueli_resume2026v07-swd_ende.pdf) English
-| [EU](CV\v07\samueli_resume2026v07-swd_ennl.pdf) English
+<!-- [DACH](CV\v07\samueli_resume2026v07-swd_ende.pdf) English | -->
+[EEA](/static/bedrijf/CV/v7-compact/samueli_resume2026v7-compact_en.pdf) English
 
 ----
 
@@ -27,6 +27,21 @@ tags: [ bruno, job, search, columbia]
 | [CH / LU](jobsearch-ch-lu.md)
 | [DE](jobsearch-de.md)
 | [NL](jobsearch-nl.md)
+| [IE](jobsearch-ie.md)
+
+### Nearshore
+
+- [N-Ix](https://careers.n-ix.com/) Ukraine Bulgaria Poland Colombia Romania Malta Sweden India USA
+- [Pracyva NL](https://pracyva.com/locations/netherlands/)
+    UK
+    Ireland
+    Poland
+    Netherlands
+    Germany
+    US
+    India
+    Belgium
+    France
 
 ### Columbia U
 

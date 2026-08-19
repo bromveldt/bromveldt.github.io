@@ -7,16 +7,7 @@ lang: en
 tags: [ bruno, job, search]
 ---
 
-## Where to Search a Corp-To-Corp Contract
-
-- [U.S. IT Contract](../contracting/us_it_contract_shortlist.md)
-- [Ireland IT Contract](../contracting/ireland_it_contract_shortlist.md)
-- [German Projektportale](../contracting/german_projektportale_shortlist.md)
-- [Swiss Projektportale](../contracting/swiss_projektportale_shortlist.md)
-
-----
-
-### Projektsuche
+## Projektsuche
 
 - **DE**
 
@@ -25,12 +16,12 @@ tags: [ bruno, job, search]
     | [emagine.org](https://portal.emagine.org/jobs/all)
     | [emagine.de](https://www.emagine.de/jobs-projekte.html)
   - [Ferchau](https://touch.ferchau.com/de/de?sortingType=actuality&sortingDirection=DESC)
-    | [Ferchau java Freelancer](https://touch.ferchau.com/de/de?type=4&searchTerm=java&sortingType=actuality&sortingDirection=DESC)
+    | [Ferchau java Freelancer](https://touch.ferchau.com/de/de?type=4&searchTerm=java&sortingType=actuality&sortingDirection=DESC) not much there
     | [Ferchau python Freelancer](https://touch.ferchau.com/de/de?type=4&searchTerm=python&sortingType=actuality&sortingDirection=DESC)
-    | [Ferchau Freelance](https://freelance.ferchau.de/#/Projekte/)
+    | [Ferchau Freelance](https://freelance.ferchau.de/#/Projekte/) *nothing much
   - Projekte auf [freelancermap.de Projektagente](https://www.freelancermap.de/projektagent-konfigurieren.html)
-    | [freelancermap.de](https://www.freelancermap.de/projekte)
-    | [freelancermap.at](http://www.freelancermap.at/projekte)
+    | [freelancermap.de Projekte](https://www.freelancermap.de/projekte)
+    | [freelancermap.at Projekte](http://www.freelancermap.at/projekte)
   - [freelance.de](http://www.freelance.de/)
   - [LinkedIn Contractor Jobs in Munich](https://www.linkedin.com/job/contractor-jobs-munich/)
     | [LinkedIn Contractor Jobs in Frankfurt](https://www.linkedin.com/job/contractor-jobs-frankfurt/)
@@ -49,14 +40,6 @@ tags: [ bruno, job, search]
   | [GULP java AT remote](https://www.gulp.de/gulp2/g/projekte?query=java&order=DATE_DESC&country=AT&remote=true&page=1)
   | [GULP passende-projekte](https://www.gulp.de/gulp2/g/experten/selbststaendige/profile/546c8f4de4b087635bc4fae5/passende-projekte?order=DATE_DESC)
   | [GULP Java Entwickler](https://www.gulp.de/gulp2/g/projekte?query=java%20entwickler%20developer%20-SAP%20-.NET%20-Bern%20-Z%C3%BCrich&order=DATE_DESC&page=1)
-
-- **LU**
-
-  - [ictjob.lu Freelance IT](https://www.ictjob.lu/en/search-it-jobs?contractTypes=3)
-
-- **CH**
-
-  - [iqplus.ch Software Entwicklung / Testing](https://www.iqplus.ch/offene-projektstellen/?c=Software-Entwicklung_Testing&ort=&sortierung=neueste)
 
 - **Less used**
 
