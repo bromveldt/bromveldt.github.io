@@ -13,11 +13,11 @@ tags: [ bruno, job, search, nl]
 
 ### Freelance platforms
 
-- [G2Recruitment.com](https://www.g2recruitment.com/)
+- [Werk.nl](https://www.werk.nl/nl/vacatures/)
+- [G2Recruitment.com NL contract](https://www.g2recruitment.com/job-search/?_s=java&_geo_country_long=Netherlands&_job_type=contract)
 - [LinkedIn Freelance developer NL](https://www.linkedin.com/jobs/search-results/?currentJobId=4450151330&keywords=Freelance%20developer%20jobs&originalSubdomain=nl)
   | [LinkedIn Freelance developer jobs Netherlands contract](https://www.linkedin.com/jobs/search-results/?currentJobId=4452358706&keywords=Freelance%20developer%20jobs%20Netherlands&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=lZJKJEuzi%2F79g%2FO7NqOH2Q%3D%3D&f_SAL=f_SA_id_226001%3A274001)
-- [LinkedIn senior spring contract](https://www.linkedin.com/jobs/search-results/?currentJobId=4447134171&keywords=spring&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=tYLsuQNh60hJVrld8PicPg%3D%3D&f_SAL=f_SA_id_227001%3A277001%24f_SA_id_226001%3A274001)
-- [Starapple](https://www.starapple.nl/voor-professionals/) IT-specialist focus, senior-friendly
+- [LinkedIn spring java contract contract posted in the past week](https://www.linkedin.com/jobs/search-results/?currentJobId=4450776917&keywords=spring%20java%20contract&origin=JOB_SEARCH_PAGE_JOB_FILTER&referralSearchId=SXGldaNzmciEhkpxdYn2oQ%3D%3D&f_TPR=r604800&f_SAL=f_SA_id_226001%3A274001) IT-specialist focus, senior-friendly
   | [Starapple Java](https://www.starapple.nl/page/1/?function_groups=fullstack%2Cit-generiek)
 - [Striive Freelance](https://freelancer.striive.com/inbox/all)
   | [Striive Freelance Java](https://freelancer.striive.com/inbox/all/388628?searchTerm=java&clientNames=&locations=&professionalTypes=FREELANCERS_EMPLOYEES,FREELANCERS_ONLY&remoteAllowed=&sortBy=&sortOrder=DESCENDING&maxHoursPerWeek=40&skills=) *biggest NL marketplace; enterprise + government opdrachten via brokers

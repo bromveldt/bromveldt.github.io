@@ -29,6 +29,8 @@ tags: [ bruno, job, search, columbia]
 | [NL](jobsearch-nl.md)
 | [IE](jobsearch-ie.md)
 
+- [LinkedIn spring java freelance contract posted in the past week](https://www.linkedin.com/jobs/search-results/?keywords=spring%20java%20freelance%20contract%20posted%20in%20the%20past%20week&origin=SEMANTIC_SEARCH_LANDING_PAGE) change country
+
 ### Nearshore
 
 - [N-Ix](https://careers.n-ix.com/) Ukraine Bulgaria Poland Colombia Romania Malta Sweden India USA
