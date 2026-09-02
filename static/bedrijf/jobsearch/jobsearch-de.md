@@ -11,7 +11,7 @@ tags: [ bruno, job, search]
 
 - **DE**
 
-  - [DrJobPro Jobs in Germany](https://www.drjobpro.com/germany/remote-jobs)
+  - [Contractor.DE Projekte](https://experts.contractor.de/projekte)
   - [emagine.de Consultant Hub](https://www.emagine.org/consultant-hub)
     | [emagine.org](https://portal.emagine.org/jobs/all)
     | [emagine.de](https://www.emagine.de/jobs-projekte.html)
@@ -26,6 +26,7 @@ tags: [ bruno, job, search]
   - [LinkedIn Contractor Jobs in Munich](https://www.linkedin.com/job/contractor-jobs-munich/)
     | [LinkedIn Contractor Jobs in Frankfurt](https://www.linkedin.com/job/contractor-jobs-frankfurt/)
     | [LinkedIn Contractor Jobs in Cologne](https://www.linkedin.com/job/contractor-jobs-cologne/)
+  - [Profi 4 Project](https://www.profi4project.com/)
   - [SOLCOM](https://www.solcom.de/)
   - [VOQUZ IT -Projekte](http://www.voquz.com/experts/it-projekte/)
     | [talentiqo Java](https://talentiqo.voquz.com/search/portal-projects?filter=&query=java&sort=)
@@ -41,9 +42,10 @@ tags: [ bruno, job, search]
   | [GULP passende-projekte](https://www.gulp.de/gulp2/g/experten/selbststaendige/profile/546c8f4de4b087635bc4fae5/passende-projekte?order=DATE_DESC)
   | [GULP Java Entwickler](https://www.gulp.de/gulp2/g/projekte?query=java%20entwickler%20developer%20-SAP%20-.NET%20-Bern%20-Z%C3%BCrich&order=DATE_DESC&page=1)
 
-- **Less used**
+- **Less used / useful**
 
   - [Computer Futures](https://www.computerfutures.com/de-de)
+  - [DrJobPro Jobs in Germany](https://www.drjobpro.com/germany/remote-jobs)  
   - [Greifenberg](https://jobs.greifenberg.de/jobs/search?q=java&l=&lat=&long=&d=)
     | [Greifenberg software entwickler](https://jobs.greifenberg.de/jobs/search/software-entwickler)
   - [Hays Deutschland](https://www.hays.de/jobsuche/stellenangebote-jobs)
