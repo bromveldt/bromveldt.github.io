@@ -40,7 +40,7 @@ gem "terminal-table", "~> 3.0.2"
 gem "ttfunk", "~> 1.8.0"
 gem "unicode-display_width", "~> 2.6.0"
 
-gem "async", "~> 2.44.1"
+gem "async", "~> 2.45.1"
 gem "pdf-reader", "~> 2.16.0"
 gem "zeitwerk", "~> 2.8.3"
 
