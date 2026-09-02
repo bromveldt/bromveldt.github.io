@@ -13,6 +13,7 @@ tags: [ bruno, job, search, nl]
 
 ### Freelance platforms
 
+- [Randstad Engineering / ICT](https://www.randstad.nl/vacatures?afstand=20&zoekterm=&locatie=&vakgebied=Engineering&vakgebied=ICT&pagina=1)
 - [Werk.nl](https://www.werk.nl/nl/vacatures/)
 - [G2Recruitment.com NL contract](https://www.g2recruitment.com/job-search/?_s=java&_geo_country_long=Netherlands&_job_type=contract)
 - [LinkedIn Freelance developer NL](https://www.linkedin.com/jobs/search-results/?currentJobId=4450151330&keywords=Freelance%20developer%20jobs&originalSubdomain=nl)
