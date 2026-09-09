@@ -32,4 +32,3 @@ source: https://erziyany-kely.ucoz.ru/news/2007-11-16-35
 | ушко | nilkqs (нилькс) |
 | ушная раковина | pile kavore (пиле каворе) |
 | ущелье | lushmo (лушмо), lodom (лодом), lushtä (луштя) |
-
