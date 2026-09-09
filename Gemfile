@@ -33,7 +33,7 @@ gem "jekyll-utf8", "~> 0.0.1"
 # For testing the static pages
 gem "html-proofer", "~> 5.2.2"
 gem "liquid", "~> 4.0.4"
-gem "parallel", "~> 2.1.0"
+gem "parallel", "~> 2.2.0"
 gem "rackup", "~> 2.3.1"
 gem "rouge", "~> 4.7.0"
 gem "terminal-table", "~> 3.0.2"
