@@ -1,9 +1,8 @@
 ---
 title: Русско-Эрзянский словарь / Рузонь-Эрзянь валкс - П
 tags: [bruno, myv, ersa]
-source: [erziyany-kely](https://erziyany-kely.ucoz.ru/news/2007-11-16-37)
+source: https://erziyany-kely.ucoz.ru/news/2007-11-16-37
 ---
-
 | -П- | |
 | --- | --- |
 | пазуха | pongo (понго) |

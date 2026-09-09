@@ -1,5 +1,5 @@
 ---
-title: Русско-Эрзянский словарь / Рузонь-Эрзянь валкс
+title: Русско-Эрзянский словарь / Рузонь-Эрзянь валкс - М
 tags: [bruno, myv, ersa]
 source: https://erziyany-kely.ucoz.ru/news/2007-11-16-35
 ---

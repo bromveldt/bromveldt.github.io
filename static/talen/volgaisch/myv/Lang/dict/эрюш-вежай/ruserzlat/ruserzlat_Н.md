@@ -1,9 +1,8 @@
 ---
-title: Русско-Эрзянский словарь / Рузонь-Эрзянь валкс
+title: Русско-Эрзянский словарь / Рузонь-Эрзянь валкс - Н
 tags: [bruno, myv, ersa]
-source: [erziyany-kely](https://erziyany-kely.ucoz.ru/news/2007-11-16-36)
+source: https://erziyany-kely.ucoz.ru/news/2007-11-16-36
 ---
-
 | -Н- | |
 | --- | --- |
 | нация | rasjke (раське) |
