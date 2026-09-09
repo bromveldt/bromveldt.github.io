@@ -20,6 +20,7 @@ Some links are below.
 
 ## Local Resources
 
+- [About the language](Lang/about)
 - [Books](Lang/books)
 - [Church texts: liturgy, Gospels](Lang/church-texts)
 - [Conversation Guides](Lang/conv)
