@@ -1,6 +1,4 @@
 ---
-encoding: "bom|utf-8"
-mode: 'r:bom|utf-8'
 title: 1 — À
 description: misc
 author: Pierre Desmet
@@ -46,7 +44,7 @@ Il habite à Nice : **er wohnt in Nizza**
 
 b) *Autres compléments* : « auf », « an », « in », « zu » selon l’usage :
 
-à la campagne : **aufs Land, auf dem Land** (1)
+à la campagne : **aufs Land, auf dem Land** <sub>1</sub>
 
 à la mer : **an die See, an der See**
 
@@ -72,10 +70,19 @@ b) *Autres compléments* : « auf », « an », « in », « zu » selon l’usa
 
 — 6) *Verbes suivis de « à »* : voir chacun d’eux nominalement dans le recueil (ex : renoncer à, répondre à, penser à...)
 
-— 7) *Prix* : « zu »
+— 7) *Prix* : « zu » : Un cigare à 20 pfennigs : **eine Zigarre zu 20 Pfennig**
 
-Un cigare à 20 pfennigs : **eine Zigarre zu 20 Pfennig**
+— 8) *Mots composés :* deux mots français reliés par « à » sont fréquemment traduits par un mot composé allemand. Vérifier leur existence dans le dictionnaire :
 
-(1) La première traduction correspond à la question « **wohin ?** » (= on y va), la seconde à la question « **wo ?** » (= on y est)
+*à* contrecœur : **widerwillig**
+*à* la mode : **modisch**
+*à* la douzaine : **dutzendweise**
 
-— 7 —
+*NB* : outre ces huit aspects de la traduction de « à », il existe une foule d'expressions que l'on peut trouver dans le dictionnaire :
+
+Canne *à* sucre : **Zuckerrohr**
+Vache *à* lait : **Milchkuh**
+Bombe *au* napalm : **Napalmbombe**
+Chambre *à* coucher : **Schlafzimmer** ...
+
+<sub>1</sub> (La première traduction correspond à la question « **wohin ?** » (= on y va), la seconde à la question « **wo ?** » (= on y est))
