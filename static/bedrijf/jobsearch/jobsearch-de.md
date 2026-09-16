@@ -26,10 +26,10 @@ tags: [ bruno, job, search]
   - [LinkedIn Contractor Jobs in Munich](https://www.linkedin.com/job/contractor-jobs-munich/)
     | [LinkedIn Contractor Jobs in Frankfurt](https://www.linkedin.com/job/contractor-jobs-frankfurt/)
     | [LinkedIn Contractor Jobs in Cologne](https://www.linkedin.com/job/contractor-jobs-cologne/)
+  - [People 4 Project](https://www.people4project.com/freelancer/jobboerse_angebotedetails)
   - [Profi 4 Project](https://www.profi4project.com/)
   - [SOLCOM](https://www.solcom.de/)
-  - [VOQUZ IT -Projekte](http://www.voquz.com/experts/it-projekte/)
-    | [talentiqo Java](https://talentiqo.voquz.com/search/portal-projects?filter=&query=java&sort=)
+  - [VOQUZ talentiqo Java](https://talentiqo.voquz.com/search/portal-projects?filter=&query=&sort=%2Fpartners%2Flogin%2Ftoken%20DESC)
   - [Windhoff Group freelancing](https://freelancing.windhoff-group.de/)
 
 - **Randstad Professional**
