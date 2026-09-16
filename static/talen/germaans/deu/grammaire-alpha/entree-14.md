@@ -1,5 +1,5 @@
 ---
-title: 
+title: 14 – Adjectifs possessifs
 description: misc
 author: Pierre Desmet
 publisher: Orphys
@@ -12,11 +12,10 @@ tags: [ bruno, duits, grammaire alphabétique]
 
 *Traduction* :
 
-a) mon, ma, mes : **mein**...
-
-b) ton, ta, tes : **dein**...
-
+a) mon, ma, mes : **mein**&#8230;
+b) ton, ta, tes : **dein**&#8230;
 c) son, sa, ses :
+
 - sein... si le possesseur est masculin ou neutre ; **der Mann mit seinem Hund** ; **das Kind mit seinem Hund**
 - ihr... si le possesseur est féminin : **die Frau mit ihrem Hund**
 
@@ -26,7 +25,7 @@ c) son, sa, ses :
 - ich traf sie mit ihrer Freundin und deren Sohn (= le fils de cette dernière)
 - Helga verabschiedete sich von Edith und deren Mann (= le mari d'Edith)
 
-d) notre, nos, **unser**...
+d) notre, nos : **unser**&#8230;
 
 *NB* : remarquer la déclinaison parfois particulière de « unser » :
 
@@ -49,5 +48,4 @@ e) votre, vos : **euer**...
 | Gén | eures | eurer | eures | eurer |
 
 f) votre, vos (forme de politesse) : **Ihr**...
-
 g) leur, leurs : **ihr**...

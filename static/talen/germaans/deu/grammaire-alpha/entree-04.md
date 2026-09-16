@@ -8,7 +8,7 @@ lang: fr
 tags: [ bruno, duits, grammaire alphabétique]
 ---
 
-L'accusatif (*der Wenfall, der Akkusativ*) est le cas du complément d'objet direct. Il est caractérisé par les terminaisons suivantes :
+L'accusatif (*der Wenfall*, *der Akkusativ*) est le cas du complément d'objet direct. Il est caractérisé par les terminaisons suivantes :
 
 -N au masculin des articles, démonstratifs, interrogatifs...
 -E au féminin et au pluriel
@@ -17,17 +17,17 @@ L'accusatif (*der Wenfall, der Akkusativ*) est le cas du complément d'objet dir
 ex :
 
 | | M | F | N | PL |
-| --- | --- |--- | --- | --- |
+| --- | --- | --- | --- | --- |
 | | den | die | das | die |
 | | diesen | diese | dieses | diese |
 | | welchen ? | welche ? | welches ? | welche ? |
 | | einen | eine | ein (1) | / |
 | | keinen | keine | kein (1) | keine |
-| | meinen | meine | mein (1) | meine... |
+| | meinen | meine | mein (1) | meine&#8230; |
 
 *NB 1* : voir les propositions suivies de l'accusatif et les prépositions mixtes
 
-**er hat kein Buch, er will mein Buch, unser Buch...**
+- **er hat kein Buch, er will mein Buch, unser Buch&#8230;**
 
 *NB 2* : voir les verbes suivis de l'accusatif
 
