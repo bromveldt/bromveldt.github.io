@@ -1,6 +1,6 @@
 ---
-title: 43 – Aller
-description: misc
+title: 43 – *Aller*
+description: vocable
 author: Pierre Desmet
 publisher: Orphys
 theme: slate

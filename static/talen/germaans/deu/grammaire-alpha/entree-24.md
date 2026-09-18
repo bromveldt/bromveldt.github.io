@@ -1,6 +1,6 @@
 ---
-title: 24 – A gauche
-description: misc
+title: 24 – *A gauche*
+description: vocable
 author: Pierre Desmet
 publisher: Orphys
 theme: slate
