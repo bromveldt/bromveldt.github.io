@@ -1,6 +1,7 @@
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+**.log
 vendor
 static/ersa/Lang/Dictionaries/ERValks.md
 static/talen/myv/Lang/church-texts/JohnChrysosthomLiturgy/index copy.md
@@ -23,4 +24,3 @@ node_modules/
 /static/talen/slavisch/pom/govorya/govorya_u2.md
 /static/talen/slavisch/pom/govorya/govorya_ya.md
 /static/talen/slavisch/pom/govorya/govorya_yu.md
-
