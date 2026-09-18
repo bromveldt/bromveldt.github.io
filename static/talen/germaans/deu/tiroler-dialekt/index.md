@@ -8,59 +8,88 @@ lang: de
 tags: [ bruno, deu, wien, wiener]
 ---
 
-1. Schmotzgoggl
+\1. Schmotzgoggl
 
 Auch wenn es nicht so klingt, ist „Schmotzgoggl“ ein Kompliment für ein wunderbares oder zauberhaftes Mädchen. Der Ausdruck kommt ursprünglich aus dem Tiroler Brixntal.
 
-2. Loamsieder
+\2. Loamsieder
 
 Als „Loamsieder“ bezeichnet man träge, langsame und langweilige Menschen. Der Begriff wird auch in Bayern verwendet.
 
-3. Lota, Weibetz
+\3. Lota, Weibetz
 
 Diese beiden Worte für Mann und Frau solltest du kennen, wenn du nicht in die falsche Toilette gehen möchtest. Sie könnten auf WC-Türen in traditionsbewussten Almhütten stehen.
 
-4. Lugntschippl
+\4. Lugntschippl
 
 Als „Lugntschippl“ werden Personen bezeichnet, die nicht die Wahrheit sagen. Entweder hat ein „Lugntschippl“ schon oft Lügen erzählt oder ihre Geschichte ist einfach so unglaubhaft.
 
-5. Dozn
+\5. Dozn
 
 Als „Dozn“ oder auch „Greggeler“ werden sehr kleine Menschen bezeichnet. Es ist quasi das Gegenteil vom langen „Lulatsch“.
 
-6. Fackalar
+\6. Fackalar
 
 „Fackalar“ ist so etwas wie eine ganzheitliche Beleidigung. Wird eine Person als „Fackalar“ beschimpft, ist sie nicht laut tirol.at nur äußerlich ungepflegt und hässlich, sondern erzählt auch schmutzige Witze, die allen anderen mehr Ekel als Lachen ins Gesicht zaubern.
 
-7. Sektnschlägel
+\7. Sektnschlägel
 
 Du bist unzufrieden mit dir und der Welt? Dann bist du ein „Sektnschlägel“. Vorrausgesetzt, du bist noch dazu unfreundlich.
 
-8. Schmattig
+\8. Schmattig
 
 „Schmattig“ ist ein Adjektiv und bedeutet soviel wie „reich“. Es impliziert zum einen, dass ein Mensch sehr viel Geld hat, zum anderen kann die Bezeichnung „schmattig“ auch darauf hinweisen, dass die Person ihren Reichtum durch Spekulation erlangt hat.
 
-9. Zoggla
+\9. Zoggla
 
 Als „Zoggla“ wird jemand bezeichnet, der nicht auf seine Kleidung achtet und deshalb oft schlampert herumläuft.
 
-10. Goggelen
+\10. Goggelen
 
 Du suchst auf der Speisekarte in Tirol vergeblich nach den Eiern? Kein Wunder, sie heißen hier „Goggelen“.
 
-11. Gschdiascht
+\11. Gschdiascht
 
 Wenn dir irgendetwas in Tirol gefällt, solltest du dieses Wort kennen. „Gschdiascht“ ist so etwas wie der Universalbegriff für alles, was schön ist. Du willst deinem Urlaubsflirt imponieren? Gschdiascht!
 
-12. Mir isch letz
+\12. Mir isch letz
 
 Wenn du die Speckknödel mal nicht so gut vertragen hast und dir schlecht wird, sagst du: „Mir isch letz“. Es heißt soviel wie: Ich verspüre Übelkeit.
 
-13. Tschelwenggat
+\13. Tschelwenggat
 
 Das ist eine schräge Sache. Alles, was schief, gebeugt oder verzogen ist, kannst du als „tschelwenggat“ bezeichnen.
 
-14. Zizzalalweis
+\14. Zizzalalweis
 
 Nicht alles auf einmal, nur „zizzalalweis“. Das Wort bedeutet in kleinen Stücke, nur langsam voranschreitend.
 
+---
+
+1. Die österreichische Kaffeekultur
+
+An der deutsch-österreichischen Grenze in den 1950er Jahren, als noch geschmuggelt wurde. Zollbeamter: „Hamm‘s Kaffee“? Tiroler: „Nö.“ Zollbeamter: „Woin's Kaffee?“
+
+\2. Guter Tipp, danke!
+
+Ein junger Tiroler wurde bei den Wiener Philharmonikern eingestellt. Mit einem Geigenkasten unterm Arm steht er auf der Ringstraße, findet aber den Weg nicht. Er fragt einen Wiener: „Entschuldigens, wie komme ich zu den Wiener Philharmonikern?“ „Üben, üben“
+
+\3. Daran liegt es wahrscheinlich nicht
+
+Treffen sich zwei Tiroler. Sagt der Eine: „I bin durch die Fahrprüfung gfolln.“ „Wieso dös?“ „An nem Kreisverkehr wor a Schüild: 30. Aiso bin i 30 mol durch‘n Kreisverkehr gfohrn.“ „Un, host di verzöit?“
+
+\4. Ah ja ...
+
+Maria aus Tirol ist neu zugezogen. „Sprichst du auch Italienisch?“, will die Lehrerin wissen. „Keine Ahnung, Ich hab es noch nie probiert“, erklärt Maria.
+
+\5. 🤟
+
+Alle 279 Gemeinden im Bundesland Tirol singen Tenor, nur nicht Ampass, der singt Bass.
+
+\6. Die Rechnung geht nicht auf
+
+Was macht der Mathelehrer in Tirol? Er rechnet beim Skifahren mit Brüchen.
+
+\7. LOL
+
+Was sagt ein Tiroler Speckknödel zum anderen? Gar nichts, Speckknödel können nicht reden.
