@@ -1,0 +1,93 @@
+order_num: 54
+expr_fr: Après
+contents:
+# 1
+  - sig_fr: Préposition indiquant le temps et le lieu
+    equiv_de: nach
+    case_de: D
+    e_g:
+      - fr: Après le repas
+        de: nach dem Essen
+      - fr: Après la guerre
+        de: nach dem Krieg
+      - fr: Après Jésus-Christ
+        de: nach Christi Geburt
+      - fr: Après la pluie
+        de: nach dem Regen
+      - fr: La première maison après l'église
+        de: das erste Haus nach der Kirche
+
+# 2
+  - sig_fr: Adverbe
+    equiv_de: [ nachher, später, danach, hinterher ]
+    exprs:
+      - expr_l: a
+        expr_fr: = ensuite
+        equiv_de: nachher
+        e_g:
+          - fr: Après nous avons une heure libre
+            de: nachher haben wir eine Freistunde
+          - fr: Je pourrai le faire après
+            de: das kann ich nachher noch machen
+
+      - expr_l: b
+        expr_fr: = à la suite de quoi
+        addl_fr: (idée de conséquence)
+        equiv_de: hinterher
+        e_g:
+          - fr: Après, il ne pouvait plus se souvenir de rien
+            de: er konnte sich hinterher an nichts mehr erinnern
+          - fr: Après quoi (= à la suite de quoi) il s'est plaint
+            de: er hat sich hinterher beschwert
+
+      - expr_l: c
+        expr_fr: dans un récit
+        equiv_de: danach
+        e_g:
+          - fr: Une demi-heure après elle téléphona de nouveau
+            de: eine halbe Stunde danach rief sie wieder an
+          - fr: Peu après il revint
+            de: kurz danach kam er zurück
+
+      - expr_l: d
+        expr_fr: plus tard
+        equiv_de: später
+        e_g:
+          - fr: Après ils veulent construire une maison
+            de: später wollen sie sich ein Haus bauen
+
+# 3
+  - sig_fr: Conjonction
+    sig_list: [ après que, après avoir..., après être... ]
+    equiv_de: [ nachdem ]
+    n_b_list:
+      - n_b: # 1
+        text: >
+            « nachdem » est toujours suivi d'un sujet (souvent un pronom personnel) 
+            et d'un verbe conjugué au passé composé ou au plus-que-parfait.
+            La règle de concordance des temps est la suivante
+        table: |
+            | *après « nachdem »* | *principale* |
+            |--- | --- |
+            | passé composé | présent ou futur |
+            | plus-que-parfait | passé |
+        e_g:
+          - fr: Après avoir mangé, il s'allongera
+            de: nachdem er gegessen hat, wird er sich hinlegen
+          - fr: Après avoir mangé, il s'allonge
+            de: nachdem er gegessen hat, legt er sich hin
+          - fr: Après avoir mangé, il s'allongea
+            de: nachdem er gegessen hatte, legte er sich hin
+          - fr: Après avoir mangé, il s'allongeait
+            de: nachdem er gegessen hatte, legte er sich hin
+          - fr: Après avoir mangé, il s'est allongé
+            de: nachdem er gegessen hatte, hat er sich hingelegt
+          - fr: Après avoir mangé, il s'était allongé
+            de: nachdem er gegessen hatte, hatte er sich hingelegt
+      - n_b: # 2
+        text: « nachdem » peut être précédé de « aber »
+        e_g:
+          - fr: mais lorsqu'il eut appris tous les détails, ...
+            de: aber nachdem er alle Einzelheiten erfahren hatte, ...
+          - fr: trois semaines après que le fils fut revenu, ...
+            de: drei Wochen nachdem der Sohn zurückgekehrt war, ...

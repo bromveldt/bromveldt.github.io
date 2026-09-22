@@ -1,0 +1,70 @@
+order_num: 52
+expr_fr: Apprendre
+contents:
+# 1
+  - sig_fr: = étudier
+    equiv_de: lernen
+    e_g:
+      - fr: Apprendre une poésie
+        de: ein Gedicht lernen
+      - fr: Apprendre le piano
+        de: einen Beruf lernen
+      - fr: Apprendre l'arabe
+        de: Arabisch lernen
+    n_b_list:
+      - n_b: # 1
+        - text: « lernen » peut être suivi d'un infinitif non précédé de « zu ». Le « à » français n'est donc pas traduit
+          e_g:
+          - fr: j'apprends à danser, à nager, à lire, à cuisiner...
+            de: ich lerne tanzen, schwimmen, lesen, kochen...
+          - fr: j'apprends à conduire, à jouer du piano...
+            de: ich lerne Auto fahren, Klavier spielen...
+      - n_b: # 2
+        - text: >
+            au passé composé, plus-que-parfait de l'indicatif et du subjonctif, 
+            « lernen » est placé après son infinitif complément et ne forme pas de double infinitif 
+          e_g:
+          - fr: j'ai appris à nager
+            de: ich habe schwimmen gelernt
+          - fr: j'avais appris à nager
+            de: ich hatte schwimmen gelernt
+          - fr: j'aurais appris à nager
+            de: ich hätte schwimmen gelernt
+      - n_b: # 3
+        - text: >
+            mais si l'infinitif complément a lui-même un complément, 
+            il faut construire ainsi
+          e_g:
+          - fr: j'ai appris à le connaître
+            de: ich habe ihn kennengelernt
+          - fr: nous avons appris à l'apprécier
+            de: wir haben ihn schätzengelernt
+          - fr: j'ai appris à jouer du piano
+            de: ich habe gelernt, Klavier zu spielen
+      - n_b: # 4
+        - text: >
+            noter les expressions « **kennenlernen, liebenlernen, schätzenlernen** » où le premier verbe joue le rôle d'une particule 
+      - n_b: # 5
+        - text: >
+            « lernen » peut être accompagné de « sich »
+          e_g:
+          - fr: ce rôle s'apprend bien
+            de: diese Rolle lernt sich leicht
+      - n_b: # 6
+        - text: >
+            l'allemand utilise aussi le verbe « erlernen » dans le sens de « apprendre à acquérir »
+          e_g:
+          - fr: il a bien appris le russe
+            de: er hat Russisch erlernt
+          - fr: il a appris son métier
+            de: er hat sein Handwerk erlernt
+# 2
+  - sig_fr: Apprendre une nouvelle
+    equiv_de: erfahren
+    e_g:
+      - fr: Cela, je l'ai appris par ta lettre
+        de: das erfuhr ich aus deinem Brief
+      - fr: Je n'ai rien pu apprendre de plus précis
+        de: ich habe nichts Genaueres erfahren können
+# 3
+  - cf: enseigner (lehren)

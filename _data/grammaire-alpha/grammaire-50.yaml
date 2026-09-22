@@ -1,0 +1,14 @@
+order_num: 50
+expr_fr: Applaudir
+contents:
+  lines:
+  - Deux possibilités
+  - expr_de: Jdm Beifall klatschen
+    e_g:
+    - fr: On applaudit l'orateur
+      de: dem Redner wurde Beifall geklatscht
+  - expr_de: Applaudieren
+    req_case: D
+    e_g:
+    - fr: On applaudit amicalement l'orateur
+      de: man applaudierte dem Redner freundlich

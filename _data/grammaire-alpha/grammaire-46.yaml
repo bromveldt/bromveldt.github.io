@@ -1,0 +1,17 @@
+order_num: 46
+expr_fr: À moins que
+text:
+  expr_de: es sei denn, daß…
+  req_mode: indicatif
+  e_g:
+  - fr: Je viendrais volontiers, à moins que je ne reçoive moi-même de la visite
+    de: ich komme gern, es sei denn, daß ich selbst Besuch bekomme
+  - fr: À moins qu'il ne se passe quelque chose
+    de: es sei denn, daß etwas passiert
+
+  - n_b:
+    - text: on peut supprimer « daß »
+      e_g: [
+        "es sei denn, ich bekomme selbst Besuch",
+        "es sei denn, es passiert etwas"
+      ]

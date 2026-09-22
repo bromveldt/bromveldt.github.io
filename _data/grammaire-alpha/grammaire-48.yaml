@@ -1,0 +1,69 @@
+order_num: 48
+expr_fr: À partir de
+text:
+  expr_de: Ab
+  text_fr: Complément de lieu
+  req_case: datif
+  e_g:
+  - fr: À partir de notre usine
+    de: ab unserem Werk
+  - fr: À partir de quelle station ?
+    de: ab welcher Station ?
+  - fr: À partir de (= au décollage de) tous les aéroports allemands
+    de: ab allen deutschen Flughäfen
+
+  - n_b:
+    - text: on peut supprimer « daß »
+      e_g: [
+        "es sei denn, ich bekomme selbst Besuch",
+        "es sei denn, es passiert etwas"
+      ]
+
+  text_fr: Complément de temps
+  req_case: datif ou accusatif
+  e_g:
+  - fr: À partir du 1er mai
+    de: ab erstem (= ersten) Mai
+  - fr: À partir du mercredi 3 avril
+    de: ab Mittwoch, dem (= den) 3. April
+  - fr: À partir (= à compter) de lundi dernier
+    de: ab letztem (= letzten) Montag
+
+  - n_b:
+    - text: « ab », dans un complément de temps, est souvent suivi d'un nom seul ou d'un adjectif
+      e_g: [
+        "ab morgen,
+        "ab heute",
+        "ab Montag",
+        "ab Ostern…"
+      ]
+
+  - n_b:
+    - text: si « ab » est suivi directement d'un article ou d'un pronom, utiliser le datif seulement
+      e_g:
+      - fr: à partir du 15 mai
+        de: ab dem 15. Mai
+      - fr: à partir du troisième round
+        de: ab der dritten Runde
+      - fr: à partir de ma dix-huitième année
+        de: ab meinem achtzehnten Lebensjahr
+
+  text_fr: Quantité
+  req_case: datif ou accusatif
+  e_g:
+  - fr: Une remise est accordée à partir de 100 exemplaires
+    de: ab 100 Exemplare(n) wird Rabatt gewährt
+  - fr: Ce film est pour les jeunes à partir de 14 ans
+    de: dieser Film ist jugendfrei ab 14 Jahren
+  - fr: À partir (= à compter) de lundi dernier
+    de: ab letztem (= letzten) Montag
+
+  - n_b:
+    - text: « ab » peut être remplacé par « von… an » (mais ne pas employer « von… ab », qui est incorrect !)
+      e_g: [
+        "von da an,
+        "von Montag an",
+        "von Mai an",
+        "von Ostern an",
+        "von frühester Jugend an…",
+      ]

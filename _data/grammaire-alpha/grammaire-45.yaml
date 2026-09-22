@@ -1,0 +1,45 @@
+order_num: 45
+expr_fr: Alors
+text:
+- equiv_fr: = à ce moment-là
+  expr_de: da
+  e_g:
+  - fr: C'est alors qu'on frappa
+    de: da klopfte es
+  - fr: C'est alors qu'arriva l'accident
+    de: da passierte das Unglück
+
+- n_b:
+  - repl:
+    - term: jusqu'alors
+    equiv: bis dahin
+
+- equiv_fr: = à cette époque-là
+  expr_de: damals
+  expl_de: (qui se réfère à une époque connue, dont on vient de parler)
+  e_g:
+  - fr: C'était en 1953. À cette époque nous n'étions pas riches
+    de: es war im Jahre 1953. Damals waren wir nicht reich
+  - n_b:
+    - obj: d'alors
+      equiv: damalig
+      expl: (adjectif)
+      e_g:
+      - fr: les problèmes d'alors étaient très sérieux
+        de: die damaligen Probleme waren sehr ernst
+
+- equiv_fr: = puis
+  expr_de: dann
+  e_g:
+  - fr: Alors il disparut
+    de: dann verschwand er
+  expl_de: (qui se réfère à une époque connue, dont on vient de parler)
+
+- equiv_fr: = dans ce cas
+  expr_de: dann
+  expl_de: (= in diesem Fall)
+  e_g:
+  - fr: Alors tout est réglé
+    de: dann ist ja alles in Ordnung
+  - fr: Alors nous allons nous plaindre
+    de: dann werden wir klagen

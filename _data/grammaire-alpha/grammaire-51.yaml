@@ -1,0 +1,126 @@
+order_num: 51
+expr_fr: Apposition
+contents:
+  - Il y a plusieurs sortes d'appositions (_der Beisatz_, _die Apposition_) \:
+# 1
+  - expr_de: Nom de ville, de pays, de mois apposés
+    action: une simple juxtaposition suffit, sans décliner le nom apposé
+    e_g:
+    - fr: Die Stadt Berlin
+      de: la ville de Berlin
+    - fr: Die Bundesrepublik Deutschland
+      de: la République Fédérale d'Allemagne
+    - fr: Der Monat Juli
+      de: le mois de juillet
+    - fr: Des Monats Juli
+      de: du mois de juillet
+# 2
+  - expr_de: Groupe de mots apposés
+    action: il faut accorder l'apposition au nom auquel elle s'appose
+    e_g:
+    - de:
+      - Er fährt in den Schwarzwald, das schöne Gebirge am Rhein
+      - Er lebt im Schwarzwald, dem schönen Gebirge am Rhein
+      - Der Schwarzwald, das schöne Gebirge am Rhein, wird oft bereist**
+    n_b:
+      - text: dans ce cas, le groupe de mots est toujours précédé d'un article
+      - point: a
+        expl_fr: _défini_, si le nom apposé ne s'applique qu'à une seule personne ou chose
+        e_g:
+        - fr: Nice, perle de la Côte d'Azur
+          de: Nizza, die Perle der französischen Riviera
+        - fr: Berne, capitale de la Suisse
+          de: Bern, die Hauptstadt der Schweiz
+        - fr: le merle, roi des oiseaux chanteurs
+          de: die Amsel, die Königin der Singvögel
+      - point: b
+        expl_fr: _indéfini_, dans le cas contraire
+        e_g:
+        - fr: Menton, port de la Méditerranée
+          de: Menton, eine Hafenstadt am Mittelmeer
+# 3
+  - expr_de: Apposition à un nom de mesure
+    action: plusieurs cas possibles qu'il fault bien distinguer
+    list:
+      - point: a
+        expr_de: Le nom apposé est seul (= sans adjectif)
+        action: une simple juxtaposition suffit, le nom apposé restant invariable
+        e_g:
+          - fr: Un mètre d'étoffe
+            de: ein Meter Stoff
+          - fr: Un mètre d'étoffe
+            de: ein Meter Stoff
+          - fr: Un litre de lait
+            de: ein Liter Milch
+          - fr: Une livre de pain
+            de: ein Pfund Brot
+          - fr: Une douzaine d'œufs
+            de: ein Dutzend Eier
+          - fr: Une botte de paille
+            de: ein Bündel Stroh
+          - fr: Une masse d'argent
+            de: eine Menge Geld
+          - fr: Un morceau de gâteau
+            de: ein Stück Kuchen...
+        n_b:
+          - text: si le nom de mesure est décliné, le nom apposé reste invariable
+            e_g:
+            - fr: le prix d'une livre de pain
+              de: der Preis eines Pfundes Brot
+            - fr: avec une livre de pain
+              de: mit einem Pfund Brot
+      - point: b
+        expr_de: Le nom apposé est accompagné d'un adjectif.
+        action: Il faut distinguer
+        cases:
+        - case: Le nom apposé est au singulier
+          then: il se met aujourd'hui au même cas que le nom de mesure (autrefois, il était au génitif)
+          e_g:
+            - fr: Un verre de bon vin
+              de: ein Glas guter Wein
+              vr: (jadis | guten Weines)
+            - fr: Un bouquet de lilas blanc
+              de: ein Strauß weißer Flieder
+              vr: (jadis | weißen Flieders)
+            - fr: Un mètre d'étoffe bleue
+              de: ein Meter blauer Stoff
+              vr: (jadis | blauen Stoffes)
+            - fr: Avec un mètre d'étoffe bleue
+              de: mit einem Meter blauem Stoff
+            - fr: Près d'un verre de bon vin
+              de: bei einem Glas gutem Wein
+            - fr: Avec un bouquet de lilas blanc
+              de: mit einem Strauß weißem Flieder
+            - fr: Le prix d'un bouquet de lilas blanc
+              de: der Preis eines Straußes weißen Flieders
+        - case: Le nom apposé est au pluriel
+          list:
+          - if: la mesure est précise
+            then: apposition pure et simple au même cas
+            e_g:
+              - fr: Une douzaine d'oeufs frais
+                de: ein Dutzend frische Eier
+              - fr: Trois kilos de pommes de terre nouvelles
+                de: drei Kilo neue Kartoffeln
+            n_b:
+              - text: mais si le nom de mesure est au datif, il est préférable de mettre le nom apposé au génitif
+                e_g:
+                - fr: Avec une douzaine d'œufs frais
+                  de: mit einem Dutzend frischer Eier
+                - fr: Avec un panier de poires mûres
+                  de: mit einem Korb reifer Birnen
+          - if: la mesure est imprécise
+            then: utiliser le génitif du nom apposé
+            e_g:
+              - fr: Un bouquet de roses odorantes
+                de: ein Strauß duftender Rosen
+              - fr: Une douzaine d'œufs frais
+                de: mit einem Dutzend frischer Eier
+              - fr: Une foule de belles choses
+                de: eine Menge schöner Sachen
+              - fr: avec une foule de pigeons sauvages
+                de: mit einem Korb reifer Birnen
+              - fr: Une volée de pigeons sauvages
+                de: eine Schwarm wilder Tauben
+              - fr: Une série de thèmes importants
+                de: eine Reihe wichtiger Themen

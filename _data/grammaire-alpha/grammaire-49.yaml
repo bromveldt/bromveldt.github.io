@@ -1,0 +1,11 @@
+order_num: !!int  49
+expr_fr: À peine que
+contents:
+  lines: 
+    - Il y a trois constructions possibles en utilisant « kaum » (= à peine)
+  e_g:
+  - fr: A peine était-il à la porte que le téléphone sonna
+    de:
+    - kaum war er an der Tür, als der Anruf kam
+    - er war kaum an der Tür, als der Anruf kam
+    - kaum war er an der Tür, da kam der Anruf

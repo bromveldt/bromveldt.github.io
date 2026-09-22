@@ -1,0 +1,32 @@
+order_num: 44
+expr_fr: À l'occasion de
+text:
+  lines: 
+  - Plusieurs possibilités\:
+  expr_de: Anläßlich
+  req_case: G
+  eg:
+  - fr: Il parlait avec lui à l'occasion de sa visite
+    de: er sprach mit ihm anläßlich seines Besuches
+  - fr: À l'occasion de leurs noces d'argent
+    de: anläßlich ihrer Silberhochzeit
+- expr_de: Gelegentlich
+  req_case: G
+  e_g:
+  - fr: J'ai appris cela à l'occasion d'une visite à Berlin
+    de: ich erfuhr das gelegentlich eines Besuches in Berlin
+  - fr: J'ai appris cela à l'occasion d'une visite à Berlin
+    de: er sprach mit ihm anläßlich seines Besuches
+  - fr: ich erfuhr das gelegentlich eines Besuches in Berlin
+    de: anläßlich ihrer Silberhochzeit
+- n_b: 
+  - text: « anläßlich » et « gelegentlich » s'utilisent surtout dans le style administratif. L'allemand moderne préfère d'autres tournures :
+  - repl:
+    - obj: anläßlich seines Besuches
+    equiv: bei seinem Besuch
+    - obj: anläßlich ihrer Silberhochzeit
+    equiv: zu ihrer Silberhochzeit
+    - obj: gelegentlich eines Besuches
+    equiv: bei einem Besuch
+    - obj: anläßlich seines Geburtstags
+    equiv: aus Anlaß seines Geburtstags

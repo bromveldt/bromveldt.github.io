@@ -63,3 +63,20 @@ d) *Aller se promener*
 **er ging im Wald spazieren** (datif)
 
 (<sup>1</sup>) Il est bien évident que si l'on habite non loin de la mer (à Caen par exemple) le verbe « **fahren** » suffit pour traduire « aller ». De même si l'on habite Versailles pour aller à Paris !
+
+*NB 1* : « **spazieren** » est considéré comme une particule :
+
+**ich gehe jeden Tag spazieren**<br>
+**ich bin spazierengegangen**<br>
+**um spazierenzugehen**
+
+*NB 2* : « **gehen** » peut être suivi d'autres infinitifs qui ne jouent pas le rôle de particules :
+
+**ich gehe schwimmen, tanzen, einkaufen…**
+
+e) *Aller voir* (= *rendre visite à*) : **besuchen**
+
+**einen Kranken besuchen** (aller voir un malade)<br>
+**jdn zu Hause besuchen** (aller voir qqn chez lui)…
+
+– 6) *Aller* (= *être sur le point de*) : cf. : *futur proche*
