@@ -24,7 +24,7 @@ gem "base64", "~> 0.3.0"
 #gem "jekyll-paginate", "~> 0.0.1"
 gem "jekyll", "~> 4.4.1"
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.11"
+  gem "jekyll-feed", "~> 0.18"
   gem "jekyll-relative-links"
 end
 # Sets the Content-Type header of HTML files to text/html; charset=utf-8.
