@@ -44,7 +44,7 @@ gem "async", "~> 2.46.0"
 gem "pdf-reader", "~> 2.16.0"
 gem "zeitwerk", "~> 2.8.3"
 
-gem "jekyll-include-cache", "~> 0.2.2"
+gem "jekyll-include-cache", "~> 0.3.1"
 gem "jekyll-sass-converter", "~> 3.1"
 gem "jekyll-theme-nix", "~> 1.1.5"
 gem "jekyll-theme-nixer", "~> 1.1.5"
