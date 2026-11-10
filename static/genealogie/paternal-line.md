@@ -58,35 +58,113 @@ My immediate matches on [YFull.com](http://yfull.com/) are from Poland (Lublin a
 
 Let's trust FTDNA and assume that the MRCA lived around 450 BCE. That is the midpoint of Iron Age (the early Iron Age lasted from 800 to 450 BCE, the late Iron Age) in France, Germany and Switzerland, known as the ‘West-Hallstattkreis’. What happened then and more interestingly where?
 
-Martin Luther was born in 1483 in Eisleben, County Mansfeld in the Holy Roman Empire (Grafschaft Mansfeld, Sachsen, Heiliges Römisches Reich) but before his birth his parents lived for a number of years in Möhra in County Thüringen, south-west from Mansfeld. His father's family called Möhra home for generations and was trying to get rid of its hereditary nobility - and quit serving in the military - for a more rewarding entrepreneurial pursuit (Martin Luther's father was a leaseholder of copper mines and smelters in the mining area Mansfeld-Südharz). The first to move to Möhra was Luther's oldest known ancestor, Knight [Wigand von Lüder(n),](https://gw.geneanet.org/wolfalt?lang=en&n=luder&oc=0&p=wigand&type=tree) born around 1260. Around 1302 he settled on a farm between Möhra and Kupfersuhl in Country Henneberg. Before the move he had a property on a tributary called Lüder of the river Fulda to the north-west of the town of Fulda. The town of Fulda used to separate Western and Eastern Franconia (*Francia occidentalis* and *Francia orientalis*). In 1330 he became a vassal of the princely [County Henneberg](https://de.wikipedia.org/wiki/Grafschaft_Henneberg) (Gefürstete Grafschaft) , located in the south-western part of the region of Thüringen as well as in northern Bavaria ("eine fränkische Grafschaft zwischen Thüringer Wald und Main und umfasste Gebiete der Rhön, des Grabfeldes und der Haßberge", to quote the Wikipedia).
+Martin Luther was born in 1483 in Eisleben, County Mansfeld in the Holy Roman Empire (Grafschaft Mansfeld, Sachsen, Heiliges Römisches Reich) but before his birth his parents lived for a number of years in Möhra in County Thüringen, south-west from Mansfeld. His father's family called Möhra home for generations and was trying to get rid of its hereditary nobility - and quit serving in the military - for a more rewarding entrepreneurial pursuit (Martin Luther's father was a leaseholder of copper mines and smelters in the mining area Mansfeld-Südharz). The first to move to Möhra was Luther's oldest known ancestor, Knight [Wigand von Lüder(n),](https://gw.geneanet.org/wolfalt?lang=en&n=luder&oc=0&p=wigand&type=tree) born around 1260. Around 1302 he settled on a farm between Möhra and Kupfersuhl in Country Henneberg. Before the move he had a property on a tributary called Lüder of the river Fulda to the north-west of the town of Fulda. The town of Fulda used to separate Western and Eastern Franconia (*Francia occidentalis* vs. *Francia orientalis*). In 1330 he became a vassal of the princely [County Henneberg](https://de.wikipedia.org/wiki/Grafschaft_Henneberg) (*Gefürstete Grafschaft*), located in the south-western part of the region of Thüringen as well as in northern Bavaria ("eine fränkische Grafschaft zwischen Thüringer Wald und Main und umfasste Gebiete der Rhön, des Grabfeldes und der Haßberge", to quote the Wikipedia).
 
-Incidentally and unsurprisingly, both Thüringen and Hessia were governed by the Franks. [Wikipedia](https://de.wikipedia.org/wiki/Franken_(Volk)#Die_Teilgruppen_der_Franken) states
+Both Thüringen and Hesse were governed by the Franks. [Wikipedia](https://de.wikipedia.org/wiki/Franken_(Volk)#Die_Teilgruppen_der_Franken) states:
 
 > Die Rheinfranken breiteten sich im Zuge der [Fränkischen Landnahme](https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Landnahme) von [Köln](https://de.wikipedia.org/wiki/K%C3%B6ln) über [Mainz](https://de.wikipedia.org/wiki/Mainz) bis ins heutige [Hessen](https://de.wikipedia.org/wiki/Hessen)
 
-and lists Chatti and Thuringi as close associates of the Franks
+and lists Chatti and Thuringi as close associates of the Franks:
 
 > [Chatten](https://de.wikipedia.org/wiki/Chatten): am Oberlauf von [Eder](https://de.wikipedia.org/wiki/Eder), [Fulda](https://de.wikipedia.org/wiki/Fulda) und [Lahn](https://de.wikipedia.org/wiki/Lahn) siedelnd (Namensgeber der späteren [Hessen](https://de.wikipedia.org/wiki/Hessen)).[[20]](https://de.wikipedia.org/wiki/Franken_(Volk)#cite_note-20) Sie waren ein eigenständiger Stamm, der im Zuge der Fränkischen Expansion unter fränkische Oberhoheit kam und sich mit den nach Südosten vordringenden fränkischen Siedlern vermischte.
 >
 > [Thüringer](https://de.wikipedia.org/wiki/Th%C3%BCringer) (und versprengte Kleingruppen anderer germanischer Stämme): sie waren vereinzelt an den und über den Rhein vorgedrungen und hatten sich dort niedergelassen. Erwähnt wird auch ein linksrheinisches „Kleinkönigtum“ der (im Jahr 531 in der [Schlacht an der Unstrut](https://de.wikipedia.org/wiki/Schlacht_an_der_Unstrut) von den Franken geschlagenen) Thüringer,[[21]](https://de.wikipedia.org/wiki/Franken_(Volk)#cite_note-21) wenngleich dies in neuerer Zeit wieder umstritten ist.[[22]](https://de.wikipedia.org/wiki/Franken_(Volk)#cite_note-22) Diese Siedler gingen – im Gegensatz zu deren östlich verbliebenen Stammvölkern – in den Franken auf.
 
-A member of the Hessian military class, the Knight of Lüder seems to have been acknowledged and rewarded by the Frankish rulers of Hessia and Henneberg. I would assume that he was of a local, Franconian / Hessian origin: *populus hessiorum* lived, as we know from a 738 CE letter of Pope Gregory III to Bonifatius, along the lower stretch of the river Fulda in the 8th century. The Hessians likely descended from the [*Chatten*](https://de.wikipedia.org/wiki/Chatten) that were assigned to that specific area by the Romans. Since the beginning of the 6th century the Hessians were governed by the Franks but preserved their distinctiveness in their laws and customs.
+A member of the Hessian military class, the Knight of Lüder seems to have been acknowledged and rewarded by the Frankish rulers of Hesse and Henneberg. I would assume that he was of a local Franconian / Hessian origin: *populus hessiorum* lived, as we know from a 738 CE letter of Pope Gregory III to Bonifatius, along the lower stretch of the river Fulda in the 8th century. The Hessians likely descended from the [*Chatten*](https://de.wikipedia.org/wiki/Chatten) that were assigned to that specific area by the Romans. Since the beginning of the 6th century the Hessians were governed by the Franks but were given a certain degree of autonomy and thus were able to preserve their distinctiveness in laws and customs:
 
 > Am Beginn des 6. Jahrhunderts gerieten die Chatten wohl unter die Oberhoheit der ausgreifenden Franken und wurden in das fränkische Königreich eingegliedert. Das Gebiet der Chatten diente den Franken anschließend als Ausgangsbasis für Feldzüge gegen die nördlich siedelnden Sachsen, die immer wieder in chattisches und fränkisches Gebiet eindrangen. Die Behauptung einer gewissen Teilautonomie der Chatten gegenüber den Franken führte dazu, dass sich ihr Stammesname in abgewandelter Form bis heute halten konnte.
 
-The land of the Hessians was next to the historic Saxony, its northern part was even conquered by Saxons, who multiplied their efforts to force themselves even further to the South. Many raids against the Saxons, undertaken by the Franks, departed from Hessia. It seems unlikely that any Saxons were integrated in Frankish lands for fear of helping out the enemy.
+The land of the Hessians was next to the historic Saxony on the coast of the North Sea. Saxons conquered its northern part and multiplied their efforts to force themselves even further to the South. Many raids against the Saxons, undertaken by the Franks, departed from Hesse. It seems unlikely that any Saxons were integrated in Frankish lands for fear of helping out the enemy.
 
-It could be expected that the Hessians stayed in their habitat ever since the tribal migrations in the Roman times, while Franks and Saxons encroached on their land in the early Middle Ages  – the former from the North-East, the latter from the North.
+It could be expected that the Hessians stayed in their habitat ever since the tribal migrations in the Roman times, while Franks and Saxons encroached on their land in the early Middle Ages – the former from the North-East, the latter from the North.
 
-However, the haplogroup that the Knight of Lüder transmitted – downstream from I2a1b-L621 > CTS10228 > S20602 / Y3120 – appears to be surprisingly Eastern European for an territory situated quite deeply in the West. An atypical Y-DNA admixture would call for an attempt to explain it.
+However, the haplogroup that the Knight of Lüder passed along – downstream from I2a1b-L621 > CTS10228 > S20602 / Y3120 – appears to be astonishingly Eastern European for an Frankish territory situated quite deeply in the West. Such an atypical Y-DNA admixture there calls for an attempt to explain it.
+
+An 2019 essay on Luka Poropat's [South Slavic DNA Blog](https://southslavsdna.blogspot.com/2019/04/) rumbles through various Slavic expansion scenarios in the 6th and 7th centuries, and concludes, based on various academic sources:
+
+> The second haplogroup, also known as I2a-Dinaric, is mainly represented by I-CTS10228 > I-Y3120 including I-S17250 > I-PH908 (Dinaric South) subclades which had a very rapid formation and expansion since 1900-1700 YBP, "concordant with the timing of the Slavic ethnogenesis, considering that it takes a few centuries before one man can have enough male descendants to start having an impact at the scale of a population", and that "the higher percentage of I2a-Din in the south is probably just due to another founder effect due to the fact that the South Slavs originated in western Ukraine, where the ratio of I2a to R1a was higher".
+
+[A genetic probe into the ancient and medieval history of Southern Europe and West Asia](https://doi.org/10.1126/science.abq0755) by Lazaridis et al. 2022, saying that Slavic migrations "profoundly affected the region" without, however, replacing the preexisting popuations.
+
+> The reduction of Anatolian Neolithic ancestry was a long-term process in Southeastern Europe (1), which allows us to differentiate present-day populations from those preceding the Slavic migrations. When we order individuals along this component of ancestry (Fig. 5), we observe that present-day Slavs outside the Balkans have the least, whereas pre-Slavic inhabitants from the Balkans have the most of this type of ancestry,&hellip;
+
+incidentally noting that medieval migrations were significantly less spontaneous that in the past with a lower population density and organisation:
+
+> The medieval movements were carried out by large, organized communities engaging with complex states, such as the Avar Khaganate and Byzantine Empire, and no comparable polities existed in Yamnaya times.
+>
+> Balto-Slavic speakers bear membership almost exclusively from two ancestral components: the dark blue (*k3*) and the light blue (*k2*), albeit in different proportions. *k3* is omnipresent throughout European populations and decreases from north-eastern Europeans southwards. Thus, *k3* peaks in Baltic speakers and prevails in East Slavs (80–95%) and decreases notably in South Slavs (55–70%). In contrast, k2 is abundant around the Mediterranean and in the Caucasus region and decreases among Europeans when moving northward.
+>
+> South Slavs... share a similar number of IBD segments with East-West Slavs and with the ‘inter-Slavic’ Romanian, Hungarian and Gagauz populations
+>
+>The presence of two distinct genetic substrata in the genomes of East-West and South Slavs would imply cultural assimilation of indigenous populations by bearers of Slavic languages
+
+FamilyTreeDNA's [Luther Surname DNA Project – Y-DNA Results Overview](https://www.familytreedna.com/public/Luther?iframe=ydna-results-overview) page lists among the I-FT80992 matches at the Big Y-700 resolution under the heading "Eastern/Central European I-P37 line" next to a "Wiegand Von Luder b 1260" from Germany a certain "Szurcsik Martin" from Hungary, whose STR markers differ somewhat from those of Wiegand Von Luder. The surname has a Slavic ring to it despite its Hungarian spelling.
 
 [Vajda’s Blog](http://blog.vayda.pl/en/i2a-dinaric-subclade-y3120-2/) states:
 
 > It seems that the homeland of the haplogroup Din (Y3120) are the historical Black Sea steppes from Romania through Ukraine to the Volga. From these areas, genetic migration was to the west, to Poland, Slovakia and the Czech Republic. The second migration route would be from Romania to the Hungarian Plain. The third is from the north to Croatia, Serbia, Bosnia and Slovenia. All these Y-DNA migrations were no more than 2,500 years ago.
 
-Would ‘no more’ mean ‘no earlier’?
+Would ‘no more’ mean ‘no earlier’, i.e. in the historical Eastern European past?
 
-[BosnjackiDNK](https://bosnjackidnk.com/i2-staroevropski-istocni/) posits that the Y-DNA haplogroup I2 was widely distributed in the early Holocene from Spain to the southern reaches of England and Scandinavia over to the river Oder and all the way South down to Greece. Multiple expansions of R1b carriers out of Western Asia and the Pontic Steppe (to the Western boundaries of today's Poland and Romania) restricted I2 to the West of Europe. I2 may be linked to the Western Hunter-Gatherers. The source, however, quotes Lazaridis et al. 2016 that places I2-L596 among Anatolian farmers and Mathieson et al. 2015 that detects it in samples at Motala, Sweden.
+The question remains how this haplogroup from the Black Sea steppes arrived in Hesse.
+
+h3.Hungarian Connection
+
+The mention of a "second migration route" to the Hungarian Plain seems to be pointing in the right direction. A children's history resource "Lucys Wissenbox" offers a straightforward explaination for it on the page [Was wollten die Ungarn im Ostfrankenreich](https://www.kinderzeitmaschine.de/mittelalter/hochmittelalter/lucys-wissensbox/europa-und-die-welt/was-wollten-die-ungarn-im-ostfrankenreich-die-ungarneinfaelle/) with a disarming simplicity:
+
+> Seit dem Jahr 899 fielen die **Magyaren** aus dem Osten Europas immer wieder ins Ostfrankenreich ein. Die Magyaren waren ein **Reitervolk**, das mit seinen Viehherden umherzog. Sie konnten sehr gut mit Pfeil und Bogen umgehen. Später gründeten sie das Königreich Ungarn. Auch das Volk der Magyaren wird dann **Ungarn** genannt.
+>
+> Die Magyaren gingen auf **Plünderungszüge** in Sachsen, Bayern, Schwaben und vielen anderen Gebieten. Sie wollten die Gebiete nicht erobern, sondern raubten und brandschatzten.
+
+King Henry I repelled the Hungarians at the Battle of Riade in 933. King Otto I put a definitive end to Hungarian excursions at the Battle at Lechfeld in 955. "Lucys Wissenbox" continues:
+
+> Die Ungarn wurden vernichtend und dauerhaft geschlagen. <&hellip;> Otto I. festigte damit seine Herrschaft und die Magyaren änderten ihre Lebensweise
+
+Which led to the establishment of the Kingdom of Hungary.
+
+> Nach dieser Schlacht gingen die Magyaren zur **sesshaften Lebensweise** über. <&hellip;> Das war auch die Grundlage für die Entstehung des Königreichs Ungarn.
+
+It is not entirely clear if all the marauding Hungarians returned to Hungarian Plain to settle down, but it is tempting to imagine that some of them, including Luther's ancestors, settled down in some areas adjacent to East Franconia.
+
+["War History"'s page dedicated to the Battle at Lechfeld](https://warhistory.org/article/battle-of-lechfeld-and-the-magyar-threat) describes the presence of Hungarians at the gates of East Franconia at great length:
+
+> In 894 nomadic Magyars raided into the Kingdom of Moravia, north of the Danube. <&hellip;> Under their leader Arpad, the Magyars entered Hungary to stay in 896, the year generally given for the founding of the Hungarian state. They easily subdued the scattered population of the central plain and then crushed Moravia in 906 and German forces in 907. A century later they conquered Transylvania.
+>
+> A long period of warfare followed. The Magyars ravaged Swabia, Bavaria, and Thuringia, obliging German princes to buy them off or incorporate them into their armies. After being defeated by King Henry I in 933, the Magyars shifted their attention elsewhere. In 934 and 942 they raided the Byzantine Empire, reaching Constantinople.
+>
+> Mercenary service had its pitfalls for the Magyars. An unequivocal example comes from the role of the Hungarians in a major rebellion against Otto in 954, just one year before the so-called battle of Lechfeld. The principal rebels were Otto’s son and heir apparent, Liudolf (Duke of Swabia), as well as his son-in-law Conrad `the Red’ (Duke of Lothringia), and Arnulf (Count Palatine of Regensburg), the leader of a powerful Bavarian clan, the Liutpoldings. The motives of the rebels were varied. Liudolf was apprehensive about Otto’s marriage in 951 to the fertile Adelheid, who had already borne him three children. Conrad was jealous of the growing influence that Otto’s brothers, Henry, Duke of Bavaria, and Brun, Archbishop of Cologne, were exercizing over the king. Arnulf, whose father had been Duke of the Bavarians, wanted to regain this title for himself and his clan. In addition Otto had lost some support from the nobles of Saxony, his heartland. The primary supporters of the king were his brothers, Duke Henry of Bavaria and Archbishop Brun of Cologne. The power of the king seemed in jeopardy.
+>
+> Early in the year 954 the Magyars became involved in these civil wars as mercenaries. Liudolf accused his uncle, Henry, of inviting them to attack him and his allies. The Bavarian duke then angrily responded that it was the rebels in Liudolf ‘s camp who had induced the Magyars to invade. Modern historians are divided between those who believe that Liudolf, Conrad, and the Liutpoldings were responsible for the Hungarian intervention and those who are convinced that Henry was behind it all along. However, the case against Duke Henry is implausible. Liudolf ‘s accusations were subterfuge. As Duke of Bavaria, Henry had often threatened the Hungarians; and he had recently acquired the Italian frontier lordships of Friuli and Verona, giving him control of territories stretching from the headwaters of the Adriatic to the borders of Swabia and Franconia. Henry not only defended Otto’s kingdom against Hungarian invasions from the southeast, but he was also in a position to attack their territories, which he had already done on at least one occasion. The Liutpoldings, who wanted to regain the ducal title and who had a tradition of alliances with the Hungarians had on the other hand the strongest motives to employ the Magyars to support the rebellion.
+>
+> The chronology of the Hungarians’ part in the uprising supports this contention. The steppe warriors began by entering Bavaria in March; however there are no reports that they caused any destruction there, an indication that the Liutpoldings, who were in control of Bavaria at that time, had instigated their expedition. They then swept swiftly through Bavaria and neighboring Swabia, where Liudolf actually provided them with guides to Rhine Franconia. On Palm Sunday (19 March) they arrived in Worms, Conrad the Red’s power center, where he greeted them, treated them to a lavish banquet, and gave them many `gifts’ of gold and silver. Widukind is unambiguous on this point. Conrad concluded a treaty with the Magyars, in which they promised to pillage only the estates of his enemies in Lower Lothringia, who had gone over to Archbishop Brun. The duke then personally led them to Maastricht, where he left them to their own devices to do what they had promised. This is an example of classic mercenary behavior very similar to how it was practiced during the great age of mercenary service in the late medieval and early modern periods.
+
+Switching to a larger military force proved to be catastrophic for the Hungarians:
+
+> &hellip;this Hungarian expedition [of 954] reveals the basic weaknesses of forces that depend on steppe tactics alone. This incursion, which swept rapidly across a large part of Europe, was obviously made up solely of mounted archers. Although they wreaked havoc, moving about swiftly, surprising their victims, taking captives and devastating a few unprotected villages, they were unable to storm even poorly fortified localities. Incursions by mounted archers deep into the bowels of Europe with pillaging in mind were not very profitable. Steppe warriors were limited by the carrying capacities of their mounts, and captives could (and obviously did) slip away.
+>
+> The disappointing yield of the 954 expedition brought about a major change in Hungarian strategy. In 955 they invaded the East Frankish kingdom once again, but on this occasion with a very large army that consisted of impressed infantry forces and a siege train that was prepared to invest the city of Augsburg. Rather than moving rapidly as they had done the year before, dashing through Bavaria and Swabia into Rhine-Franconia, thence onto Lower Lothringia, Burgundy, and Italy before returning to their camps in the Carpathian Basin, this army moved at a glacial pace.
+
+The battle at Lechfeld lead to the rise of the Holy Roman Empire:
+
+> The victory at Lechfeld brought Otto international recognition and led to the formal establishment of the Holy Roman Empire. Otto officially received the title of Holy Roman Emperor from Pope John XII in 962, assuming the mantle of Charlemagne as defender of the faith.
+
+However, mounted Humgarian archers kept offering their military services in the following centuries.
+
+Ölbei Tamás' essay [Hungarian Mercenaries in the service of the Signoria Fiorentina (1360–1365)](https://www.researchgate.net/publication/378310330_HUNGARIAN_MERCENARIES_IN_THE_SERVICE_OF_THE_SIGNORIA_FIORENTINA_1360-1365) published in „Mercenaries and Crusaders”, © 2024, University of Debrecen „Hungary in Medieval Europe” and the HUN-REN–U, writing about much later phenomenon, mentions that
+
+> Hungarians first served mainly in the German-led companies in the 1350s
+> &hellip;
+> The Italian cities employed German mercenaries along with a large number of Hungarian companies,&hellip;
+
+Hence some coordination between Germans and Hungarians doubtless existed. O. Tamás notes:
+
+> It is true of medieval warfare in general, and of Italian warfare in particular, that battles were the rarest form of warfare, and that raids, chevauchées and sieges were more typical.
+
+He admits that, even though interpreters are mentioned in the historical documents, it is not fully understood
+
+> In what form and language did the Hungarians, the English and the Germans communicate with each other. &hellip;communication was essential in armed contact. How the Hungarians fitted into this multilingual environment is almost unknown.
+
+[BosnjackiDNK](https://bosnjackidnk.com/i2-staroevropski-istocni/) posits that the Y-DNA haplogroup I2 was widely distributed in the early Holocene from Spain to the southern reaches of England and Scandinavia over to the river Oder and all the way South down to Greece. Multiple expansions of R1b carriers out of Western Asia and the Pontic Steppe (to the Western boundaries of today's Poland and Romania) restricted I2 to the West of Europe. I2 may be linked to the Western Hunter-Gatherers. The source, however, quotes Lazaridis et al. 2016 that places I2-L596 among Anatolian farmers and Mathieson et al. 2015 that detects it in samples as far north as at Motala, Sweden.
 
 > Njena uzvodna grana M423, koja se danas razgranjuje u dva osnovna ogranka (zapadnoevropski L161 i istočnoevropski L621) su utvrđene u drevnim kostima lovaca i sakupljača na prostoru Skandinavije, Njemačke, Švicarske, Iberije i Mađarske (Haak et al. 2015; Mathieson et al. 2015).
 
@@ -96,7 +174,7 @@ Thus it seems to be widely distributed in the original mixed population of Weste
 
 > [Lipson et al. 2017](https://en.wikipedia.org/wiki/Wartberg_culture#CITEREFLipson_et_al.2017) examined the remains of 4 individuals buried c. 4000-3000 BC at the [Blätterhöhle](https://de.wikipedia.org/wiki/Bl%C3%A4tterh%C3%B6hle) site in modern-day Germany, during which the area was part of the Wartberg culture. The 3 samples of [Y-DNA](https://en.wikipedia.org/wiki/Y-DNA) extracted belonged to the paternal haplogroups [R1b1](https://en.wikipedia.org/wiki/Haplogroup_R1b), [R1](https://en.wikipedia.org/wiki/Haplogroup_R1) and [I2a1](https://en.wikipedia.org/wiki/Haplogroup_I-M438)
 
-Blätterhöhle is to the east of Hagen.
+Blätterhöhle lies to the east of Hagen.
 
 [BosnjackiDNK](https://bosnjackidnk.com/i2-staroevropski-istocni/) then concludes from a alleged high variance of I2a1b-L621 in the ancient samples in the area Baden-Württemberg that most downstream I2a1b SNP developed between there and Western Poland.
 
@@ -110,7 +188,7 @@ Medieval samples with I2a1b-CTS10228, in graves dating to a few centuries before
 - 1 Viking sample (VK53) found at Kopparsvik in Gotland, Sweden tested positive for I2a1b-CTS10228. Autosamal DNA results indicate 65% eastern European origin, placing the geographic origin in Pomerania or the Baltic shore. 10. or 11th century CE. (Margaryan et al. 2019).
 - 1 Viking sample (VK542, [Gleb Svyatoslavich](https://en.wikipedia.org/wiki/Gleb_Svyatoslavich)) with I-CTS10228 >Y3120 subclade found in Chernihiv, Ukraine  with predominantly Slavic ancestry. 11th century.
 
-[DNAGenics](https://www.dnagenics.com/haplogroups/ydna/I2A1#when) lists many more I2A1 occurrences in ancient samples.
+[DNAGenics](https://www.dnagenics.com/haplogroups/ydna/I2A1#when) lists many more I2a1 occurrences in ancient samples.
 
 The article [Evidence for dynastic succession among early Celtic elites in Central Europe](https://www.nature.com/articles/s41562-024-01888-7), published in Nature, discusses the Early Iron Age (800 to 450 BCE) in France, Germany and Switzerland, known as the ‘West-Hallstattkreis’, tracing the Early European Farmer (EEF) ancestry in the Celtic population of the South-Western Germany in the Late Antiquity andtraces the Early European Farmer (EEF) ancestry in the Celtic population of the South-Western Germany in the Late Antiquity and the early Middle Age.
 
