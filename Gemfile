@@ -14,37 +14,37 @@ Encoding.default_internal = Encoding::UTF_8
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "2.5.2"
-gem "minimal-mistakes-jekyll", "~> 4.28.0"
+gem "minimal-mistakes-jekyll", "~> 4.28.1"
 gem "bigdecimal", "~> 3.3.1"
 gem "faraday-retry"
 # csv, base64 will no longer be part of the default gems starting from Ruby 3.4.0.
-gem "csv", "~> 3.3.6"
+gem "csv", "~> 3.3.7"
 gem "base64", "~> 0.3.0"
 # For Pagination in jekyll
 #gem "jekyll-paginate", "~> 0.0.1"
 gem "jekyll", "~> 4.4.1"
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.11"
+  gem "jekyll-feed", "~> 0.18"
   gem "jekyll-relative-links"
 end
 # Sets the Content-Type header of HTML files to text/html; charset=utf-8.
 gem "jekyll-utf8", "~> 0.0.1"
 # Bumping up outdated gems
 # For testing the static pages
-gem "html-proofer", "~> 5.2.2"
+gem "html-proofer", "~> 5.2.3"
 gem "liquid", "~> 4.0.4"
-gem "parallel", "~> 2.1.0"
+gem "parallel", "~> 2.3.0"
 gem "rackup", "~> 2.3.1"
 gem "rouge", "~> 4.7.0"
 gem "terminal-table", "~> 3.0.2"
 gem "ttfunk", "~> 1.8.0"
 gem "unicode-display_width", "~> 2.6.0"
 
-gem "async", "~> 2.44.1"
+gem "async", "~> 2.46.0"
 gem "pdf-reader", "~> 2.16.0"
 gem "zeitwerk", "~> 2.8.3"
 
-gem "jekyll-include-cache", "~> 0.2.2"
+gem "jekyll-include-cache", "~> 0.3.2"
 gem "jekyll-sass-converter", "~> 3.1"
 gem "jekyll-theme-nix", "~> 1.1.5"
 gem "jekyll-theme-nixer", "~> 1.1.5"
