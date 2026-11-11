@@ -14,11 +14,10 @@ YFull.com's YTree v14.04.00
 | --- | --- | --- |
 | I-A16681 | I-A16681*, I-Y351556* | FGC94964, A16681, FT32176(H) |
 
-The fun fact is that according to FamilyTreeDNA I (may) share a common paternal line ancestor with Martin Luther (1483-1546 CE). That ancestor lived around 450 BCE, relative recently, compared to the 20+ thousand years estimate I get on other famous DNA.
+The fun fact is that according to FamilyTreeDNA I (may) share a common paternal line ancestor with Martin Luther (1483-1546 CE). That ancestor lived around 450 BCE, relative recently, compared to the 20+ thousand years estimate I get on other famous people's DNA.
 
-Even that is not certain.
+The latest defining mutation, the philogenetic parent Luther and I have in common is S20602 deemed coincident with I-Y3120.
 
-The latest defining mutation Luther and I have in common is at level S20602 coincident with I-Y3120.
 The latter is a distinctively East European haplogroup.
 
 Luther inherited the mutation S20602 → FT80992 that had occurred before 1 BCE.
@@ -26,7 +25,7 @@ Luther inherited the mutation S20602 → FT80992 that had occurred before 1 BCE.
 I inherited my haplogroup's defining mutation Y3120 → A16681 that had occurred around 100 CE.
 
 How it is possible that the divergence took place at the dawn of the common era, I am not to know.
-The Wikipedia puts I-CTS10228 at 5,100-3,400 YBP and I-Y3120 at 3,400-2,100 YBP, while [Genetic Homeland](https://www.genetichomeland.com/dna-marker/chromosome-Y/S20602) estimates S20602, believed to coincide with Y3120 / FGC12085 at 6,202 YBP. Can those estimates be down to an outdated state of research or to some discrepancies between the ISOGG, YFull and FTDNA phylogenetic trees?
+The Wikipedia puts I-CTS10228 at 5,100-3,400 YBP and I-Y3120 at 3,400-2,100 YBP, while [Genetic Homeland](https://www.genetichomeland.com/dna-marker/chromosome-Y/S20602) estimates S20602, believed to coincide with Y3120 / FGC12085 at 6,202 YBP. I am not knowledgeable enough to assess if those estimates be down to an outdated state of research or to some discrepancies between the ISOGG, YFull and FTDNA phylogenetic trees.
 
 Luther's phylogenetic path:
 
@@ -42,7 +41,7 @@ Luther's phylogenetic path:
 | CTS10936 | 13,900 | 15,878 | Chris Tyler-Smith 2011 | |
 | L621 defines I2a1a2b | 15,500 | 17,498 | Thomas Krahn, FTDNA | |
 
-My own phylogenetic path:
+My phylogenetic parent is also S20602 (as above) and my own phylogenetic path:
 
 | SNP | BCE | YBP | Identified | Samples |
 | --- | --- | --- | --- | --- |
@@ -52,39 +51,37 @@ My own phylogenetic path:
 | Y5596 | 3,760 | 5,782 | YFull 2014 | |
 | Y3548 coincident with S17250 on YFull tree | 3,910 | 5,932 | YFull 2014 | YF109001 from Ukraine |
 
-Phylogenetic Parent: S20602 (see above)
+My immediate matches on [YFull.com](http://yfull.com/) are from Poland (Lublin and Malopolska both at the eastern edge), one medieval DNA match in Sunghir near Vladimir, Russia.
 
-My immediate matches on [YFull.com](http://yfull.com/) are from Poland (Lublin and Malopolska both at the eastern edge), one older DNA match in Sunghir () near Vladimir, Russia.
+Let's trust FTDNA and assume that the MRCA lived around 450 BCE, wich the midpoint of Iron Age. The early Iron Age, known as the ‘West-Hallstattkreis’ culture, lasted from 800 to 475 BCE, the late Iron Age, known as the La Tène culture from in 450 BCE to 15 BCE in France, Germany and Switzerland. There is of course no indication that the MRCA lived in Central and Western Europe.
 
-Let's trust FTDNA and assume that the MRCA lived around 450 BCE. That is the midpoint of Iron Age (the early Iron Age lasted from 800 to 450 BCE, the late Iron Age) in France, Germany and Switzerland, known as the ‘West-Hallstattkreis’. What happened then and more interestingly where?
+Martin Luther was born in 1483 in Eisleben, County Mansfeld in the Holy Roman Empire (**Grafschaft Mansfeld**, Sachsen, Heiliges Römisches Reich) but before his birth his parents lived for a number of years in Möhra in County Thüringen, to the south-west of Mansfeld. His father's family called Möhra home for generations and was trying to get rid of its hereditary nobility - and thus avoid having to serve in the military - for a more rewarding entrepreneurial pursuit (Martin Luther's father was a leaseholder of copper mines and smelters in the mining area Mansfeld-Südharz). The first to move to Möhra was Luther's oldest known ancestor, Knight [Wigand von Lüder(n),](https://gw.geneanet.org/wolfalt?lang=en&n=luder&oc=0&p=wigand&type=tree) born around 1260. Around 1302 he settled on a farm between Möhra and Kupfersuhl in Country Henneberg. Before the move he had a property on a tributary called Lüder of the river Fulda to the north-west of the town of Fulda. The town of Fulda used to separate Western and Eastern Franconia (*Francia occidentalis* vs. *Francia orientalis*). In 1330 Wigand von Lüder became a vassal of the princely [County Henneberg](https://de.wikipedia.org/wiki/Grafschaft_Henneberg) (*Gefürstete Grafschaft*), located in the south-western part of the region of Thüringen as well as in northern Bavaria ("eine fränkische Grafschaft zwischen Thüringer Wald und Main und umfasste Gebiete der Rhön, des Grabfeldes und der Haßberge", to quote the Wikipedia).
 
-Martin Luther was born in 1483 in Eisleben, County Mansfeld in the Holy Roman Empire (Grafschaft Mansfeld, Sachsen, Heiliges Römisches Reich) but before his birth his parents lived for a number of years in Möhra in County Thüringen, south-west from Mansfeld. His father's family called Möhra home for generations and was trying to get rid of its hereditary nobility - and quit serving in the military - for a more rewarding entrepreneurial pursuit (Martin Luther's father was a leaseholder of copper mines and smelters in the mining area Mansfeld-Südharz). The first to move to Möhra was Luther's oldest known ancestor, Knight [Wigand von Lüder(n),](https://gw.geneanet.org/wolfalt?lang=en&n=luder&oc=0&p=wigand&type=tree) born around 1260. Around 1302 he settled on a farm between Möhra and Kupfersuhl in Country Henneberg. Before the move he had a property on a tributary called Lüder of the river Fulda to the north-west of the town of Fulda. The town of Fulda used to separate Western and Eastern Franconia (*Francia occidentalis* vs. *Francia orientalis*). In 1330 he became a vassal of the princely [County Henneberg](https://de.wikipedia.org/wiki/Grafschaft_Henneberg) (*Gefürstete Grafschaft*), located in the south-western part of the region of Thüringen as well as in northern Bavaria ("eine fränkische Grafschaft zwischen Thüringer Wald und Main und umfasste Gebiete der Rhön, des Grabfeldes und der Haßberge", to quote the Wikipedia).
+Both Thüringen and Hesse were populated and governed by the Franks. [Wikipedia](https://de.wikipedia.org/wiki/Franken_(Volk)#Die_Teilgruppen_der_Franken) states:
 
-Both Thüringen and Hesse were governed by the Franks. [Wikipedia](https://de.wikipedia.org/wiki/Franken_(Volk)#Die_Teilgruppen_der_Franken) states:
+> Die Rheinfranken breiteten sich im Zuge der [Fränkischen Landnahme](https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Landnahme) von [Köln](https://de.wikipedia.org/wiki/K%C3%B6ln) über [Mainz](https://de.wikipedia.org/wiki/Mainz) bis ins heutige [Hesse](https://de.wikipedia.org/wiki/Hessen)
 
-> Die Rheinfranken breiteten sich im Zuge der [Fränkischen Landnahme](https://de.wikipedia.org/wiki/Fr%C3%A4nkische_Landnahme) von [Köln](https://de.wikipedia.org/wiki/K%C3%B6ln) über [Mainz](https://de.wikipedia.org/wiki/Mainz) bis ins heutige [Hessen](https://de.wikipedia.org/wiki/Hessen)
-
-and lists Chatti and Thuringi as close associates of the Franks:
+and names Chatti and Thuringi as close associates of the Franks:
 
 > [Chatten](https://de.wikipedia.org/wiki/Chatten): am Oberlauf von [Eder](https://de.wikipedia.org/wiki/Eder), [Fulda](https://de.wikipedia.org/wiki/Fulda) und [Lahn](https://de.wikipedia.org/wiki/Lahn) siedelnd (Namensgeber der späteren [Hessen](https://de.wikipedia.org/wiki/Hessen)).[[20]](https://de.wikipedia.org/wiki/Franken_(Volk)#cite_note-20) Sie waren ein eigenständiger Stamm, der im Zuge der Fränkischen Expansion unter fränkische Oberhoheit kam und sich mit den nach Südosten vordringenden fränkischen Siedlern vermischte.
 >
 > [Thüringer](https://de.wikipedia.org/wiki/Th%C3%BCringer) (und versprengte Kleingruppen anderer germanischer Stämme): sie waren vereinzelt an den und über den Rhein vorgedrungen und hatten sich dort niedergelassen. Erwähnt wird auch ein linksrheinisches „Kleinkönigtum“ der (im Jahr 531 in der [Schlacht an der Unstrut](https://de.wikipedia.org/wiki/Schlacht_an_der_Unstrut) von den Franken geschlagenen) Thüringer,[[21]](https://de.wikipedia.org/wiki/Franken_(Volk)#cite_note-21) wenngleich dies in neuerer Zeit wieder umstritten ist.[[22]](https://de.wikipedia.org/wiki/Franken_(Volk)#cite_note-22) Diese Siedler gingen – im Gegensatz zu deren östlich verbliebenen Stammvölkern – in den Franken auf.
 
-A member of the Hessian military class, the Knight of Lüder seems to have been acknowledged and rewarded by the Frankish rulers of Hesse and Henneberg. I would assume that he was of a local Franconian / Hessian origin: *populus hessiorum* lived, as we know from a 738 CE letter of Pope Gregory III to Bonifatius, along the lower stretch of the river Fulda in the 8th century. The Hessians likely descended from the [*Chatten*](https://de.wikipedia.org/wiki/Chatten) that were assigned to that specific area by the Romans. Since the beginning of the 6th century the Hessians were governed by the Franks but were given a certain degree of autonomy and thus were able to preserve their distinctiveness in laws and customs:
+A member of the Hessian military class, the Knight of Lüder seems to have been acknowledged and rewarded by the Frankish rulers of Hesse and Henneberg. I would assume that he was of a local Franconian / Hessian descent: *populus hessiorum* lived, as we know from a 738 CE letter of Pope Gregory III to Bonifatius, along the lower stretch of the river Fulda in the 8th century. The Hessians likely descended from the [*Chatten*](https://de.wikipedia.org/wiki/Chatten) that were assigned to that specific area by the Romans. Since the beginning of the 6th century the Hessians were governed by the Franks but were given a certain degree of autonomy and thus were able to preserve their distinctiveness in laws and customs:
 
 > Am Beginn des 6. Jahrhunderts gerieten die Chatten wohl unter die Oberhoheit der ausgreifenden Franken und wurden in das fränkische Königreich eingegliedert. Das Gebiet der Chatten diente den Franken anschließend als Ausgangsbasis für Feldzüge gegen die nördlich siedelnden Sachsen, die immer wieder in chattisches und fränkisches Gebiet eindrangen. Die Behauptung einer gewissen Teilautonomie der Chatten gegenüber den Franken führte dazu, dass sich ihr Stammesname in abgewandelter Form bis heute halten konnte.
 
-The land of the Hessians was next to the historic Saxony on the coast of the North Sea. Saxons conquered its northern part and multiplied their efforts to force themselves even further to the South. Many raids against the Saxons, undertaken by the Franks, departed from Hesse. It seems unlikely that any Saxons were integrated in Frankish lands for fear of helping out the enemy.
+The land of the Hessians was south of the historic Saxony that extended from the coast of the North Sea into the inner Germanic lands. Saxons conquered its northern part of Hesse and multiplied their efforts to force themselves even further to the South. Many raids against the Saxons, undertaken by the Franks, departed from Hesse. It seems unlikely that any Saxons were integrated in Frankish lands for fear of their helping out the enemy.
 
 It could be expected that the Hessians stayed in their habitat ever since the tribal migrations in the Roman times, while Franks and Saxons encroached on their land in the early Middle Ages – the former from the North-East, the latter from the North.
 
-However, the haplogroup that the Knight of Lüder passed along – downstream from I2a1b-L621 > CTS10228 > S20602 / Y3120 – appears to be astonishingly Eastern European for an Frankish territory situated quite deeply in the West. Such an atypical Y-DNA admixture there calls for an attempt to explain it.
+However, the haplogroup that the Knight of Lüder passed along – downstream from I2a1b-L621 > CTS10228 > S20602 / Y3120 – appears to be present to an overwhelming degree in Eastern Europe. Its presence in the Knight of Lüder from the River Fulda in a Frankish territory set quite deeply in the West and far away from the North Sea would point to a origin that cannot be traced to the local Chatti and Hessians and originated in a migratiory event.
 
-An 2019 essay on Luka Poropat's [South Slavic DNA Blog](https://southslavsdna.blogspot.com/2019/04/) rumbles through various Slavic expansion scenarios in the 6th and 7th centuries, and concludes, based on various academic sources:
+An 2019 essay on Luka Poropat's [South Slavic DNA Blog](https://southslavsdna.blogspot.com/2019/04/) rumbles through various Slavic expansion scenarios in the 6th and 7th centuries, and notes, quoting other academic sources:
 
-> The second haplogroup, also known as I2a-Dinaric, is mainly represented by I-CTS10228 > I-Y3120 including I-S17250 > I-PH908 (Dinaric South) subclades which had a very rapid formation and expansion since 1900-1700 YBP, "concordant with the timing of the Slavic ethnogenesis, considering that it takes a few centuries before one man can have enough male descendants to start having an impact at the scale of a population", and that "the higher percentage of I2a-Din in the south is probably just due to another founder effect due to the fact that the South Slavs originated in western Ukraine, where the ratio of I2a to R1a was higher".
+> The second haplogroup, also known as I2a-Dinaric, is mainly represented by I-CTS10228 > I-Y3120 &hellip; subclades which had a very rapid formation and expansion since 1900-1700 YBP, "concordant with the timing of the Slavic ethnogenesis, considering that it takes a few centuries before one man can have enough male descendants to start having an impact at the scale of a population", and that "the higher percentage of I2a-Din in the south is probably just due to another founder effect due to the fact that the South Slavs originated in western Ukraine, where the ratio of I2a to R1a was higher".
 
-[A genetic probe into the ancient and medieval history of Southern Europe and West Asia](https://doi.org/10.1126/science.abq0755) by Lazaridis et al. 2022, saying that Slavic migrations "profoundly affected the region" without, however, replacing the preexisting popuations.
+L. Poropat's essay quotes [A genetic probe into the ancient and medieval history of Southern Europe and West Asia](https://doi.org/10.1126/science.abq0755) by Lazaridis et al. 2022, that maintains that Slavic migrations "profoundly affected the region" without, however, replacing the preexisting popuations.
 
 > The reduction of Anatolian Neolithic ancestry was a long-term process in Southeastern Europe (1), which allows us to differentiate present-day populations from those preceding the Slavic migrations. When we order individuals along this component of ancestry (Fig. 5), we observe that present-day Slavs outside the Balkans have the least, whereas pre-Slavic inhabitants from the Balkans have the most of this type of ancestry,&hellip;
 
