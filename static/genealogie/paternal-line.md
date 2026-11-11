@@ -92,6 +92,8 @@ incidentally noting that medieval migrations were significantly less spontaneous
 
 > The medieval movements were carried out by large, organized communities engaging with complex states, such as the Avar Khaganate and Byzantine Empire, and no comparable polities existed in Yamnaya times.
 >
+> Considering the number of over 150 Bronze & Iron Age ancient DNA male samples from many Balkan countries from these studies giving a frequency of I-L621+ samples around 0-1%, the pattern is obvious, it would be a very, very rare and atypical subclade for the Bronze & Iron Age time periods in the Balkans.
+>
 > Balto-Slavic speakers bear membership almost exclusively from two ancestral components: the dark blue (*k3*) and the light blue (*k2*), albeit in different proportions. *k3* is omnipresent throughout European populations and decreases from north-eastern Europeans southwards. Thus, *k3* peaks in Baltic speakers and prevails in East Slavs (80–95%) and decreases notably in South Slavs (55–70%). In contrast, k2 is abundant around the Mediterranean and in the Caucasus region and decreases among Europeans when moving northward.
 >
 > South Slavs... share a similar number of IBD segments with East-West Slavs and with the ‘inter-Slavic’ Romanian, Hungarian and Gagauz populations
