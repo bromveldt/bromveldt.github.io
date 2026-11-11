@@ -24,7 +24,7 @@ contents:
   - n_b:
       text: >
         « anläßlich » et « gelegentlich » s'utilisent surtout dans le style administratif.
-        L'allemand moderne préfère d'autres tournures _
+        L'allemand moderne préfère d'autres tournures \:
       repl:
         - obj: anläßlich seines Besuches
           equiv: bei seinem Besuch
