@@ -12,7 +12,7 @@ text:
 - n_b:
   - repl:
     - term: jusqu'alors
-    equiv: bis dahin
+      equiv: bis dahin
 
 - equiv_fr: = à cette époque-là
   expr_de: damals
