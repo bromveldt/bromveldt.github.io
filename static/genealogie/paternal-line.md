@@ -398,7 +398,7 @@ incidentally noting that medieval migrations were significantly less spontaneous
 >
 > Considering the number of over 150 Bronze & Iron Age ancient DNA male samples from many Balkan countries from these studies giving a frequency of I-L621+ samples around 0-1%, the pattern is obvious, it would be a very, very rare and atypical subclade for the Bronze & Iron Age time periods in the Balkans.
 
-Considering Luther's forefathers were integrated in the local population in Hesse and Thuringia and not living in a separate Slavic community (such large settlements did not exist West of Gießen and Dresden). They likely did not live in the Balkans either when our respected Y-DNA branches parted ways in the Iron Age. Even Slavic migrations could not have brought it. To begin with, S20602 / Y3120 is likely not even Slavic:
+Considering Luther's forefathers were integrated in the local population in Hesse and Thuringia and not living in a separate Slavic community (such large settlements did not exist West of Gießen and Dresden), they were likely neither Slavs nor did they live in the Balkans around the time our respected Y-DNA branches parted ways in the Iron Age. To begin with, S20602 / Y3120 probably did not originate among the Slavs at all:
 
 > Balto-Slavic speakers bear membership almost exclusively from two ancestral components&hellip; *k3* is omnipresent throughout European populations and decreases from north-eastern Europeans southwards. Thus, *k3* peaks in Baltic speakers and prevails in East Slavs (80–95%) and decreases notably in South Slavs (55–70%). In contrast, *k2* is abundant around the Mediterranean and in the Caucasus region and decreases among Europeans when moving northward.
 >
