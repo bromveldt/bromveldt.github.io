@@ -384,11 +384,11 @@ However, it would seem rather unlikely that any number of Saxons could peacefull
 
 ### Migration Event Hypothesis: Slavic expansion to the Balkans
 
-An 2019 essay on Luka Poropat's [South Slavic DNA Blog](https://southslavsdna.blogspot.com/2019/04/) rumbles through various Slavic expansion scenarios in the 6th and 7th centuries, and notes, quoting other academic sources:
+An 2019 essay on L. Poropat's [South Slavic DNA Blog](https://southslavsdna.blogspot.com/2019/04/) rumbles through various Slavic expansion scenarios in the 6th and 7th centuries, and notes, quoting some other academic sources:
 
 > The second haplogroup, also known as I2a-Dinaric, is mainly represented by I-CTS10228 > I-Y3120 &hellip; subclades which had a very rapid formation and expansion since 1900-1700 YBP, "concordant with the timing of the Slavic ethnogenesis, considering that it takes a few centuries before one man can have enough male descendants to start having an impact at the scale of a population", and that "the higher percentage of I2a-Din in the south is probably just due to another founder effect due to the fact that the South Slavs originated in western Ukraine, where the ratio of I2a to R1a was higher".
 
-At the same time L. Poropat's essay quotes [A genetic probe into the ancient and medieval history of Southern Europe and West Asia](https://doi.org/10.1126/science.abq0755) by Lazaridis et al. 2022, that points out that Slavic migrations "profoundly affected the region" without, however, replacing the preexisting popuations.
+At the same time L. Poropat's essay quotes [A genetic probe into the ancient and medieval history of Southern Europe and West Asia](https://doi.org/10.1126/science.abq0755) by Lazaridis et al. 2022, that points out that Slavic migrations "profoundly affected the region" without, however, replacing the preexisting popuations, in which Anatolian Neolithic genetic component was quite widely represented.
 
 > The reduction of Anatolian Neolithic ancestry was a long-term process in Southeastern Europe (1), which allows us to differentiate present-day populations from those preceding the Slavic migrations. When we order individuals along this component of ancestry (Fig. 5), we observe that present-day Slavs outside the Balkans have the least, whereas pre-Slavic inhabitants from the Balkans have the most of this type of ancestry,&hellip;
 
