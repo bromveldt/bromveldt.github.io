@@ -26,6 +26,7 @@ gem "jekyll", "~> 4.4.1"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.18"
   gem "jekyll-relative-links"
+  gem "jekyll-last-modified-at"
 end
 # Sets the Content-Type header of HTML files to text/html; charset=utf-8.
 gem "jekyll-utf8", "~> 0.0.1"

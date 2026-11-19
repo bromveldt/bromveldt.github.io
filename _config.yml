@@ -126,6 +126,11 @@ remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
   - jekyll-relative-links
+  - jekyll-last-modified-at
+
+# Optional. The default date format, %d-%b-%y used if none is specified in the tag.
+last-modified-at:
+  date-format: '%d-%m-%Y'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
