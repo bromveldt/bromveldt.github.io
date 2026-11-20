@@ -1,0 +1,12 @@
+# Source: https://github.com/izhangzhihao/izhangzhihao.github.io/blob/master/_plugins/url_decode.rb
+# _plugins/url_decode.rb
+require 'liquid'
+require 'uri'
+
+module URLDecode
+  def url_decode(url)
+    return URI.decode(url)
+  end
+end
+
+Liquid::Template.register_filter(URLDecode)
