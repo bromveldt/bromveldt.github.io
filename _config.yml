@@ -129,6 +129,7 @@ plugins:
   - jekyll-last-modified-at
 
 # Optional. The default date format, %d-%b-%y used if none is specified in the tag.
+# See https://github.com/gjtorikian/jekyll-last-modified-at
 last-modified-at:
   date-format: '%d-%m-%Y'
 
