@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-encoding: "UTF-8" # read everything as UTF-8 with BOM
+encoding: "utf-8" # read everything as UTF-8
 mode: 'r:bom|UTF-8'
 
 # Meta
