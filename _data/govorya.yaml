@@ -1,6 +1,9 @@
 # Map 'govorya' letter-specific filenames from .md to .yml
 # Keep 'govorya' for the ease of renaming to avoid having to modify the Liquid code
 ##
+govorya-н: govorya-n
+govorya-о: govorya-o
+govorya-п: govorya-p
 govorya-р: govorya-r
 govorya-с: govorya-s
 govorya-т: govorya-t
