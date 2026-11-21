@@ -7,7 +7,7 @@ author: И.И. Мосеев
 #theme: slate
 lang: ru
 tags: [bruno, pomor, russian, dialect, entries]
-letters: м н о п р с т у ф х ц ш э ю я
+letters: л м н о п р с т у ф х ц ш э ю я
 content_rel_base_path: [ entries, govorya- ]
 ---
 
