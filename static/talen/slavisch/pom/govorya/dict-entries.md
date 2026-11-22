@@ -18,7 +18,6 @@ Construct a filename stub, to which only the Cyrillic letter and the filename ex
 {% endcomment %}
 {% assign content_base_filename = page.content_rel_base_path | join: "/" %}
 {% assign rel_dirname = page.dir | replace_first: '/', '' | append: content_base_filename %}
-
 {% comment %}
 site.pages produces pg:
   pg.dir starts and ends with a '/'
@@ -26,23 +25,11 @@ site.pages produces pg:
   pg.path starts with no slash and ends in '.md'
 We are matching by path.
 We do not need to URL encode the Cyrillic letters (file discriminants)
-| contains: content_base_filename
 {% endcomment %}
-
-{% for pg in site.pages %}
-{% if pg.dir contains content_base_filename %}
-P.={{ pg.path }} d.={{ pg.dir }}<br>
-{% endif %}
-{% endfor %}
-
-{%- assign letters = page.letters | split: " " -%}
-
+{% assign letters = page.letters | split: " " %}
 {%- for letter in letters -%}
+{% assign mod8 = forloop.index | modulo: 8 %}
 {% assign fpath = rel_dirname | append: letter | append: ".md" %}
-fpath.={{ fpath }}
-
 {% assign lpg = site.pages | where: "path", fpath | first %}
-url={{ lpg.url }}
-
-<span class="nobr">[{{ letter }}]({{ lpg.url }})</span>{% unless forloop.last %}&nbsp;{% endunless %}
+{% if mod8 == 1 or forloop.first %}<div>{% endif %}<span class="nobr">{% comment %}{{ mod8 == 1 or forloop.first}} - {% endcomment %}<a href="{{ lpg.url }}" title="Лексика на букву «{{ letter }}»">{{ letter }}</a>{% unless forloop.last %}&nbsp;{% endunless %}</span>{% if forloop.last %}</div>{% endif %}
 {% endfor %}
