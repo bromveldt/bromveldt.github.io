@@ -7,7 +7,7 @@ author: И.И. Мосеев
 #theme: slate
 lang: ru
 tags: [bruno, pomor, russian, dialect, entries]
-letters: л м н о п р с т у ф х ц ш э ю я
+letters: к л м н о п р с т у ф х ц ш э ю я
 content_rel_base_path: [ entries, govorya- ]
 ---
 
@@ -29,10 +29,17 @@ We do not need to URL encode the Cyrillic letters (file discriminants)
 | contains: content_base_filename
 {% endcomment %}
 
+{% for pg in site.pages %}
+{% if pg.dir contains content_base_filename %}
+P.={{ pg.path }} d.={{ pg.dir }}<br>
+{% endif %}
+{% endfor %}
+
 {%- assign letters = page.letters | split: " " -%}
+
 {%- for letter in letters -%}
 {% assign fpath = rel_dirname | append: letter | append: ".md" %}
-g.={{ fpath }}
+fpath.={{ fpath }}
 
 {% assign lpg = site.pages | where: "path", fpath | first %}
 url={{ lpg.url }}

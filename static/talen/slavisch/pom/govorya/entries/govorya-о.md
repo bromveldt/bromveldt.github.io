@@ -9,4 +9,6 @@ lang: ru
 
 ## {{ page.subtitle | escape }}
 
+filename {{ yml-filename }}
+
 {% assign data = site.data.govorya['{{ yml-filename }}'] %}
