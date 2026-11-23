@@ -1,6 +1,7 @@
 # Map 'govorya' letter-specific filenames from .md to .yml
 # Remove 'govorya' for the ease of mapping
 #
+и: i
 к: k
 л: l
 м: m
